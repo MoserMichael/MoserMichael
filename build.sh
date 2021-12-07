@@ -49,7 +49,7 @@ pip3 install -r requirements.txt
 if [[ -f ../repo/starcounter.data ]]; then
     cp ../repo/starcounter.data .
 fi
-./starcounter.py -s -v -t day  >>${README_FILE}
+./starcounter.py -l -s -v -t day  >>${README_FILE}
 cp starcounter.data ../repo/
 popd
 
