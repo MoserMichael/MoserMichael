@@ -13,9 +13,12 @@ git clone $USER_REPO repo
 README_FILE=/repo/README.md
 echo "path to readme file: $README_FILE"
 
+date >${README_FILE}
+echo "" >>${README_FILE}
+
 # initial part of radme
 pushd repo
-cat start_part.txt >${README_FILE}
+cat start_part.txt >>${README_FILE}
 popd
 
 # get cowsay
@@ -34,7 +37,7 @@ popd
 
 pushd repo
 cat common_part.txt >>${README_FILE}
-popd
+popd 
 
 if [[ -z $GITHUB_TOKEN ]]; then
     echo "token does not exist, can't upload and can't count stars"
