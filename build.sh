@@ -54,6 +54,11 @@ cp starcounter.data ../repo/
 popd
 
 pushd repo
+cat end_part.txt >>${README_FILE}
+popd
+
+
+pushd repo
 
 git config --global user.email "a@gmail.com"
 git config --global user.name ${GITHUB_USER}

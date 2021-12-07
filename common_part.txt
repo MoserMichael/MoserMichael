@@ -1,12 +1,44 @@
-```
-Name:       Michael Moser
 
-Linked-in:  [link to profile](https://www.linkedin.com/in/michael-moser-32211b1/)
+</pre>
 
-Blog:       [link to blog](https://github.com/MoserMichael/my-notes/blob/master/dev-gotchas.md)
-
-Contact:    moser dot michael at gmail dot com
+<table width ="100%">
+<tr>
+    <td>
+        Name:       
+    </td>
+    <td>
+        Michael Moser
+    </td>
+</tr>
+<tr>
+    <td>
+        Linked-in:  
+    </td>
+    <td>
+        <a href="https://www.linkedin.com/in/michael-moser-32211b1/">link to profile</a>\
+    <td>
+</tr>
+<tr>
+    <td>
+        Blog:       
+    </td>
+    <td>
+        <a href="https://github.com/MoserMichael/my-notes/blob/master/dev-gotchas.md">link to blog</a>
+    <td>
+<tr>
+<tr>
+    <td>
+        Contact:    
+    </td>
+    <td>
+        moser dot michael at gmail dot com
+    </td>
+</tr>
+</table>
 
 My stuff here:
-```
+
+<table width="100%">
+<tr>
+    <td>
 
