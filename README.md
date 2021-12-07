@@ -1,17 +1,15 @@
 <pre>
 
- ____________________________________
-/ Tempt not a desperate man.         \
-|                                    |
-| -- William Shakespeare, "Romeo and |
-\ Juliet"                            /
- ------------------------------------
+ ________________________________________
+/ You will be advanced socially, without \
+\ any special effort on your part.       /
+ ----------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
              -- ||----w |
                 ||     ||
-nltk score: 24 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: -7 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
@@ -65,41 +63,43 @@ My stuff here:
     <td>
         <pre>
 
-name: <a href="https://github.com/MoserMichael/duckduckbang">duckduckbang</a> stars: 24
-name: <a href="https://github.com/MoserMichael/kind-helper">kind-helper</a> stars: 20
-name: <a href="https://github.com/MoserMichael/jq-illustrated">jq-illustrated</a> stars: 19
-name: <a href="https://github.com/MoserMichael/cppcombinator">cppcombinator</a> stars: 18
-name: <a href="https://github.com/MoserMichael/s9k">s9k</a> stars: 13
-name: <a href="https://github.com/MoserMichael/cstuff">cstuff</a> stars: 11
-name: <a href="https://github.com/MoserMichael/python-obj-system">python-obj-system</a> stars: 7
-name: <a href="https://github.com/MoserMichael/pythonimportplayground">pythonimportplayground</a> stars: 5
-name: <a href="https://github.com/MoserMichael/myenv">myenv</a> stars: 4
-name: <a href="https://github.com/MoserMichael/pygamewrap">pygamewrap</a> stars: 4
-name: <a href="https://github.com/MoserMichael/pprintex">pprintex</a> stars: 2
-name: <a href="https://github.com/MoserMichael/pythoncourse">pythoncourse</a> stars: 2
-name: <a href="https://github.com/MoserMichael/roget-thesaurus-parser">roget-thesaurus-parser</a> stars: 2
-name: <a href="https://github.com/MoserMichael/gitblame">gitblame</a> stars: 1
-name: <a href="https://github.com/MoserMichael/k8explain">k8explain</a> stars: 1
-name: <a href="https://github.com/MoserMichael/opinionated-fortune-cow">opinionated-fortune-cow</a> stars: 1
-name: <a href="https://github.com/MoserMichael/bloxroutehomework">bloxroutehomework</a> stars: 0
-name: <a href="https://github.com/MoserMichael/devgoodies">devgoodies</a> stars: 0
-name: <a href="https://github.com/MoserMichael/flagged-hn">flagged-hn</a> stars: 0
-name: <a href="https://github.com/MoserMichael/follow-kube-logs">follow-kube-logs</a> stars: 0
-name: <a href="https://github.com/MoserMichael/githubapitools">githubapitools</a> stars: 0
-name: <a href="https://github.com/MoserMichael/github_pr_comments">github_pr_comments</a> stars: 0
-name: <a href="https://github.com/MoserMichael/grpc-spring-boot-starter-utils">grpc-spring-boot-starter-utils</a> stars: 0
-name: <a href="https://github.com/MoserMichael/kwchecker">kwchecker</a> stars: 0
-name: <a href="https://github.com/MoserMichael/ls-annotations">ls-annotations</a> stars: 0
-name: <a href="https://github.com/MoserMichael/microsofthomework">microsofthomework</a> stars: 0
-name: <a href="https://github.com/MoserMichael/MoserMichael">MoserMichael</a> stars: 0
-name: <a href="https://github.com/MoserMichael/my-notes">my-notes</a> stars: 0
-name: <a href="https://github.com/MoserMichael/printb">printb</a> stars: 0
-name: <a href="https://github.com/MoserMichael/scriptrunner-operator">scriptrunner-operator</a> stars: 0
-name: <a href="https://github.com/MoserMichael/subb">subb</a> stars: 0
-name: <a href="https://github.com/MoserMichael/vimcrypt">vimcrypt</a> stars: 0
-name: <a href="https://github.com/MoserMichael/vimcrypt2">vimcrypt2</a> stars: 0
-name: <a href="https://github.com/MoserMichael/visual-python-strace">visual-python-strace</a> stars: 0
-name: <a href="https://github.com/MoserMichael/zipit">zipit</a> stars: 0
+<table><tr><td>Name></td><td>Stars</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/duckduckbang">duckduckbang</a></td><td>24</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/kind-helper">kind-helper</a></td><td>20</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/jq-illustrated">jq-illustrated</a></td><td>19</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/cppcombinator">cppcombinator</a></td><td>18</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/s9k">s9k</a></td><td>13</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/cstuff">cstuff</a></td><td>11</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/python-obj-system">python-obj-system</a></td><td>7</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/pythonimportplayground">pythonimportplayground</a></td><td>5</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/myenv">myenv</a></td><td>4</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/pygamewrap">pygamewrap</a></td><td>4</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/pprintex">pprintex</a></td><td>2</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/pythoncourse">pythoncourse</a></td><td>2</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/roget-thesaurus-parser">roget-thesaurus-parser</a></td><td>2</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/gitblame">gitblame</a></td><td>1</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/k8explain">k8explain</a></td><td>1</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/opinionated-fortune-cow">opinionated-fortune-cow</a></td><td>1</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/bloxroutehomework">bloxroutehomework</a></td><td>0</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/devgoodies">devgoodies</a></td><td>0</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/flagged-hn">flagged-hn</a></td><td>0</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/follow-kube-logs">follow-kube-logs</a></td><td>0</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/githubapitools">githubapitools</a></td><td>0</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/github_pr_comments">github_pr_comments</a></td><td>0</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/grpc-spring-boot-starter-utils">grpc-spring-boot-starter-utils</a></td><td>0</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/kwchecker">kwchecker</a></td><td>0</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/ls-annotations">ls-annotations</a></td><td>0</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/microsofthomework">microsofthomework</a></td><td>0</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/MoserMichael">MoserMichael</a></td><td>0</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/my-notes">my-notes</a></td><td>0</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/printb">printb</a></td><td>0</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/scriptrunner-operator">scriptrunner-operator</a></td><td>0</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/subb">subb</a></td><td>0</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/vimcrypt">vimcrypt</a></td><td>0</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/vimcrypt2">vimcrypt2</a></td><td>0</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/visual-python-strace">visual-python-strace</a></td><td>0</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/zipit">zipit</a></td><td>0</td></tr>
+</table>
 ***
 total stars:  134
 
