@@ -1,7 +1,7 @@
 
-Name:       MichaelMoser
-Linked-in:  [link to profile](https://www.linkedin.com/in/michael-moser-32211b1/] 
-Blog:       [link to blog](https://github.com/MoserMichael/my-notes/blob/master/dev-gotchas.md) 
+Name:       Michael Moser
+Linked-in:  ```[link to profile](https://www.linkedin.com/in/michael-moser-32211b1/]``` 
+Blog:       ```[link to blog](https://github.com/MoserMichael/my-notes/blob/master/dev-gotchas.md)```
 Contact:    moser dot michael at gmail dot com
 Projects:
 
