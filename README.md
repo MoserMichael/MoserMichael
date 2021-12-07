@@ -1,19 +1,18 @@
-Tue Dec  7 14:21:13 UTC 2021
+Tue Dec  7 14:26:31 UTC 2021
 
 <pre>
 
- ________________________________________
-/ Writing is turning one's worst moments \
-| into money.                            |
-|                                        |
-\ -- J.P. Donleavy                       /
- ----------------------------------------
+ __________________________________
+/ Be cheerful while you are alive. \
+|                                  |
+\ -- Phathotep, 24th Century B.C.  /
+ ----------------------------------
         \   ^__^
-         \  (~~)\_______
+         \  (OO)\_______
             (__)\       )\/\
-             :( ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: -62 '(from -100..100) state: '' eye: ~~ tongue: :(
+nltk score: 73 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
@@ -67,7 +66,7 @@ My stuff here:
     <td>
         <pre>
 
-<table><tr><th>Name</th><th>Stars</th><th>description</th></tr>
+<table><tr><th align='left'>Name</th><th align='left'>Stars</th><th align='left'>description</th></tr>
 <tr><td><a href="https://github.com/MoserMichael/duckduckbang">duckduckbang</a></td><td>24</td><td>Meta search page that utilises duckduckgo !bang query operators.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/kind-helper">kind-helper</a></td><td>20</td><td>Simplifies the creation of practical kubernetes test clusters with the kind utility.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/jq-illustrated">jq-illustrated</a></td><td>19</td><td>illustrated tutorial of jq (and the scripts that create it)</td></tr>
@@ -103,7 +102,7 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/vimcrypt2">vimcrypt2</a></td><td>0</td><td>vim plugin to encrypt files with openssl</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/visual-python-strace">visual-python-strace</a></td><td>0</td><td>show a very long stack trace with variable values.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/zipit">zipit</a></td><td>0</td><td>c++ library for the equivalent of python/haskell zip function</td></tr>
-<tr><th>Total stars:</th><th colspan='2'> 135 </th></tr>
+<tr><th>Total stars:</th><th colspan='2' align='left'> 135 </th></tr>
 </table>
 <br>
 
