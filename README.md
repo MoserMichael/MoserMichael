@@ -3,31 +3,33 @@ installing opinionated cow - first time install
 ~ /cows
 Collecting nltk
   Downloading nltk-3.6.5-py3-none-any.whl (1.5 MB)
+Collecting click
+  Downloading click-8.0.3-py3-none-any.whl (97 kB)
 Collecting joblib
   Downloading joblib-1.1.0-py2.py3-none-any.whl (306 kB)
 Collecting regex>=2021.8.3
   Downloading regex-2021.11.10-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (764 kB)
 Collecting tqdm
   Downloading tqdm-4.62.3-py2.py3-none-any.whl (76 kB)
-Collecting click
-  Downloading click-8.0.3-py3-none-any.whl (97 kB)
-Installing collected packages: joblib, regex, tqdm, click, nltk
+Installing collected packages: click, joblib, regex, tqdm, nltk
 Successfully installed click-8.0.3 joblib-1.1.0 nltk-3.6.5 regex-2021.11.10 tqdm-4.62.3
 /cows
- _______________________________________
-/ You never hesitate to tackle the most \
-\ difficult problems.                   /
- ---------------------------------------
+ ______________________________________
+/ Let me take you a button-hole lower. \
+|                                      |
+| -- William Shakespeare, "Love's      |
+\ Labour's Lost"                       /
+ --------------------------------------
         \   ^__^
-         \  (~~)\_______
+         \  (!!)\_______
             (__)\       )\/\
              :( ||----w |
                 ||     ||
-nltk score: -61 '(from -100..100) state: '' eye: ~~ tongue: :(
+nltk score: -30 '(from -100..100) state: 'bad' eye: !! tongue: :(
 
-Name:       MichaelMoser
-Linked-in:  [link to profile](https://www.linkedin.com/in/michael-moser-32211b1/] 
-Blog:       [link to blog](https://github.com/MoserMichael/my-notes/blob/master/dev-gotchas.md) 
+Name:       Michael Moser
+Linked-in:  ```[link to profile](https://www.linkedin.com/in/michael-moser-32211b1/]``` 
+Blog:       ```[link to blog](https://github.com/MoserMichael/my-notes/blob/master/dev-gotchas.md)```
 Contact:    moser dot michael at gmail dot com
 Projects:
 
@@ -38,10 +40,10 @@ name: jq-illustrated stars:  19
 name: cppcombinator stars:  18
 name: s9k stars:  13
 name: cstuff stars:  11
+name: python-obj-system stars:  5
 name: pythonimportplayground stars:  5
 name: myenv stars:  4
 name: pygamewrap stars:  4
-name: python-obj-system stars:  4
 name: pprintex stars:  2
 name: pythoncourse stars:  2
 name: roget-thesaurus-parser stars:  2
@@ -68,7 +70,9 @@ name: vimcrypt2 stars:  0
 name: visual-python-strace stars:  0
 name: zipit stars:  0
 ***
-total stars:  131
+total stars:  132
+old_date:  2021-12-07 08:44:47.479830 now: 2021-12-07 08:51:02.874242
+python-obj-system stars changed from: 4 to: 5
 
 Traffic report
 
