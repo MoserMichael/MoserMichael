@@ -1,15 +1,15 @@
 <pre>
 
- _____________________________________
-/ Someone whom you reject today, will \
-\ reject you tomorrow.                /
- -------------------------------------
+ ______________________________________
+/ Your own qualities will help prevent \
+\ your advancement in the world.       /
+ --------------------------------------
         \   ^__^
-         \  (~~)\_______
+         \  (oo)\_______
             (__)\       )\/\
-             :( ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: -66 '(from -100..100) state: '' eye: ~~ tongue: :(
+nltk score: 42 '(from -100..100) state: 'good' eye: oo tongue: :)
 
 </pre>
 
@@ -27,7 +27,7 @@ nltk score: -66 '(from -100..100) state: '' eye: ~~ tongue: :(
         Linked-in:  
     </td>
     <td>
-        <a href="https://www.linkedin.com/in/michael-moser-32211b1/">link to profile</a>\
+        <a href="https://www.linkedin.com/in/michael-moser-32211b1/">link to profile</a>
     <td>
 </tr>
 <tr>
@@ -46,11 +46,19 @@ nltk score: -66 '(from -100..100) state: '' eye: ~~ tongue: :(
         moser dot michael at gmail dot com
     </td>
 </tr>
+<tr>
+    <td>
+         What-i-say:   
+    </td>
+    <td>
+        <a hrf="https://news.ycombinator.com/user?id=MichaelMoser123">HN<a> <a href="https://www.reddit.com/user/michaemoser">reddit</a>
+    </td>
+</tr>
 </table>
 
 My stuff here:
 
-<table width="100%">
+<table width="100%" height="300">
 <tr>
     <td>
         <pre>
