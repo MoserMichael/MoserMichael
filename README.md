@@ -1,15 +1,17 @@
 <pre>
 
- ______________________________________
-/ Your own qualities will help prevent \
-\ your advancement in the world.       /
- --------------------------------------
+ ____________________________________
+/ Tempt not a desperate man.         \
+|                                    |
+| -- William Shakespeare, "Romeo and |
+\ Juliet"                            /
+ ------------------------------------
         \   ^__^
-         \  (oo)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :) ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: 42 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: 24 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
@@ -51,7 +53,7 @@ nltk score: 42 '(from -100..100) state: 'good' eye: oo tongue: :)
          What-i-say:   
     </td>
     <td>
-        <a hrf="https://news.ycombinator.com/user?id=MichaelMoser123">HN<a> <a href="https://www.reddit.com/user/michaemoser">reddit</a>
+        <a href="https://news.ycombinator.com/user?id=MichaelMoser123">HN<a> <a href="https://www.reddit.com/user/michaemoser">reddit</a>
     </td>
 </tr>
 </table>
@@ -63,47 +65,47 @@ My stuff here:
     <td>
         <pre>
 
-name: duckduckbang stars:  24
-name: kind-helper stars:  20
-name: jq-illustrated stars:  19
-name: cppcombinator stars:  18
-name: s9k stars:  13
-name: cstuff stars:  11
-name: python-obj-system stars:  7
-name: pythonimportplayground stars:  5
-name: myenv stars:  4
-name: pygamewrap stars:  4
-name: pprintex stars:  2
-name: pythoncourse stars:  2
-name: roget-thesaurus-parser stars:  2
-name: gitblame stars:  1
-name: k8explain stars:  1
-name: opinionated-fortune-cow stars:  1
-name: bloxroutehomework stars:  0
-name: devgoodies stars:  0
-name: flagged-hn stars:  0
-name: follow-kube-logs stars:  0
-name: githubapitools stars:  0
-name: github_pr_comments stars:  0
-name: grpc-spring-boot-starter-utils stars:  0
-name: kwchecker stars:  0
-name: ls-annotations stars:  0
-name: microsofthomework stars:  0
-name: MoserMichael stars:  0
-name: my-notes stars:  0
-name: printb stars:  0
-name: scriptrunner-operator stars:  0
-name: subb stars:  0
-name: vimcrypt stars:  0
-name: vimcrypt2 stars:  0
-name: visual-python-strace stars:  0
-name: zipit stars:  0
+name: <a href="https://github.com/MoserMichael/duckduckbang">duckduckbang</a> stars: 24
+name: <a href="https://github.com/MoserMichael/kind-helper">kind-helper</a> stars: 20
+name: <a href="https://github.com/MoserMichael/jq-illustrated">jq-illustrated</a> stars: 19
+name: <a href="https://github.com/MoserMichael/cppcombinator">cppcombinator</a> stars: 18
+name: <a href="https://github.com/MoserMichael/s9k">s9k</a> stars: 13
+name: <a href="https://github.com/MoserMichael/cstuff">cstuff</a> stars: 11
+name: <a href="https://github.com/MoserMichael/python-obj-system">python-obj-system</a> stars: 7
+name: <a href="https://github.com/MoserMichael/pythonimportplayground">pythonimportplayground</a> stars: 5
+name: <a href="https://github.com/MoserMichael/myenv">myenv</a> stars: 4
+name: <a href="https://github.com/MoserMichael/pygamewrap">pygamewrap</a> stars: 4
+name: <a href="https://github.com/MoserMichael/pprintex">pprintex</a> stars: 2
+name: <a href="https://github.com/MoserMichael/pythoncourse">pythoncourse</a> stars: 2
+name: <a href="https://github.com/MoserMichael/roget-thesaurus-parser">roget-thesaurus-parser</a> stars: 2
+name: <a href="https://github.com/MoserMichael/gitblame">gitblame</a> stars: 1
+name: <a href="https://github.com/MoserMichael/k8explain">k8explain</a> stars: 1
+name: <a href="https://github.com/MoserMichael/opinionated-fortune-cow">opinionated-fortune-cow</a> stars: 1
+name: <a href="https://github.com/MoserMichael/bloxroutehomework">bloxroutehomework</a> stars: 0
+name: <a href="https://github.com/MoserMichael/devgoodies">devgoodies</a> stars: 0
+name: <a href="https://github.com/MoserMichael/flagged-hn">flagged-hn</a> stars: 0
+name: <a href="https://github.com/MoserMichael/follow-kube-logs">follow-kube-logs</a> stars: 0
+name: <a href="https://github.com/MoserMichael/githubapitools">githubapitools</a> stars: 0
+name: <a href="https://github.com/MoserMichael/github_pr_comments">github_pr_comments</a> stars: 0
+name: <a href="https://github.com/MoserMichael/grpc-spring-boot-starter-utils">grpc-spring-boot-starter-utils</a> stars: 0
+name: <a href="https://github.com/MoserMichael/kwchecker">kwchecker</a> stars: 0
+name: <a href="https://github.com/MoserMichael/ls-annotations">ls-annotations</a> stars: 0
+name: <a href="https://github.com/MoserMichael/microsofthomework">microsofthomework</a> stars: 0
+name: <a href="https://github.com/MoserMichael/MoserMichael">MoserMichael</a> stars: 0
+name: <a href="https://github.com/MoserMichael/my-notes">my-notes</a> stars: 0
+name: <a href="https://github.com/MoserMichael/printb">printb</a> stars: 0
+name: <a href="https://github.com/MoserMichael/scriptrunner-operator">scriptrunner-operator</a> stars: 0
+name: <a href="https://github.com/MoserMichael/subb">subb</a> stars: 0
+name: <a href="https://github.com/MoserMichael/vimcrypt">vimcrypt</a> stars: 0
+name: <a href="https://github.com/MoserMichael/vimcrypt2">vimcrypt2</a> stars: 0
+name: <a href="https://github.com/MoserMichael/visual-python-strace">visual-python-strace</a> stars: 0
+name: <a href="https://github.com/MoserMichael/zipit">zipit</a> stars: 0
 ***
 total stars:  134
 
 Traffic report
 
-repo: python-obj-system views: total: 599 unique:  98
+repo: python-obj-system views: total: 621 unique:  108
 Views:
 	 2021-11-28 00:00:00 total: 66 unique: 2
 	 2021-11-29 00:00:00 total: 2 unique: 2
@@ -114,7 +116,7 @@ Views:
 	 2021-12-04 00:00:00 total: 103 unique: 2
 	 2021-12-05 00:00:00 total: 43 unique: 2
 	 2021-12-06 00:00:00 total: 85 unique: 7
-	 2021-12-07 00:00:00 total: 188 unique: 91
+	 2021-12-07 00:00:00 total: 210 unique: 101
 	 Referrers:
 		Count: 319 Unique: 2 Url: github.com
 		Count: 3 Unique: 2 Url: gist.github.com
@@ -122,7 +124,7 @@ Views:
 		Count: 2 Unique: 2 Url: reddit.com
 		Count: 2 Unique: 1 Url: linkedin.com
 
-repo: my-notes views: total: 49 unique:  3
+repo: my-notes views: total: 53 unique:  5
 Views:
 	 2021-11-23 00:00:00 total: 3 unique: 1
 	 2021-11-24 00:00:00 total: 3 unique: 1
@@ -131,7 +133,7 @@ Views:
 	 2021-11-27 00:00:00 total: 1 unique: 1
 	 2021-11-28 00:00:00 total: 7 unique: 2
 	 2021-12-04 00:00:00 total: 4 unique: 1
-	 2021-12-07 00:00:00 total: 3 unique: 2
+	 2021-12-07 00:00:00 total: 7 unique: 4
 	 Referrers:
 		Count: 37 Unique: 2 Url: github.com
 
@@ -173,7 +175,7 @@ Views:
 	 Referrers:
 		Count: 11 Unique: 1 Url: github.com
 
-repo: s9k views: total: 21 unique:  12
+repo: s9k views: total: 22 unique:  13
 Views:
 	 2021-11-25 00:00:00 total: 1 unique: 1
 	 2021-11-26 00:00:00 total: 1 unique: 1
@@ -182,12 +184,13 @@ Views:
 	 2021-12-04 00:00:00 total: 7 unique: 3
 	 2021-12-05 00:00:00 total: 8 unique: 4
 	 2021-12-06 00:00:00 total: 1 unique: 1
+	 2021-12-07 00:00:00 total: 1 unique: 1
 	 Referrers:
 		Count: 10 Unique: 6 Url: github.com
 		Count: 4 Unique: 2 Url: news.ycombinator.com
 		Count: 1 Unique: 1 Url: Google
 
-repo: pythonimportplayground views: total: 19 unique:  11
+repo: pythonimportplayground views: total: 21 unique:  12
 Views:
 	 2021-11-23 00:00:00 total: 1 unique: 1
 	 2021-11-25 00:00:00 total: 2 unique: 2
@@ -197,7 +200,7 @@ Views:
 	 2021-12-02 00:00:00 total: 3 unique: 1
 	 2021-12-04 00:00:00 total: 1 unique: 1
 	 2021-12-06 00:00:00 total: 1 unique: 1
-	 2021-12-07 00:00:00 total: 7 unique: 6
+	 2021-12-07 00:00:00 total: 9 unique: 7
 	 Referrers:
 		Count: 10 Unique: 3 Url: github.com
 		Count: 1 Unique: 1 Url: reddit.com
@@ -237,6 +240,10 @@ Views:
 		Count: 4 Unique: 1 Url: github.com
 		Count: 1 Unique: 1 Url: news.ycombinator.com
 
+repo: MoserMichael views: total: 10 unique:  3
+Views:
+	 2021-12-07 00:00:00 total: 10 unique: 3
+
 repo: pprintex views: total: 10 unique:  5
 Views:
 	 2021-11-26 00:00:00 total: 1 unique: 1
@@ -247,10 +254,6 @@ Views:
 	 2021-12-07 00:00:00 total: 1 unique: 1
 	 Referrers:
 		Count: 2 Unique: 1 Url: github.com
-
-repo: MoserMichael views: total: 9 unique:  2
-Views:
-	 2021-12-07 00:00:00 total: 9 unique: 2
 
 repo: pygamewrap views: total: 9 unique:  6
 Views:
@@ -375,7 +378,7 @@ repo: vimcrypt views: total: 0 unique:  0
 
 
 ***
-Total views: 907
+Total views: 937
     </pre>
   </td>
 </table>
