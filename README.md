@@ -1,29 +1,58 @@
-```
- _________________________________________
-/ Q: How many Zen masters does it take to \
-| screw in a light bulb? A: None. The     |
-| Universe spins the bulb, and the Zen    |
-| master stays out                        |
-|                                         |
-\ of the way.                             /
- -----------------------------------------
+<pre>
+
+ ______________________________________
+/ Q: How much does it cost to ride the \
+\ Unibus? A: 2 bits.                   /
+ --------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
              -- ||----w |
                 ||     ||
-nltk score: -10 '(from -100..100) state: 'neutral' eye: .. tongue: --
-```
-Name:       Michael Moser
+nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
-Linked-in:  [link to profile](https://www.linkedin.com/in/michael-moser-32211b1/)
+</pre>
 
-Blog:       [link to blog](https://github.com/MoserMichael/my-notes/blob/master/dev-gotchas.md)
-
-Contact:    moser dot michael at gmail dot com
+<table width ="100%">
+<tr>
+    <td>
+        Name:       
+    </td>
+    <td>
+        Michael Moser
+    </td>
+</tr>
+<tr>
+    <td>
+        Linked-in:  
+    </td>
+    <td>
+        <a href="https://www.linkedin.com/in/michael-moser-32211b1/">link to profile</a>\
+    <td>
+</tr>
+<tr>
+    <td>
+        Blog:       
+    </td>
+    <td>
+        <a href="https://github.com/MoserMichael/my-notes/blob/master/dev-gotchas.md">link to blog</a>
+    <td>
+<tr>
+<tr>
+    <td>
+        Contact:    
+    </td>
+    <td>
+        moser dot michael at gmail dot com
+    </td>
+</tr>
+</table>
 
 My stuff here:
-```
+
+<table width="100%">
+<tr>
+    <td>
 
 name: duckduckbang stars:  24
 name: kind-helper stars:  20
@@ -31,7 +60,7 @@ name: jq-illustrated stars:  19
 name: cppcombinator stars:  18
 name: s9k stars:  13
 name: cstuff stars:  11
-name: python-obj-system stars:  5
+name: python-obj-system stars:  7
 name: pythonimportplayground stars:  5
 name: myenv stars:  4
 name: pygamewrap stars:  4
@@ -61,11 +90,13 @@ name: vimcrypt2 stars:  0
 name: visual-python-strace stars:  0
 name: zipit stars:  0
 ***
-total stars:  132
+total stars:  134
+old_date:  2021-12-07 08:51:02.874422 now: 2021-12-07 10:58:57.270659
+python-obj-system stars changed from: 5 to: 7
 
 Traffic report
 
-repo: python-obj-system views: total: 569 unique:  82
+repo: python-obj-system views: total: 599 unique:  98
 Views:
 	 2021-11-28 00:00:00 total: 66 unique: 2
 	 2021-11-29 00:00:00 total: 2 unique: 2
@@ -76,7 +107,7 @@ Views:
 	 2021-12-04 00:00:00 total: 103 unique: 2
 	 2021-12-05 00:00:00 total: 43 unique: 2
 	 2021-12-06 00:00:00 total: 85 unique: 7
-	 2021-12-07 00:00:00 total: 158 unique: 75
+	 2021-12-07 00:00:00 total: 188 unique: 91
 	 Referrers:
 		Count: 319 Unique: 2 Url: github.com
 		Count: 3 Unique: 2 Url: gist.github.com
@@ -84,7 +115,7 @@ Views:
 		Count: 2 Unique: 2 Url: reddit.com
 		Count: 2 Unique: 1 Url: linkedin.com
 
-repo: my-notes views: total: 48 unique:  3
+repo: my-notes views: total: 49 unique:  3
 Views:
 	 2021-11-23 00:00:00 total: 3 unique: 1
 	 2021-11-24 00:00:00 total: 3 unique: 1
@@ -93,7 +124,7 @@ Views:
 	 2021-11-27 00:00:00 total: 1 unique: 1
 	 2021-11-28 00:00:00 total: 7 unique: 2
 	 2021-12-04 00:00:00 total: 4 unique: 1
-	 2021-12-07 00:00:00 total: 2 unique: 1
+	 2021-12-07 00:00:00 total: 3 unique: 2
 	 Referrers:
 		Count: 37 Unique: 2 Url: github.com
 
@@ -149,7 +180,7 @@ Views:
 		Count: 4 Unique: 2 Url: news.ycombinator.com
 		Count: 1 Unique: 1 Url: Google
 
-repo: pythonimportplayground views: total: 18 unique:  10
+repo: pythonimportplayground views: total: 19 unique:  11
 Views:
 	 2021-11-23 00:00:00 total: 1 unique: 1
 	 2021-11-25 00:00:00 total: 2 unique: 2
@@ -159,7 +190,7 @@ Views:
 	 2021-12-02 00:00:00 total: 3 unique: 1
 	 2021-12-04 00:00:00 total: 1 unique: 1
 	 2021-12-06 00:00:00 total: 1 unique: 1
-	 2021-12-07 00:00:00 total: 6 unique: 5
+	 2021-12-07 00:00:00 total: 7 unique: 6
 	 Referrers:
 		Count: 10 Unique: 3 Url: github.com
 		Count: 1 Unique: 1 Url: reddit.com
@@ -209,6 +240,10 @@ Views:
 	 2021-12-07 00:00:00 total: 1 unique: 1
 	 Referrers:
 		Count: 2 Unique: 1 Url: github.com
+
+repo: MoserMichael views: total: 9 unique:  2
+Views:
+	 2021-12-07 00:00:00 total: 9 unique: 2
 
 repo: pygamewrap views: total: 9 unique:  6
 Views:
@@ -325,8 +360,6 @@ repo: k8explain views: total: 0 unique:  0
 
 repo: microsofthomework views: total: 0 unique:  0
 
-repo: MoserMichael views: total: 0 unique:  0
-
 repo: pythoncourse views: total: 0 unique:  0
 
 repo: scriptrunner-operator views: total: 0 unique:  0
@@ -335,4 +368,6 @@ repo: vimcrypt views: total: 0 unique:  0
 
 
 ***
-Total views: 866
+Total views: 907
+  </td>
+</table>
