@@ -1,35 +1,21 @@
 ```
- _________________________________________
-/ Delores breezed along the surface of    \
-| her life like a flat stone forever      |
-| skipping along smooth water, rippling   |
-| reality sporadically but oblivious to   |
-| it consistently, until she finally lost |
-| momentum, sank, and due to an overdose  |
-| of flouride as a child which caused her |
-| to suffer from chronic apathy, doomed   |
-| herself to lie forever on the floor of  |
-| her life as useless as an appendix and  |
-| as lonely as a five-hundred pound       |
-| barbell in a steroid-free fitness       |
-| center.                                 |
-|                                         |
-| -- Winning sentence, 1990 Bulwer-Lytton |
-\ bad fiction contest.                    /
- -----------------------------------------
+ ____________________________________
+/ Look afar and see the end from the \
+\ beginning.                         /
+ ------------------------------------
         \   ^__^
-         \  (~~)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :( ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: -97 '(from -100..100) state: '' eye: ~~ tongue: :(
-
+nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+```
 Name:       Michael Moser
-Linked-in:  ```[link to profile](https://www.linkedin.com/in/michael-moser-32211b1/]``` 
-Blog:       ```[link to blog](https://github.com/MoserMichael/my-notes/blob/master/dev-gotchas.md)```
+Linked-in:  [link to profile](https://www.linkedin.com/in/michael-moser-32211b1/)
+Blog:       [link to blog](https://github.com/MoserMichael/my-notes/blob/master/dev-gotchas.md)
 Contact:    moser dot michael at gmail dot com
-Projects:
-
+My stuff here:
+```
 
 name: duckduckbang stars:  24
 name: kind-helper stars:  20
