@@ -1,19 +1,27 @@
 ```
- ____________________________________
-/ Look afar and see the end from the \
-\ beginning.                         /
- ------------------------------------
+ _________________________________________
+/ Q: How many Zen masters does it take to \
+| screw in a light bulb? A: None. The     |
+| Universe spins the bulb, and the Zen    |
+| master stays out                        |
+|                                         |
+\ of the way.                             /
+ -----------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
              -- ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: -10 '(from -100..100) state: 'neutral' eye: .. tongue: --
 ```
 Name:       Michael Moser
+
 Linked-in:  [link to profile](https://www.linkedin.com/in/michael-moser-32211b1/)
+
 Blog:       [link to blog](https://github.com/MoserMichael/my-notes/blob/master/dev-gotchas.md)
+
 Contact:    moser dot michael at gmail dot com
+
 My stuff here:
 ```
 
