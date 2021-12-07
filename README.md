@@ -1,15 +1,14 @@
 <pre>
 
  ________________________________________
-/ You will be advanced socially, without \
-\ any special effort on your part.       /
+< The time is right to make new friends. >
  ----------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (oo)\_______
             (__)\       )\/\
-             -- ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: -7 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 48 '(from -100..100) state: 'good' eye: oo tongue: :)
 
 </pre>
 
@@ -63,7 +62,7 @@ My stuff here:
     <td>
         <pre>
 
-<table><tr><td>Name></td><td>Stars</td></tr>
+<table><tr><th>Name</th><th>Stars</th></tr>
 <tr><td><a href="https://github.com/MoserMichael/duckduckbang">duckduckbang</a></td><td>24</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/kind-helper">kind-helper</a></td><td>20</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/jq-illustrated">jq-illustrated</a></td><td>19</td></tr>
@@ -99,9 +98,9 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/vimcrypt2">vimcrypt2</a></td><td>0</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/visual-python-strace">visual-python-strace</a></td><td>0</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/zipit">zipit</a></td><td>0</td></tr>
+<tr><th>Total stars:</th><th> 134 </th></tr>
 </table>
-***
-total stars:  134
+<br>
 
 Traffic report
 
