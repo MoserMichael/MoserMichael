@@ -1,57 +1,20 @@
-Tue Dec  7 14:27:44 UTC 2021
+Tue Dec  7 14:40:02 UTC 2021
 
 <pre>
 
- _________________________________________
-/ We were young and our happiness dazzled \
-| us with its strength. But there was     |
-| also a terrible betrayal that lay       |
-| within me like a Merle Haggard song at  |
-| a French restaurant. [...]              |
-|                                         |
-| I could not tell the girl about the     |
-| woman of the tollway, of her milk white |
-| BMW and her Jordache smile. There had   |
-| been a fight. I had punched her         |
-| boyfriend, who fought the mechanical    |
-| bulls. Everyone told him, "You ride the |
-| bull, senor. You do not fight it." But  |
-| he was lean and tough like a bad        |
-| rib-eye and he fought the bull. And     |
-| then he fought me. And when we finished |
-| there were no winners, just men doing   |
-| what men must do. [...]                 |
-|                                         |
-| "Stop the car," the girl said.          |
-|                                         |
-| There was a look of terrible sadness in |
-| her eyes. She knew about the woman of   |
-| the tollway. I knew not how. I started  |
-| to speak, but she raised an arm and     |
-| spoke with a quiet and peace I will     |
-| never forget.                           |
-|                                         |
-| "I do not ask for whom's the tollway    |
-| belle," she said, "the tollway belle's  |
-| for thee."                              |
-|                                         |
-| The next morning our youth was a        |
-| memory, and our happiness was a lie.    |
-| Life is like a bad margarita with good  |
-| tequila, I thought as I poured whiskey  |
-| onto my granola and faced a new day.    |
-|                                         |
-| -- Peter Applebome, International       |
-| Imitation Hemingway                     |
-|                                         |
-\ Competition                             /
- -----------------------------------------
+ _____________________________________
+/ Nothing so needs reforming as other \
+| people's habits.                    |
+|                                     |
+| -- Mark Twain, "Pudd'nhead Wilson's |
+\ Calendar"                           /
+ -------------------------------------
         \   ^__^
-         \  (~~)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :( ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: -93 '(from -100..100) state: '' eye: ~~ tongue: :(
+nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
@@ -147,7 +110,7 @@ My stuff here:
 
 Traffic report
 
-repo: python-obj-system views: total: 669 unique:  127
+repo: python-obj-system views: total: 732 unique:  144
 Views:
 &nbsp;&nbsp;&nbsp;&nbsp; 2021-11-28 00:00:00 total: 66 unique: 2
 &nbsp;&nbsp;&nbsp;&nbsp; 2021-11-29 00:00:00 total: 2 unique: 2
@@ -158,7 +121,7 @@ Views:
 &nbsp;&nbsp;&nbsp;&nbsp; 2021-12-04 00:00:00 total: 103 unique: 2
 &nbsp;&nbsp;&nbsp;&nbsp; 2021-12-05 00:00:00 total: 43 unique: 2
 &nbsp;&nbsp;&nbsp;&nbsp; 2021-12-06 00:00:00 total: 85 unique: 7
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-07 00:00:00 total: 258 unique: 121
+&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-07 00:00:00 total: 321 unique: 138
 &nbsp;&nbsp;&nbsp;&nbsp;Referrers:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 319 Unique: 2 Url: github.com
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 3 Unique: 2 Url: gist.github.com
@@ -211,14 +174,7 @@ Views:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 5 Unique: 5 Url: news.ycombinator.com
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 1 Unique: 1 Url: DuckDuckGo
 
-repo: grpc-spring-boot-starter-utils views: total: 22 unique:  2
-Views:
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-11-23 00:00:00 total: 11 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-02 00:00:00 total: 11 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp;Referrers:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 11 Unique: 1 Url: github.com
-
-repo: pythonimportplayground views: total: 22 unique:  13
+repo: pythonimportplayground views: total: 25 unique:  15
 Views:
 &nbsp;&nbsp;&nbsp;&nbsp; 2021-11-23 00:00:00 total: 1 unique: 1
 &nbsp;&nbsp;&nbsp;&nbsp; 2021-11-25 00:00:00 total: 2 unique: 2
@@ -228,10 +184,17 @@ Views:
 &nbsp;&nbsp;&nbsp;&nbsp; 2021-12-02 00:00:00 total: 3 unique: 1
 &nbsp;&nbsp;&nbsp;&nbsp; 2021-12-04 00:00:00 total: 1 unique: 1
 &nbsp;&nbsp;&nbsp;&nbsp; 2021-12-06 00:00:00 total: 1 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-07 00:00:00 total: 10 unique: 8
+&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-07 00:00:00 total: 13 unique: 10
 &nbsp;&nbsp;&nbsp;&nbsp;Referrers:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 10 Unique: 3 Url: github.com
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 1 Unique: 1 Url: reddit.com
+
+repo: grpc-spring-boot-starter-utils views: total: 22 unique:  2
+Views:
+&nbsp;&nbsp;&nbsp;&nbsp; 2021-11-23 00:00:00 total: 11 unique: 1
+&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-02 00:00:00 total: 11 unique: 1
+&nbsp;&nbsp;&nbsp;&nbsp;Referrers:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 11 Unique: 1 Url: github.com
 
 repo: s9k views: total: 22 unique:  13
 Views:
@@ -420,7 +383,7 @@ repo: vimcrypt views: total: 0 unique:  0
 
 
 ***
-Total views: 988
+Total views: 1054
     </pre>
   </td>
 </table>
