@@ -11,7 +11,7 @@ if [[ "x$GITHUB_USER" == "x" ]]; then
     exit 1
 fi    
 
-THIS_REPO=https://github.com/MoserMichael/MoseMichael.git
+THIS_REPO=https://github.com/MoserMichael/MoserMichael.git
 
 docker build -t ci-build-gpage:0.0.1 .
 
