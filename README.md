@@ -1,31 +1,28 @@
 ```
-installing opinionated cow - first time install
-~ /cows
-Collecting nltk
-  Downloading nltk-3.6.5-py3-none-any.whl (1.5 MB)
-Collecting click
-  Downloading click-8.0.3-py3-none-any.whl (97 kB)
-Collecting joblib
-  Downloading joblib-1.1.0-py2.py3-none-any.whl (306 kB)
-Collecting regex>=2021.8.3
-  Downloading regex-2021.11.10-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (764 kB)
-Collecting tqdm
-  Downloading tqdm-4.62.3-py2.py3-none-any.whl (76 kB)
-Installing collected packages: click, joblib, regex, tqdm, nltk
-Successfully installed click-8.0.3 joblib-1.1.0 nltk-3.6.5 regex-2021.11.10 tqdm-4.62.3
-/cows
- ______________________________________
-/ Let me take you a button-hole lower. \
-|                                      |
-| -- William Shakespeare, "Love's      |
-\ Labour's Lost"                       /
- --------------------------------------
+ _________________________________________
+/ Delores breezed along the surface of    \
+| her life like a flat stone forever      |
+| skipping along smooth water, rippling   |
+| reality sporadically but oblivious to   |
+| it consistently, until she finally lost |
+| momentum, sank, and due to an overdose  |
+| of flouride as a child which caused her |
+| to suffer from chronic apathy, doomed   |
+| herself to lie forever on the floor of  |
+| her life as useless as an appendix and  |
+| as lonely as a five-hundred pound       |
+| barbell in a steroid-free fitness       |
+| center.                                 |
+|                                         |
+| -- Winning sentence, 1990 Bulwer-Lytton |
+\ bad fiction contest.                    /
+ -----------------------------------------
         \   ^__^
-         \  (!!)\_______
+         \  (~~)\_______
             (__)\       )\/\
              :( ||----w |
                 ||     ||
-nltk score: -30 '(from -100..100) state: 'bad' eye: !! tongue: :(
+nltk score: -97 '(from -100..100) state: '' eye: ~~ tongue: :(
 
 Name:       Michael Moser
 Linked-in:  ```[link to profile](https://www.linkedin.com/in/michael-moser-32211b1/]``` 
@@ -71,8 +68,6 @@ name: visual-python-strace stars:  0
 name: zipit stars:  0
 ***
 total stars:  132
-old_date:  2021-12-07 08:44:47.479830 now: 2021-12-07 08:51:02.874242
-python-obj-system stars changed from: 4 to: 5
 
 Traffic report
 
