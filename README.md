@@ -1,15 +1,15 @@
 <pre>
 
- ______________________________________
-/ Q: How much does it cost to ride the \
-\ Unibus? A: 2 bits.                   /
- --------------------------------------
+ _____________________________________
+/ Someone whom you reject today, will \
+\ reject you tomorrow.                /
+ -------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (~~)\_______
             (__)\       )\/\
-             -- ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: -66 '(from -100..100) state: '' eye: ~~ tongue: :(
 
 </pre>
 
@@ -53,6 +53,7 @@ My stuff here:
 <table width="100%">
 <tr>
     <td>
+        <pre>
 
 name: duckduckbang stars:  24
 name: kind-helper stars:  20
@@ -91,8 +92,6 @@ name: visual-python-strace stars:  0
 name: zipit stars:  0
 ***
 total stars:  134
-old_date:  2021-12-07 08:51:02.874422 now: 2021-12-07 10:58:57.270659
-python-obj-system stars changed from: 5 to: 7
 
 Traffic report
 
@@ -369,5 +368,6 @@ repo: vimcrypt views: total: 0 unique:  0
 
 ***
 Total views: 907
+    </pre>
   </td>
 </table>
