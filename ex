@@ -5,8 +5,6 @@ match_max 100000
 expect "*?sername*"
 send -- "{GITHUB_USER}\r"
 
-
-
 expect "*?assword*"
 send -- "$env(GITHUB_TOKEN)\r"
 

@@ -4,49 +4,55 @@ set -ex
 
 cd / 
 
-# checkout all used repositories
-git clone https://github.com/MoserMichael/opinionated-fortune-cow  cows
-git clone https://github.com/MoserMichael/githubapitools 
-git clone https://github.com/MoserMichael/MoseMichael.git gh-page
+export PATH=/usr/games:$PATH
 
-cat start_part.txt > README.md
+# checkout user repository
+git clone $USER_REPO repo
 
-pushd cows
-./cows.sh >>../README.md
+# path to readme
+README_FILE=$PWD/repo/README.md
+
+# initial part of radme
+pushd repo
+cat start_part.txt >${README_FILE}
 popd
 
-cat common_part.txt >>README.md
+# get cowsay
+git clone https://github.com/MoserMichael/opinionated-fortune-cow  cows
+
+export PATH=/usr/games/:$PATH
+
+pushd cows
+./cows.sh >>${REAMDE_FILE}
+popd
+
+cat common_part.txt >>${README_FILE}
 
 if [[ -z $GITHUB_TOKEN ]]; then
     echo "token does not exist, can't upload and can't count stars"
     exit 1
 fi
 
+git clone https://github.com/MoserMichael/githubapitools 
+
 pushd githubapitools
-pip3 install requirements.txt
-cp ../gh-page/starcounter.data .
-./starcounter.py -s -v -t day  >>../README.md
-cp starcounter.data ../gh-page/
+ls -al
+pip3 install -r requirements.txt
+cp ..//starcounter.data .
+./starcounter.py -s -v -t day  >>${README_FILE}
+cp starcounter.data ../repo/
 popd
 
-#pushd gh-page
-#
-#git config --global user.email "a@gmail.com"
-#git config --global user.name "MoserMichael"
-#
-#echo "*** pushing changed file ***"
-#
-#git add README.md
-#git add .starcounter.data
-#
-#git commit -m "automatic build $(date)"
-#expect -f /ex
-#
-## generate some action in the main repository, so that the CI job will not get disabled.
-#git checkout master
-#date >> ci-runs.txt
-#git add ci-runs.txt
-#git commit -m "automatic build $(date)"
-#expect -f /ex
-#popd
-#
+pushd repo
+
+git config --global user.email "a@gmail.com"
+git config --global user.name ${GITHUB_USER}
+
+echo "*** pushing changed file ***"
+
+git add README.md
+git add starcounter.data
+
+git commit -m "automatic build $(date)"
+expect -f ./ex
+
