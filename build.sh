@@ -24,7 +24,12 @@ git clone https://github.com/MoserMichael/opinionated-fortune-cow  cows
 export PATH=/usr/games/:$PATH
 
 pushd cows
+
+# con't want to see first time init part...
+./cows.sh >/dev/null
+
 ./cows.sh >>${README_FILE}
+
 popd
 
 pushd repo
