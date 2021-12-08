@@ -1,11 +1,12 @@
-Wed Dec  8 01:52:42 UTC 2021
+Wed Dec  8 01:53:54 UTC 2021
 
 <pre>
 
- _____________________________________
-/ Your boyfriend takes chocolate from \
-\ strangers.                          /
- -------------------------------------
+ ____________________________________
+/ You tread upon my patience.        \
+|                                    |
+\ -- William Shakespeare, "Henry IV" /
+ ------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
