@@ -39,7 +39,7 @@
          What-i-say:   
     </td>
     <td>
-        <a href="https://news.ycombinator.com/user?id=MichaelMoser123">HN<a>; <a href="https://www.reddit.com/user/michaemoser">reddit</a>; <a href="https://stackoverflow.com/users/3034482/michaelmoser">SO</a>
+        <a href="https://news.ycombinator.com/user?id=MichaelMoser123">Hacker News<a>; <a href="https://www.reddit.com/user/michaemoser">Reddit</a>; <a href="https://stackoverflow.com/users/3034482/michaelmoser">stack overflow</a>
     </td>
 </tr>
 </table>
