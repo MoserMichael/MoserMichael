@@ -1,20 +1,18 @@
-Wed Dec  8 01:27:57 UTC 2021
+Wed Dec  8 01:29:14 UTC 2021
 
 <pre>
 
- _______________________________________
-/ "Elves and Dragons!" I says to him.   \
-| "Cabbages and potatoes are better for |
-| you and me."                          |
-|                                       |
-\ -- J. R. R. Tolkien                   /
- ---------------------------------------
+ ____________________________________
+/ Small things make base men proud.  \
+|                                    |
+\ -- William Shakespeare, "Henry VI" /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
              :) ||----w |
                 ||     ||
-nltk score: 49 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: 48 '(from -100..100) state: 'good' eye: oo tongue: :)
 
 </pre>
 
