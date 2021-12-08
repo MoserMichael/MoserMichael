@@ -3,12 +3,12 @@
 
 <table width ="100%">
 <tr>
-    <td>
+    <th>
         Name:       
-    </td>
-    <td>
+    </th>
+    <th>
         Michael Moser
-    </td>
+    </th>
 </tr>
 <tr>
     <td>
