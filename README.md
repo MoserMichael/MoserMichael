@@ -1,19 +1,31 @@
-Wed Dec  8 01:34:26 UTC 2021
+Wed Dec  8 01:35:42 UTC 2021
 
 <pre>
 
  _________________________________________
-/  A man was reading The Canterbury Tales \
-| one Saturday morning, when his wife     |
-| asked "What have you got there?"        |
-\ Replied he, "Just my cup and Chaucer."  /
+/ Delores breezed along the surface of    \
+| her life like a flat stone forever      |
+| skipping along smooth water, rippling   |
+| reality sporadically but oblivious to   |
+| it consistently, until she finally lost |
+| momentum, sank, and due to an overdose  |
+| of flouride as a child which caused her |
+| to suffer from chronic apathy, doomed   |
+| herself to lie forever on the floor of  |
+| her life as useless as an appendix and  |
+| as lonely as a five-hundred pound       |
+| barbell in a steroid-free fitness       |
+| center.                                 |
+|                                         |
+| -- Winning sentence, 1990 Bulwer-Lytton |
+\ bad fiction contest.                    /
  -----------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (~~)\_______
             (__)\       )\/\
-             -- ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: -97 '(from -100..100) state: '' eye: ~~ tongue: :(
 
 </pre>
 
