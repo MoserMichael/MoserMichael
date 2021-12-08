@@ -1,19 +1,17 @@
-Wed Dec  8 01:18:39 UTC 2021
+Wed Dec  8 01:19:52 UTC 2021
 
 <pre>
 
- ____________________________________
-/ Suspicion always haunts the guilty \
-| mind.                              |
-|                                    |
-\ -- Wm. Shakespeare                 /
- ------------------------------------
+ _______________________________________
+/ Your society will be sought by people \
+\ of taste and refinement.              /
+ ---------------------------------------
         \   ^__^
-         \  (~~)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :( ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: -75 '(from -100..100) state: '' eye: ~~ tongue: :(
+nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
