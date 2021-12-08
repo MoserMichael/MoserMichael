@@ -1,17 +1,17 @@
-Wed Dec  8 01:52:05 UTC 2021
+Wed Dec  8 01:52:42 UTC 2021
 
 <pre>
 
- ____________________________________
-/ Generosity and perfection are your \
-\ everlasting goals.                 /
- ------------------------------------
+ _____________________________________
+/ Your boyfriend takes chocolate from \
+\ strangers.                          /
+ -------------------------------------
         \   ^__^
-         \  (OO)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :) ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: 79 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
