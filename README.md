@@ -1,17 +1,18 @@
-Wed Dec  8 01:19:52 UTC 2021
+Wed Dec  8 01:21:03 UTC 2021
 
 <pre>
 
  _______________________________________
-/ Your society will be sought by people \
-\ of taste and refinement.              /
+/ You are destined to become the        \
+| commandant of the fighting men of the |
+\ department of transportation.         /
  ---------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (!!)\_______
             (__)\       )\/\
-             -- ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: -36 '(from -100..100) state: 'bad' eye: !! tongue: :(
 
 </pre>
 
