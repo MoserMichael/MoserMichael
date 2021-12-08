@@ -1,13 +1,10 @@
-Tue Dec  7 14:40:02 UTC 2021
+Wed Dec  8 01:10:37 UTC 2021
 
 <pre>
 
  _____________________________________
-/ Nothing so needs reforming as other \
-| people's habits.                    |
-|                                     |
-| -- Mark Twain, "Pudd'nhead Wilson's |
-\ Calendar"                           /
+/ You'll never be the man your mother \
+\ was!                                /
  -------------------------------------
         \   ^__^
          \  (..)\_______
@@ -56,7 +53,7 @@ nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
          What-i-say:   
     </td>
     <td>
-        <a href="https://news.ycombinator.com/user?id=MichaelMoser123">HN<a> <a href="https://www.reddit.com/user/michaemoser">reddit</a>
+        <a href="https://news.ycombinator.com/user?id=MichaelMoser123">HN<a>; <a href="https://www.reddit.com/user/michaemoser">reddit</a>
     </td>
 </tr>
 </table>
@@ -75,7 +72,7 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/cppcombinator">cppcombinator</a></td><td>18</td><td>parser  combinator and AST generator in c++17</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/s9k">s9k</a></td><td>13</td><td>web app for managing kubernetes clusters, with similar functionality as k9s</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/cstuff">cstuff</a></td><td>11</td><td>My C projects and old homepage:</td></tr>
-<tr><td><a href="https://github.com/MoserMichael/python-obj-system">python-obj-system</a></td><td>8</td><td>Tutorials on advanced python topics, and literate programming framework to write them.</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/python-obj-system">python-obj-system</a></td><td>11</td><td>Tutorials on advanced python topics, and literate programming framework to write them.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/pythonimportplayground">pythonimportplayground</a></td><td>5</td><td>the readme file explains python packages, with examples.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/myenv">myenv</a></td><td>4</td><td>my work environment (so i don't have to search for it ;-)</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/pygamewrap">pygamewrap</a></td><td>4</td><td>A small wrapper toolkit that simplifies development with the pygame library (hopefully)</td></tr>
@@ -104,13 +101,15 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/vimcrypt2">vimcrypt2</a></td><td>0</td><td>vim plugin to encrypt files with openssl</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/visual-python-strace">visual-python-strace</a></td><td>0</td><td>show a very long stack trace with variable values.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/zipit">zipit</a></td><td>0</td><td>c++ library for the equivalent of python/haskell zip function</td></tr>
-<tr><th>Total stars:</th><th colspan='2' align='left'> 135 </th></tr>
+<tr><th>Total stars:</th><th colspan='2' align='left'> 138 </th></tr>
 </table>
 <br>
+old_date:  2021-12-07 13:35:09.521300 now: 2021-12-08 01:10:48.511573
+python-obj-system stars changed from: 8 to: 11
 
 Traffic report
 
-repo: python-obj-system views: total: 732 unique:  144
+repo: python-obj-system views: total: 846 unique:  194
 Views:
 &nbsp;&nbsp;&nbsp;&nbsp; 2021-11-28 00:00:00 total: 66 unique: 2
 &nbsp;&nbsp;&nbsp;&nbsp; 2021-11-29 00:00:00 total: 2 unique: 2
@@ -121,7 +120,7 @@ Views:
 &nbsp;&nbsp;&nbsp;&nbsp; 2021-12-04 00:00:00 total: 103 unique: 2
 &nbsp;&nbsp;&nbsp;&nbsp; 2021-12-05 00:00:00 total: 43 unique: 2
 &nbsp;&nbsp;&nbsp;&nbsp; 2021-12-06 00:00:00 total: 85 unique: 7
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-07 00:00:00 total: 321 unique: 138
+&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-07 00:00:00 total: 435 unique: 189
 &nbsp;&nbsp;&nbsp;&nbsp;Referrers:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 319 Unique: 2 Url: github.com
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 3 Unique: 2 Url: gist.github.com
@@ -129,20 +128,38 @@ Views:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 2 Unique: 2 Url: reddit.com
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 2 Unique: 1 Url: linkedin.com
 
-repo: my-notes views: total: 54 unique:  5
+repo: duckduckbang views: total: 78 unique:  13
 Views:
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-11-23 00:00:00 total: 3 unique: 1
+&nbsp;&nbsp;&nbsp;&nbsp; 2021-11-24 00:00:00 total: 1 unique: 1
+&nbsp;&nbsp;&nbsp;&nbsp; 2021-11-27 00:00:00 total: 1 unique: 1
+&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-01 00:00:00 total: 7 unique: 5
+&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-02 00:00:00 total: 7 unique: 5
+&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-03 00:00:00 total: 3 unique: 1
+&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-04 00:00:00 total: 3 unique: 1
+&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-05 00:00:00 total: 2 unique: 1
+&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-07 00:00:00 total: 54 unique: 3
+&nbsp;&nbsp;&nbsp;&nbsp;Referrers:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 8 Unique: 4 Url: github.com
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 5 Unique: 5 Url: news.ycombinator.com
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 1 Unique: 1 Url: DuckDuckGo
+
+repo: MoserMichael views: total: 71 unique:  3
+Views:
+&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-07 00:00:00 total: 71 unique: 3
+
+repo: my-notes views: total: 53 unique:  4
+Views:
 &nbsp;&nbsp;&nbsp;&nbsp; 2021-11-24 00:00:00 total: 3 unique: 1
 &nbsp;&nbsp;&nbsp;&nbsp; 2021-11-25 00:00:00 total: 22 unique: 2
 &nbsp;&nbsp;&nbsp;&nbsp; 2021-11-26 00:00:00 total: 6 unique: 1
 &nbsp;&nbsp;&nbsp;&nbsp; 2021-11-27 00:00:00 total: 1 unique: 1
 &nbsp;&nbsp;&nbsp;&nbsp; 2021-11-28 00:00:00 total: 7 unique: 2
 &nbsp;&nbsp;&nbsp;&nbsp; 2021-12-04 00:00:00 total: 4 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-07 00:00:00 total: 8 unique: 4
+&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-07 00:00:00 total: 10 unique: 4
 &nbsp;&nbsp;&nbsp;&nbsp;Referrers:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 37 Unique: 2 Url: github.com
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 35 Unique: 2 Url: github.com
 
-repo: devgoodies views: total: 42 unique:  18
+repo: devgoodies views: total: 44 unique:  19
 Views:
 &nbsp;&nbsp;&nbsp;&nbsp; 2021-11-26 00:00:00 total: 14 unique: 4
 &nbsp;&nbsp;&nbsp;&nbsp; 2021-11-27 00:00:00 total: 7 unique: 3
@@ -153,30 +170,13 @@ Views:
 &nbsp;&nbsp;&nbsp;&nbsp; 2021-12-03 00:00:00 total: 2 unique: 2
 &nbsp;&nbsp;&nbsp;&nbsp; 2021-12-04 00:00:00 total: 1 unique: 1
 &nbsp;&nbsp;&nbsp;&nbsp; 2021-12-06 00:00:00 total: 2 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-07 00:00:00 total: 1 unique: 1
+&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-07 00:00:00 total: 3 unique: 2
 &nbsp;&nbsp;&nbsp;&nbsp;Referrers:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 26 Unique: 14 Url: vim.org
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 1 Unique: 1 Url: github.com
 
-repo: duckduckbang views: total: 42 unique:  14
+repo: pythonimportplayground views: total: 34 unique:  20
 Views:
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-11-23 00:00:00 total: 3 unique: 2
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-11-24 00:00:00 total: 1 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-11-27 00:00:00 total: 1 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-01 00:00:00 total: 7 unique: 5
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-02 00:00:00 total: 7 unique: 5
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-03 00:00:00 total: 3 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-04 00:00:00 total: 3 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-05 00:00:00 total: 2 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-07 00:00:00 total: 15 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp;Referrers:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 9 Unique: 5 Url: github.com
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 5 Unique: 5 Url: news.ycombinator.com
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 1 Unique: 1 Url: DuckDuckGo
-
-repo: pythonimportplayground views: total: 25 unique:  15
-Views:
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-11-23 00:00:00 total: 1 unique: 1
 &nbsp;&nbsp;&nbsp;&nbsp; 2021-11-25 00:00:00 total: 2 unique: 2
 &nbsp;&nbsp;&nbsp;&nbsp; 2021-11-26 00:00:00 total: 1 unique: 1
 &nbsp;&nbsp;&nbsp;&nbsp; 2021-11-28 00:00:00 total: 1 unique: 1
@@ -184,17 +184,10 @@ Views:
 &nbsp;&nbsp;&nbsp;&nbsp; 2021-12-02 00:00:00 total: 3 unique: 1
 &nbsp;&nbsp;&nbsp;&nbsp; 2021-12-04 00:00:00 total: 1 unique: 1
 &nbsp;&nbsp;&nbsp;&nbsp; 2021-12-06 00:00:00 total: 1 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-07 00:00:00 total: 13 unique: 10
+&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-07 00:00:00 total: 23 unique: 16
 &nbsp;&nbsp;&nbsp;&nbsp;Referrers:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 10 Unique: 3 Url: github.com
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 1 Unique: 1 Url: reddit.com
-
-repo: grpc-spring-boot-starter-utils views: total: 22 unique:  2
-Views:
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-11-23 00:00:00 total: 11 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-02 00:00:00 total: 11 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp;Referrers:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 11 Unique: 1 Url: github.com
 
 repo: s9k views: total: 22 unique:  13
 Views:
@@ -210,18 +203,6 @@ Views:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 10 Unique: 6 Url: github.com
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 4 Unique: 2 Url: news.ycombinator.com
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 1 Unique: 1 Url: Google
-
-repo: gitblame views: total: 15 unique:  8
-Views:
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-11-23 00:00:00 total: 5 unique: 2
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-11-24 00:00:00 total: 4 unique: 2
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-11-26 00:00:00 total: 3 unique: 2
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-11-29 00:00:00 total: 1 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-03 00:00:00 total: 1 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-06 00:00:00 total: 1 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp;Referrers:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 7 Unique: 5 Url: vim.org
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 3 Unique: 1 Url: github.com
 
 repo: cppcombinator views: total: 13 unique:  7
 Views:
@@ -243,12 +224,35 @@ Views:
 &nbsp;&nbsp;&nbsp;&nbsp; 2021-12-03 00:00:00 total: 1 unique: 1
 &nbsp;&nbsp;&nbsp;&nbsp; 2021-12-07 00:00:00 total: 7 unique: 1
 &nbsp;&nbsp;&nbsp;&nbsp;Referrers:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 4 Unique: 1 Url: github.com
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 2 Unique: 1 Url: github.com
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 1 Unique: 1 Url: news.ycombinator.com
 
-repo: MoserMichael views: total: 11 unique:  3
+repo: roget-thesaurus-parser views: total: 12 unique:  4
 Views:
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-07 00:00:00 total: 11 unique: 3
+&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-01 00:00:00 total: 2 unique: 1
+&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-04 00:00:00 total: 1 unique: 1
+&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-05 00:00:00 total: 4 unique: 1
+&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-07 00:00:00 total: 5 unique: 1
+&nbsp;&nbsp;&nbsp;&nbsp;Referrers:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 3 Unique: 2 Url: github.com
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 2 Unique: 1 Url: Google
+
+repo: gitblame views: total: 11 unique:  7
+Views:
+&nbsp;&nbsp;&nbsp;&nbsp; 2021-11-24 00:00:00 total: 4 unique: 2
+&nbsp;&nbsp;&nbsp;&nbsp; 2021-11-26 00:00:00 total: 3 unique: 2
+&nbsp;&nbsp;&nbsp;&nbsp; 2021-11-29 00:00:00 total: 1 unique: 1
+&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-03 00:00:00 total: 1 unique: 1
+&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-06 00:00:00 total: 1 unique: 1
+&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-07 00:00:00 total: 1 unique: 1
+&nbsp;&nbsp;&nbsp;&nbsp;Referrers:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 6 Unique: 4 Url: vim.org
+
+repo: grpc-spring-boot-starter-utils views: total: 11 unique:  1
+Views:
+&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-02 00:00:00 total: 11 unique: 1
+&nbsp;&nbsp;&nbsp;&nbsp;Referrers:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 11 Unique: 1 Url: github.com
 
 repo: pprintex views: total: 10 unique:  5
 Views:
@@ -261,9 +265,8 @@ Views:
 &nbsp;&nbsp;&nbsp;&nbsp;Referrers:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 2 Unique: 1 Url: github.com
 
-repo: pygamewrap views: total: 9 unique:  6
+repo: pygamewrap views: total: 8 unique:  5
 Views:
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-11-23 00:00:00 total: 1 unique: 1
 &nbsp;&nbsp;&nbsp;&nbsp; 2021-11-27 00:00:00 total: 2 unique: 1
 &nbsp;&nbsp;&nbsp;&nbsp; 2021-11-28 00:00:00 total: 1 unique: 1
 &nbsp;&nbsp;&nbsp;&nbsp; 2021-11-29 00:00:00 total: 1 unique: 1
@@ -274,32 +277,16 @@ Views:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 1 Unique: 1 Url: pypi.org
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 1 Unique: 1 Url: Google
 
-repo: roget-thesaurus-parser views: total: 7 unique:  3
-Views:
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-01 00:00:00 total: 2 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-04 00:00:00 total: 1 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-05 00:00:00 total: 4 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp;Referrers:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 3 Unique: 2 Url: github.com
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 2 Unique: 1 Url: Google
-
 repo: cstuff views: total: 5 unique:  1
 Views:
 &nbsp;&nbsp;&nbsp;&nbsp; 2021-11-26 00:00:00 total: 2 unique: 1
 &nbsp;&nbsp;&nbsp;&nbsp; 2021-11-29 00:00:00 total: 2 unique: 1
 &nbsp;&nbsp;&nbsp;&nbsp; 2021-12-03 00:00:00 total: 1 unique: 1
 
-repo: flagged-hn views: total: 5 unique:  2
-Views:
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-11-23 00:00:00 total: 3 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-11-25 00:00:00 total: 2 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp;Referrers:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 2 Unique: 1 Url: github.com
-
-repo: githubapitools views: total: 4 unique:  1
+repo: githubapitools views: total: 5 unique:  2
 Views:
 &nbsp;&nbsp;&nbsp;&nbsp; 2021-11-25 00:00:00 total: 1 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-07 00:00:00 total: 3 unique: 1
+&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-07 00:00:00 total: 4 unique: 2
 &nbsp;&nbsp;&nbsp;&nbsp;Referrers:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 1 Unique: 1 Url: github.com
 
@@ -320,23 +307,26 @@ Views:
 
 repo: vimcrypt2 views: total: 4 unique:  4
 Views:
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-11-23 00:00:00 total: 1 unique: 1
 &nbsp;&nbsp;&nbsp;&nbsp; 2021-11-24 00:00:00 total: 2 unique: 2
 &nbsp;&nbsp;&nbsp;&nbsp; 2021-11-25 00:00:00 total: 1 unique: 1
+&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-07 00:00:00 total: 1 unique: 1
 &nbsp;&nbsp;&nbsp;&nbsp;Referrers:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 2 Unique: 2 Url: vim.org
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 1 Unique: 1 Url: github.com
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 1 Unique: 1 Url: vim.org
 
 repo: opinionated-fortune-cow views: total: 3 unique:  1
 Views:
 &nbsp;&nbsp;&nbsp;&nbsp; 2021-12-07 00:00:00 total: 3 unique: 1
 
+repo: flagged-hn views: total: 2 unique:  1
+Views:
+&nbsp;&nbsp;&nbsp;&nbsp; 2021-11-25 00:00:00 total: 2 unique: 1
+&nbsp;&nbsp;&nbsp;&nbsp;Referrers:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 2 Unique: 1 Url: github.com
+
 repo: kwchecker views: total: 2 unique:  2
 Views:
 &nbsp;&nbsp;&nbsp;&nbsp; 2021-11-24 00:00:00 total: 1 unique: 1
 &nbsp;&nbsp;&nbsp;&nbsp; 2021-11-28 00:00:00 total: 1 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp;Referrers:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 1 Unique: 1 Url: DuckDuckGo
 
 repo: subb views: total: 2 unique:  1
 Views:
@@ -355,6 +345,10 @@ Views:
 &nbsp;&nbsp;&nbsp;&nbsp;Referrers:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 1 Unique: 1 Url: github.com
 
+repo: k8explain views: total: 1 unique:  1
+Views:
+&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-07 00:00:00 total: 1 unique: 1
+
 repo: ls-annotations views: total: 1 unique:  1
 Views:
 &nbsp;&nbsp;&nbsp;&nbsp; 2021-12-04 00:00:00 total: 1 unique: 1
@@ -371,8 +365,6 @@ repo: github_pr_comments views: total: 0 unique:  0
 
 repo: jq-illustrated views: total: 0 unique:  0
 
-repo: k8explain views: total: 0 unique:  0
-
 repo: microsofthomework views: total: 0 unique:  0
 
 repo: pythoncourse views: total: 0 unique:  0
@@ -383,7 +375,7 @@ repo: vimcrypt views: total: 0 unique:  0
 
 
 ***
-Total views: 1054
+Total views: 1262
     </pre>
   </td>
 </table>
