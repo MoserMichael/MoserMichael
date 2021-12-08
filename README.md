@@ -1,18 +1,21 @@
-Wed Dec  8 01:29:14 UTC 2021
+Wed Dec  8 01:30:28 UTC 2021
 
 <pre>
 
- ____________________________________
-/ Small things make base men proud.  \
-|                                    |
-\ -- William Shakespeare, "Henry VI" /
- ------------------------------------
+ _______________________________________
+/ Perilous to all of us are the devices \
+| of an art deeper than we ourselves    |
+| possess.                              |
+|                                       |
+| -- Gandalf the Grey [J.R.R. Tolkien,  |
+\ "Lord of the Rings"]                  /
+ ---------------------------------------
         \   ^__^
-         \  (oo)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :) ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: 48 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
