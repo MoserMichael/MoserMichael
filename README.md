@@ -1,21 +1,21 @@
-Wed Dec  8 01:22:20 UTC 2021
+Wed Dec  8 01:23:48 UTC 2021
 
 <pre>
 
- ________________________________________
-/ Why is it that we rejoice at a birth   \
-| and grieve at a funeral? It is because |
-| we are not the person involved.        |
-|                                        |
-| -- Mark Twain, "Pudd'nhead Wilson's    |
-\ Calendar"                              /
- ----------------------------------------
+ _________________________________________
+/ O, it is excellent To have a giant's    \
+| strength; but it is tyrannous To use it |
+| like a giant.                           |
+|                                         |
+| -- Shakespeare, "Measure for Measure",  |
+\ II, 2                                   /
+ -----------------------------------------
         \   ^__^
-         \  (!!)\_______
+         \  (OO)\_______
             (__)\       )\/\
-             :( ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: -30 '(from -100..100) state: 'bad' eye: !! tongue: :(
+nltk score: 77 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
