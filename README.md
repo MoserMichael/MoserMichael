@@ -1,17 +1,19 @@
-Wed Dec  8 01:17:27 UTC 2021
+Wed Dec  8 01:18:39 UTC 2021
 
 <pre>
 
- ______________________________________
-/ Good day to let down old friends who \
-\ need help.                           /
- --------------------------------------
+ ____________________________________
+/ Suspicion always haunts the guilty \
+| mind.                              |
+|                                    |
+\ -- Wm. Shakespeare                 /
+ ------------------------------------
         \   ^__^
-         \  (OO)\_______
+         \  (~~)\_______
             (__)\       )\/\
-             :) ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 83 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: -75 '(from -100..100) state: '' eye: ~~ tongue: :(
 
 </pre>
 
