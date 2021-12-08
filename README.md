@@ -1,17 +1,17 @@
-Wed Dec  8 01:11:59 UTC 2021
+Wed Dec  8 01:13:25 UTC 2021
 
 <pre>
 
  _________________________________________
-/ Your mode of life will be changed for   \
-\ the better because of new developments. /
+/ You're ugly and your mother dresses you \
+\ funny.                                  /
  -----------------------------------------
         \   ^__^
-         \  (oo)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :) ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: 44 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: -10 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
