@@ -1,17 +1,19 @@
-Wed Dec  8 01:33:08 UTC 2021
+Wed Dec  8 01:34:26 UTC 2021
 
 <pre>
 
- ________________________________________
-/ Celebrate Hannibal Day this year. Take \
-\ an elephant to lunch.                  /
- ----------------------------------------
+ _________________________________________
+/  A man was reading The Canterbury Tales \
+| one Saturday morning, when his wife     |
+| asked "What have you got there?"        |
+\ Replied he, "Just my cup and Chaucer."  /
+ -----------------------------------------
         \   ^__^
-         \  (oo)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :) ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: 57 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
