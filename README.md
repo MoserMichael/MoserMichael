@@ -1,24 +1,24 @@
-Wed Dec  8 01:58:32 UTC 2021
+Wed Dec  8 01:59:47 UTC 2021
 
 <pre>
 
- ________________________________________
-/ Q: Why don't Scotsmen ever have coffee \
-| the way they like it? A: Well, they    |
-| like it with two lumps of sugar. If    |
-| they drink                             |
-|                                        |
-| it at home, they only take one, and if |
-| they drink it while                    |
-|                                        |
-\ visiting, they always take three.      /
- ----------------------------------------
+ _________________________________________
+/ It is right that he too should have his \
+| little chronicle, his memories, his     |
+| reason, and be able to recognize the    |
+| good in the bad, the bad in the worst,  |
+| and so grow gently old all down the     |
+| unchanging days and die one day like    |
+| any other day, only shorter.            |
+|                                         |
+\ -- Samuel Beckett, "Malone Dies"        /
+ -----------------------------------------
         \   ^__^
-         \  (OO)\_______
+         \  (~~)\_______
             (__)\       )\/\
-             :) ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 61 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: -81 '(from -100..100) state: '' eye: ~~ tongue: :(
 
 </pre>
 
