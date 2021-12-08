@@ -1,17 +1,17 @@
-Wed Dec  8 01:46:06 UTC 2021
+Wed Dec  8 01:47:32 UTC 2021
 
 <pre>
 
  ____________________________________
-/ Q: Do you know what the death rate \
-\ around here is? A: One per person. /
+/ You are confused; but this is your \
+\ normal state.                      /
  ------------------------------------
         \   ^__^
-         \  (~~)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :( ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: -60 '(from -100..100) state: '' eye: ~~ tongue: :(
+nltk score: -17 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
