@@ -1,21 +1,20 @@
-Wed Dec  8 01:30:28 UTC 2021
+Wed Dec  8 01:31:47 UTC 2021
 
 <pre>
 
  _______________________________________
-/ Perilous to all of us are the devices \
-| of an art deeper than we ourselves    |
-| possess.                              |
+/ The lunatic, the lover, and the poet, \
+| Are of imagination all compact...     |
 |                                       |
-| -- Gandalf the Grey [J.R.R. Tolkien,  |
-\ "Lord of the Rings"]                  /
+| -- Wm. Shakespeare, "A Midsummer      |
+\ Night's Dream"                        /
  ---------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
              -- ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 15 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
