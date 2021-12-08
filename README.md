@@ -1,17 +1,16 @@
-Wed Dec  8 01:50:13 UTC 2021
+Wed Dec  8 01:51:27 UTC 2021
 
 <pre>
 
- _____________________________________
-/ You are not dead yet. But watch for \
-\ further reports.                    /
- -------------------------------------
+ _______________________________
+< Be careful! Is it classified? >
+ -------------------------------
         \   ^__^
-         \  (oo)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :) ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: 30 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: 22 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
