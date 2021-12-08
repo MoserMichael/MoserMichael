@@ -1,24 +1,16 @@
-Wed Dec  8 01:59:47 UTC 2021
+Wed Dec  8 02:01:10 UTC 2021
 
 <pre>
 
- _________________________________________
-/ It is right that he too should have his \
-| little chronicle, his memories, his     |
-| reason, and be able to recognize the    |
-| good in the bad, the bad in the worst,  |
-| and so grow gently old all down the     |
-| unchanging days and die one day like    |
-| any other day, only shorter.            |
-|                                         |
-\ -- Samuel Beckett, "Malone Dies"        /
- -----------------------------------------
+ ______________________________________
+< You are fairminded, just and loving. >
+ --------------------------------------
         \   ^__^
-         \  (~~)\_______
+         \  (OO)\_______
             (__)\       )\/\
-             :( ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: -81 '(from -100..100) state: '' eye: ~~ tongue: :(
+nltk score: 60 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
