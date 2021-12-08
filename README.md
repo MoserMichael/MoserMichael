@@ -1,16 +1,17 @@
-Wed Dec  8 01:44:46 UTC 2021
+Wed Dec  8 01:46:06 UTC 2021
 
 <pre>
 
- __________________________________
-< Never reveal your best argument. >
- ----------------------------------
+ ____________________________________
+/ Q: Do you know what the death rate \
+\ around here is? A: One per person. /
+ ------------------------------------
         \   ^__^
          \  (~~)\_______
             (__)\       )\/\
              :( ||----w |
                 ||     ||
-nltk score: -71 '(from -100..100) state: '' eye: ~~ tongue: :(
+nltk score: -60 '(from -100..100) state: '' eye: ~~ tongue: :(
 
 </pre>
 
