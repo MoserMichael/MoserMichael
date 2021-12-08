@@ -1,17 +1,17 @@
-Wed Dec  8 01:47:32 UTC 2021
+Wed Dec  8 01:49:02 UTC 2021
 
 <pre>
 
- ____________________________________
-/ You are confused; but this is your \
-\ normal state.                      /
- ------------------------------------
+ _________________________________________
+/ You have a strong appeal for members of \
+\ your own sex.                           /
+ -----------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (oo)\_______
             (__)\       )\/\
-             -- ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: -17 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 51 '(from -100..100) state: 'good' eye: oo tongue: :)
 
 </pre>
 
