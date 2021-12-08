@@ -1,21 +1,18 @@
-Wed Dec  8 01:23:48 UTC 2021
+Wed Dec  8 01:25:19 UTC 2021
 
 <pre>
 
- _________________________________________
-/ O, it is excellent To have a giant's    \
-| strength; but it is tyrannous To use it |
-| like a giant.                           |
-|                                         |
-| -- Shakespeare, "Measure for Measure",  |
-\ II, 2                                   /
- -----------------------------------------
+ ________________________________________
+/ You have a reputation for being        \
+| thoroughly reliable and trustworthy. A |
+\ pity that it's totally undeserved.     /
+ ----------------------------------------
         \   ^__^
-         \  (OO)\_______
+         \  (oo)\_______
             (__)\       )\/\
              :) ||----w |
                 ||     ||
-nltk score: 77 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: 39 '(from -100..100) state: 'good' eye: oo tongue: :)
 
 </pre>
 
