@@ -21,8 +21,8 @@ echo "" >>${README_FILE}
 # init files
 pushd repo
 cat start_part.txt >>${README_FILE}
-cat traffic_report.txt >>${TRAFFIC_REPORT_FILE}
-cat users_starred.txt >>${STARRED_REPOS_FILE}
+cat traffic_report.txt >${TRAFFIC_REPORT_FILE}
+cat users_starred.txt >${STARRED_REPOS_FILE}
 popd
 
 # get cowsay
