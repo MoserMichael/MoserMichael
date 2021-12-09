@@ -58,10 +58,12 @@ if [[ -f ../repo/starcounter.data ]]; then
 fi
 
 ./starcounter.py -l -s -t day  >>${README_FILE}
+
+cp starcounter.data ../repo/
+
 ./starcounter.py -l -v  >>${TRAFFIC_REPORT_FILE}
 ./starcounter.py -l -r  >>${STARRED_REPOS_FILE}
 
-cp starcounter.data ../repo/
 popd
 
 pushd repo
