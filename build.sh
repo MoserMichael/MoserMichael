@@ -1,5 +1,4 @@
 #!/bin/bash
-
 set -ex
 
 cd / 
@@ -11,8 +10,8 @@ git clone $USER_REPO repo
 
 # path to output files
 README_FILE=/repo/README.md
-TRAFFIC_REPORT_FILE=/repo/TRAFFIC_REPORT.md
-STARRED_REPOS_FILE=/repo/USER_STARRED.md
+TRAFFIC_REPORT_FILE=/repo/TRAFFIC_REPORT.html
+STARRED_REPOS_FILE=/repo/USER_STARRED.html
 
 # *** make README file ***
 
@@ -78,8 +77,8 @@ git config --global user.name ${GITHUB_USER}
 echo "*** pushing changed file ***"
 
 git add README.md
-git add TRAFFIC_REPORT.md
-git add USER_STARRED.md
+git add TRAFFIC_REPORT.html
+git add USER_STARRED.html
 
 
 git add starcounter.data
