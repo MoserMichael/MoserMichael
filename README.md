@@ -1,16 +1,26 @@
-Thu Dec  9 18:30:09 UTC 2021
+Thu Dec  9 18:38:56 UTC 2021
 
 <pre>
 
- ___________________________
-< You have no real enemies. >
- ---------------------------
+ ________________________________________
+/ Unless hours were cups of sack, and    \
+| minutes capons, and clocks the tongues |
+| of bawds, and dials the signs of       |
+| leaping houses, and the blessed sun    |
+| himself a fair, hot wench in           |
+| flame-colored taffeta, I see no reason |
+| why thou shouldst be so superfluous to |
+| demand the time of the day. I wasted   |
+| time and now doth time waste me.       |
+|                                        |
+\ -- William Shakespeare                 /
+ ----------------------------------------
         \   ^__^
-         \  (~~)\_______
+         \  (!!)\_______
             (__)\       )\/\
              :( ||----w |
                 ||     ||
-nltk score: -66 '(from -100..100) state: '' eye: ~~ tongue: :(
+nltk score: -41 '(from -100..100) state: 'bad' eye: !! tongue: :(
 
 </pre>
 
@@ -50,7 +60,7 @@ nltk score: -66 '(from -100..100) state: '' eye: ~~ tongue: :(
         Reports
     </td>
     <td>
-        <a href="https://github.com/MoserMichael/MoserMichael/blob/master/TRAFFIC_REPORT.md">Traffic Report</a>; <a ref="https://github.com/MoserMichael/MoserMichael/blob/master/USER_STARRED.md">Repositories starred by user</a>
+        <a href="https://github.com/MoserMichael/MoserMichael/blob/master/TRAFFIC_REPORT.md">Traffic Report</a>; <a href="https://github.com/MoserMichael/MoserMichael/blob/master/USER_STARRED.md">Repositories starred by user</a>
 </tr>
 <tr>
     <td>
