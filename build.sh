@@ -78,6 +78,10 @@ git config --global user.name ${GITHUB_USER}
 echo "*** pushing changed file ***"
 
 git add README.md
+git add TRAFFIC_REPORT.md
+git add USER_STARRED.md
+
+
 git add starcounter.data
 
 git commit -m "automatic build $(date)"
