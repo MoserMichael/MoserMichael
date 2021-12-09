@@ -1,17 +1,16 @@
-Thu Dec  9 18:23:08 UTC 2021
+Thu Dec  9 18:30:09 UTC 2021
 
 <pre>
 
- ______________________________________
-/ You will be the last person to buy a \
-\ Chrysler.                            /
- --------------------------------------
+ ___________________________
+< You have no real enemies. >
+ ---------------------------
         \   ^__^
-         \  (..)\_______
+         \  (~~)\_______
             (__)\       )\/\
-             -- ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: -66 '(from -100..100) state: '' eye: ~~ tongue: :(
 
 </pre>
 
@@ -109,45 +108,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 139 </th></tr>
 </table>
 <br>
-<table><tr><th>Starred Repo</a></th><th>Description of starred repo</th></tr>
-<tr><td><a href="https://api.github.com/repos/bytedance/monoio">monoio</a></td><td>Rust async runtime based on io-uring.</td></tr>
-<tr><td><a href="https://api.github.com/repos/skywind3000/vim-quickui">vim-quickui</a></td><td>The missing UI extensions for Vim 8.2 (and NeoVim 0.4) !! :sunglasses:</td></tr>
-<tr><td><a href="https://api.github.com/repos/cilium/pwru">pwru</a></td><td>Packet, where are you? -- Linux kernel networking debugger</td></tr>
-<tr><td><a href="https://api.github.com/repos/b0o/awesome-by-example">awesome-by-example</a></td><td>😎 A curated list of awesome example-based learning resources.</td></tr>
-<tr><td><a href="https://api.github.com/repos/Yoni-Gold/serverclient-auth-assignment-main">serverclient-auth-assignment-main</a></td><td>None</td></tr>
-<tr><td><a href="https://api.github.com/repos/chrisyeh96/chrisyeh96.github.io">chrisyeh96.github.io</a></td><td>Personal website</td></tr>
-<tr><td><a href="https://api.github.com/repos/benfred/py-spy">py-spy</a></td><td>Sampling profiler for Python programs</td></tr>
-<tr><td><a href="https://api.github.com/repos/joeycastillo/The-Open-Book">The-Open-Book</a></td><td>None</td></tr>
-<tr><td><a href="https://api.github.com/repos/CarterLi/liburing4cpp">liburing4cpp</a></td><td>Modern C++ binding for liburing (io_uring) that features C++ coroutines support</td></tr>
-<tr><td><a href="https://api.github.com/repos/CarterLi/nginx-io_uring">nginx-io_uring</a></td><td>An official read-only mirror of http://hg.nginx.org/nginx/ which is updated hourly. Pull requests on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes to nginx is via the nginx development mailing list, see http://nginx.org/en/docs/contributing_changes.html</td></tr>
-<tr><td><a href="https://api.github.com/repos/joehillen/sysz">sysz</a></td><td>An fzf  terminal UI for systemctl</td></tr>
-<tr><td><a href="https://api.github.com/repos/aalhour/awesome-compilers">awesome-compilers</a></td><td>:sunglasses: Curated list of awesome resources on Compilers, Interpreters and Runtimes</td></tr>
-<tr><td><a href="https://api.github.com/repos/Yoni-Gold/my-site">my-site</a></td><td>None</td></tr>
-<tr><td><a href="https://api.github.com/repos/briansmith/ring">ring</a></td><td>Safe, fast, small crypto using Rust</td></tr>
-<tr><td><a href="https://api.github.com/repos/rustls/rustls">rustls</a></td><td>A modern TLS library in Rust</td></tr>
-<tr><td><a href="https://api.github.com/repos/rui314/mold">mold</a></td><td>mold: A Modern Linker</td></tr>
-<tr><td><a href="https://api.github.com/repos/jacobaustin123/Coral">Coral</a></td><td>The Coral Programming Language: a blazingly-fast, gradually-typed Python compiler with optional static typing for optimization and safety.</td></tr>
-<tr><td><a href="https://api.github.com/repos/jaldhar/Maze">Maze</a></td><td>Maze generation algorithm demo</td></tr>
-<tr><td><a href="https://api.github.com/repos/nushell/nushell">nushell</a></td><td>A new type of shell</td></tr>
-<tr><td><a href="https://api.github.com/repos/SantoshSrinivas79/rickshaw">rickshaw</a></td><td> JavaScript toolkit for creating interactive real-time graphs</td></tr>
-<tr><td><a href="https://api.github.com/repos/analysis-tools-dev/dynamic-analysis">dynamic-analysis</a></td><td>⚙️ A curated list of dynamic analysis tools for all programming languages, binaries, and more.</td></tr>
-<tr><td><a href="https://api.github.com/repos/analysis-tools-dev/static-analysis">static-analysis</a></td><td>⚙️ A curated list of static analysis (SAST) tools for all programming languages, config files, build tools, and more.</td></tr>
-<tr><td><a href="https://api.github.com/repos/thoas/go-funk">go-funk</a></td><td>A modern Go utility library which provides helpers (map, find, contains, filter, ...)</td></tr>
-<tr><td><a href="https://api.github.com/repos/MoserMichael/duckduckbang">duckduckbang</a></td><td>Meta search page that utilises duckduckgo !bang query operators.</td></tr>
-<tr><td><a href="https://api.github.com/repos/shellspec/shellspec">shellspec</a></td><td>A full-featured BDD unit testing framework for bash, ksh, zsh, dash and all POSIX shells</td></tr>
-<tr><td><a href="https://api.github.com/repos/mbucc/shmig">shmig</a></td><td>Database migration tool written in BASH.</td></tr>
-<tr><td><a href="https://api.github.com/repos/mplanchard/pydecor">pydecor</a></td><td>Easy peasy Python decorators</td></tr>
-<tr><td><a href="https://api.github.com/repos/MoserMichael/s9k">s9k</a></td><td>web app for managing kubernetes clusters, with similar functionality as k9s</td></tr>
-<tr><td><a href="https://api.github.com/repos/MoserMichael/kind-helper">kind-helper</a></td><td>Simplifies the creation of practical kubernetes test clusters with the kind utility.</td></tr>
-<tr><td><a href="https://api.github.com/repos/seanbaxter/circle">circle</a></td><td>The compiler is available for download. Get it!</td></tr>
-<tr><td><a href="https://api.github.com/repos/MoserMichael/cppcombinator">cppcombinator</a></td><td>parser  combinator and AST generator in c++17</td></tr>
-<tr><td><a href="https://api.github.com/repos/MoserMichael/jq-illustrated">jq-illustrated</a></td><td>illustrated tutorial of jq (and the scripts that create it)</td></tr>
-<tr><td><a href="https://api.github.com/repos/yaacov/kubectl-sql">kubectl-sql</a></td><td>kubectl-sql is a kubectl plugin that use SQL like language to query the Kubernetes cluster manager</td></tr>
-<tr><td><a href="https://api.github.com/repos/MoserMichael/roget-thesaurus-parser">roget-thesaurus-parser</a></td><td>parses Roget's thesaurus and provide API for querying related words</td></tr>
-<tr><td><a href="https://api.github.com/repos/MoserMichael/myenv">myenv</a></td><td>my work environment (so i don't have to search for it ;-)</td></tr>
-<tr><td><a href="https://api.github.com/repos/MoserMichael/cstuff">cstuff</a></td><td>My C projects and old homepage:</td></tr>
-<tr><td><a href="https://api.github.com/repos/yaacov/okd-installer-hacks">okd-installer-hacks</a></td><td>hacks to install okd using installer</td></tr>
-</table>
     </pre>
   </td>
 </table>
