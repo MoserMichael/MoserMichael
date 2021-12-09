@@ -1,28 +1,30 @@
-Wed Dec  8 14:26:24 UTC 2021
+Thu Dec  9 00:31:05 UTC 2021
 
 <pre>
 
- _______________________________________
-/ If you sow your wild oats, hope for a \
-\ crop failure.                         /
- ---------------------------------------
+ ____________________________________
+/ Tempt not a desperate man.         \
+|                                    |
+| -- William Shakespeare, "Romeo and |
+\ Juliet"                            /
+ ------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
              -- ||----w |
                 ||     ||
-nltk score: -10 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 24 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
 <table width ="100%">
 <tr>
-    <td>
+    <th>
         Name:       
-    </td>
-    <td>
+    </th>
+    <th>
         Michael Moser
-    </td>
+    </th>
 </tr>
 <tr>
     <td>
@@ -104,12 +106,10 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 139 </th></tr>
 </table>
 <br>
-old_date:  2021-12-08 01:10:48.511853 now: 2021-12-08 14:26:35.675741
-python-obj-system stars changed from: 11 to: 12
 
 Traffic report
 
-repo: python-obj-system views: total: 893 unique:  209
+repo: python-obj-system views: total: 907 unique:  213
 Views:
 &nbsp;&nbsp;&nbsp;&nbsp; 2021-11-28 00:00:00 total: 66 unique: 2
 &nbsp;&nbsp;&nbsp;&nbsp; 2021-11-29 00:00:00 total: 2 unique: 2
@@ -121,7 +121,7 @@ Views:
 &nbsp;&nbsp;&nbsp;&nbsp; 2021-12-05 00:00:00 total: 43 unique: 2
 &nbsp;&nbsp;&nbsp;&nbsp; 2021-12-06 00:00:00 total: 85 unique: 7
 &nbsp;&nbsp;&nbsp;&nbsp; 2021-12-07 00:00:00 total: 435 unique: 189
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-08 00:00:00 total: 47 unique: 23
+&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-08 00:00:00 total: 61 unique: 29
 &nbsp;&nbsp;&nbsp;&nbsp;Referrers:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 349 Unique: 2 Url: github.com
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 99 Unique: 51 Url: reddit.com
@@ -131,10 +131,10 @@ Views:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 2 Unique: 1 Url: linkedin.com
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 1 Unique: 1 Url: libhunt.com
 
-repo: MoserMichael views: total: 118 unique:  3
+repo: MoserMichael views: total: 127 unique:  3
 Views:
 &nbsp;&nbsp;&nbsp;&nbsp; 2021-12-07 00:00:00 total: 71 unique: 3
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-08 00:00:00 total: 47 unique: 2
+&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-08 00:00:00 total: 56 unique: 2
 &nbsp;&nbsp;&nbsp;&nbsp;Referrers:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 11 Unique: 3 Url: github.com
 
@@ -152,10 +152,9 @@ Views:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 5 Unique: 5 Url: news.ycombinator.com
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 1 Unique: 1 Url: DuckDuckGo
 
-repo: my-notes views: total: 66 unique:  4
+repo: my-notes views: total: 58 unique:  4
 Views:
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-11-24 00:00:00 total: 3 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-11-25 00:00:00 total: 22 unique: 2
+&nbsp;&nbsp;&nbsp;&nbsp; 2021-11-25 00:00:00 total: 17 unique: 2
 &nbsp;&nbsp;&nbsp;&nbsp; 2021-11-26 00:00:00 total: 6 unique: 1
 &nbsp;&nbsp;&nbsp;&nbsp; 2021-11-27 00:00:00 total: 1 unique: 1
 &nbsp;&nbsp;&nbsp;&nbsp; 2021-11-28 00:00:00 total: 7 unique: 2
@@ -163,7 +162,7 @@ Views:
 &nbsp;&nbsp;&nbsp;&nbsp; 2021-12-07 00:00:00 total: 10 unique: 4
 &nbsp;&nbsp;&nbsp;&nbsp; 2021-12-08 00:00:00 total: 13 unique: 2
 &nbsp;&nbsp;&nbsp;&nbsp;Referrers:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 41 Unique: 3 Url: github.com
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 24 Unique: 3 Url: github.com
 
 repo: devgoodies views: total: 44 unique:  19
 Views:
@@ -193,8 +192,7 @@ Views:
 &nbsp;&nbsp;&nbsp;&nbsp; 2021-12-07 00:00:00 total: 23 unique: 16
 &nbsp;&nbsp;&nbsp;&nbsp; 2021-12-08 00:00:00 total: 1 unique: 1
 &nbsp;&nbsp;&nbsp;&nbsp;Referrers:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 29 Unique: 19 Url: github.com
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 1 Unique: 1 Url: reddit.com
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 28 Unique: 19 Url: github.com
 
 repo: s9k views: total: 22 unique:  13
 Views:
@@ -209,7 +207,6 @@ Views:
 &nbsp;&nbsp;&nbsp;&nbsp;Referrers:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 11 Unique: 7 Url: github.com
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 4 Unique: 2 Url: news.ycombinator.com
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 1 Unique: 1 Url: Google
 
 repo: cppcombinator views: total: 14 unique:  8
 Views:
@@ -223,7 +220,7 @@ Views:
 &nbsp;&nbsp;&nbsp;&nbsp; 2021-12-06 00:00:00 total: 2 unique: 1
 &nbsp;&nbsp;&nbsp;&nbsp; 2021-12-08 00:00:00 total: 1 unique: 1
 &nbsp;&nbsp;&nbsp;&nbsp;Referrers:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 11 Unique: 6 Url: github.com
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 10 Unique: 6 Url: github.com
 
 repo: roget-thesaurus-parser views: total: 13 unique:  4
 Views:
@@ -273,6 +270,13 @@ Views:
 &nbsp;&nbsp;&nbsp;&nbsp;Referrers:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 7 Unique: 5 Url: vim.org
 
+repo: ls-annotations views: total: 8 unique:  3
+Views:
+&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-04 00:00:00 total: 1 unique: 1
+&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-08 00:00:00 total: 7 unique: 2
+&nbsp;&nbsp;&nbsp;&nbsp;Referrers:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 1 Unique: 1 Url: awesomeopensource.com
+
 repo: pygamewrap views: total: 8 unique:  5
 Views:
 &nbsp;&nbsp;&nbsp;&nbsp; 2021-11-27 00:00:00 total: 2 unique: 1
@@ -291,7 +295,7 @@ Views:
 &nbsp;&nbsp;&nbsp;&nbsp; 2021-12-07 00:00:00 total: 4 unique: 2
 &nbsp;&nbsp;&nbsp;&nbsp; 2021-12-08 00:00:00 total: 2 unique: 1
 &nbsp;&nbsp;&nbsp;&nbsp;Referrers:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 4 Unique: 1 Url: github.com
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 3 Unique: 1 Url: github.com
 
 repo: follow-kube-logs views: total: 6 unique:  3
 Views:
@@ -335,14 +339,6 @@ Views:
 &nbsp;&nbsp;&nbsp;&nbsp;Referrers:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 1 Unique: 1 Url: Google
 
-repo: vimcrypt2 views: total: 3 unique:  3
-Views:
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-11-24 00:00:00 total: 1 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-11-25 00:00:00 total: 1 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-07 00:00:00 total: 1 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp;Referrers:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 2 Unique: 2 Url: vim.org
-
 repo: zipit views: total: 3 unique:  3
 Views:
 &nbsp;&nbsp;&nbsp;&nbsp; 2021-11-26 00:00:00 total: 1 unique: 1
@@ -354,28 +350,26 @@ Views:
 repo: flagged-hn views: total: 2 unique:  1
 Views:
 &nbsp;&nbsp;&nbsp;&nbsp; 2021-11-25 00:00:00 total: 2 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp;Referrers:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 2 Unique: 1 Url: github.com
-
-repo: kwchecker views: total: 2 unique:  2
-Views:
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-11-24 00:00:00 total: 1 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-11-28 00:00:00 total: 1 unique: 1
 
 repo: subb views: total: 2 unique:  1
 Views:
 &nbsp;&nbsp;&nbsp;&nbsp; 2021-11-28 00:00:00 total: 2 unique: 1
+
+repo: vimcrypt2 views: total: 2 unique:  2
+Views:
+&nbsp;&nbsp;&nbsp;&nbsp; 2021-11-25 00:00:00 total: 1 unique: 1
+&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-07 00:00:00 total: 1 unique: 1
+&nbsp;&nbsp;&nbsp;&nbsp;Referrers:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 1 Unique: 1 Url: vim.org
 
 repo: visual-python-strace views: total: 2 unique:  2
 Views:
 &nbsp;&nbsp;&nbsp;&nbsp; 2021-11-30 00:00:00 total: 1 unique: 1
 &nbsp;&nbsp;&nbsp;&nbsp; 2021-12-08 00:00:00 total: 1 unique: 1
 
-repo: ls-annotations views: total: 1 unique:  1
+repo: kwchecker views: total: 1 unique:  1
 Views:
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-04 00:00:00 total: 1 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp;Referrers:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 1 Unique: 1 Url: awesomeopensource.com
+&nbsp;&nbsp;&nbsp;&nbsp; 2021-11-28 00:00:00 total: 1 unique: 1
 
 repo: bloxroutehomework views: total: 0 unique:  0
 
@@ -393,7 +387,7 @@ repo: vimcrypt views: total: 0 unique:  0
 
 
 ***
-Total views: 1377
+Total views: 1397
     </pre>
   </td>
 </table>
