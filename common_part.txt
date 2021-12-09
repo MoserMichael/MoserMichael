@@ -26,13 +26,18 @@
         <a href="https://github.com/MoserMichael/my-notes/blob/master/dev-gotchas.md">link to blog</a>
     <td>
 <tr>
-<tr>
-    <td>
-        Contact:    
+<tr> <td> Contact:    
     </td>
     <td>
         moser dot michael at gmail dot com
     </td>
+</tr>
+<tr>
+    <td>
+        Reports
+    </td>
+    <td>
+        <a href="https://github.com/MoserMichael/MoserMichael/blob/master/TRAFFIC_REPORT.md">Traffic Report</a>; <a href="https://github.com/MoserMichael/MoserMichael/blob/master/USERS_STARRED.md"">Repositories starred by user</a>
 </tr>
 <tr>
     <td>

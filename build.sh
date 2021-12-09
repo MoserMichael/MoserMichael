@@ -9,16 +9,21 @@ export PATH=/usr/games:$PATH
 # checkout user repository
 git clone $USER_REPO repo
 
-# path to readme
+# path to output files
 README_FILE=/repo/README.md
-echo "path to readme file: $README_FILE"
+TRAFFIC_REPORT_FILE=/repo/TRAFFIC_REPORT.md
+STARRED_REPOS_FILE=/repo/USER_STARRED.md
+
+# *** make README file ***
 
 date >${README_FILE}
 echo "" >>${README_FILE}
 
-# initial part of radme
+# init files
 pushd repo
 cat start_part.txt >>${README_FILE}
+cat traffic_report.txt >>${TRAFFIC_REPORT_FILE}
+cat users_starred.txt >>${STARRED_REPOS_FILE}
 popd
 
 # get cowsay
@@ -52,7 +57,11 @@ pip3 install -r requirements.txt
 if [[ -f ../repo/starcounter.data ]]; then
     cp ../repo/starcounter.data .
 fi
-./starcounter.py -l -s -v -t day  >>${README_FILE}
+
+./starcounter.py -l -s -t day  >>${README_FILE}
+./starcounter.py -l -v  >>${TRAFFIC_REPORT_FILE}
+./starcounter.py -l -r  >>${STARRED_REPOS_FILE}
+
 cp starcounter.data ../repo/
 popd
 
