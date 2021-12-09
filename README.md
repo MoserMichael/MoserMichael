@@ -1,19 +1,18 @@
-Thu Dec  9 00:31:05 UTC 2021
+Thu Dec  9 17:52:27 UTC 2021
 
 <pre>
 
- ____________________________________
-/ Tempt not a desperate man.         \
-|                                    |
-| -- William Shakespeare, "Romeo and |
-\ Juliet"                            /
- ------------------------------------
+ ________________________________________
+/ You have a reputation for being        \
+| thoroughly reliable and trustworthy. A |
+\ pity that it's totally undeserved.     /
+ ----------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (oo)\_______
             (__)\       )\/\
-             -- ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: 24 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 39 '(from -100..100) state: 'good' eye: oo tongue: :)
 
 </pre>
 
@@ -42,13 +41,18 @@ nltk score: 24 '(from -100..100) state: 'neutral' eye: .. tongue: --
         <a href="https://github.com/MoserMichael/my-notes/blob/master/dev-gotchas.md">link to blog</a>
     <td>
 <tr>
-<tr>
-    <td>
-        Contact:    
+<tr> <td> Contact:    
     </td>
     <td>
         moser dot michael at gmail dot com
     </td>
+</tr>
+<tr>
+    <td>
+        Reports
+    </td>
+    <td>
+        <a href="https://github.com/MoserMichael/MoserMichael/blob/master/TRAFFIC_REPORT.md">Traffic Report</a>; <a href="https://github.com/MoserMichael/MoserMichael/blob/master/USERS_STARRED.md"">Repositories starred by user</a>
 </tr>
 <tr>
     <td>
@@ -94,7 +98,7 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/kwchecker">kwchecker</a></td><td>0</td><td>Declarative verifier and sanitizer for python kwargs parameters.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/ls-annotations">ls-annotations</a></td><td>0</td><td>Show all declarations with java annotations by decompiling byte code.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/microsofthomework">microsofthomework</a></td><td>0</td><td>Homework assignment at a Microsoft job interview</td></tr>
-<tr><td><a href="https://github.com/MoserMichael/MoserMichael">MoserMichael</a></td><td>0</td><td>some blurb about the owner and his stuff. A script generates README.md, that appears on the public profile.</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/MoserMichael">MoserMichael</a></td><td>0</td><td>some blurb about the owner and his stuff. A script generates README.md, that appears on the public profile. The script is run periodically by github action.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/my-notes">my-notes</a></td><td>0</td><td>Keeping notes while learning stuff (so they don't get lost) These notes are best viewed in vim - meaning in a fixed font with text wrapping)</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/printb">printb</a></td><td>0</td><td>Adds bidi aware 'print' and 'input' functions.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/scriptrunner-operator">scriptrunner-operator</a></td><td>0</td><td>k8s operator that runs python scripts.</td></tr>
@@ -106,288 +110,45 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 139 </th></tr>
 </table>
 <br>
-
-Traffic report
-
-repo: python-obj-system views: total: 907 unique:  213
-Views:
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-11-28 00:00:00 total: 66 unique: 2
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-11-29 00:00:00 total: 2 unique: 2
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-11-30 00:00:00 total: 10 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-01 00:00:00 total: 1 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-02 00:00:00 total: 71 unique: 2
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-03 00:00:00 total: 30 unique: 3
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-04 00:00:00 total: 103 unique: 2
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-05 00:00:00 total: 43 unique: 2
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-06 00:00:00 total: 85 unique: 7
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-07 00:00:00 total: 435 unique: 189
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-08 00:00:00 total: 61 unique: 29
-&nbsp;&nbsp;&nbsp;&nbsp;Referrers:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 349 Unique: 2 Url: github.com
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 99 Unique: 51 Url: reddit.com
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 4 Unique: 3 Url: old.reddit.com
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 3 Unique: 2 Url: gist.github.com
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 2 Unique: 2 Url: Bing
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 2 Unique: 1 Url: linkedin.com
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 1 Unique: 1 Url: libhunt.com
-
-repo: MoserMichael views: total: 127 unique:  3
-Views:
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-07 00:00:00 total: 71 unique: 3
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-08 00:00:00 total: 56 unique: 2
-&nbsp;&nbsp;&nbsp;&nbsp;Referrers:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 11 Unique: 3 Url: github.com
-
-repo: duckduckbang views: total: 77 unique:  12
-Views:
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-11-27 00:00:00 total: 1 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-01 00:00:00 total: 7 unique: 5
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-02 00:00:00 total: 7 unique: 5
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-03 00:00:00 total: 3 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-04 00:00:00 total: 3 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-05 00:00:00 total: 2 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-07 00:00:00 total: 54 unique: 3
-&nbsp;&nbsp;&nbsp;&nbsp;Referrers:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 21 Unique: 5 Url: github.com
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 5 Unique: 5 Url: news.ycombinator.com
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 1 Unique: 1 Url: DuckDuckGo
-
-repo: my-notes views: total: 58 unique:  4
-Views:
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-11-25 00:00:00 total: 17 unique: 2
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-11-26 00:00:00 total: 6 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-11-27 00:00:00 total: 1 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-11-28 00:00:00 total: 7 unique: 2
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-04 00:00:00 total: 4 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-07 00:00:00 total: 10 unique: 4
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-08 00:00:00 total: 13 unique: 2
-&nbsp;&nbsp;&nbsp;&nbsp;Referrers:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 24 Unique: 3 Url: github.com
-
-repo: devgoodies views: total: 44 unique:  19
-Views:
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-11-26 00:00:00 total: 14 unique: 4
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-11-27 00:00:00 total: 7 unique: 3
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-11-28 00:00:00 total: 1 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-11-29 00:00:00 total: 11 unique: 3
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-11-30 00:00:00 total: 1 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-02 00:00:00 total: 2 unique: 2
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-03 00:00:00 total: 2 unique: 2
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-04 00:00:00 total: 1 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-06 00:00:00 total: 2 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-07 00:00:00 total: 3 unique: 2
-&nbsp;&nbsp;&nbsp;&nbsp;Referrers:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 28 Unique: 15 Url: vim.org
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 2 Unique: 2 Url: github.com
-
-repo: pythonimportplayground views: total: 35 unique:  21
-Views:
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-11-25 00:00:00 total: 2 unique: 2
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-11-26 00:00:00 total: 1 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-11-28 00:00:00 total: 1 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-11-29 00:00:00 total: 2 unique: 2
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-02 00:00:00 total: 3 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-04 00:00:00 total: 1 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-06 00:00:00 total: 1 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-07 00:00:00 total: 23 unique: 16
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-08 00:00:00 total: 1 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp;Referrers:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 28 Unique: 19 Url: github.com
-
-repo: s9k views: total: 22 unique:  13
-Views:
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-11-25 00:00:00 total: 1 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-11-26 00:00:00 total: 1 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-11-29 00:00:00 total: 2 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-11-30 00:00:00 total: 1 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-04 00:00:00 total: 7 unique: 3
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-05 00:00:00 total: 8 unique: 4
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-06 00:00:00 total: 1 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-07 00:00:00 total: 1 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp;Referrers:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 11 Unique: 7 Url: github.com
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 4 Unique: 2 Url: news.ycombinator.com
-
-repo: cppcombinator views: total: 14 unique:  8
-Views:
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-11-25 00:00:00 total: 1 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-11-26 00:00:00 total: 1 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-11-29 00:00:00 total: 1 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-01 00:00:00 total: 1 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-02 00:00:00 total: 2 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-03 00:00:00 total: 1 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-04 00:00:00 total: 4 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-06 00:00:00 total: 2 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-08 00:00:00 total: 1 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp;Referrers:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 10 Unique: 6 Url: github.com
-
-repo: roget-thesaurus-parser views: total: 13 unique:  4
-Views:
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-01 00:00:00 total: 2 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-04 00:00:00 total: 1 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-05 00:00:00 total: 4 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-07 00:00:00 total: 5 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-08 00:00:00 total: 1 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp;Referrers:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 8 Unique: 3 Url: github.com
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 2 Unique: 1 Url: Google
-
-repo: grpc-spring-boot-starter-utils views: total: 11 unique:  1
-Views:
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-02 00:00:00 total: 11 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp;Referrers:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 11 Unique: 1 Url: github.com
-
-repo: kind-helper views: total: 10 unique:  2
-Views:
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-11-29 00:00:00 total: 2 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-03 00:00:00 total: 1 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-07 00:00:00 total: 7 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp;Referrers:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 9 Unique: 1 Url: github.com
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 1 Unique: 1 Url: news.ycombinator.com
-
-repo: pprintex views: total: 10 unique:  5
-Views:
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-11-26 00:00:00 total: 1 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-11-28 00:00:00 total: 1 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-01 00:00:00 total: 3 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-03 00:00:00 total: 1 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-06 00:00:00 total: 3 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-07 00:00:00 total: 1 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp;Referrers:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 3 Unique: 2 Url: github.com
-
-repo: gitblame views: total: 8 unique:  5
-Views:
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-11-26 00:00:00 total: 3 unique: 2
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-11-29 00:00:00 total: 1 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-03 00:00:00 total: 1 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-06 00:00:00 total: 1 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-07 00:00:00 total: 1 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-08 00:00:00 total: 1 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp;Referrers:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 7 Unique: 5 Url: vim.org
-
-repo: ls-annotations views: total: 8 unique:  3
-Views:
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-04 00:00:00 total: 1 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-08 00:00:00 total: 7 unique: 2
-&nbsp;&nbsp;&nbsp;&nbsp;Referrers:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 1 Unique: 1 Url: awesomeopensource.com
-
-repo: pygamewrap views: total: 8 unique:  5
-Views:
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-11-27 00:00:00 total: 2 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-11-28 00:00:00 total: 1 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-11-29 00:00:00 total: 1 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-01 00:00:00 total: 3 unique: 2
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-02 00:00:00 total: 1 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp;Referrers:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 3 Unique: 2 Url: github.com
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 1 Unique: 1 Url: pypi.org
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 1 Unique: 1 Url: Google
-
-repo: githubapitools views: total: 7 unique:  2
-Views:
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-11-25 00:00:00 total: 1 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-07 00:00:00 total: 4 unique: 2
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-08 00:00:00 total: 2 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp;Referrers:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 3 Unique: 1 Url: github.com
-
-repo: follow-kube-logs views: total: 6 unique:  3
-Views:
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-04 00:00:00 total: 1 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-08 00:00:00 total: 5 unique: 2
-&nbsp;&nbsp;&nbsp;&nbsp;Referrers:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 1 Unique: 1 Url: github.com
-
-repo: cstuff views: total: 5 unique:  1
-Views:
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-11-26 00:00:00 total: 2 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-11-29 00:00:00 total: 2 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-03 00:00:00 total: 1 unique: 1
-
-repo: myenv views: total: 4 unique:  3
-Views:
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-11-26 00:00:00 total: 1 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-02 00:00:00 total: 2 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-07 00:00:00 total: 1 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp;Referrers:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 4 Unique: 3 Url: github.com
-
-repo: opinionated-fortune-cow views: total: 4 unique:  2
-Views:
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-07 00:00:00 total: 3 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-08 00:00:00 total: 1 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp;Referrers:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 3 Unique: 1 Url: github.com
-
-repo: printb views: total: 4 unique:  2
-Views:
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-11-29 00:00:00 total: 1 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-04 00:00:00 total: 1 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-05 00:00:00 total: 1 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-06 00:00:00 total: 1 unique: 1
-
-repo: k8explain views: total: 3 unique:  2
-Views:
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-07 00:00:00 total: 1 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-08 00:00:00 total: 2 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp;Referrers:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 1 Unique: 1 Url: Google
-
-repo: zipit views: total: 3 unique:  3
-Views:
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-11-26 00:00:00 total: 1 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-03 00:00:00 total: 1 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-08 00:00:00 total: 1 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp;Referrers:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 2 Unique: 2 Url: Google
-
-repo: flagged-hn views: total: 2 unique:  1
-Views:
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-11-25 00:00:00 total: 2 unique: 1
-
-repo: subb views: total: 2 unique:  1
-Views:
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-11-28 00:00:00 total: 2 unique: 1
-
-repo: vimcrypt2 views: total: 2 unique:  2
-Views:
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-11-25 00:00:00 total: 1 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-07 00:00:00 total: 1 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp;Referrers:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count: 1 Unique: 1 Url: vim.org
-
-repo: visual-python-strace views: total: 2 unique:  2
-Views:
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-11-30 00:00:00 total: 1 unique: 1
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-12-08 00:00:00 total: 1 unique: 1
-
-repo: kwchecker views: total: 1 unique:  1
-Views:
-&nbsp;&nbsp;&nbsp;&nbsp; 2021-11-28 00:00:00 total: 1 unique: 1
-
-repo: bloxroutehomework views: total: 0 unique:  0
-
-repo: github_pr_comments views: total: 0 unique:  0
-
-repo: jq-illustrated views: total: 0 unique:  0
-
-repo: microsofthomework views: total: 0 unique:  0
-
-repo: pythoncourse views: total: 0 unique:  0
-
-repo: scriptrunner-operator views: total: 0 unique:  0
-
-repo: vimcrypt views: total: 0 unique:  0
-
-
-***
-Total views: 1397
+<table><tr><th>Starred Repo</a></th><th>Description of starred repo</th></tr>
+<tr><td><a href="https://api.github.com/repos/bytedance/monoio">monoio</a></td><td>Rust async runtime based on io-uring.</td></tr>
+<tr><td><a href="https://api.github.com/repos/skywind3000/vim-quickui">vim-quickui</a></td><td>The missing UI extensions for Vim 8.2 (and NeoVim 0.4) !! :sunglasses:</td></tr>
+<tr><td><a href="https://api.github.com/repos/cilium/pwru">pwru</a></td><td>Packet, where are you? -- Linux kernel networking debugger</td></tr>
+<tr><td><a href="https://api.github.com/repos/b0o/awesome-by-example">awesome-by-example</a></td><td>😎 A curated list of awesome example-based learning resources.</td></tr>
+<tr><td><a href="https://api.github.com/repos/Yoni-Gold/serverclient-auth-assignment-main">serverclient-auth-assignment-main</a></td><td>None</td></tr>
+<tr><td><a href="https://api.github.com/repos/chrisyeh96/chrisyeh96.github.io">chrisyeh96.github.io</a></td><td>Personal website</td></tr>
+<tr><td><a href="https://api.github.com/repos/benfred/py-spy">py-spy</a></td><td>Sampling profiler for Python programs</td></tr>
+<tr><td><a href="https://api.github.com/repos/joeycastillo/The-Open-Book">The-Open-Book</a></td><td>None</td></tr>
+<tr><td><a href="https://api.github.com/repos/CarterLi/liburing4cpp">liburing4cpp</a></td><td>Modern C++ binding for liburing (io_uring) that features C++ coroutines support</td></tr>
+<tr><td><a href="https://api.github.com/repos/CarterLi/nginx-io_uring">nginx-io_uring</a></td><td>An official read-only mirror of http://hg.nginx.org/nginx/ which is updated hourly. Pull requests on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes to nginx is via the nginx development mailing list, see http://nginx.org/en/docs/contributing_changes.html</td></tr>
+<tr><td><a href="https://api.github.com/repos/joehillen/sysz">sysz</a></td><td>An fzf  terminal UI for systemctl</td></tr>
+<tr><td><a href="https://api.github.com/repos/aalhour/awesome-compilers">awesome-compilers</a></td><td>:sunglasses: Curated list of awesome resources on Compilers, Interpreters and Runtimes</td></tr>
+<tr><td><a href="https://api.github.com/repos/Yoni-Gold/my-site">my-site</a></td><td>None</td></tr>
+<tr><td><a href="https://api.github.com/repos/briansmith/ring">ring</a></td><td>Safe, fast, small crypto using Rust</td></tr>
+<tr><td><a href="https://api.github.com/repos/rustls/rustls">rustls</a></td><td>A modern TLS library in Rust</td></tr>
+<tr><td><a href="https://api.github.com/repos/rui314/mold">mold</a></td><td>mold: A Modern Linker</td></tr>
+<tr><td><a href="https://api.github.com/repos/jacobaustin123/Coral">Coral</a></td><td>The Coral Programming Language: a blazingly-fast, gradually-typed Python compiler with optional static typing for optimization and safety.</td></tr>
+<tr><td><a href="https://api.github.com/repos/jaldhar/Maze">Maze</a></td><td>Maze generation algorithm demo</td></tr>
+<tr><td><a href="https://api.github.com/repos/nushell/nushell">nushell</a></td><td>A new type of shell</td></tr>
+<tr><td><a href="https://api.github.com/repos/SantoshSrinivas79/rickshaw">rickshaw</a></td><td> JavaScript toolkit for creating interactive real-time graphs</td></tr>
+<tr><td><a href="https://api.github.com/repos/analysis-tools-dev/dynamic-analysis">dynamic-analysis</a></td><td>⚙️ A curated list of dynamic analysis tools for all programming languages, binaries, and more.</td></tr>
+<tr><td><a href="https://api.github.com/repos/analysis-tools-dev/static-analysis">static-analysis</a></td><td>⚙️ A curated list of static analysis (SAST) tools for all programming languages, config files, build tools, and more.</td></tr>
+<tr><td><a href="https://api.github.com/repos/thoas/go-funk">go-funk</a></td><td>A modern Go utility library which provides helpers (map, find, contains, filter, ...)</td></tr>
+<tr><td><a href="https://api.github.com/repos/MoserMichael/duckduckbang">duckduckbang</a></td><td>Meta search page that utilises duckduckgo !bang query operators.</td></tr>
+<tr><td><a href="https://api.github.com/repos/shellspec/shellspec">shellspec</a></td><td>A full-featured BDD unit testing framework for bash, ksh, zsh, dash and all POSIX shells</td></tr>
+<tr><td><a href="https://api.github.com/repos/mbucc/shmig">shmig</a></td><td>Database migration tool written in BASH.</td></tr>
+<tr><td><a href="https://api.github.com/repos/mplanchard/pydecor">pydecor</a></td><td>Easy peasy Python decorators</td></tr>
+<tr><td><a href="https://api.github.com/repos/MoserMichael/s9k">s9k</a></td><td>web app for managing kubernetes clusters, with similar functionality as k9s</td></tr>
+<tr><td><a href="https://api.github.com/repos/MoserMichael/kind-helper">kind-helper</a></td><td>Simplifies the creation of practical kubernetes test clusters with the kind utility.</td></tr>
+<tr><td><a href="https://api.github.com/repos/seanbaxter/circle">circle</a></td><td>The compiler is available for download. Get it!</td></tr>
+<tr><td><a href="https://api.github.com/repos/MoserMichael/cppcombinator">cppcombinator</a></td><td>parser  combinator and AST generator in c++17</td></tr>
+<tr><td><a href="https://api.github.com/repos/MoserMichael/jq-illustrated">jq-illustrated</a></td><td>illustrated tutorial of jq (and the scripts that create it)</td></tr>
+<tr><td><a href="https://api.github.com/repos/yaacov/kubectl-sql">kubectl-sql</a></td><td>kubectl-sql is a kubectl plugin that use SQL like language to query the Kubernetes cluster manager</td></tr>
+<tr><td><a href="https://api.github.com/repos/MoserMichael/roget-thesaurus-parser">roget-thesaurus-parser</a></td><td>parses Roget's thesaurus and provide API for querying related words</td></tr>
+<tr><td><a href="https://api.github.com/repos/MoserMichael/myenv">myenv</a></td><td>my work environment (so i don't have to search for it ;-)</td></tr>
+<tr><td><a href="https://api.github.com/repos/MoserMichael/cstuff">cstuff</a></td><td>My C projects and old homepage:</td></tr>
+<tr><td><a href="https://api.github.com/repos/yaacov/okd-installer-hacks">okd-installer-hacks</a></td><td>hacks to install okd using installer</td></tr>
+</table>
     </pre>
   </td>
 </table>
