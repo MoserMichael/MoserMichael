@@ -1,17 +1,17 @@
-Thu Dec  9 18:13:07 UTC 2021
+Thu Dec  9 18:23:08 UTC 2021
 
 <pre>
 
  ______________________________________
-/ You look like a million dollars. All \
-\ green and wrinkled.                  /
+/ You will be the last person to buy a \
+\ Chrysler.                            /
  --------------------------------------
         \   ^__^
-         \  (oo)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :) ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: 36 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
@@ -51,7 +51,7 @@ nltk score: 36 '(from -100..100) state: 'good' eye: oo tongue: :)
         Reports
     </td>
     <td>
-        <a href="https://raw.githubusercontent.com/MoserMichael/MoserMichael/master/TRAFFIC_REPORT.html">Traffic Report</a>; <a ref="Uhttps://raw.githubusercontent.com/MoserMichael/MoserMichael/master/USER_STARRED.html">Repositories starred by user</a>
+        <a href="https://github.com/MoserMichael/MoserMichael/blob/master/TRAFFIC_REPORT.md">Traffic Report</a>; <a ref="https://github.com/MoserMichael/MoserMichael/blob/master/USER_STARRED.md">Repositories starred by user</a>
 </tr>
 <tr>
     <td>
