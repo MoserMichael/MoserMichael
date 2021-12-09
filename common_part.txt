@@ -37,7 +37,7 @@
         Reports
     </td>
     <td>
-        <a href="https://raw.githubusercontent.com/MoserMichael/MoserMichael/master/TRAFFIC_REPORT.html">Traffic Report</a>; <a ref="Uhttps://raw.githubusercontent.com/MoserMichael/MoserMichael/master/USER_STARRED.html">Repositories starred by user</a>
+        <a href="https://github.com/MoserMichael/MoserMichael/blob/master/TRAFFIC_REPORT.md">Traffic Report</a>; <a ref="https://github.com/MoserMichael/MoserMichael/blob/master/USER_STARRED.md">Repositories starred by user</a>
 </tr>
 <tr>
     <td>
