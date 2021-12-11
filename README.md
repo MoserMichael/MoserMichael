@@ -1,29 +1,19 @@
-Fri Dec 10 11:39:06 UTC 2021
+Sat Dec 11 00:29:35 UTC 2021
 
 <pre>
 
- _______________________________________
-/ Delay not, Caesar. Read it instantly. \
-|                                       |
-| -- Shakespeare, "Julius Caesar" 3,1   |
-|                                       |
-| Here is a letter, read it at your     |
-| leisure.                              |
-|                                       |
-| -- Shakespeare, "Merchant of Venice"  |
-| 5,1                                   |
-|                                       |
-| [Quoted in "VMS Internals and Data    |
-| Structures", V4.4, when               |
-|                                       |
-\ referring to I/O system services.]    /
- ---------------------------------------
+ _________________________________________
+/ The abuse of greatness is when it       \
+| disjoins remorse from power.            |
+|                                         |
+\ -- William Shakespeare, "Julius Caesar" /
+ -----------------------------------------
         \   ^__^
-         \  (!!)\_______
+         \  (~~)\_______
             (__)\       )\/\
              :( ||----w |
                 ||     ||
-nltk score: -32 '(from -100..100) state: 'bad' eye: !! tongue: :(
+nltk score: -74 '(from -100..100) state: '' eye: ~~ tongue: :(
 
 </pre>
 
@@ -121,8 +111,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 140 </th></tr>
 </table>
 <br>
-old_date:  2021-12-08 14:26:35.675891 now: 2021-12-10 11:39:45.872883
-python-obj-system stars changed from: 12 to: 13
     </pre>
   </td>
 </table>
