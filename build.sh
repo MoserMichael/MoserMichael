@@ -61,7 +61,7 @@ fi
 
 cp starcounter.data ../repo/
 
-./starcounter.py -l -v  >>${TRAFFIC_REPORT_FILE}
+./starcounter.py -l -t day -v  >>${TRAFFIC_REPORT_FILE}
 ./starcounter.py -l -r  >>${STARRED_REPOS_FILE}
 
 popd
