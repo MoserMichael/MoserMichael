@@ -1,19 +1,20 @@
-Sun Dec 12 00:33:25 UTC 2021
+Sun Dec 12 23:38:47 UTC 2021
 
 <pre>
 
- ______________________________________
-/ When one burns one's bridges, what a \
-| very nice fire it makes.             |
-|                                      |
-\ -- Dylan Thomas                      /
- --------------------------------------
+ _______________________________________
+/ Anyone who has had a bull by the tail \
+| knows five or six more things than    |
+| someone who hasn't.                   |
+|                                       |
+\ -- Mark Twain                         /
+ ---------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
              -- ||----w |
                 ||     ||
-nltk score: 11 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
@@ -73,22 +74,22 @@ My stuff here:
         <pre>
 
 <table><tr><th align='left'>Name</th><th align='left'>Stars</th><th align='left'>description</th></tr>
-<tr><td><a href="https://github.com/MoserMichael/duckduckbang">duckduckbang</a></td><td>24</td><td>Meta search page that utilises duckduckgo !bang query operators.</td></tr>
-<tr><td><a href="https://github.com/MoserMichael/kind-helper">kind-helper</a></td><td>20</td><td>Simplifies the creation of practical kubernetes test clusters with the kind utility.</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/duckduckbang">duckduckbang</a></td><td>23</td><td>Meta search page that utilises duckduckgo !bang query operators.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/jq-illustrated">jq-illustrated</a></td><td>19</td><td>illustrated tutorial of jq (and the scripts that create it)</td></tr>
-<tr><td><a href="https://github.com/MoserMichael/cppcombinator">cppcombinator</a></td><td>18</td><td>parser  combinator and AST generator in c++17</td></tr>
-<tr><td><a href="https://github.com/MoserMichael/python-obj-system">python-obj-system</a></td><td>13</td><td>Tutorials on advanced python topics, and literate programming framework to write them.</td></tr>
-<tr><td><a href="https://github.com/MoserMichael/s9k">s9k</a></td><td>13</td><td>web app for managing kubernetes clusters, with similar functionality as k9s</td></tr>
-<tr><td><a href="https://github.com/MoserMichael/cstuff">cstuff</a></td><td>11</td><td>My C projects and old homepage:</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/kind-helper">kind-helper</a></td><td>19</td><td>Simplifies the creation of practical kubernetes test clusters with the kind utility.</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/cppcombinator">cppcombinator</a></td><td>17</td><td>parser  combinator and AST generator in c++17</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/python-obj-system">python-obj-system</a></td><td>12</td><td>Tutorials on advanced python topics, and literate programming framework to write them.</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/s9k">s9k</a></td><td>12</td><td>web app for managing kubernetes clusters, with similar functionality as k9s</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/cstuff">cstuff</a></td><td>10</td><td>My C projects and old homepage:</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/pythonimportplayground">pythonimportplayground</a></td><td>5</td><td>the readme file explains python packages, with examples.</td></tr>
-<tr><td><a href="https://github.com/MoserMichael/myenv">myenv</a></td><td>4</td><td>my work environment (so i don't have to search for it ;-)</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/pygamewrap">pygamewrap</a></td><td>4</td><td>A small wrapper toolkit that simplifies development with the pygame library (hopefully)</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/myenv">myenv</a></td><td>3</td><td>my work environment (so i don't have to search for it ;-)</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/pprintex">pprintex</a></td><td>2</td><td>python pretty printer, unlinke pprint it prints out all object field values.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/pythoncourse">pythoncourse</a></td><td>2</td><td>my notes on teaching the python programming language.</td></tr>
-<tr><td><a href="https://github.com/MoserMichael/roget-thesaurus-parser">roget-thesaurus-parser</a></td><td>2</td><td>parses Roget's thesaurus and provide API for querying related words</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/gitblame">gitblame</a></td><td>1</td><td>minimal vim plugin for working with git; with a focus on git blame and git grep commands</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/k8explain">k8explain</a></td><td>1</td><td>golang exercise: produce a table of kubernetes api resources where each row is linked to an explanation</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/opinionated-fortune-cow">opinionated-fortune-cow</a></td><td>1</td><td>fortune | cow pipe that runs sentiment analysis to determine the mood and expression of the cow</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/roget-thesaurus-parser">roget-thesaurus-parser</a></td><td>1</td><td>parses Roget's thesaurus and provide API for querying related words</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/bloxroutehomework">bloxroutehomework</a></td><td>0</td><td>assignment for bloxroute interview</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/devgoodies">devgoodies</a></td><td>0</td><td>Vim plugin - useful commands for editing code.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/flagged-hn">flagged-hn</a></td><td>0</td><td>crawl hn and build a page containing flagged stories only.</td></tr>
@@ -108,9 +109,18 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/vimcrypt2">vimcrypt2</a></td><td>0</td><td>Advanced vim plugin to encrypt files with openssl</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/visual-python-strace">visual-python-strace</a></td><td>0</td><td>show a very long stack trace with variable values.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/zipit">zipit</a></td><td>0</td><td>c++ library for the equivalent of python/haskell zip function</td></tr>
-<tr><th>Total stars:</th><th colspan='2' align='left'> 140 </th></tr>
+<tr><th>Total stars:</th><th colspan='2' align='left'> 132 </th></tr>
 </table>
 <br>
+old_date:  2021-12-10 11:39:45.873067 now: 2021-12-12 23:39:11.675472
+duckduckbang stars changed from: 24 to: 23
+kind-helper stars changed from: 20 to: 19
+cppcombinator stars changed from: 18 to: 17
+python-obj-system stars changed from: 13 to: 12
+s9k stars changed from: 13 to: 12
+cstuff stars changed from: 11 to: 10
+myenv stars changed from: 4 to: 3
+roget-thesaurus-parser stars changed from: 2 to: 1
     </pre>
   </td>
 </table>
