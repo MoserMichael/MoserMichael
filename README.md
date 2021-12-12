@@ -1,17 +1,19 @@
-Sat Dec 11 06:33:13 UTC 2021
+Sun Dec 12 00:33:25 UTC 2021
 
 <pre>
 
- _______________________________________
-/ You will meet an important person who \
-\ will help you advance professionally. /
- ---------------------------------------
+ ______________________________________
+/ When one burns one's bridges, what a \
+| very nice fire it makes.             |
+|                                      |
+\ -- Dylan Thomas                      /
+ --------------------------------------
         \   ^__^
-         \  (oo)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :) ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: 54 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: 11 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
@@ -103,7 +105,7 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/scriptrunner-operator">scriptrunner-operator</a></td><td>0</td><td>k8s operator that runs python scripts.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/subb">subb</a></td><td>0</td><td>a wrapper module for python subprocess</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/vimcrypt">vimcrypt</a></td><td>0</td><td>my vim plugin for encrypting/decryting text files with openssl</td></tr>
-<tr><td><a href="https://github.com/MoserMichael/vimcrypt2">vimcrypt2</a></td><td>0</td><td>vim plugin to encrypt files with openssl</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/vimcrypt2">vimcrypt2</a></td><td>0</td><td>Advanced vim plugin to encrypt files with openssl</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/visual-python-strace">visual-python-strace</a></td><td>0</td><td>show a very long stack trace with variable values.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/zipit">zipit</a></td><td>0</td><td>c++ library for the equivalent of python/haskell zip function</td></tr>
 <tr><th>Total stars:</th><th colspan='2' align='left'> 140 </th></tr>
