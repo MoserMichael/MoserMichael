@@ -1,20 +1,17 @@
-Sun Dec 12 23:38:47 UTC 2021
+Mon Dec 13 00:31:48 UTC 2021
 
 <pre>
 
- _______________________________________
-/ Anyone who has had a bull by the tail \
-| knows five or six more things than    |
-| someone who hasn't.                   |
-|                                       |
-\ -- Mark Twain                         /
- ---------------------------------------
+ _________________________________________
+/ Your aims are high, and you are capable \
+\ of much.                                /
+ -----------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (oo)\_______
             (__)\       )\/\
-             -- ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 38 '(from -100..100) state: 'good' eye: oo tongue: :)
 
 </pre>
 
@@ -86,10 +83,10 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/myenv">myenv</a></td><td>3</td><td>my work environment (so i don't have to search for it ;-)</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/pprintex">pprintex</a></td><td>2</td><td>python pretty printer, unlinke pprint it prints out all object field values.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/pythoncourse">pythoncourse</a></td><td>2</td><td>my notes on teaching the python programming language.</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/roget-thesaurus-parser">roget-thesaurus-parser</a></td><td>2</td><td>parses Roget's thesaurus and provide API for querying related words</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/gitblame">gitblame</a></td><td>1</td><td>minimal vim plugin for working with git; with a focus on git blame and git grep commands</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/k8explain">k8explain</a></td><td>1</td><td>golang exercise: produce a table of kubernetes api resources where each row is linked to an explanation</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/opinionated-fortune-cow">opinionated-fortune-cow</a></td><td>1</td><td>fortune | cow pipe that runs sentiment analysis to determine the mood and expression of the cow</td></tr>
-<tr><td><a href="https://github.com/MoserMichael/roget-thesaurus-parser">roget-thesaurus-parser</a></td><td>1</td><td>parses Roget's thesaurus and provide API for querying related words</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/bloxroutehomework">bloxroutehomework</a></td><td>0</td><td>assignment for bloxroute interview</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/devgoodies">devgoodies</a></td><td>0</td><td>Vim plugin - useful commands for editing code.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/flagged-hn">flagged-hn</a></td><td>0</td><td>crawl hn and build a page containing flagged stories only.</td></tr>
@@ -109,18 +106,11 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/vimcrypt2">vimcrypt2</a></td><td>0</td><td>Advanced vim plugin to encrypt files with openssl</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/visual-python-strace">visual-python-strace</a></td><td>0</td><td>show a very long stack trace with variable values.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/zipit">zipit</a></td><td>0</td><td>c++ library for the equivalent of python/haskell zip function</td></tr>
-<tr><th>Total stars:</th><th colspan='2' align='left'> 132 </th></tr>
+<tr><th>Total stars:</th><th colspan='2' align='left'> 133 </th></tr>
 </table>
 <br>
-old_date:  2021-12-10 11:39:45.873067 now: 2021-12-12 23:39:11.675472
-duckduckbang stars changed from: 24 to: 23
-kind-helper stars changed from: 20 to: 19
-cppcombinator stars changed from: 18 to: 17
-python-obj-system stars changed from: 13 to: 12
-s9k stars changed from: 13 to: 12
-cstuff stars changed from: 11 to: 10
-myenv stars changed from: 4 to: 3
-roget-thesaurus-parser stars changed from: 2 to: 1
+old_date:  2021-12-12 23:39:11.675701 now: 2021-12-13 00:31:59.770927
+roget-thesaurus-parser stars changed from: 1 to: 2
     </pre>
   </td>
 </table>
