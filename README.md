@@ -1,17 +1,17 @@
-Mon Dec 13 00:31:48 UTC 2021
+Tue Dec 14 00:33:23 UTC 2021
 
 <pre>
 
- _________________________________________
-/ Your aims are high, and you are capable \
-\ of much.                                /
- -----------------------------------------
+ _______________________________________
+/ You will be aided greatly by a person \
+\ whom you thought to be unimportant.   /
+ ---------------------------------------
         \   ^__^
-         \  (oo)\_______
+         \  (!!)\_______
             (__)\       )\/\
-             :) ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 38 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: -32 '(from -100..100) state: 'bad' eye: !! tongue: :(
 
 </pre>
 
@@ -109,8 +109,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 133 </th></tr>
 </table>
 <br>
-old_date:  2021-12-12 23:39:11.675701 now: 2021-12-13 00:31:59.770927
-roget-thesaurus-parser stars changed from: 1 to: 2
     </pre>
   </td>
 </table>
