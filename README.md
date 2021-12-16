@@ -1,10 +1,11 @@
-Wed Dec 15 00:30:59 UTC 2021
+Thu Dec 16 00:31:30 UTC 2021
 
 <pre>
 
  ________________________________________
-/ The very ink with which all history is \
-| written is merely fluid prejudice.     |
+/ No group of professionals meets except \
+| to conspire against the public at      |
+| large.                                 |
 |                                        |
 \ -- Mark Twain                          /
  ----------------------------------------
@@ -13,7 +14,7 @@ Wed Dec 15 00:30:59 UTC 2021
             (__)\       )\/\
              :( ||----w |
                 ||     ||
-nltk score: -51 '(from -100..100) state: 'bad' eye: !! tongue: :(
+nltk score: -30 '(from -100..100) state: 'bad' eye: !! tongue: :(
 
 </pre>
 
@@ -77,7 +78,7 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/jq-illustrated">jq-illustrated</a></td><td>19</td><td>illustrated tutorial of jq (and the scripts that create it)</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/kind-helper">kind-helper</a></td><td>19</td><td>Simplifies the creation of practical kubernetes test clusters with the kind utility.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/cppcombinator">cppcombinator</a></td><td>17</td><td>parser  combinator and AST generator in c++17</td></tr>
-<tr><td><a href="https://github.com/MoserMichael/python-obj-system">python-obj-system</a></td><td>12</td><td>Tutorials on advanced python topics, and literate programming framework to write them.</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/python-obj-system">python-obj-system</a></td><td>13</td><td>Tutorials on advanced python topics, and literate programming framework to write them.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/s9k">s9k</a></td><td>12</td><td>web app for managing kubernetes clusters, with similar functionality as k9s</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/cstuff">cstuff</a></td><td>10</td><td>My C projects and old homepage:</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/pythonimportplayground">pythonimportplayground</a></td><td>5</td><td>the readme file explains python packages, with examples.</td></tr>
@@ -96,6 +97,7 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/githubapitools">githubapitools</a></td><td>0</td><td>tools that make use of the python github api, for fun and profit.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/github_pr_comments">github_pr_comments</a></td><td>0</td><td>script that notifies if any of your PR's received  new/modified/deleted comment.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/grpc-spring-boot-starter-utils">grpc-spring-boot-starter-utils</a></td><td>0</td><td>grpc ServerInterceptor for logging of grpc request/response with exception handling, used with grpc-spring-boot-starter</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/jpa-enc-converter">jpa-enc-converter</a></td><td>0</td><td>Example of handling the encryption/decryption of a class, as part of an sql table, by means of spring jpa.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/kwchecker">kwchecker</a></td><td>0</td><td>Declarative verifier and sanitizer for python kwargs parameters.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/ls-annotations">ls-annotations</a></td><td>0</td><td>Show all declarations with java annotations by decompiling byte code.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/microsofthomework">microsofthomework</a></td><td>0</td><td>Homework assignment at a Microsoft job interview</td></tr>
@@ -108,9 +110,12 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/vimcrypt2">vimcrypt2</a></td><td>0</td><td>Advanced vim plugin to encrypt files with openssl</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/visual-python-strace">visual-python-strace</a></td><td>0</td><td>show a very long stack trace with variable values.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/zipit">zipit</a></td><td>0</td><td>c++ library for the equivalent of python/haskell zip function</td></tr>
-<tr><th>Total stars:</th><th colspan='2' align='left'> 133 </th></tr>
+<tr><th>Total stars:</th><th colspan='2' align='left'> 134 </th></tr>
 </table>
 <br>
+old_date:  2021-12-13 00:31:59.771091 now: 2021-12-16 00:31:40.321690
+python-obj-system stars changed from: 12 to: 13
+jpa-enc-converter new project. stars: 0
     </pre>
   </td>
 </table>
