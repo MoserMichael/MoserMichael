@@ -1,20 +1,16 @@
-Thu Dec 16 00:31:30 UTC 2021
+Fri Dec 17 00:33:40 UTC 2021
 
 <pre>
 
- ________________________________________
-/ No group of professionals meets except \
-| to conspire against the public at      |
-| large.                                 |
-|                                        |
-\ -- Mark Twain                          /
- ----------------------------------------
+ _________________________________
+< There was a phone call for you. >
+ ---------------------------------
         \   ^__^
-         \  (!!)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :( ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: -30 '(from -100..100) state: 'bad' eye: !! tongue: :(
+nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
@@ -89,7 +85,7 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/roget-thesaurus-parser">roget-thesaurus-parser</a></td><td>2</td><td>parses Roget's thesaurus and provide API for querying related words</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/gitblame">gitblame</a></td><td>1</td><td>minimal vim plugin for working with git; with a focus on git blame and git grep commands</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/k8explain">k8explain</a></td><td>1</td><td>golang exercise: produce a table of kubernetes api resources where each row is linked to an explanation</td></tr>
-<tr><td><a href="https://github.com/MoserMichael/opinionated-fortune-cow">opinionated-fortune-cow</a></td><td>1</td><td>fortune | cow pipe that runs sentiment analysis to determine the mood and expression of the cow</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/opinionated-fortune-cow">opinionated-fortune-cow</a></td><td>1</td><td>fortune | cow pipe that runs sentiment analysis on the fortune cookie, in order to determine the mood and expression of the cow</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/bloxroutehomework">bloxroutehomework</a></td><td>0</td><td>assignment for bloxroute interview</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/devgoodies">devgoodies</a></td><td>0</td><td>Vim plugin - useful commands for editing code.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/flagged-hn">flagged-hn</a></td><td>0</td><td>crawl hn and build a page containing flagged stories only.</td></tr>
@@ -113,9 +109,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 134 </th></tr>
 </table>
 <br>
-old_date:  2021-12-13 00:31:59.771091 now: 2021-12-16 00:31:40.321690
-python-obj-system stars changed from: 12 to: 13
-jpa-enc-converter new project. stars: 0
     </pre>
   </td>
 </table>
