@@ -1,17 +1,18 @@
-Sat Dec 18 00:32:23 UTC 2021
+Sat Dec 18 03:54:39 UTC 2021
 
 <pre>
 
- ______________________________________
-/ You will receive a legacy which will \
-\ place you above want.                /
- --------------------------------------
+ _________________________________________
+/ FORTUNE PROVIDES QUESTIONS FOR THE      \
+| GREAT ANSWERS: #19 A: To be or not to   |
+\ be. Q: What is the square root of 4b^2? /
+ -----------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (OO)\_______
             (__)\       )\/\
-             -- ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: 8 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 62 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
@@ -110,9 +111,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 145 </th></tr>
 </table>
 <br>
-old_date:  2021-12-16 00:31:40.321875 now: 2021-12-18 00:32:35.742242
-python-obj-system stars changed from: 13 to: 23
-subb stars changed from: 0 to: 1
     </pre>
   </td>
 </table>
