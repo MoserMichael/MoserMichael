@@ -1,18 +1,19 @@
-Sat Dec 18 03:54:39 UTC 2021
+Sun Dec 19 00:34:20 UTC 2021
 
 <pre>
 
- _________________________________________
-/ FORTUNE PROVIDES QUESTIONS FOR THE      \
-| GREAT ANSWERS: #19 A: To be or not to   |
-\ be. Q: What is the square root of 4b^2? /
- -----------------------------------------
+ ____________________________________
+/ Tempt not a desperate man.         \
+|                                    |
+| -- William Shakespeare, "Romeo and |
+\ Juliet"                            /
+ ------------------------------------
         \   ^__^
-         \  (OO)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :) ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: 62 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: 24 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
