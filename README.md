@@ -1,19 +1,17 @@
-Sun Dec 19 00:34:20 UTC 2021
+Mon Dec 20 00:33:02 UTC 2021
 
 <pre>
 
- ____________________________________
-/ Tempt not a desperate man.         \
-|                                    |
-| -- William Shakespeare, "Romeo and |
-\ Juliet"                            /
- ------------------------------------
+ _______________________________________
+/ You will reach the highest possible   \
+\ point in your business or profession. /
+ ---------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
              -- ||----w |
                 ||     ||
-nltk score: 24 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 3 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
@@ -73,8 +71,8 @@ My stuff here:
         <pre>
 
 <table><tr><th align='left'>Name</th><th align='left'>Stars</th><th align='left'>description</th></tr>
+<tr><td><a href="https://github.com/MoserMichael/python-obj-system">python-obj-system</a></td><td>25</td><td>Tutorials on advanced python topics, and literate programming framework to write them.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/duckduckbang">duckduckbang</a></td><td>23</td><td>Meta search page that utilises duckduckgo !bang query operators.</td></tr>
-<tr><td><a href="https://github.com/MoserMichael/python-obj-system">python-obj-system</a></td><td>23</td><td>Tutorials on advanced python topics, and literate programming framework to write them.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/jq-illustrated">jq-illustrated</a></td><td>19</td><td>illustrated tutorial of jq (and the scripts that create it)</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/kind-helper">kind-helper</a></td><td>19</td><td>Simplifies the creation of practical kubernetes test clusters with the kind utility.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/cppcombinator">cppcombinator</a></td><td>17</td><td>parser  combinator and AST generator in c++17</td></tr>
@@ -109,9 +107,11 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/vimcrypt2">vimcrypt2</a></td><td>0</td><td>Advanced vim plugin to encrypt files with openssl</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/visual-python-strace">visual-python-strace</a></td><td>0</td><td>show a very long stack trace with variable values.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/zipit">zipit</a></td><td>0</td><td>c++ library for the equivalent of python/haskell zip function</td></tr>
-<tr><th>Total stars:</th><th colspan='2' align='left'> 145 </th></tr>
+<tr><th>Total stars:</th><th colspan='2' align='left'> 147 </th></tr>
 </table>
 <br>
+old_date:  2021-12-18 00:32:35.742413 now: 2021-12-20 00:33:13.489646
+python-obj-system stars changed from: 23 to: 25
     </pre>
   </td>
 </table>
