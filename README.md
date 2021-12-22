@@ -1,18 +1,18 @@
-Tue Dec 21 00:34:30 UTC 2021
+Wed Dec 22 00:33:19 UTC 2021
 
 <pre>
 
  _________________________________________
-/ Q: What's the difference between a Mac  \
-| and an Etch-a-Sketch? A: You don't have |
-\ to shake the Mac to clear the screen.   /
+/ The better part of valor is discretion. \
+|                                         |
+\ -- William Shakespeare, "Henry IV"      /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
              :) ||----w |
                 ||     ||
-nltk score: 48 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: 44 '(from -100..100) state: 'good' eye: oo tongue: :)
 
 </pre>
 
@@ -74,8 +74,8 @@ My stuff here:
 <table><tr><th align='left'>Name</th><th align='left'>Stars</th><th align='left'>description</th></tr>
 <tr><td><a href="https://github.com/MoserMichael/python-obj-system">python-obj-system</a></td><td>26</td><td>Tutorials on advanced python topics, and literate programming framework to write them.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/duckduckbang">duckduckbang</a></td><td>23</td><td>Meta search page that utilises duckduckgo !bang query operators.</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/kind-helper">kind-helper</a></td><td>20</td><td>Simplifies the creation of practical kubernetes test clusters with the kind utility.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/jq-illustrated">jq-illustrated</a></td><td>19</td><td>illustrated tutorial of jq (and the scripts that create it)</td></tr>
-<tr><td><a href="https://github.com/MoserMichael/kind-helper">kind-helper</a></td><td>19</td><td>Simplifies the creation of practical kubernetes test clusters with the kind utility.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/cppcombinator">cppcombinator</a></td><td>17</td><td>parser  combinator and AST generator in c++17</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/s9k">s9k</a></td><td>12</td><td>web app for managing kubernetes clusters, with similar functionality as k9s</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/cstuff">cstuff</a></td><td>10</td><td>My C projects and old homepage:</td></tr>
@@ -108,11 +108,11 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/vimcrypt2">vimcrypt2</a></td><td>0</td><td>Advanced vim plugin to encrypt files with openssl</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/visual-python-strace">visual-python-strace</a></td><td>0</td><td>show a very long stack trace with variable values.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/zipit">zipit</a></td><td>0</td><td>c++ library for the equivalent of python/haskell zip function</td></tr>
-<tr><th>Total stars:</th><th colspan='2' align='left'> 148 </th></tr>
+<tr><th>Total stars:</th><th colspan='2' align='left'> 149 </th></tr>
 </table>
 <br>
-old_date:  2021-12-20 00:33:13.489823 now: 2021-12-21 00:34:40.599055
-python-obj-system stars changed from: 25 to: 26
+old_date:  2021-12-21 00:34:40.599215 now: 2021-12-22 00:33:30.184001
+kind-helper stars changed from: 19 to: 20
     </pre>
   </td>
 </table>
