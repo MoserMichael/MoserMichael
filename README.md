@@ -1,18 +1,17 @@
-Wed Dec 22 00:33:19 UTC 2021
+Thu Dec 23 00:32:34 UTC 2021
 
 <pre>
 
- _________________________________________
-/ The better part of valor is discretion. \
-|                                         |
-\ -- William Shakespeare, "Henry IV"      /
- -----------------------------------------
+ ___________________________________
+/ Don't look back, the lemmings are \
+\ gaining on you.                   /
+ -----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
              :) ||----w |
                 ||     ||
-nltk score: 44 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: 42 '(from -100..100) state: 'good' eye: oo tongue: :)
 
 </pre>
 
@@ -111,8 +110,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 149 </th></tr>
 </table>
 <br>
-old_date:  2021-12-21 00:34:40.599215 now: 2021-12-22 00:33:30.184001
-kind-helper stars changed from: 19 to: 20
     </pre>
   </td>
 </table>
