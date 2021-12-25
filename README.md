@@ -1,16 +1,19 @@
-Fri Dec 24 00:31:58 UTC 2021
+Sat Dec 25 00:31:10 UTC 2021
 
 <pre>
 
- _____________________________
-< Give him an evasive answer. >
- -----------------------------
+ ____________________________________
+/ Lord, what fools these mortals be! \
+|                                    |
+| -- William Shakespeare, "A         |
+\ Midsummer-Night's Dream"           /
+ ------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (!!)\_______
             (__)\       )\/\
-             -- ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: -54 '(from -100..100) state: 'bad' eye: !! tongue: :(
 
 </pre>
 
