@@ -32,7 +32,7 @@ The build script is also run once a day as a [github action](https://docs.github
 
 The above mentioned github token must be defined as a github secret of the name MY_GITHUB_TOKEN, for this to work.
 
-Note that the github action is not run on check-ins/modification of the repository, this would have created a loop, that runs itself over and over again. The action is defined to run as a github action, instead.
+Note that the github action is not run on check-ins/modification of the repository, this would have created a loop, that runs itself over and over again. Therefore the github action is defined to run as a periodic CI workflow.
 
 The build.sh script is cloning the following repositories while it is run in the docker:
 - [opinionated fortune cow](https://github.com/MoserMichael/opinionated-fortune-cow)
