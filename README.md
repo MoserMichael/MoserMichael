@@ -1,21 +1,20 @@
-[about this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sun Dec 26 02:18:14 UTC 2021
+[About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
+Sun Dec 26 02:29:10 UTC 2021
 
 <pre>
 
- ________________________________________
-/ When you are about to die, a wombat is \
-| better than no company at all.         |
-|                                        |
-| -- Roger Zelazny, "Doorways in the     |
-\ Sand"                                  /
- ----------------------------------------
+ _____________________________________
+/ A kind of Batman of contemporary    \
+| letters.                            |
+|                                     |
+\ -- Philip Larkin on Anthony Burgess /
+ -------------------------------------
         \   ^__^
-         \  (!!)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :( ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: -49 '(from -100..100) state: 'bad' eye: !! tongue: :(
+nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
