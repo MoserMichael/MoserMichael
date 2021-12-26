@@ -1,17 +1,21 @@
-Sun Dec 26 00:34:20 UTC 2021
+[about this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
+Sun Dec 26 02:18:14 UTC 2021
 
 <pre>
 
  ________________________________________
-/ You will become rich and famous unless \
-\ you don't.                             /
+/ When you are about to die, a wombat is \
+| better than no company at all.         |
+|                                        |
+| -- Roger Zelazny, "Doorways in the     |
+\ Sand"                                  /
  ----------------------------------------
         \   ^__^
-         \  (oo)\_______
+         \  (!!)\_______
             (__)\       )\/\
-             :) ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 56 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: -49 '(from -100..100) state: 'bad' eye: !! tongue: :(
 
 </pre>
 

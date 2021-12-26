@@ -23,8 +23,8 @@ Views:
 	 2021-12-24 00:00:00 total: 57 unique: 6
 	 2021-12-25 00:00:00 total: 29 unique: 5
 	Referrers:
-		Count: 146 Unique: 97 Url: news.ycombinator.com
-		Count: 109 Unique: 3 Url: github.com
+		Count: 147 Unique: 97 Url: news.ycombinator.com
+		Count: 123 Unique: 3 Url: github.com
 		Count: 6 Unique: 1 Url: linkedin.com
 		Count: 4 Unique: 2 Url: hackerdaily.io
 		Count: 3 Unique: 2 Url: reddit.com
@@ -40,7 +40,7 @@ Views:
 	 2021-12-24 00:00:00 total: 1 unique: 1
 	 2021-12-25 00:00:00 total: 1 unique: 1
 	Referrers:
-		Count: 38 Unique: 27 Url: news.ycombinator.com
+		Count: 39 Unique: 27 Url: news.ycombinator.com
 		Count: 3 Unique: 2 Url: github.com
 		Count: 1 Unique: 1 Url: Google
 
@@ -85,7 +85,7 @@ Views:
 	 2021-12-23 00:00:00 total: 2 unique: 2
 	 2021-12-25 00:00:00 total: 1 unique: 1
 	Referrers:
-		Count: 22 Unique: 6 Url: github.com
+		Count: 23 Unique: 7 Url: github.com
 		Count: 1 Unique: 1 Url: Google
 		Count: 1 Unique: 1 Url: DuckDuckGo
 		Count: 1 Unique: 1 Url: github.innominds.com
@@ -102,7 +102,7 @@ Views:
 	 2021-12-24 00:00:00 total: 3 unique: 2
 	 2021-12-25 00:00:00 total: 2 unique: 1
 	Referrers:
-		Count: 15 Unique: 12 Url: github.com
+		Count: 17 Unique: 13 Url: github.com
 		Count: 1 Unique: 1 Url: reddit.com
 
 repo: my-notes views: total: 21 unique:  7
@@ -199,6 +199,7 @@ Views:
 	Referrers:
 		Count: 2 Unique: 1 Url: github.com
 		Count: 1 Unique: 1 Url: youtube.com
+		Count: 1 Unique: 1 Url: Google
 		Count: 1 Unique: 1 Url: cn.bing.com
 
 repo: opinionated-fortune-cow views: total: 4 unique:  2
