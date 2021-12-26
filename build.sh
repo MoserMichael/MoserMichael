@@ -15,7 +15,7 @@ STARRED_REPOS_FILE=/repo/USER_STARRED.md
 
 # *** make README file ***
 
-echo "[about this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: " >${README_FILE}
+echo "[About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: " >${README_FILE}
 
 date >>${README_FILE}
 echo "" >>${README_FILE}
