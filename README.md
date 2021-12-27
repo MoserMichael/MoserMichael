@@ -1,20 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sun Dec 26 02:29:10 UTC 2021
+Mon Dec 27 00:32:42 UTC 2021
 
 <pre>
 
- _____________________________________
-/ A kind of Batman of contemporary    \
-| letters.                            |
-|                                     |
-\ -- Philip Larkin on Anthony Burgess /
- -------------------------------------
+ ______________________________________
+/ You like to form new friendships and \
+\ make new acquaintances.              /
+ --------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (OO)\_______
             (__)\       )\/\
-             -- ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 62 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
