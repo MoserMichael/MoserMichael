@@ -1,18 +1,20 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Mon Dec 27 00:32:42 UTC 2021
+Tue Dec 28 00:32:25 UTC 2021
 
 <pre>
 
- ______________________________________
-/ You like to form new friendships and \
-\ make new acquaintances.              /
- --------------------------------------
+ ________________________________________
+/ A long-forgotten loved one will appear \
+| soon.                                  |
+|                                        |
+\ Buy the negatives at any price.        /
+ ----------------------------------------
         \   ^__^
          \  (OO)\_______
             (__)\       )\/\
              :) ||----w |
                 ||     ||
-nltk score: 62 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: 60 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
