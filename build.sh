@@ -55,13 +55,13 @@ git clone https://github.com/MoserMichael/githubapitools
 pushd githubapitools
 ls -al
 pip3 install -r requirements.txt
-if [[ -f ../repo/starcounter.data ]]; then
-    cp ../repo/starcounter.data .
+if [[ -f ../repo/starcounter.hex ]]; then
+    ./repo/hex2bin.py -i ../repo/starcounter.hex -o ../repo/starcounter.data 
 fi
 
 ./starcounter.py -l -s -t day  >>${README_FILE}
 
-cp starcounter.data ../repo/
+./repo/bin2hex.py -i starcounter.data ../repo/starcounter.hex
 
 ./starcounter.py -l -t day -v  >>${TRAFFIC_REPORT_FILE}
 ./starcounter.py -l -r  >>${STARRED_REPOS_FILE}
@@ -85,7 +85,7 @@ git add TRAFFIC_REPORT.md
 git add USER_STARRED.md
 
 
-git add starcounter.data
+git add starcounter.hex
 
 git commit -m "automatic build $(date)"
 expect -f ./ex
