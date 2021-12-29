@@ -61,7 +61,7 @@ fi
 
 ./starcounter.py -l -s -t day  >>${README_FILE}
 
-./repo/bin2hex.py -i starcounter.data ../repo/starcounter.hex
+../repo/bin2hex.py -i starcounter.data -o ../repo/starcounter.hex
 
 ./starcounter.py -l -t day -v  >>${TRAFFIC_REPORT_FILE}
 ./starcounter.py -l -r  >>${STARRED_REPOS_FILE}
