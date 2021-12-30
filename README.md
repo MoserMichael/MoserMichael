@@ -1,18 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Wed Dec 29 04:50:14 UTC 2021
+Thu Dec 30 01:00:43 UTC 2021
 
 <pre>
 
- _________________________________________
-/ You have a strong desire for a home and \
-\ your family interests come first.       /
- -----------------------------------------
+ ________________________________________
+/ You will be winged by an anti-aircraft \
+\ battery.                               /
+ ----------------------------------------
         \   ^__^
-         \  (OO)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :) ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: 79 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
@@ -72,7 +72,7 @@ My stuff here:
         <pre>
 
 <table><tr><th align='left'>Name</th><th align='left'>Stars</th><th align='left'>Language</th><th align='left'>description</th></tr>
-<tr><td><a href="https://github.com/MoserMichael/python-obj-system">python-obj-system</a></td><td>27</td><td>Python</td><td>Tutorials on advanced python topics, and literate programming framework to write them.</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/python-obj-system">python-obj-system</a></td><td>27</td><td>Python</td><td>Tutorials on advanced python topics, and literate programming framework to write them (see README.md)</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/duckduckbang">duckduckbang</a></td><td>23</td><td>Python</td><td>Meta search page that utilises duckduckgo !bang query operators.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/kind-helper">kind-helper</a></td><td>20</td><td>Python</td><td>Simplifies the creation of practical kubernetes test clusters with the kind utility.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/jq-illustrated">jq-illustrated</a></td><td>19</td><td>Shell</td><td>illustrated tutorial of jq (and the scripts that create it)</td></tr>
