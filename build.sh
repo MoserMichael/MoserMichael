@@ -56,7 +56,7 @@ pushd githubapitools
 ls -al
 pip3 install -r requirements.txt
 if [[ -f ../repo/starcounter.hex ]]; then
-    ./repo/hex2bin.py -i ../repo/starcounter.hex -o ../repo/starcounter.data 
+    ../repo/hex2bin.py -i ../repo/starcounter.hex -o ../repo/starcounter.data 
 fi
 
 ./starcounter.py -l -s -t day  >>${README_FILE}
@@ -70,10 +70,6 @@ popd
 
 pushd repo
 cat end_part.txt >>${README_FILE}
-popd
-
-
-pushd repo
 
 git config --global user.email "a@gmail.com"
 git config --global user.name ${GITHUB_USER}
