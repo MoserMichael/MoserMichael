@@ -1,12 +1,14 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Thu Dec 30 01:00:43 UTC 2021
+Fri Dec 31 00:33:39 UTC 2021
 
 <pre>
 
- ________________________________________
-/ You will be winged by an anti-aircraft \
-\ battery.                               /
- ----------------------------------------
+ _________________________________________
+/ The whole world is a tuxedo and you are \
+| a pair of brown shoes.                  |
+|                                         |
+\ -- George Gobel                         /
+ -----------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
