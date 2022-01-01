@@ -1,20 +1,19 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sat Jan  1 00:33:40 UTC 2022
+Sat Jan  1 05:03:15 UTC 2022
 
 <pre>
 
- ______________________________________
-/ When one burns one's bridges, what a \
-| very nice fire it makes.             |
-|                                      |
-\ -- Dylan Thomas                      /
- --------------------------------------
+ ________________________________________
+/ Just because the message may never be  \
+| received does not mean it is not worth |
+\ sending.                               /
+ ----------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
              -- ||----w |
                 ||     ||
-nltk score: 11 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: -17 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
