@@ -1,20 +1,20 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Fri Dec 31 00:33:39 UTC 2021
+Sat Jan  1 00:33:40 UTC 2022
 
 <pre>
 
- _________________________________________
-/ The whole world is a tuxedo and you are \
-| a pair of brown shoes.                  |
-|                                         |
-\ -- George Gobel                         /
- -----------------------------------------
+ ______________________________________
+/ When one burns one's bridges, what a \
+| very nice fire it makes.             |
+|                                      |
+\ -- Dylan Thomas                      /
+ --------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
              -- ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 11 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
