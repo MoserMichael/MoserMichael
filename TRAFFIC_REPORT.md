@@ -28,9 +28,9 @@ Views:
 		Count: 29 Unique: 14 Url: news.ycombinator.com
 		Count: 16 Unique: 6 Url: wiki.traiana.com
 		Count: 8 Unique: 4 Url: reddit.com
+		Count: 1 Unique: 1 Url: hackerdaily.io
 		Count: 1 Unique: 1 Url: l.facebook.com
 		Count: 1 Unique: 1 Url: pypi.org
-		Count: 1 Unique: 1 Url: hackerdaily.io
 
 repo: MoserMichael views: total: 88 unique:  3
 Views:
