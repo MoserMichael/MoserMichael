@@ -1,19 +1,17 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Mon Jan  3 00:32:24 UTC 2022
+Tue Jan  4 00:33:16 UTC 2022
 
 <pre>
 
- _________________________________________
-/ This was the most unkindest cut of all. \
-|                                         |
-\ -- William Shakespeare, "Julius Caesar" /
- -----------------------------------------
+ ___________________________________
+< Beware of low-flying butterflies. >
+ -----------------------------------
         \   ^__^
-         \  (!!)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :( ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: -34 '(from -100..100) state: 'bad' eye: !! tongue: :(
+nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
