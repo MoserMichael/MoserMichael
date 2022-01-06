@@ -1,18 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Wed Jan  5 00:35:05 UTC 2022
+Thu Jan  6 00:35:00 UTC 2022
 
 <pre>
 
  _____________________________________
-/ You'll never be the man your mother \
-\ was!                                /
+/ Your true value depends entirely on \
+\ what you are compared with.         /
  -------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (OO)\_______
             (__)\       )\/\
-             -- ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 64 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
