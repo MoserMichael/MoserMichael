@@ -1,23 +1,17 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Fri Jan  7 00:36:10 UTC 2022
+Sat Jan  8 00:33:22 UTC 2022
 
 <pre>
 
- _______________________________________
-/ Training is everything. The peach was \
-| once a bitter almond; cauliflower is  |
-| nothing but cabbage with a college    |
-| education.                            |
-|                                       |
-| -- Mark Twain, "Pudd'nhead Wilson's   |
-\ Calendar"                             /
- ---------------------------------------
+ ___________________________________
+< You will outgrow your usefulness. >
+ -----------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (oo)\_______
             (__)\       )\/\
-             -- ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: -23 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 30 '(from -100..100) state: 'good' eye: oo tongue: :)
 
 </pre>
 
