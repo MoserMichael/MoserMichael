@@ -1,17 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sat Jan  8 00:33:22 UTC 2022
+Sun Jan  9 00:34:49 UTC 2022
 
 <pre>
 
- ___________________________________
-< You will outgrow your usefulness. >
- -----------------------------------
+ _____________________________________
+/ Your talents will be recognized and \
+\ suitably rewarded.                  /
+ -------------------------------------
         \   ^__^
-         \  (oo)\_______
+         \  (OO)\_______
             (__)\       )\/\
              :) ||----w |
                 ||     ||
-nltk score: 30 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: 74 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
