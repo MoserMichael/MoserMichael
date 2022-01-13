@@ -1,22 +1,19 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Wed Jan 12 00:34:07 UTC 2022
+Thu Jan 13 00:35:53 UTC 2022
 
 <pre>
 
  ________________________________________
-/ Q: Why did the chicken cross the road? \
-| A: To see his friend Gregory peck.     |
-|                                        |
-| Q: Why did the chicken cross the       |
-| playground? A: To get to the other     |
-\ slide.                                 /
+/ Your best consolation is the hope that \
+| the things you failed to get weren't   |
+\ really worth having.                   /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
              :) ||----w |
                 ||     ||
-nltk score: 55 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: 44 '(from -100..100) state: 'good' eye: oo tongue: :)
 
 </pre>
 
@@ -101,7 +98,7 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/githubapitools">githubapitools</a></td><td>0</td><td>Python</td><td>tools that make use of the python github api, for fun and profit.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/github_pr_comments">github_pr_comments</a></td><td>0</td><td>Python</td><td>script that notifies if any of your PR's received  new/modified/deleted comment.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/grpc-spring-boot-starter-utils">grpc-spring-boot-starter-utils</a></td><td>0</td><td>Java</td><td>grpc ServerInterceptor for logging of grpc request/response with exception handling, used with grpc-spring-boot-starter</td></tr>
-<tr><td><a href="https://github.com/MoserMichael/jpa-enc-converter">jpa-enc-converter</a></td><td>0</td><td>Java</td><td>Example of handling the encryption/decryption of a class, as part of an SQL table, by means of spring JPA/AttributeConverter</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/jpa-enc-converter">jpa-enc-converter</a></td><td>0</td><td>Java</td><td>Example of handling the encryption/decryption of data at rest in an SQL table, by means of spring JPA/AttributeConverter</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/kwchecker">kwchecker</a></td><td>0</td><td>Python</td><td>Declarative verifier and sanitizer for python kwargs parameters.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/ls-annotations">ls-annotations</a></td><td>0</td><td>Java</td><td>Show all declarations with java annotations by decompiling byte code.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/microsofthomework">microsofthomework</a></td><td>0</td><td>C++</td><td>Homework assignment at a Microsoft job interview</td></tr>
