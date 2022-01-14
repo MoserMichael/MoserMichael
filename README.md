@@ -1,19 +1,21 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Thu Jan 13 00:35:53 UTC 2022
+Fri Jan 14 00:33:37 UTC 2022
 
 <pre>
 
- ________________________________________
-/ Your best consolation is the hope that \
-| the things you failed to get weren't   |
-\ really worth having.                   /
- ----------------------------------------
+ _________________________________________
+/ He that is giddy thinks the world turns \
+| round.                                  |
+|                                         |
+| -- William Shakespeare, "The Taming of  |
+\ the Shrew"                              /
+ -----------------------------------------
         \   ^__^
-         \  (oo)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :) ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: 44 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: -15 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
@@ -85,12 +87,12 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/myenv">myenv</a></td><td>3</td><td>Vim script</td><td>my work environment (so i don't have to search for it ;-)</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/flagged-hn">flagged-hn</a></td><td>2</td><td>Python</td><td>crawl hn and build a page containing flagged stories only.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/pprintex">pprintex</a></td><td>2</td><td>Python</td><td>python pretty printer, unlinke pprint it prints out all object field values.</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/pyasmtool">pyasmtool</a></td><td>2</td><td>Python</td><td>Explores the python bytecode, provides some tools to access it for fun and profit.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/pythoncourse">pythoncourse</a></td><td>2</td><td>Python</td><td>my notes on teaching the python programming language.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/roget-thesaurus-parser">roget-thesaurus-parser</a></td><td>2</td><td>Python</td><td>parses Roget's thesaurus and provide API for querying related words</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/gitblame">gitblame</a></td><td>1</td><td>Vim script</td><td>minimal vim plugin for working with git; with a focus on git blame and git grep commands</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/k8explain">k8explain</a></td><td>1</td><td>Go</td><td>golang exercise: produce a table of kubernetes api resources where each row is linked to an explanation</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/opinionated-fortune-cow">opinionated-fortune-cow</a></td><td>1</td><td>Shell</td><td>fortune | cow pipe that runs sentiment analysis on the fortune cookie, in order to determine the mood and expression of the cow</td></tr>
-<tr><td><a href="https://github.com/MoserMichael/pyasmtool">pyasmtool</a></td><td>1</td><td>Python</td><td>Explores the python bytecode, provides some tools to access it for fun and profit.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/subb">subb</a></td><td>1</td><td>Python</td><td>a wrapper module for python subprocess</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/bloxroutehomework">bloxroutehomework</a></td><td>0</td><td>C++</td><td>assignment for bloxroute interview</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/devgoodies">devgoodies</a></td><td>0</td><td>Vim script</td><td>Vim plugin - useful commands for editing code.</td></tr>
@@ -110,7 +112,7 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/vimcrypt2">vimcrypt2</a></td><td>0</td><td>Vim script</td><td>Advanced vim plugin to encrypt files with openssl</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/visual-python-strace">visual-python-strace</a></td><td>0</td><td>Python</td><td>show a very long stack trace with variable values.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/zipit">zipit</a></td><td>0</td><td>C++</td><td>c++ library for the equivalent of python/haskell zip function</td></tr>
-<tr><th>Total stars:</th><th colspan='2' align='left'> 154 </th></tr>
+<tr><th>Total stars:</th><th colspan='2' align='left'> 155 </th></tr>
 </table>
 <br>
     </pre>
