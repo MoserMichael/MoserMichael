@@ -56,7 +56,7 @@ pushd githubapitools
 ls -al
 pip3 install -r requirements.txt
 if [[ -f ../repo/starcounter.hex ]]; then
-    ../repo/hex2bin.py -i ../repo/starcounter.hex -o ../repo/starcounter.data 
+    ../repo/hex2bin.py -i ../repo/starcounter.hex -o starcounter.data 
 fi
 
 ./starcounter.py -l -s -t day  >>${README_FILE}
@@ -79,8 +79,6 @@ echo "*** pushing changed file ***"
 git add README.md
 git add TRAFFIC_REPORT.md
 git add USER_STARRED.md
-
-
 git add starcounter.hex
 
 git commit -m "automatic build $(date)"
