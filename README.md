@@ -1,18 +1,21 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Wed Jan 26 00:35:31 UTC 2022
+Thu Jan 27 00:31:18 UTC 2022
 
 <pre>
 
- _________________________________________
-/ Go to a movie tonight. Darkness becomes \
-\ you.                                    /
- -----------------------------------------
+ ________________________________________
+/ Q: Why do the police always travel in  \
+| threes? A: One to do the reading, one  |
+| to do the writing, and the other keeps |
+|                                        |
+\ an eye on the two intellectuals.       /
+ ----------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (oo)\_______
             (__)\       )\/\
-             -- ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: -25 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 38 '(from -100..100) state: 'good' eye: oo tongue: :)
 
 </pre>
 
@@ -112,8 +115,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 430 </th></tr>
 </table>
 <br>
-old_date:  2022-01-25 00:35:04.797109 now: 2022-01-26 00:35:43.484511
-pyasmtool stars changed from: 249 to: 250
     </pre>
   </td>
 </table>
