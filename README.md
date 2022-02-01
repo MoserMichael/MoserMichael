@@ -1,19 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Mon Jan 31 00:31:26 UTC 2022
+Tue Feb  1 00:33:07 UTC 2022
 
 <pre>
 
- ________________________________________
-/ Q: What's the difference between Bell  \
-| Labs and the Boy Scouts of America? A: |
-\ The Boy Scouts have adult supervision. /
- ----------------------------------------
+ _________________________________________
+/ Good day for a change of scene. Repaper \
+\ the bedroom wall.                       /
+ -----------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (oo)\_______
             (__)\       )\/\
-             -- ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 44 '(from -100..100) state: 'good' eye: oo tongue: :)
 
 </pre>
 
@@ -113,8 +112,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 437 </th></tr>
 </table>
 <br>
-old_date:  2022-01-30 00:32:27.830265 now: 2022-01-31 00:31:37.557033
-pyasmtool stars changed from: 257 to: 258
     </pre>
   </td>
 </table>
