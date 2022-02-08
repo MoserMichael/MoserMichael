@@ -1,18 +1,17 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Mon Feb  7 00:32:23 UTC 2022
+Tue Feb  8 00:33:11 UTC 2022
 
 <pre>
 
- _______________________________________
-/ You will reach the highest possible   \
-\ point in your business or profession. /
- ---------------------------------------
+ ___________________________
+< You have no real enemies. >
+ ---------------------------
         \   ^__^
-         \  (..)\_______
+         \  (~~)\_______
             (__)\       )\/\
-             -- ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 3 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: -66 '(from -100..100) state: 'very bad' eye: ~~ tongue: :(
 
 </pre>
 
@@ -112,8 +111,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 446 </th></tr>
 </table>
 <br>
-old_date:  2022-02-05 00:26:47.259819 now: 2022-02-07 00:32:34.553413
-python-obj-system stars changed from: 47 to: 48
     </pre>
   </td>
 </table>
