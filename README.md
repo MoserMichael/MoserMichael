@@ -1,18 +1,25 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Wed Feb  9 00:35:35 UTC 2022
+Thu Feb 10 00:33:43 UTC 2022
 
 <pre>
 
- ______________________________________
-/ Q: How much does it cost to ride the \
-\ Unibus? A: 2 bits.                   /
- --------------------------------------
+ _________________________________________
+/ I got a hint of things to come when I   \
+| overheard my boss lamenting, 'The books |
+| are done and we still don't have an     |
+| author! I must sign someone today!      |
+|                                         |
+| -- Tamim Ansary, "Edutopia Magazine,    |
+| Issue 2, November 2004"                 |
+|                                         |
+\ on the topic of school textbooks        /
+ -----------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (!!)\_______
             (__)\       )\/\
-             -- ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: -56 '(from -100..100) state: 'bad' eye: !! tongue: :(
 
 </pre>
 
@@ -80,7 +87,7 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/cppcombinator">cppcombinator</a></td><td>18</td><td>C++</td><td>parser  combinator and AST generator in c++17</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/s9k">s9k</a></td><td>12</td><td>Python</td><td>web server/web UI for managing kubernetes clusters, with similar functionality as k9s</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/cstuff">cstuff</a></td><td>10</td><td>C</td><td>My C projects and old homepage:</td></tr>
-<tr><td><a href="https://github.com/MoserMichael/ls-annotations">ls-annotations</a></td><td>5</td><td>Java</td><td>Show all declarations with java annotations by decompiling byte code.</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/ls-annotations">ls-annotations</a></td><td>6</td><td>Java</td><td>Show all declarations with java annotations by decompiling byte code.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/pythonimportplayground">pythonimportplayground</a></td><td>5</td><td>Python</td><td>the readme file explains python packages, with examples.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/pygamewrap">pygamewrap</a></td><td>4</td><td>Python</td><td>A small wrapper toolkit that simplifies development with the pygame library (hopefully)</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/myenv">myenv</a></td><td>3</td><td>Vim script</td><td>my work environment (so i don't have to search for it ;-)</td></tr>
@@ -109,12 +116,11 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/vimcrypt2">vimcrypt2</a></td><td>0</td><td>Vim script</td><td>Advanced vim plugin to encrypt files with openssl</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/visual-python-strace">visual-python-strace</a></td><td>0</td><td>Python</td><td>show a very long stack trace with variable values.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/zipit">zipit</a></td><td>0</td><td>C++</td><td>c++ library for the equivalent of python/haskell zip function</td></tr>
-<tr><th>Total stars:</th><th colspan='2' align='left'> 448 </th></tr>
+<tr><th>Total stars:</th><th colspan='2' align='left'> 449 </th></tr>
 </table>
 <br>
-old_date:  2022-02-07 00:32:34.553602 now: 2022-02-09 00:35:47.547361
-pyasmtool stars changed from: 263 to: 264
-python-obj-system stars changed from: 48 to: 49
+old_date:  2022-02-09 00:35:47.547588 now: 2022-02-10 00:33:56.302442
+ls-annotations stars changed from: 5 to: 6
     </pre>
   </td>
 </table>
