@@ -1,20 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Fri Feb 11 00:36:20 UTC 2022
+Sat Feb 12 00:36:03 UTC 2022
 
 <pre>
 
- ______________________________________
-/ Things past redress and now with me  \
-| past care.                           |
-|                                      |
-\ -- William Shakespeare, "Richard II" /
- --------------------------------------
+ ___________________________________
+/ Time to be aggressive. Go after a \
+\ tattooed Virgo.                   /
+ -----------------------------------
         \   ^__^
-         \  (oo)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :) ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: 49 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: -15 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
@@ -114,9 +112,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 452 </th></tr>
 </table>
 <br>
-old_date:  2022-02-10 00:33:56.302750 now: 2022-02-11 00:36:34.067235
-pyasmtool stars changed from: 264 to: 266
-jq-illustrated stars changed from: 19 to: 20
     </pre>
   </td>
 </table>
