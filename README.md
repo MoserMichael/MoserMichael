@@ -1,19 +1,20 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sun Feb 13 00:36:51 UTC 2022
+Mon Feb 14 00:32:40 UTC 2022
 
 <pre>
 
- ________________________
-/ Don't Worry, Be Happy. \
-|                        |
-\ -- Meher Baba          /
- ------------------------
+ ________________________________________
+/ Q: How many supply-siders does it take \
+| to change a light bulb? A: None. The   |
+| darkness will cause the light bulb to  |
+\ change by itself.                      /
+ ----------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
              -- ||----w |
                 ||     ||
-nltk score: -15 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: -25 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
@@ -113,10 +114,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 454 </th></tr>
 </table>
 <br>
-old_date:  2022-02-11 00:36:34.067395 now: 2022-02-13 00:37:05.105107
-pyasmtool stars changed from: 266 to: 268
-python-obj-system stars changed from: 49 to: 48
-duckduckbang stars changed from: 26 to: 27
     </pre>
   </td>
 </table>
