@@ -1,18 +1,17 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Tue Feb 15 00:37:27 UTC 2022
+Wed Feb 16 00:33:24 UTC 2022
 
 <pre>
 
- ______________________________________
-/ You are only young once, but you can \
-\ stay immature indefinitely.          /
- --------------------------------------
+ ___________________________________
+< You will triumph over your enemy. >
+ -----------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
              -- ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: -10 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
@@ -112,8 +111,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 455 </th></tr>
 </table>
 <br>
-old_date:  2022-02-13 00:37:05.105311 now: 2022-02-15 00:37:38.879464
-duckduckbang stars changed from: 27 to: 28
     </pre>
   </td>
 </table>
