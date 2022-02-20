@@ -1,22 +1,19 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sat Feb 19 00:37:59 UTC 2022
+Sun Feb 20 00:40:41 UTC 2022
 
 <pre>
 
- _________________________________________
-/ The only way to keep your health is to  \
-| eat what you don't want, drink what you |
-| don't like, and do what you'd rather    |
-| not.                                    |
-|                                         |
-\ -- Mark Twain                           /
- -----------------------------------------
+ _____________________________________
+/ You never know how many friends you \
+| have until you rent a house on the  |
+\ beach.                              /
+ -------------------------------------
         \   ^__^
-         \  (!!)\_______
+         \  (oo)\_______
             (__)\       )\/\
-             :( ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: -33 '(from -100..100) state: 'bad' eye: !! tongue: :(
+nltk score: 48 '(from -100..100) state: 'good' eye: oo tongue: :)
 
 </pre>
 
@@ -116,8 +113,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 458 </th></tr>
 </table>
 <br>
-old_date:  2022-02-18 00:38:39.959431 now: 2022-02-19 00:38:13.047897
-pyasmtool stars changed from: 268 to: 269
     </pre>
   </td>
 </table>
