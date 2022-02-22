@@ -1,17 +1,19 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Mon Feb 21 00:35:51 UTC 2022
+Tue Feb 22 00:35:50 UTC 2022
 
 <pre>
 
- _________________
-< You love peace. >
- -----------------
+ ____________________________________
+/ Small things make base men proud.  \
+|                                    |
+\ -- William Shakespeare, "Henry VI" /
+ ------------------------------------
         \   ^__^
-         \  (OO)\_______
+         \  (oo)\_______
             (__)\       )\/\
              :) ||----w |
                 ||     ||
-nltk score: 83 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: 48 '(from -100..100) state: 'good' eye: oo tongue: :)
 
 </pre>
 
