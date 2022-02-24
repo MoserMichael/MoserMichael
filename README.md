@@ -1,19 +1,17 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Wed Feb 23 00:40:47 UTC 2022
+Thu Feb 24 00:39:04 UTC 2022
 
 <pre>
 
  _________________________________________
-/ You may worry about your hair-do today, \
-| but tomorrow much peanut butter will be |
-\ sold.                                   /
+< Caution: Keep out of reach of children. >
  -----------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
              -- ||----w |
                 ||     ||
-nltk score: -24 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 3 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
@@ -113,10 +111,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 461 </th></tr>
 </table>
 <br>
-old_date:  2022-02-19 00:38:13.048130 now: 2022-02-23 00:40:58.249190
-pyasmtool stars changed from: 269 to: 270
-pythonimportplayground stars changed from: 4 to: 5
-opinionated-fortune-cow stars changed from: 2 to: 3
     </pre>
   </td>
 </table>
