@@ -1,17 +1,20 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Thu Feb 24 00:39:04 UTC 2022
+Fri Feb 25 00:39:00 UTC 2022
 
 <pre>
 
- _________________________________________
-< Caution: Keep out of reach of children. >
- -----------------------------------------
+ ____________________________________
+/ Suspicion always haunts the guilty \
+| mind.                              |
+|                                    |
+\ -- Wm. Shakespeare                 /
+ ------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (~~)\_______
             (__)\       )\/\
-             -- ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 3 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: -75 '(from -100..100) state: 'very bad' eye: ~~ tongue: :(
 
 </pre>
 
