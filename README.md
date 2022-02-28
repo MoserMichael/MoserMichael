@@ -1,12 +1,14 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sun Feb 27 00:40:06 UTC 2022
+Mon Feb 28 00:39:03 UTC 2022
 
 <pre>
 
- ___________________________________
-/ Q: What is green and lives in the \
-\ ocean? A: Moby Pickle.            /
- -----------------------------------
+ ____________________________________
+/ The smallest worm will turn being  \
+| trodden on.                        |
+|                                    |
+\ -- William Shakespeare, "Henry VI" /
+ ------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
