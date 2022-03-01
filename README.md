@@ -1,20 +1,20 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Mon Feb 28 00:39:03 UTC 2022
+Tue Mar  1 00:41:40 UTC 2022
 
 <pre>
 
- ____________________________________
-/ The smallest worm will turn being  \
-| trodden on.                        |
-|                                    |
-\ -- William Shakespeare, "Henry VI" /
- ------------------------------------
+ _______________________________________
+/ Kindness is a language which the deaf \
+| can hear and the blind can read.      |
+|                                       |
+\ -- Mark Twain                         /
+ ---------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
              -- ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 8 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
