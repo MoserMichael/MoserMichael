@@ -1,18 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Fri Mar  4 00:43:20 UTC 2022
+Sat Mar  5 00:41:21 UTC 2022
 
 <pre>
 
- _________________________________________
-/ Good day for a change of scene. Repaper \
-\ the bedroom wall.                       /
- -----------------------------------------
+ _____________________________________
+/ Everything will be just tickety-boo \
+\ today.                              /
+ -------------------------------------
         \   ^__^
-         \  (oo)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :) ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: 44 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
@@ -112,8 +112,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 460 </th></tr>
 </table>
 <br>
-old_date:  2022-02-23 00:40:58.249357 now: 2022-03-04 00:43:33.378781
-pyasmtool stars changed from: 270 to: 269
     </pre>
   </td>
 </table>
