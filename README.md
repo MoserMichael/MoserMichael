@@ -1,18 +1,21 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sat Mar  5 00:41:21 UTC 2022
+Mon Mar  7 00:38:59 UTC 2022
 
 <pre>
 
- _____________________________________
-/ Everything will be just tickety-boo \
-\ today.                              /
- -------------------------------------
+ ________________________________________
+/ Q: Why do the police always travel in  \
+| threes? A: One to do the reading, one  |
+| to do the writing, and the other keeps |
+|                                        |
+\ an eye on the two intellectuals.       /
+ ----------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (oo)\_______
             (__)\       )\/\
-             -- ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 38 '(from -100..100) state: 'good' eye: oo tongue: :)
 
 </pre>
 
