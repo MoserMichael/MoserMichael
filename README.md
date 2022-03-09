@@ -1,18 +1,20 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Tue Mar  8 00:37:57 UTC 2022
+Wed Mar  9 00:43:26 UTC 2022
 
 <pre>
 
- _________________________________________
-/ You are deeply attached to your friends \
-\ and acquaintances.                      /
- -----------------------------------------
+ ____________________________________
+/ Something's rotten in the state of \
+| Denmark.                           |
+|                                    |
+\ -- Shakespeare                     /
+ ------------------------------------
         \   ^__^
-         \  (oo)\_______
+         \  (!!)\_______
             (__)\       )\/\
-             :) ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 48 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: -51 '(from -100..100) state: 'bad' eye: !! tongue: :(
 
 </pre>
 
@@ -72,7 +74,7 @@ My stuff here:
         <pre>
 
 <table><tr><th align='left'>Name</th><th align='left'>Stars</th><th align='left'>Language</th><th align='left'>description</th></tr>
-<tr><td><a href="https://github.com/MoserMichael/pyasmtool">pyasmtool</a></td><td>269</td><td>Python</td><td>Explores the python bytecode, provides some tools to access it for fun and profit.</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/pyasmtool">pyasmtool</a></td><td>270</td><td>Python</td><td>Explores the python bytecode, provides some tools to access it for fun and profit.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/python-obj-system">python-obj-system</a></td><td>49</td><td>Python</td><td>Tutorials on advanced python topics, and literate programming framework to write them (see README.md)</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/duckduckbang">duckduckbang</a></td><td>29</td><td>Python</td><td>Meta search page that utilises duckduckgo !bang query operators.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/jq-illustrated">jq-illustrated</a></td><td>20</td><td>Shell</td><td>illustrated tutorial of jq (and the scripts that create it)</td></tr>
@@ -109,9 +111,11 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/vimcrypt2">vimcrypt2</a></td><td>0</td><td>Vim script</td><td>Advanced vim plugin to encrypt files with openssl</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/visual-python-strace">visual-python-strace</a></td><td>0</td><td>Python</td><td>show a very long stack trace with variable values.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/zipit">zipit</a></td><td>0</td><td>C++</td><td>c++ library for the equivalent of python/haskell zip function</td></tr>
-<tr><th>Total stars:</th><th colspan='2' align='left'> 460 </th></tr>
+<tr><th>Total stars:</th><th colspan='2' align='left'> 461 </th></tr>
 </table>
 <br>
+old_date:  2022-03-04 00:43:33.378971 now: 2022-03-09 00:43:40.588043
+pyasmtool stars changed from: 269 to: 270
     </pre>
   </td>
 </table>
