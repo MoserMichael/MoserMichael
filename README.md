@@ -1,20 +1,17 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Wed Mar  9 00:43:26 UTC 2022
+Sat Mar 12 00:36:58 UTC 2022
 
 <pre>
 
- ____________________________________
-/ Something's rotten in the state of \
-| Denmark.                           |
-|                                    |
-\ -- Shakespeare                     /
- ------------------------------------
+ _______________________________________
+< You will inherit millions of dollars. >
+ ---------------------------------------
         \   ^__^
-         \  (!!)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :( ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: -51 '(from -100..100) state: 'bad' eye: !! tongue: :(
+nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
@@ -114,8 +111,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 461 </th></tr>
 </table>
 <br>
-old_date:  2022-03-04 00:43:33.378971 now: 2022-03-09 00:43:40.588043
-pyasmtool stars changed from: 269 to: 270
     </pre>
   </td>
 </table>
