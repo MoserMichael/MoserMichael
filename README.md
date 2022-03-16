@@ -1,16 +1,12 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sun Mar 13 00:38:04 UTC 2022
+Wed Mar 16 00:40:49 UTC 2022
 
 <pre>
 
- __________________________________
-/ Knock, knock!                    \
-|                                  |
-| Who's there? Sam and Janet.      |
-|                                  |
-| Sam and Janet who? Sam and Janet |
-\ Evening...                       /
- ----------------------------------
+ _________________________________________
+/ Are you ever going to do the dishes? Or \
+\ will you change your major to biology?  /
+ -----------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
