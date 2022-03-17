@@ -1,18 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Wed Mar 16 00:40:49 UTC 2022
+Thu Mar 17 00:41:07 UTC 2022
 
 <pre>
 
- _________________________________________
-/ Are you ever going to do the dishes? Or \
-\ will you change your major to biology?  /
- -----------------------------------------
+ __________________________________
+/ You will win success in whatever \
+\ calling you adopt.               /
+ ----------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (OO)\_______
             (__)\       )\/\
-             -- ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 85 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
