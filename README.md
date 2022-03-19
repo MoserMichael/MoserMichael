@@ -1,12 +1,12 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Fri Mar 18 00:40:20 UTC 2022
+Sat Mar 19 00:38:51 UTC 2022
 
 <pre>
 
- _________________________________________
-/ You are a very redundant person, that's \
-\ what kind of person you are.            /
- -----------------------------------------
+ ________________________________________
+/ Your business will go through a period \
+\ of considerable expansion.             /
+ ----------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
@@ -112,8 +112,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 462 </th></tr>
 </table>
 <br>
-old_date:  2022-03-09 00:43:40.588251 now: 2022-03-18 00:40:32.414643
-pyasmtool stars changed from: 270 to: 271
     </pre>
   </td>
 </table>
