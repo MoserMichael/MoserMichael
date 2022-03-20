@@ -1,18 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sat Mar 19 00:38:51 UTC 2022
+Sun Mar 20 00:39:57 UTC 2022
 
 <pre>
 
- ________________________________________
-/ Your business will go through a period \
-\ of considerable expansion.             /
- ----------------------------------------
+ _____________________________________
+/ You have the capacity to learn from \
+\ mistakes. You'll learn a lot today. /
+ -------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (!!)\_______
             (__)\       )\/\
-             -- ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: -36 '(from -100..100) state: 'bad' eye: !! tongue: :(
 
 </pre>
 
