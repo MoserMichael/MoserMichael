@@ -1,18 +1,30 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sun Mar 20 00:39:57 UTC 2022
+Mon Mar 21 00:39:26 UTC 2022
 
 <pre>
 
- _____________________________________
-/ You have the capacity to learn from \
-\ mistakes. You'll learn a lot today. /
- -------------------------------------
+ _______________________________________
+/ Delay not, Caesar. Read it instantly. \
+|                                       |
+| -- Shakespeare, "Julius Caesar" 3,1   |
+|                                       |
+| Here is a letter, read it at your     |
+| leisure.                              |
+|                                       |
+| -- Shakespeare, "Merchant of Venice"  |
+| 5,1                                   |
+|                                       |
+| [Quoted in "VMS Internals and Data    |
+| Structures", V4.4, when               |
+|                                       |
+\ referring to I/O system services.]    /
+ ---------------------------------------
         \   ^__^
          \  (!!)\_______
             (__)\       )\/\
              :( ||----w |
                 ||     ||
-nltk score: -36 '(from -100..100) state: 'bad' eye: !! tongue: :(
+nltk score: -32 '(from -100..100) state: 'bad' eye: !! tongue: :(
 
 </pre>
 
