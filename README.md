@@ -1,21 +1,21 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Fri Mar 25 00:40:20 UTC 2022
+Sat Mar 26 00:40:59 UTC 2022
 
 <pre>
 
- _________________________________________
-/ Q: Why do ducks have big flat feet? A:  \
-| To stamp out forest fires.              |
-|                                         |
-| Q: Why do elephants have big flat feet? |
-\ A: To stamp out flaming ducks.          /
- -----------------------------------------
+ ____________________________________
+/ They have been at a great feast of \
+| languages, and stolen the scraps.  |
+|                                    |
+| -- William Shakespeare, "Love's    |
+\ Labour's Lost"                     /
+ ------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
              -- ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 23 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
