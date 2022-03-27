@@ -1,21 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sat Mar 26 00:40:59 UTC 2022
+Sun Mar 27 00:46:13 UTC 2022
 
 <pre>
 
- ____________________________________
-/ They have been at a great feast of \
-| languages, and stolen the scraps.  |
-|                                    |
-| -- William Shakespeare, "Love's    |
-\ Labour's Lost"                     /
- ------------------------------------
+ _____________________________________
+/ In the stairway of life, you'd best \
+\ take the elevator.                  /
+ -------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (OO)\_______
             (__)\       )\/\
-             -- ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: 23 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 64 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
