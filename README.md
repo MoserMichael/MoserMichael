@@ -1,11 +1,16 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Mon Mar 28 00:43:30 UTC 2022
+Tue Mar 29 00:46:28 UTC 2022
 
 <pre>
 
- ____________________________________
-< Don't read everything you believe. >
- ------------------------------------
+ _________________________________________
+/ Habit is habit, and not to be flung out \
+| of the window by any man, but coaxed    |
+| down-stairs a step at a time.           |
+|                                         |
+| -- Mark Twain, "Pudd'nhead Wilson's     |
+\ Calendar                                /
+ -----------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
@@ -111,8 +116,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 463 </th></tr>
 </table>
 <br>
-old_date:  2022-03-18 00:40:32.414803 now: 2022-03-28 00:43:44.253030
-pyasmtool stars changed from: 271 to: 272
     </pre>
   </td>
 </table>
