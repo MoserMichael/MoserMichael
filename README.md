@@ -1,19 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Thu Mar 31 00:43:05 UTC 2022
+Fri Apr  1 00:48:55 UTC 2022
 
 <pre>
 
- ________________________________________
-/ I fell asleep reading a dull book, and \
-| I dreamt that I was reading on, so I   |
-\ woke up from sheer boredom.            /
- ----------------------------------------
+ _________________________________________
+/ If your life was a horse, you'd have to \
+\ shoot it.                               /
+ -----------------------------------------
         \   ^__^
-         \  (~~)\_______
+         \  (!!)\_______
             (__)\       )\/\
              :( ||----w |
                 ||     ||
-nltk score: -61 '(from -100..100) state: 'very bad' eye: ~~ tongue: :(
+nltk score: -34 '(from -100..100) state: 'bad' eye: !! tongue: :(
 
 </pre>
 
@@ -113,8 +112,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 464 </th></tr>
 </table>
 <br>
-old_date:  2022-03-28 00:43:44.253227 now: 2022-03-31 00:43:16.084028
-duckduckbang stars changed from: 29 to: 30
     </pre>
   </td>
 </table>
