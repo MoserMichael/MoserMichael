@@ -1,18 +1,17 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Wed Apr  6 00:45:41 UTC 2022
+Thu Apr  7 00:45:08 UTC 2022
 
 <pre>
 
- ________________________________________
-/ You've been leading a dog's life. Stay \
-\ off the furniture.                     /
- ----------------------------------------
+ ___________________________
+< You have no real enemies. >
+ ---------------------------
         \   ^__^
-         \  (..)\_______
+         \  (~~)\_______
             (__)\       )\/\
-             -- ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: -66 '(from -100..100) state: 'very bad' eye: ~~ tongue: :(
 
 </pre>
 
@@ -113,9 +112,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 465 </th></tr>
 </table>
 <br>
-old_date:  2022-03-31 00:43:16.084198 now: 2022-04-06 00:45:51.941705
-python-obj-system stars changed from: 49 to: 50
-rzgrep new project. stars: 0
     </pre>
   </td>
 </table>
