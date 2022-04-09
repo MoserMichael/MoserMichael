@@ -1,11 +1,12 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Fri Apr  8 00:45:19 UTC 2022
+Sat Apr  9 00:42:49 UTC 2022
 
 <pre>
 
- ___________________________
-< Is this really happening? >
- ---------------------------
+ _________________________________________
+/ Your depth of comprehension may tend to \
+\ make you lax in worldly ways.           /
+ -----------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
@@ -112,8 +113,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 466 </th></tr>
 </table>
 <br>
-old_date:  2022-04-06 00:45:51.941896 now: 2022-04-08 00:45:29.937350
-rzgrep stars changed from: 0 to: 1
     </pre>
   </td>
 </table>
