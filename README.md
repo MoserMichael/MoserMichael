@@ -1,17 +1,23 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Mon Apr 11 00:44:54 UTC 2022
+Tue Apr 12 00:41:57 UTC 2022
 
 <pre>
 
- ___________________________
-< Is this really happening? >
- ---------------------------
+ _________________________________________
+/ All I know is what the words know, and  \
+| dead things, and that makes a handsome  |
+| little sum, with a beginning and a      |
+| middle and an end, as in the well-built |
+| phrase and the long sonata of the dead. |
+|                                         |
+\ -- Samuel Beckett                       /
+ -----------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (~~)\_______
             (__)\       )\/\
-             -- ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: -75 '(from -100..100) state: 'very bad' eye: ~~ tongue: :(
 
 </pre>
 
@@ -112,8 +118,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 467 </th></tr>
 </table>
 <br>
-old_date:  2022-04-08 00:45:29.937547 now: 2022-04-11 00:45:06.329833
-kind-helper stars changed from: 20 to: 21
     </pre>
   </td>
 </table>
