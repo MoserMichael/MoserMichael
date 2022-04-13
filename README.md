@@ -1,23 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Tue Apr 12 00:41:57 UTC 2022
+Wed Apr 13 00:50:06 UTC 2022
 
 <pre>
 
- _________________________________________
-/ All I know is what the words know, and  \
-| dead things, and that makes a handsome  |
-| little sum, with a beginning and a      |
-| middle and an end, as in the well-built |
-| phrase and the long sonata of the dead. |
-|                                         |
-\ -- Samuel Beckett                       /
- -----------------------------------------
+ _______________________________________
+/ Q: What is purple and commutes? A: An \
+\ Abelian grape.                        /
+ ---------------------------------------
         \   ^__^
-         \  (~~)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :( ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: -75 '(from -100..100) state: 'very bad' eye: ~~ tongue: :(
+nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
