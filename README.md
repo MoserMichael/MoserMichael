@@ -1,18 +1,17 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Wed Apr 13 00:50:06 UTC 2022
+Thu Apr 14 00:52:27 UTC 2022
 
 <pre>
 
- _______________________________________
-/ Q: What is purple and commutes? A: An \
-\ Abelian grape.                        /
- ---------------------------------------
+ _________________
+< You look tired. >
+ -----------------
         \   ^__^
-         \  (..)\_______
+         \  (!!)\_______
             (__)\       )\/\
-             -- ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: -44 '(from -100..100) state: 'bad' eye: !! tongue: :(
 
 </pre>
 
@@ -89,10 +88,10 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/pprintex">pprintex</a></td><td>2</td><td>Python</td><td>python pretty printer, unlinke pprint it prints out all object field values.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/pythoncourse">pythoncourse</a></td><td>2</td><td>Python</td><td>my notes on teaching the python programming language.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/roget-thesaurus-parser">roget-thesaurus-parser</a></td><td>2</td><td>Python</td><td>parses Roget's thesaurus and provide API for querying related words</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/rzgrep">rzgrep</a></td><td>2</td><td>Go</td><td>grep utility that searches through zip,jar,ear,tgz,bz2 in any form of nesting (they like that in java)</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/gitblame">gitblame</a></td><td>1</td><td>Vim script</td><td>minimal vim plugin for working with git; with a focus on git blame and git grep commands</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/k8explain">k8explain</a></td><td>1</td><td>Go</td><td>golang exercise: produce a table of kubernetes api resources where each row is linked to an explanation</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/microsofthomework">microsofthomework</a></td><td>1</td><td>C++</td><td>Homework assignment at a Microsoft job interview</td></tr>
-<tr><td><a href="https://github.com/MoserMichael/rzgrep">rzgrep</a></td><td>1</td><td>Go</td><td>grep utility that searches through zip,jar,ear,tgz,bz2 in any form of nesting (they like that in java)</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/subb">subb</a></td><td>1</td><td>Python</td><td>a wrapper module for python subprocess</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/bloxroutehomework">bloxroutehomework</a></td><td>0</td><td>C++</td><td>assignment for bloxroute interview</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/devgoodies">devgoodies</a></td><td>0</td><td>Vim script</td><td>Vim plugin - useful commands for editing code.</td></tr>
@@ -110,9 +109,11 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/vimcrypt2">vimcrypt2</a></td><td>0</td><td>Vim script</td><td>Advanced vim plugin to encrypt files with openssl</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/visual-python-strace">visual-python-strace</a></td><td>0</td><td>Python</td><td>show a very long stack trace with variable values.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/zipit">zipit</a></td><td>0</td><td>C++</td><td>c++ library for the equivalent of python/haskell zip function</td></tr>
-<tr><th>Total stars:</th><th colspan='2' align='left'> 467 </th></tr>
+<tr><th>Total stars:</th><th colspan='2' align='left'> 468 </th></tr>
 </table>
 <br>
+old_date:  2022-04-11 00:45:06.330019 now: 2022-04-14 00:52:38.078192
+rzgrep stars changed from: 1 to: 2
     </pre>
   </td>
 </table>
