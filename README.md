@@ -1,17 +1,20 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Thu Apr 14 00:52:27 UTC 2022
+Fri Apr 15 00:47:40 UTC 2022
 
 <pre>
 
- _________________
-< You look tired. >
- -----------------
+ ________________________________________
+/ Today's weirdness is tomorrow's reason \
+| why.                                   |
+|                                        |
+\ -- Hunter S. Thompson                  /
+ ----------------------------------------
         \   ^__^
-         \  (!!)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :( ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: -44 '(from -100..100) state: 'bad' eye: !! tongue: :(
+nltk score: -23 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
@@ -112,8 +115,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 468 </th></tr>
 </table>
 <br>
-old_date:  2022-04-11 00:45:06.330019 now: 2022-04-14 00:52:38.078192
-rzgrep stars changed from: 1 to: 2
     </pre>
   </td>
 </table>
