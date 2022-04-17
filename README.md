@@ -1,18 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sat Apr 16 00:45:10 UTC 2022
+Sun Apr 17 00:47:56 UTC 2022
 
 <pre>
 
- _____________________________________
-/ You have the capacity to learn from \
-\ mistakes. You'll learn a lot today. /
- -------------------------------------
+ _________________________________________
+/ An exotic journey in downtown Newark is \
+\ in your future.                         /
+ -----------------------------------------
         \   ^__^
-         \  (!!)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :( ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: -36 '(from -100..100) state: 'bad' eye: !! tongue: :(
+nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
@@ -113,8 +113,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 469 </th></tr>
 </table>
 <br>
-old_date:  2022-04-14 00:52:38.078386 now: 2022-04-16 00:45:21.976682
-cppcombinator stars changed from: 18 to: 19
     </pre>
   </td>
 </table>

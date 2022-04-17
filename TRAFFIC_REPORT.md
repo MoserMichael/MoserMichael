@@ -24,9 +24,8 @@ Views:
 		Count: 54 Unique: 4 Url: github.com
 		Count: 2 Unique: 2 Url: golangexample.com
 
-repo: pyasmtool views: total: 182 unique:  82
+repo: pyasmtool views: total: 180 unique:  81
 Views:
-	 2022-04-02 00:00:00 total: 8 unique: 7
 	 2022-04-03 00:00:00 total: 10 unique: 7
 	 2022-04-04 00:00:00 total: 20 unique: 13
 	 2022-04-05 00:00:00 total: 9 unique: 5
@@ -40,10 +39,11 @@ Views:
 	 2022-04-13 00:00:00 total: 17 unique: 10
 	 2022-04-14 00:00:00 total: 11 unique: 9
 	 2022-04-15 00:00:00 total: 23 unique: 12
+	 2022-04-16 00:00:00 total: 6 unique: 3
 	Referrers:
-		Count: 70 Unique: 18 Url: news.ycombinator.com
-		Count: 10 Unique: 4 Url: reddit.com
-		Count: 7 Unique: 5 Url: github.com
+		Count: 68 Unique: 18 Url: news.ycombinator.com
+		Count: 11 Unique: 6 Url: github.com
+		Count: 11 Unique: 4 Url: reddit.com
 		Count: 1 Unique: 1 Url: jimmyr.com
 		Count: 1 Unique: 1 Url: libhunt.com
 		Count: 1 Unique: 1 Url: getpocket.com
@@ -63,13 +63,10 @@ Views:
 	 2022-04-13 00:00:00 total: 1 unique: 1
 	 2022-04-15 00:00:00 total: 5 unique: 3
 	Referrers:
-		Count: 19 Unique: 3 Url: github.com
-		Count: 19 Unique: 2 Url: l.facebook.com
-		Count: 3 Unique: 1 Url: m.facebook.com
+		Count: 13 Unique: 3 Url: github.com
 
-repo: python-obj-system views: total: 45 unique:  21
+repo: python-obj-system views: total: 44 unique:  22
 Views:
-	 2022-04-02 00:00:00 total: 2 unique: 1
 	 2022-04-03 00:00:00 total: 1 unique: 1
 	 2022-04-04 00:00:00 total: 4 unique: 4
 	 2022-04-05 00:00:00 total: 9 unique: 3
@@ -80,9 +77,10 @@ Views:
 	 2022-04-12 00:00:00 total: 1 unique: 1
 	 2022-04-13 00:00:00 total: 3 unique: 2
 	 2022-04-15 00:00:00 total: 2 unique: 2
+	 2022-04-16 00:00:00 total: 1 unique: 1
 	Referrers:
 		Count: 13 Unique: 1 Url: haxplore.com
-		Count: 8 Unique: 6 Url: github.com
+		Count: 7 Unique: 5 Url: github.com
 		Count: 2 Unique: 2 Url: news.ycombinator.com
 		Count: 1 Unique: 1 Url: wiki.traiana.com
 
@@ -97,7 +95,7 @@ Views:
 		Count: 8 Unique: 1 Url: github.com
 		Count: 1 Unique: 1 Url: Google
 
-repo: duckduckbang views: total: 37 unique:  26
+repo: duckduckbang views: total: 38 unique:  27
 Views:
 	 2022-04-05 00:00:00 total: 10 unique: 8
 	 2022-04-06 00:00:00 total: 17 unique: 12
@@ -107,15 +105,15 @@ Views:
 	 2022-04-11 00:00:00 total: 2 unique: 1
 	 2022-04-14 00:00:00 total: 3 unique: 3
 	 2022-04-15 00:00:00 total: 1 unique: 1
+	 2022-04-16 00:00:00 total: 1 unique: 1
 	Referrers:
 		Count: 19 Unique: 16 Url: news.ycombinator.com
 		Count: 3 Unique: 3 Url: github.com
 		Count: 1 Unique: 1 Url: Google
 		Count: 1 Unique: 1 Url: reddit.com
 
-repo: cppcombinator views: total: 31 unique:  12
+repo: cppcombinator views: total: 33 unique:  11
 Views:
-	 2022-04-02 00:00:00 total: 1 unique: 1
 	 2022-04-05 00:00:00 total: 2 unique: 2
 	 2022-04-06 00:00:00 total: 1 unique: 1
 	 2022-04-07 00:00:00 total: 1 unique: 1
@@ -123,15 +121,17 @@ Views:
 	 2022-04-10 00:00:00 total: 1 unique: 1
 	 2022-04-12 00:00:00 total: 4 unique: 2
 	 2022-04-15 00:00:00 total: 17 unique: 3
+	 2022-04-16 00:00:00 total: 3 unique: 1
 	Referrers:
-		Count: 9 Unique: 4 Url: github.com
+		Count: 25 Unique: 6 Url: github.com
 		Count: 1 Unique: 1 Url: Google
 		Count: 1 Unique: 1 Url: reddit.com
 
-repo: bloxroutehomework views: total: 29 unique:  2
+repo: bloxroutehomework views: total: 27 unique:  1
 Views:
-	 2022-04-02 00:00:00 total: 2 unique: 1
 	 2022-04-15 00:00:00 total: 27 unique: 1
+	Referrers:
+		Count: 16 Unique: 1 Url: github.com
 
 repo: grpc-spring-boot-starter-utils views: total: 26 unique:  1
 Views:
@@ -155,9 +155,12 @@ Views:
 	Referrers:
 		Count: 19 Unique: 2 Url: github.com
 
-repo: microsofthomework views: total: 12 unique:  1
+repo: microsofthomework views: total: 13 unique:  1
 Views:
 	 2022-04-15 00:00:00 total: 12 unique: 1
+	 2022-04-16 00:00:00 total: 1 unique: 1
+	Referrers:
+		Count: 11 Unique: 1 Url: github.com
 
 repo: ls-annotations views: total: 11 unique:  9
 Views:
@@ -168,9 +171,8 @@ Views:
 	 2022-04-12 00:00:00 total: 2 unique: 2
 	 2022-04-15 00:00:00 total: 2 unique: 1
 	Referrers:
-		Count: 4 Unique: 3 Url: news.ycombinator.com
+		Count: 3 Unique: 2 Url: news.ycombinator.com
 		Count: 2 Unique: 2 Url: Google
-		Count: 1 Unique: 1 Url: brianlovin.com
 
 repo: my-notes views: total: 8 unique:  4
 Views:
@@ -179,11 +181,10 @@ Views:
 	 2022-04-13 00:00:00 total: 1 unique: 1
 	 2022-04-15 00:00:00 total: 4 unique: 1
 	Referrers:
-		Count: 4 Unique: 3 Url: github.com
+		Count: 6 Unique: 4 Url: github.com
 
-repo: vimcrypt2 views: total: 8 unique:  7
+repo: vimcrypt2 views: total: 7 unique:  7
 Views:
-	 2022-04-02 00:00:00 total: 1 unique: 1
 	 2022-04-04 00:00:00 total: 1 unique: 1
 	 2022-04-05 00:00:00 total: 1 unique: 1
 	 2022-04-07 00:00:00 total: 1 unique: 1
@@ -215,7 +216,7 @@ Views:
 	 2022-04-10 00:00:00 total: 1 unique: 1
 	 2022-04-15 00:00:00 total: 3 unique: 1
 	Referrers:
-		Count: 1 Unique: 1 Url: github.com
+		Count: 4 Unique: 2 Url: github.com
 		Count: 1 Unique: 1 Url: news.ycombinator.com
 
 repo: githubapitools views: total: 4 unique:  2
@@ -238,6 +239,7 @@ Views:
 	 2022-04-15 00:00:00 total: 1 unique: 1
 	Referrers:
 		Count: 2 Unique: 1 Url: Google
+		Count: 1 Unique: 1 Url: reddit.com
 
 repo: pythonimportplayground views: total: 3 unique:  3
 Views:
@@ -249,6 +251,8 @@ Views:
 repo: devgoodies views: total: 2 unique:  1
 Views:
 	 2022-04-15 00:00:00 total: 2 unique: 1
+	Referrers:
+		Count: 2 Unique: 1 Url: vim.org
 
 repo: flagged-hn views: total: 2 unique:  1
 Views:
@@ -261,7 +265,6 @@ Views:
 	 2022-04-03 00:00:00 total: 1 unique: 1
 	 2022-04-10 00:00:00 total: 1 unique: 1
 	Referrers:
-		Count: 1 Unique: 1 Url: news.ycombinator.com
 		Count: 1 Unique: 1 Url: vim.org
 
 repo: pprintex views: total: 2 unique:  2
@@ -318,4 +321,4 @@ repo: vimcrypt views: total: 0 unique:  0
 
 
 ***
-Total views: 919
+Total views: 917
