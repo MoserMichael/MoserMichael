@@ -1,18 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sun Apr 17 00:47:56 UTC 2022
+Mon Apr 18 00:54:40 UTC 2022
 
 <pre>
 
  _________________________________________
-/ An exotic journey in downtown Newark is \
-\ in your future.                         /
+/ You will be imprisoned for contributing \
+\ your time and skill to a bank robbery.  /
  -----------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (!!)\_______
             (__)\       )\/\
-             -- ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: -46 '(from -100..100) state: 'bad' eye: !! tongue: :(
 
 </pre>
 
@@ -73,26 +73,27 @@ My stuff here:
 
 <table><tr><th align='left'>Name</th><th align='left'>Stars</th><th align='left'>Language</th><th align='left'>description</th></tr>
 <tr><td><a href="https://github.com/MoserMichael/pyasmtool">pyasmtool</a></td><td>272</td><td>Python</td><td>Explores the python bytecode, provides some tools to access it for fun and profit.</td></tr>
-<tr><td><a href="https://github.com/MoserMichael/python-obj-system">python-obj-system</a></td><td>50</td><td>Python</td><td>Tutorials on advanced python topics, and literate programming framework to write them (see README.md)</td></tr>
-<tr><td><a href="https://github.com/MoserMichael/duckduckbang">duckduckbang</a></td><td>30</td><td>Python</td><td>Meta search page that utilises duckduckgo !bang query operators.</td></tr>
-<tr><td><a href="https://github.com/MoserMichael/kind-helper">kind-helper</a></td><td>21</td><td>Python</td><td>Simplifies the creation of practical kubernetes test clusters with the kind utility.</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/python-obj-system">python-obj-system</a></td><td>51</td><td>Python</td><td>Tutorials on advanced python topics, and literate programming framework to write them (see README.md)</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/duckduckbang">duckduckbang</a></td><td>31</td><td>Python</td><td>Meta search page that utilises duckduckgo !bang query operators.</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/kind-helper">kind-helper</a></td><td>22</td><td>Python</td><td>Simplifies the creation of practical kubernetes test clusters with the kind utility.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/jq-illustrated">jq-illustrated</a></td><td>20</td><td>Shell</td><td>illustrated tutorial of jq (and the scripts that create it)</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/cppcombinator">cppcombinator</a></td><td>19</td><td>C++</td><td>parser  combinator and AST generator in c++17</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/s9k">s9k</a></td><td>12</td><td>Python</td><td>web server/web UI for managing kubernetes clusters, with similar functionality as k9s</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/cstuff">cstuff</a></td><td>10</td><td>C</td><td>My C projects and old homepage:</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/ls-annotations">ls-annotations</a></td><td>6</td><td>Java</td><td>Show all declarations with java annotations by decompiling byte code.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/pythonimportplayground">pythonimportplayground</a></td><td>5</td><td>Python</td><td>the readme file explains python packages, with examples.</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/myenv">myenv</a></td><td>4</td><td>Vim script</td><td>my work environment (so i don't have to search for it ;-)</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/pygamewrap">pygamewrap</a></td><td>4</td><td>Python</td><td>A small wrapper toolkit that simplifies development with the pygame library (hopefully)</td></tr>
-<tr><td><a href="https://github.com/MoserMichael/myenv">myenv</a></td><td>3</td><td>Vim script</td><td>my work environment (so i don't have to search for it ;-)</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/rzgrep">rzgrep</a></td><td>4</td><td>Go</td><td>grep utility that searches through zip,jar,ear,tgz,bz2 in any form of nesting (they like that in java)</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/opinionated-fortune-cow">opinionated-fortune-cow</a></td><td>3</td><td>Shell</td><td>fortune | cow pipe that runs sentiment analysis on the fortune cookie, in order to determine the mood and expression of the cow</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/flagged-hn">flagged-hn</a></td><td>2</td><td>Python</td><td>crawl hn and build a page containing flagged stories only.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/pprintex">pprintex</a></td><td>2</td><td>Python</td><td>python pretty printer, unlinke pprint it prints out all object field values.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/pythoncourse">pythoncourse</a></td><td>2</td><td>Python</td><td>my notes on teaching the python programming language.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/roget-thesaurus-parser">roget-thesaurus-parser</a></td><td>2</td><td>Python</td><td>parses Roget's thesaurus and provide API for querying related words</td></tr>
-<tr><td><a href="https://github.com/MoserMichael/rzgrep">rzgrep</a></td><td>2</td><td>Go</td><td>grep utility that searches through zip,jar,ear,tgz,bz2 in any form of nesting (they like that in java)</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/gitblame">gitblame</a></td><td>1</td><td>Vim script</td><td>minimal vim plugin for working with git; with a focus on git blame and git grep commands</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/k8explain">k8explain</a></td><td>1</td><td>Go</td><td>golang exercise: produce a table of kubernetes api resources where each row is linked to an explanation</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/microsofthomework">microsofthomework</a></td><td>1</td><td>C++</td><td>Homework assignment at a Microsoft job interview</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/MoserMichael">MoserMichael</a></td><td>1</td><td>Shell</td><td>some blurb about the owner and his stuff. A script generates README.md, that appears on the public profile. The script is run periodically by github action. (see ABOUT.md)</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/subb">subb</a></td><td>1</td><td>Python</td><td>a wrapper module for python subprocess</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/bloxroutehomework">bloxroutehomework</a></td><td>0</td><td>C++</td><td>assignment for bloxroute interview</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/devgoodies">devgoodies</a></td><td>0</td><td>Vim script</td><td>Vim plugin - useful commands for editing code.</td></tr>
@@ -102,7 +103,6 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/grpc-spring-boot-starter-utils">grpc-spring-boot-starter-utils</a></td><td>0</td><td>Java</td><td>grpc ServerInterceptor for logging of grpc request/response with exception handling, used with grpc-spring-boot-starter</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/jpa-enc-converter">jpa-enc-converter</a></td><td>0</td><td>Java</td><td>Example of handling the encryption/decryption of data at rest in an SQL table, by means of spring JPA/AttributeConverter</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/kwchecker">kwchecker</a></td><td>0</td><td>Python</td><td>Declarative verifier and sanitizer for python kwargs parameters.</td></tr>
-<tr><td><a href="https://github.com/MoserMichael/MoserMichael">MoserMichael</a></td><td>0</td><td>Shell</td><td>some blurb about the owner and his stuff. A script generates README.md, that appears on the public profile. The script is run periodically by github action. (see ABOUT.md)</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/my-notes">my-notes</a></td><td>0</td><td>None</td><td>Keeping notes while learning stuff (so they don't get lost) These notes are best viewed in vim - meaning in a fixed font with text wrapping)</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/printb">printb</a></td><td>0</td><td>Python</td><td>Adds bidi aware 'print' and 'input' functions.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/scriptrunner-operator">scriptrunner-operator</a></td><td>0</td><td>Go</td><td>k8s operator that runs python scripts.</td></tr>
@@ -110,9 +110,16 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/vimcrypt2">vimcrypt2</a></td><td>0</td><td>Vim script</td><td>Advanced vim plugin to encrypt files with openssl</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/visual-python-strace">visual-python-strace</a></td><td>0</td><td>Python</td><td>show a very long stack trace with variable values.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/zipit">zipit</a></td><td>0</td><td>C++</td><td>c++ library for the equivalent of python/haskell zip function</td></tr>
-<tr><th>Total stars:</th><th colspan='2' align='left'> 469 </th></tr>
+<tr><th>Total stars:</th><th colspan='2' align='left'> 476 </th></tr>
 </table>
 <br>
+old_date:  2022-04-16 00:45:21.976951 now: 2022-04-18 00:54:50.967850
+python-obj-system stars changed from: 50 to: 51
+duckduckbang stars changed from: 30 to: 31
+kind-helper stars changed from: 21 to: 22
+myenv stars changed from: 3 to: 4
+rzgrep stars changed from: 2 to: 4
+MoserMichael stars changed from: 0 to: 1
     </pre>
   </td>
 </table>
