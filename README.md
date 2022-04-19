@@ -1,18 +1,42 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Mon Apr 18 00:54:40 UTC 2022
+Tue Apr 19 00:52:55 UTC 2022
 
 <pre>
 
  _________________________________________
-/ You will be imprisoned for contributing \
-\ your time and skill to a bank robbery.  /
+/ The Least Successful Collector          \
+|                                         |
+| Betsy Baker played a central role in    |
+| the history of collecting. She was      |
+| employed as a servant in the house of   |
+| John Warburton (1682-1759) who had      |
+| amassed a fine collection of 58 first   |
+| edition plays, including most of the    |
+| works of Shakespeare.                   |
+|                                         |
+| One day Warburton returned home to find |
+| 55 of them charred beyond legibility.   |
+| Betsy had either burned them or used    |
+| them as pie bottoms. The remaining      |
+| three folios are now in the British     |
+| Museum.                                 |
+|                                         |
+| The only comparable literary figure was |
+| the maid who in 1835 burned the         |
+| manuscript of the first volume of       |
+| Thomas Carlyle's "The Hisory of the     |
+| French Revolution", thinking it was     |
+| wastepaper.                             |
+|                                         |
+| -- Stephen Pile, "The Book of Heroic    |
+\ Failures"                               /
  -----------------------------------------
         \   ^__^
-         \  (!!)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :( ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: -46 '(from -100..100) state: 'bad' eye: !! tongue: :(
+nltk score: 28 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
@@ -113,13 +137,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 476 </th></tr>
 </table>
 <br>
-old_date:  2022-04-16 00:45:21.976951 now: 2022-04-18 00:54:50.967850
-python-obj-system stars changed from: 50 to: 51
-duckduckbang stars changed from: 30 to: 31
-kind-helper stars changed from: 21 to: 22
-myenv stars changed from: 3 to: 4
-rzgrep stars changed from: 2 to: 4
-MoserMichael stars changed from: 0 to: 1
     </pre>
   </td>
 </table>
