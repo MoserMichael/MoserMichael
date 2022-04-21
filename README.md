@@ -1,23 +1,23 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Wed Apr 20 00:55:45 UTC 2022
+Thu Apr 21 00:51:53 UTC 2022
 
 <pre>
 
- _______________________________________
-/ Training is everything. The peach was \
-| once a bitter almond; cauliflower is  |
-| nothing but cabbage with a college    |
-| education.                            |
-|                                       |
-| -- Mark Twain, "Pudd'nhead Wilson's   |
-\ Calendar"                             /
- ---------------------------------------
+ _________________________________________
+/ All I know is what the words know, and  \
+| dead things, and that makes a handsome  |
+| little sum, with a beginning and a      |
+| middle and an end, as in the well-built |
+| phrase and the long sonata of the dead. |
+|                                         |
+\ -- Samuel Beckett                       /
+ -----------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (~~)\_______
             (__)\       )\/\
-             -- ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: -23 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: -75 '(from -100..100) state: 'very bad' eye: ~~ tongue: :(
 
 </pre>
 
