@@ -1,23 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Thu Apr 21 00:51:53 UTC 2022
+Fri Apr 22 00:52:31 UTC 2022
 
 <pre>
 
- _________________________________________
-/ All I know is what the words know, and  \
-| dead things, and that makes a handsome  |
-| little sum, with a beginning and a      |
-| middle and an end, as in the well-built |
-| phrase and the long sonata of the dead. |
-|                                         |
-\ -- Samuel Beckett                       /
- -----------------------------------------
+ ______________________________________
+/ Q: What's hard going in and soft and \
+\ sticky coming out? A: Chewing gum.   /
+ --------------------------------------
         \   ^__^
-         \  (~~)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :( ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: -75 '(from -100..100) state: 'very bad' eye: ~~ tongue: :(
+nltk score: -10 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
