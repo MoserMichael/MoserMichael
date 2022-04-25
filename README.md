@@ -1,17 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sun Apr 24 00:45:04 UTC 2022
+Mon Apr 25 00:42:55 UTC 2022
 
 <pre>
 
- ___________________________
-< You have no real enemies. >
- ---------------------------
+ _____________________________________
+/ Your sister swims out to meet troop \
+\ ships.                              /
+ -------------------------------------
         \   ^__^
-         \  (~~)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :( ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: -66 '(from -100..100) state: 'very bad' eye: ~~ tongue: :(
+nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
