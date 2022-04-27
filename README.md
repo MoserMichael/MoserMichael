@@ -1,17 +1,20 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Tue Apr 26 00:50:31 UTC 2022
+Wed Apr 27 00:58:14 UTC 2022
 
 <pre>
 
- _____________________________________
-< You will be divorced within a year. >
- -------------------------------------
+ ________________________________________
+/ There's small choice in rotten apples. \
+|                                        |
+| -- William Shakespeare, "The Taming of |
+\ the Shrew"                             /
+ ----------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (!!)\_______
             (__)\       )\/\
-             -- ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: -51 '(from -100..100) state: 'bad' eye: !! tongue: :(
 
 </pre>
 
