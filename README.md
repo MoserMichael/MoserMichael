@@ -1,20 +1,21 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Wed Apr 27 00:58:14 UTC 2022
+Thu Apr 28 01:06:44 UTC 2022
 
 <pre>
 
- ________________________________________
-/ There's small choice in rotten apples. \
-|                                        |
-| -- William Shakespeare, "The Taming of |
-\ the Shrew"                             /
- ----------------------------------------
+ _______________________________________
+/ Few things are harder to put up with  \
+| than the annoyance of a good example. |
+|                                       |
+| -- "Mark Twain, Pudd'nhead Wilson's   |
+\ Calendar"                             /
+ ---------------------------------------
         \   ^__^
-         \  (!!)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :( ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: -51 '(from -100..100) state: 'bad' eye: !! tongue: :(
+nltk score: 15 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
