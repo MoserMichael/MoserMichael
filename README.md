@@ -1,21 +1,21 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Thu Apr 28 01:06:44 UTC 2022
+Fri Apr 29 00:50:12 UTC 2022
 
 <pre>
 
  _______________________________________
-/ Few things are harder to put up with  \
-| than the annoyance of a good example. |
+/ Work consists of whatever a body is   \
+| obliged to do. Play consists of       |
+| whatever a body is not obliged to do. |
 |                                       |
-| -- "Mark Twain, Pudd'nhead Wilson's   |
-\ Calendar"                             /
+\ -- Mark Twain                         /
  ---------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (oo)\_______
             (__)\       )\/\
-             -- ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: 15 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 34 '(from -100..100) state: 'good' eye: oo tongue: :)
 
 </pre>
 
@@ -87,7 +87,7 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/pythonimportplayground">pythonimportplayground</a></td><td>5</td><td>Python</td><td>the readme file explains python packages, with examples.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/myenv">myenv</a></td><td>4</td><td>Vim script</td><td>my work environment (so i don't have to search for it ;-)</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/pygamewrap">pygamewrap</a></td><td>4</td><td>Python</td><td>A small wrapper toolkit that simplifies development with the pygame library (hopefully)</td></tr>
-<tr><td><a href="https://github.com/MoserMichael/rzgrep">rzgrep</a></td><td>4</td><td>Go</td><td>grep utility that searches through zip,jar,ear,tgz,bz2 in any form of nesting (they like that in java)</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/rzgrep">rzgrep</a></td><td>4</td><td>Go</td><td>grep utility that searches through zip,jar,ear,tgz,bz2 in any form of nesting; it can also decompile class files</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/opinionated-fortune-cow">opinionated-fortune-cow</a></td><td>3</td><td>Shell</td><td>fortune | cow pipe that runs sentiment analysis on the fortune cookie, in order to determine the mood and expression of the cow</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/flagged-hn">flagged-hn</a></td><td>2</td><td>Python</td><td>crawl hn and build a page containing flagged stories only.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/pprintex">pprintex</a></td><td>2</td><td>Python</td><td>python pretty printer, unlinke pprint it prints out all object field values.</td></tr>
