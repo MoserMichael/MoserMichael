@@ -1,21 +1,31 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Fri Apr 29 00:50:12 UTC 2022
+Sat Apr 30 00:55:28 UTC 2022
 
 <pre>
 
- _______________________________________
-/ Work consists of whatever a body is   \
-| obliged to do. Play consists of       |
-| whatever a body is not obliged to do. |
-|                                       |
-\ -- Mark Twain                         /
- ---------------------------------------
+ _________________________________________
+/ Q: How many journalists does it take to \
+| screw in a light bulb? A: Three. One to |
+| report it as an inspired government     |
+| program to bring                        |
+|                                         |
+| light to the people, one to report it   |
+| as a diabolical government plot         |
+|                                         |
+| to deprive the poor of darkness, and    |
+| one to win a Pulitzer prize for         |
+|                                         |
+| reporting that Electric Company hired a |
+| light bulb-assassin to break            |
+|                                         |
+\ the bulb in the first place.            /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
              :) ||----w |
                 ||     ||
-nltk score: 34 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: 40 '(from -100..100) state: 'good' eye: oo tongue: :)
 
 </pre>
 
