@@ -1,31 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sat Apr 30 00:55:28 UTC 2022
+Sun May  1 01:01:22 UTC 2022
 
 <pre>
 
- _________________________________________
-/ Q: How many journalists does it take to \
-| screw in a light bulb? A: Three. One to |
-| report it as an inspired government     |
-| program to bring                        |
-|                                         |
-| light to the people, one to report it   |
-| as a diabolical government plot         |
-|                                         |
-| to deprive the poor of darkness, and    |
-| one to win a Pulitzer prize for         |
-|                                         |
-| reporting that Electric Company hired a |
-| light bulb-assassin to break            |
-|                                         |
-\ the bulb in the first place.            /
- -----------------------------------------
+ ______________________________________
+/ Try to value useful qualities in one \
+\ who loves you.                       /
+ --------------------------------------
         \   ^__^
-         \  (oo)\_______
+         \  (OO)\_______
             (__)\       )\/\
              :) ||----w |
                 ||     ||
-nltk score: 40 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: 84 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
@@ -95,7 +82,7 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/cstuff">cstuff</a></td><td>10</td><td>C</td><td>My C projects and old homepage:</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/ls-annotations">ls-annotations</a></td><td>6</td><td>Java</td><td>Show all declarations with java annotations by decompiling byte code.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/pythonimportplayground">pythonimportplayground</a></td><td>5</td><td>Python</td><td>the readme file explains python packages, with examples.</td></tr>
-<tr><td><a href="https://github.com/MoserMichael/myenv">myenv</a></td><td>4</td><td>Vim script</td><td>my work environment (so i don't have to search for it ;-)</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/myenv">myenv</a></td><td>4</td><td>Shell</td><td>my work environment (so i don't have to search for it ;-)</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/pygamewrap">pygamewrap</a></td><td>4</td><td>Python</td><td>A small wrapper toolkit that simplifies development with the pygame library (hopefully)</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/rzgrep">rzgrep</a></td><td>4</td><td>Go</td><td>grep utility that searches through zip,jar,ear,tgz,bz2 in any form of nesting; it can also decompile class files</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/opinionated-fortune-cow">opinionated-fortune-cow</a></td><td>3</td><td>Shell</td><td>fortune | cow pipe that runs sentiment analysis on the fortune cookie, in order to determine the mood and expression of the cow</td></tr>
@@ -122,10 +109,13 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/vimcrypt">vimcrypt</a></td><td>0</td><td>Vim script</td><td>my vim plugin for encrypting/decryting text files with openssl</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/vimcrypt2">vimcrypt2</a></td><td>0</td><td>Vim script</td><td>Advanced vim plugin to encrypt files with openssl</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/visual-python-strace">visual-python-strace</a></td><td>0</td><td>Python</td><td>show a very long stack trace with variable values.</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/vosk-api">vosk-api</a></td><td>0</td><td>None</td><td>Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/zipit">zipit</a></td><td>0</td><td>C++</td><td>c++ library for the equivalent of python/haskell zip function</td></tr>
 <tr><th>Total stars:</th><th colspan='2' align='left'> 476 </th></tr>
 </table>
 <br>
+old_date:  2022-04-18 00:54:50.968040 now: 2022-05-01 01:01:35.384653
+vosk-api new project. stars: 0
     </pre>
   </td>
 </table>
