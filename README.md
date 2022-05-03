@@ -1,17 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Mon May  2 00:50:28 UTC 2022
+Tue May  3 00:53:32 UTC 2022
 
 <pre>
 
- _________________________________
-< There was a phone call for you. >
- ---------------------------------
+ ___________________________________
+/ Your nature demands love and your \
+\ happiness depends on it.          /
+ -----------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (OO)\_______
             (__)\       )\/\
-             -- ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 83 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
@@ -71,7 +72,7 @@ My stuff here:
         <pre>
 
 <table><tr><th align='left'>Name</th><th align='left'>Stars</th><th align='left'>Language</th><th align='left'>description</th></tr>
-<tr><td><a href="https://github.com/MoserMichael/pyasmtool">pyasmtool</a></td><td>272</td><td>Python</td><td>Explores the python bytecode, provides some tools to access it for fun and profit.</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/pyasmtool">pyasmtool</a></td><td>273</td><td>Python</td><td>Explores the python bytecode, provides some tools to access it for fun and profit.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/python-obj-system">python-obj-system</a></td><td>52</td><td>Python</td><td>Tutorials on advanced python topics, and literate programming framework to write them (see README.md)</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/duckduckbang">duckduckbang</a></td><td>31</td><td>Python</td><td>Meta search page that utilises duckduckgo !bang query operators.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/kind-helper">kind-helper</a></td><td>22</td><td>Python</td><td>Simplifies the creation of practical kubernetes test clusters with the kind utility.</td></tr>
@@ -110,11 +111,11 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/visual-python-strace">visual-python-strace</a></td><td>0</td><td>Python</td><td>show a very long stack trace with variable values.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/vosk-api">vosk-api</a></td><td>0</td><td>None</td><td>Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/zipit">zipit</a></td><td>0</td><td>C++</td><td>c++ library for the equivalent of python/haskell zip function</td></tr>
-<tr><th>Total stars:</th><th colspan='2' align='left'> 477 </th></tr>
+<tr><th>Total stars:</th><th colspan='2' align='left'> 478 </th></tr>
 </table>
 <br>
-old_date:  2022-05-01 01:01:35.384842 now: 2022-05-02 00:50:39.921502
-python-obj-system stars changed from: 51 to: 52
+old_date:  2022-05-02 00:50:39.921731 now: 2022-05-03 00:53:46.775688
+pyasmtool stars changed from: 272 to: 273
     </pre>
   </td>
 </table>
