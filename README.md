@@ -1,18 +1,39 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Tue May  3 00:53:32 UTC 2022
+Wed May  4 00:52:24 UTC 2022
 
 <pre>
 
- ___________________________________
-/ Your nature demands love and your \
-\ happiness depends on it.          /
- -----------------------------------
+ _______________________________________
+/ Q: What's the contour integral around \
+| Western Europe? A: Zero, because all  |
+| the Poles are in Eastern Europe!      |
+|                                       |
+| Addendum: Actually, there ARE some    |
+| Poles in Western Europe, but they     |
+|                                       |
+| are removable!                        |
+|                                       |
+| Q: An English mathematician (I forgot |
+| who) was asked by his                 |
+|                                       |
+| very religious colleague: Do you      |
+| believe in one God? A: Yes, up to     |
+| isomorphism!                          |
+|                                       |
+| Q: What is a compact city? A: It's a  |
+| city that can be guarded by finitely  |
+| many near-sighted                     |
+|                                       |
+| policemen!                            |
+|                                       |
+\ -- Peter Lax                          /
+ ---------------------------------------
         \   ^__^
          \  (OO)\_______
             (__)\       )\/\
              :) ||----w |
                 ||     ||
-nltk score: 83 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: 66 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
@@ -114,8 +135,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 478 </th></tr>
 </table>
 <br>
-old_date:  2022-05-02 00:50:39.921731 now: 2022-05-03 00:53:46.775688
-pyasmtool stars changed from: 272 to: 273
     </pre>
   </td>
 </table>
