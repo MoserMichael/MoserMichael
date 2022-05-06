@@ -1,12 +1,15 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Thu May  5 00:53:10 UTC 2022
+Fri May  6 00:45:03 UTC 2022
 
 <pre>
 
- _____________________________________
-/ Your goose is cooked. (Your current \
-\ chick is burned up too!)            /
- -------------------------------------
+ _________________________________________
+/ Soap and education are not as sudden as \
+| a massacre, but they are more deadly in |
+| the long run.                           |
+|                                         |
+\ -- Mark Twain                           /
+ -----------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
