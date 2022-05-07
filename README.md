@@ -1,15 +1,12 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Fri May  6 00:45:03 UTC 2022
+Sat May  7 00:46:59 UTC 2022
 
 <pre>
 
- _________________________________________
-/ Soap and education are not as sudden as \
-| a massacre, but they are more deadly in |
-| the long run.                           |
-|                                         |
-\ -- Mark Twain                           /
- -----------------------------------------
+ _____________________________________
+/ Change your thoughts and you change \
+\ your world.                         /
+ -------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
