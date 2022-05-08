@@ -1,18 +1,17 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sat May  7 00:46:59 UTC 2022
+Sun May  8 00:49:10 UTC 2022
 
 <pre>
 
- _____________________________________
-/ Change your thoughts and you change \
-\ your world.                         /
- -------------------------------------
+ ________________________________________
+< You have a truly strong individuality. >
+ ----------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (OO)\_______
             (__)\       )\/\
-             -- ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 74 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
