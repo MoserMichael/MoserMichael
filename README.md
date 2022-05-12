@@ -1,18 +1,20 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Wed May 11 00:57:11 UTC 2022
+Thu May 12 00:53:05 UTC 2022
 
 <pre>
 
- ______________________________________
-/ Q: How much does it cost to ride the \
-\ Unibus? A: 2 bits.                   /
- --------------------------------------
+ ________________________________________
+/ FORTUNE PROVIDES QUESTIONS FOR THE     \
+| GREAT ANSWERS: #4 A: Go west, young    |
+| man, go west! Q: What do wabbits do    |
+\ when they get tiwed of wunning awound? /
+ ----------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (OO)\_______
             (__)\       )\/\
-             -- ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 66 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
@@ -114,8 +116,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 479 </th></tr>
 </table>
 <br>
-old_date:  2022-05-03 00:53:46.775921 now: 2022-05-11 00:57:24.588376
-rzgrep stars changed from: 4 to: 5
     </pre>
   </td>
 </table>
