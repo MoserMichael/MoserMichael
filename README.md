@@ -1,20 +1,20 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Thu May 12 00:53:05 UTC 2022
+Fri May 13 00:59:27 UTC 2022
 
 <pre>
 
- ________________________________________
-/ FORTUNE PROVIDES QUESTIONS FOR THE     \
-| GREAT ANSWERS: #4 A: Go west, young    |
-| man, go west! Q: What do wabbits do    |
-\ when they get tiwed of wunning awound? /
- ----------------------------------------
+ ______________________________________
+/ Let me take you a button-hole lower. \
+|                                      |
+| -- William Shakespeare, "Love's      |
+\ Labour's Lost"                       /
+ --------------------------------------
         \   ^__^
-         \  (OO)\_______
+         \  (!!)\_______
             (__)\       )\/\
-             :) ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 66 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: -30 '(from -100..100) state: 'bad' eye: !! tongue: :(
 
 </pre>
 
