@@ -1,20 +1,17 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Fri May 13 00:59:27 UTC 2022
+Sat May 14 00:59:53 UTC 2022
 
 <pre>
 
- ______________________________________
-/ Let me take you a button-hole lower. \
-|                                      |
-| -- William Shakespeare, "Love's      |
-\ Labour's Lost"                       /
- --------------------------------------
+ ________________________________________
+< You will be surprised by a loud noise. >
+ ----------------------------------------
         \   ^__^
-         \  (!!)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :( ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: -30 '(from -100..100) state: 'bad' eye: !! tongue: :(
+nltk score: 23 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
