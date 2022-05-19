@@ -1,18 +1,24 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Wed May 18 00:42:34 UTC 2022
+Thu May 19 01:00:06 UTC 2022
 
 <pre>
 
- _______________________________________
-/ Try to have as good a life as you can \
-\ under the circumstances.              /
- ---------------------------------------
+ _________________________________________
+/ Whoever has lived long enough to find   \
+| out what life is, knows how deep a debt |
+| of gratitude we owe to Adam, the first  |
+| great benefactor of our race. He        |
+| brought death into the world.           |
+|                                         |
+| -- Mark Twain, "Pudd'nhead Wilson's     |
+\ Calendar"                               /
+ -----------------------------------------
         \   ^__^
-         \  (oo)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :) ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: 44 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: 25 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
