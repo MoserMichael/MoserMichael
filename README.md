@@ -1,19 +1,22 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Fri May 20 00:53:49 UTC 2022
+Sat May 21 00:45:22 UTC 2022
 
 <pre>
 
- ________________________________________
-/ I fell asleep reading a dull book, and \
-| I dreamt that I was reading on, so I   |
-\ woke up from sheer boredom.            /
- ----------------------------------------
+ _____________________________________
+/ It were not best that we should all \
+| think alike; it is difference of    |
+| opinion that makes horse-races.     |
+|                                     |
+| -- Mark Twain, "Pudd'nhead Wilson's |
+\ Calendar"                           /
+ -------------------------------------
         \   ^__^
-         \  (~~)\_______
+         \  (!!)\_______
             (__)\       )\/\
              :( ||----w |
                 ||     ||
-nltk score: -61 '(from -100..100) state: 'very bad' eye: ~~ tongue: :(
+nltk score: -52 '(from -100..100) state: 'bad' eye: !! tongue: :(
 
 </pre>
 
