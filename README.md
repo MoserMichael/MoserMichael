@@ -1,21 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sun May 22 00:50:06 UTC 2022
+Mon May 23 00:49:09 UTC 2022
 
 <pre>
 
  _________________________________________
-/ He that is giddy thinks the world turns \
-| round.                                  |
-|                                         |
-| -- William Shakespeare, "The Taming of  |
-\ the Shrew"                              /
+/ You are a very redundant person, that's \
+\ what kind of person you are.            /
  -----------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
              -- ||----w |
                 ||     ||
-nltk score: -15 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
