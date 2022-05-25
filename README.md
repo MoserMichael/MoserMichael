@@ -1,20 +1,29 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Tue May 24 00:56:04 UTC 2022
+Wed May 25 00:54:46 UTC 2022
 
 <pre>
 
- ________________________________________
-/ The very ink with which all history is \
-| written is merely fluid prejudice.     |
-|                                        |
-\ -- Mark Twain                          /
- ----------------------------------------
+ _________________________________________
+/ I reverently believe that the maker who \
+| made us all makes everything in New     |
+| England, but the weather. I don't know  |
+| who makes that, but I think it must be  |
+| raw apprentices in the weather-clerks   |
+| factory who experiment and learn how,   |
+| in New England, for board and clothes,  |
+| and then are promoted to make weather   |
+| for countries that require a good       |
+| article, and will take their custom     |
+| elsewhere if they don't get it.         |
+|                                         |
+\ -- Mark Twain                           /
+ -----------------------------------------
         \   ^__^
-         \  (!!)\_______
+         \  (OO)\_______
             (__)\       )\/\
-             :( ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: -51 '(from -100..100) state: 'bad' eye: !! tongue: :(
+nltk score: 82 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
@@ -117,9 +126,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 478 </th></tr>
 </table>
 <br>
-old_date:  2022-05-11 00:57:24.588551 now: 2022-05-24 00:56:18.712033
-pyasmtool stars changed from: 273 to: 272
-teach-your-children-well new project. stars: 0
     </pre>
   </td>
 </table>
