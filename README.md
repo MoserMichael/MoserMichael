@@ -1,29 +1,19 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Wed May 25 00:54:46 UTC 2022
+Thu May 26 00:55:59 UTC 2022
 
 <pre>
 
- _________________________________________
-/ I reverently believe that the maker who \
-| made us all makes everything in New     |
-| England, but the weather. I don't know  |
-| who makes that, but I think it must be  |
-| raw apprentices in the weather-clerks   |
-| factory who experiment and learn how,   |
-| in New England, for board and clothes,  |
-| and then are promoted to make weather   |
-| for countries that require a good       |
-| article, and will take their custom     |
-| elsewhere if they don't get it.         |
-|                                         |
-\ -- Mark Twain                           /
- -----------------------------------------
+ ____________________________________
+/ This life is yours. Some of it was \
+| given to you; the rest, you made   |
+\ yourself.                          /
+ ------------------------------------
         \   ^__^
-         \  (OO)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :) ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: 82 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
