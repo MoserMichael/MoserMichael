@@ -1,15 +1,12 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Fri May 27 00:52:40 UTC 2022
+Sat May 28 00:51:27 UTC 2022
 
 <pre>
 
- _________________________________________
-/ Knucklehead: "Knock, knock" Pee Wee:    \
-| "Who's there?" Knucklehead: "Little ol' |
-| lady." Pee Wee: "Liddle ol' lady who?"  |
-| Knucklehead: "I didn't know you could   |
-\ yodel"                                  /
- -----------------------------------------
+ _____________________________________
+/ You will be audited by the Internal \
+\ Revenue Service.                    /
+ -------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
