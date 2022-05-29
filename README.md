@@ -1,18 +1,24 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sat May 28 00:51:27 UTC 2022
+Sun May 29 00:53:54 UTC 2022
 
 <pre>
 
- _____________________________________
-/ You will be audited by the Internal \
-\ Revenue Service.                    /
- -------------------------------------
+ _________________________________________
+/ Q: How do you shoot a blue elephant? A: \
+| With a blue-elephant gun.               |
+|                                         |
+| Q: How do you shoot a pink elephant? A: |
+| Twist its trunk until it turns blue,    |
+| then shoot it with                      |
+|                                         |
+\ a blue-elephant gun.                    /
+ -----------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (~~)\_______
             (__)\       )\/\
-             -- ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: -88 '(from -100..100) state: 'very bad' eye: ~~ tongue: :(
 
 </pre>
 
