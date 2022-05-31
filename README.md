@@ -1,18 +1,49 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Mon May 30 00:59:18 UTC 2022
+Tue May 31 00:54:31 UTC 2022
 
 <pre>
 
- ________________________________________
-/ Let me put it this way: today is going \
-\ to be a learning experience.           /
- ----------------------------------------
+ _________________________________________
+/ The Bulwer-Lytton fiction contest is    \
+| held ever year at San Jose State Univ.  |
+| by Professor Scott Rice. It is held in  |
+| memory of Edward George Earle           |
+| Bulwer-Lytton (1803-1873), a rather     |
+| prolific and popular (in his time)      |
+| novelist. He is best known today for    |
+| having written "The Last Days of        |
+| Pompeii."                               |
+|                                         |
+| Whenever Snoopy starts typing his novel |
+| from the top of his doghouse, beginning |
+| "It was a dark and stormy night..." he  |
+| is borrowing from Lord Bulwer-Lytton.   |
+| This was the line that opened his       |
+| novel, "Paul Clifford," written in      |
+| 1830. The full line reveals why it is   |
+| so bad:                                 |
+|                                         |
+| It was a dark and stormy night; the     |
+| rain fell in torrents -- except         |
+|                                         |
+| at occasional intervals, when it was    |
+| checked by a violent gust of            |
+|                                         |
+| wind which swept up the streets (for it |
+| is in London that our scene             |
+|                                         |
+| lies), rattling along the housetops,    |
+| and fiercely agitating the scanty       |
+|                                         |
+| flame of the lamps that struggled       |
+\ against the darkness.                   /
+ -----------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (OO)\_______
             (__)\       )\/\
-             -- ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 79 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
