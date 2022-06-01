@@ -1,49 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Tue May 31 00:54:31 UTC 2022
+Wed Jun  1 00:59:57 UTC 2022
 
 <pre>
 
- _________________________________________
-/ The Bulwer-Lytton fiction contest is    \
-| held ever year at San Jose State Univ.  |
-| by Professor Scott Rice. It is held in  |
-| memory of Edward George Earle           |
-| Bulwer-Lytton (1803-1873), a rather     |
-| prolific and popular (in his time)      |
-| novelist. He is best known today for    |
-| having written "The Last Days of        |
-| Pompeii."                               |
-|                                         |
-| Whenever Snoopy starts typing his novel |
-| from the top of his doghouse, beginning |
-| "It was a dark and stormy night..." he  |
-| is borrowing from Lord Bulwer-Lytton.   |
-| This was the line that opened his       |
-| novel, "Paul Clifford," written in      |
-| 1830. The full line reveals why it is   |
-| so bad:                                 |
-|                                         |
-| It was a dark and stormy night; the     |
-| rain fell in torrents -- except         |
-|                                         |
-| at occasional intervals, when it was    |
-| checked by a violent gust of            |
-|                                         |
-| wind which swept up the streets (for it |
-| is in London that our scene             |
-|                                         |
-| lies), rattling along the housetops,    |
-| and fiercely agitating the scanty       |
-|                                         |
-| flame of the lamps that struggled       |
-\ against the darkness.                   /
- -----------------------------------------
+ ________________________________________
+/ Executive ability is prominent in your \
+\ make-up.                               /
+ ----------------------------------------
         \   ^__^
-         \  (OO)\_______
+         \  (oo)\_______
             (__)\       )\/\
              :) ||----w |
                 ||     ||
-nltk score: 79 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: 56 '(from -100..100) state: 'good' eye: oo tongue: :)
 
 </pre>
 
@@ -103,7 +72,7 @@ My stuff here:
         <pre>
 
 <table><tr><th align='left'>Name</th><th align='left'>Stars</th><th align='left'>Language</th><th align='left'>description</th></tr>
-<tr><td><a href="https://github.com/MoserMichael/pyasmtool">pyasmtool</a></td><td>272</td><td>Python</td><td>Explores the python bytecode, provides some tools to access it for fun and profit.</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/pyasmtool">pyasmtool</a></td><td>274</td><td>Python</td><td>Explores the python bytecode, provides some tools to access it for fun and profit.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/python-obj-system">python-obj-system</a></td><td>52</td><td>Python</td><td>Tutorials on advanced python topics, and literate programming framework to write them (see README.md)</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/duckduckbang">duckduckbang</a></td><td>31</td><td>Python</td><td>Meta search page that utilises duckduckgo !bang query operators.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/kind-helper">kind-helper</a></td><td>22</td><td>Python</td><td>Simplifies the creation of practical kubernetes test clusters with the kind utility.</td></tr>
@@ -143,9 +112,11 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/visual-python-strace">visual-python-strace</a></td><td>0</td><td>Python</td><td>show a very long stack trace with variable values.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/vosk-api">vosk-api</a></td><td>0</td><td>None</td><td>Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/zipit">zipit</a></td><td>0</td><td>C++</td><td>c++ library for the equivalent of python/haskell zip function</td></tr>
-<tr><th>Total stars:</th><th colspan='2' align='left'> 478 </th></tr>
+<tr><th>Total stars:</th><th colspan='2' align='left'> 480 </th></tr>
 </table>
 <br>
+old_date:  2022-05-24 00:56:18.712193 now: 2022-06-01 01:00:10.879374
+pyasmtool stars changed from: 272 to: 274
     </pre>
   </td>
 </table>
