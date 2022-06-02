@@ -1,18 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Wed Jun  1 00:59:57 UTC 2022
+Thu Jun  2 00:58:07 UTC 2022
 
 <pre>
 
- ________________________________________
-/ Executive ability is prominent in your \
-\ make-up.                               /
- ----------------------------------------
+ _____________________________________
+/ Your talents will be recognized and \
+\ suitably rewarded.                  /
+ -------------------------------------
         \   ^__^
-         \  (oo)\_______
+         \  (OO)\_______
             (__)\       )\/\
              :) ||----w |
                 ||     ||
-nltk score: 56 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: 74 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
@@ -115,8 +115,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 480 </th></tr>
 </table>
 <br>
-old_date:  2022-05-24 00:56:18.712193 now: 2022-06-01 01:00:10.879374
-pyasmtool stars changed from: 272 to: 274
     </pre>
   </td>
 </table>
