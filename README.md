@@ -1,29 +1,20 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sat Jun  4 00:48:14 UTC 2022
+Sun Jun  5 00:56:11 UTC 2022
 
 <pre>
 
- _________________________________________
-/ There are three infallible ways of      \
-| pleasing an author, and the three form  |
-| a rising scale of compliment: 1, to     |
-| tell him you have read one of his       |
-| books; 2, to tell him you have read all |
-| of his books; 3, to ask him to let you  |
-| read the manuscript of his forthcoming  |
-| book. No. 1 admits you to his respect;  |
-| No. 2 admits you to his admiration; No. |
-| 3 carries you clear into his heart.     |
-|                                         |
-| -- Mark Twain, "Pudd'nhead Wilson's     |
-\ Calendar"                               /
- -----------------------------------------
+ ______________________________________
+/ O, what a tangled web we weave, When \
+| first we practice to deceive.        |
+|                                      |
+\ -- Sir Walter Scott, "Marmion"       /
+ --------------------------------------
         \   ^__^
-         \  (OO)\_______
+         \  (!!)\_______
             (__)\       )\/\
-             :) ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 93 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: -40 '(from -100..100) state: 'bad' eye: !! tongue: :(
 
 </pre>
 
