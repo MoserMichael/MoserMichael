@@ -1,20 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sun Jun  5 00:56:11 UTC 2022
+Mon Jun  6 00:53:26 UTC 2022
 
 <pre>
 
- ______________________________________
-/ O, what a tangled web we weave, When \
-| first we practice to deceive.        |
-|                                      |
-\ -- Sir Walter Scott, "Marmion"       /
- --------------------------------------
+ _________________________________________
+/ Don't look now, but the man in the moon \
+\ is laughing at you.                     /
+ -----------------------------------------
         \   ^__^
-         \  (!!)\_______
+         \  (OO)\_______
             (__)\       )\/\
-             :( ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: -40 '(from -100..100) state: 'bad' eye: !! tongue: :(
+nltk score: 65 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
