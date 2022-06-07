@@ -1,18 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Mon Jun  6 00:53:26 UTC 2022
+Tue Jun  7 00:43:02 UTC 2022
 
 <pre>
 
- _________________________________________
-/ Don't look now, but the man in the moon \
-\ is laughing at you.                     /
- -----------------------------------------
+ ______________________________________
+/ Q: Why did Menachem Begin invade     \
+\ Lebanon? A: To impress Jodie Foster. /
+ --------------------------------------
         \   ^__^
-         \  (OO)\_______
+         \  (oo)\_______
             (__)\       )\/\
              :) ||----w |
                 ||     ||
-nltk score: 65 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: 44 '(from -100..100) state: 'good' eye: oo tongue: :)
 
 </pre>
 
