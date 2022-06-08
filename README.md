@@ -1,18 +1,17 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Tue Jun  7 00:43:02 UTC 2022
+Wed Jun  8 00:51:04 UTC 2022
 
 <pre>
 
  ______________________________________
-/ Q: Why did Menachem Begin invade     \
-\ Lebanon? A: To impress Jodie Foster. /
+< You are number 6! Who is number one? >
  --------------------------------------
         \   ^__^
-         \  (oo)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :) ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: 44 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: 22 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
