@@ -1,21 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Thu Jun  9 00:52:39 UTC 2022
+Fri Jun 10 00:54:29 UTC 2022
 
 <pre>
 
- _______________________________________
-/ The devil can cite Scripture for his  \
-| purpose.                              |
-|                                       |
-| -- William Shakespeare, "The Merchant |
-\ of Venice"                            /
- ---------------------------------------
+ _________________________________
+/ Domestic happiness and faithful \
+\ friends.                        /
+ ---------------------------------
         \   ^__^
-         \  (~~)\_______
+         \  (OO)\_______
             (__)\       )\/\
-             :( ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: -66 '(from -100..100) state: 'very bad' eye: ~~ tongue: :(
+nltk score: 86 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
