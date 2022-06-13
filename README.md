@@ -1,20 +1,20 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sun Jun 12 00:54:08 UTC 2022
+Mon Jun 13 00:55:09 UTC 2022
 
 <pre>
 
- ________________________________________
-/ Q: How many Harvard MBA's does it take \
-| to screw in a light bulb? A: Just one. |
-| He grasps it firmly and the universe   |
-\ revolves around him.                   /
- ----------------------------------------
+ ______________________________________
+/ When one burns one's bridges, what a \
+| very nice fire it makes.             |
+|                                      |
+\ -- Dylan Thomas                      /
+ --------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
              -- ||----w |
                 ||     ||
-nltk score: -10 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 11 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
@@ -117,8 +117,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 481 </th></tr>
 </table>
 <br>
-old_date:  2022-06-01 01:00:10.879549 now: 2022-06-12 00:54:24.581911
-teach-your-children-well stars changed from: 0 to: 1
     </pre>
   </td>
 </table>
