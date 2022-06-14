@@ -1,20 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Mon Jun 13 00:55:09 UTC 2022
+Tue Jun 14 01:01:12 UTC 2022
 
 <pre>
 
- ______________________________________
-/ When one burns one's bridges, what a \
-| very nice fire it makes.             |
-|                                      |
-\ -- Dylan Thomas                      /
- --------------------------------------
+ _________________________________________
+/ Give your very best today. Heaven knows \
+\ it's little enough.                     /
+ -----------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (OO)\_______
             (__)\       )\/\
-             -- ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: 11 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 84 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
