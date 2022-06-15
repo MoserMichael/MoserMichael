@@ -1,18 +1,19 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Tue Jun 14 01:01:12 UTC 2022
+Wed Jun 15 00:55:12 UTC 2022
 
 <pre>
 
- _________________________________________
-/ Give your very best today. Heaven knows \
-\ it's little enough.                     /
- -----------------------------------------
+ ________________________________________
+/ Living your life is a task so          \
+| difficult, it has never been attempted |
+\ before.                                /
+ ----------------------------------------
         \   ^__^
-         \  (OO)\_______
+         \  (!!)\_______
             (__)\       )\/\
-             :) ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 84 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: -50 '(from -100..100) state: 'bad' eye: !! tongue: :(
 
 </pre>
 
