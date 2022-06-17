@@ -1,19 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Thu Jun 16 00:53:40 UTC 2022
+Fri Jun 17 00:49:52 UTC 2022
 
 <pre>
 
- _____________________________________
-/ You have the body of a 19 year old. \
-| Please return it before it gets     |
-\ wrinkled.                           /
- -------------------------------------
+ ________________________________________
+/ You will be advanced socially, without \
+\ any special effort on your part.       /
+ ----------------------------------------
         \   ^__^
-         \  (oo)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :) ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: 32 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: -7 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
@@ -116,9 +115,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 478 </th></tr>
 </table>
 <br>
-old_date:  2022-06-12 00:54:24.582112 now: 2022-06-16 00:53:52.852298
-pyasmtool stars changed from: 274 to: 272
-microsofthomework stars changed from: 1 to: 0
     </pre>
   </td>
 </table>
