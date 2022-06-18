@@ -16,12 +16,11 @@ Views:
 	 2022-06-15 00:00:00 total: 5 unique: 1
 	 2022-06-16 00:00:00 total: 13 unique: 2
 	Referrers:
-		Count: 25 Unique: 3 Url: github.com
+		Count: 27 Unique: 3 Url: github.com
 
-repo: pyasmtool views: total: 45 unique:  31
+repo: pyasmtool views: total: 45 unique:  28
 Views:
-	 2022-06-03 00:00:00 total: 2 unique: 2
-	 2022-06-04 00:00:00 total: 4 unique: 4
+	 2022-06-04 00:00:00 total: 3 unique: 3
 	 2022-06-05 00:00:00 total: 2 unique: 2
 	 2022-06-06 00:00:00 total: 4 unique: 4
 	 2022-06-07 00:00:00 total: 8 unique: 4
@@ -32,6 +31,7 @@ Views:
 	 2022-06-13 00:00:00 total: 3 unique: 2
 	 2022-06-14 00:00:00 total: 2 unique: 2
 	 2022-06-16 00:00:00 total: 1 unique: 1
+	 2022-06-17 00:00:00 total: 3 unique: 2
 	Referrers:
 		Count: 6 Unique: 4 Url: Google
 		Count: 6 Unique: 3 Url: github.com
@@ -59,23 +59,9 @@ Views:
 	 2022-06-14 00:00:00 total: 1 unique: 1
 	 2022-06-16 00:00:00 total: 1 unique: 1
 	Referrers:
-		Count: 8 Unique: 6 Url: github.com
+		Count: 9 Unique: 7 Url: github.com
 		Count: 4 Unique: 2 Url: Google
-		Count: 1 Unique: 1 Url: DuckDuckGo
 		Count: 1 Unique: 1 Url: news.ycombinator.com
-
-repo: cppcombinator views: total: 13 unique:  9
-Views:
-	 2022-06-03 00:00:00 total: 1 unique: 1
-	 2022-06-04 00:00:00 total: 1 unique: 1
-	 2022-06-05 00:00:00 total: 1 unique: 1
-	 2022-06-07 00:00:00 total: 1 unique: 1
-	 2022-06-08 00:00:00 total: 1 unique: 1
-	 2022-06-09 00:00:00 total: 1 unique: 1
-	 2022-06-10 00:00:00 total: 2 unique: 1
-	 2022-06-13 00:00:00 total: 5 unique: 2
-	Referrers:
-		Count: 12 Unique: 8 Url: github.com
 
 repo: python-obj-system views: total: 13 unique:  8
 Views:
@@ -86,9 +72,33 @@ Views:
 	 2022-06-14 00:00:00 total: 6 unique: 2
 	 2022-06-16 00:00:00 total: 1 unique: 1
 	Referrers:
-		Count: 2 Unique: 2 Url: github.com
+		Count: 3 Unique: 3 Url: github.com
 		Count: 1 Unique: 1 Url: Google
 		Count: 1 Unique: 1 Url: hn.algolia.com
+
+repo: cppcombinator views: total: 12 unique:  8
+Views:
+	 2022-06-04 00:00:00 total: 1 unique: 1
+	 2022-06-05 00:00:00 total: 1 unique: 1
+	 2022-06-07 00:00:00 total: 1 unique: 1
+	 2022-06-08 00:00:00 total: 1 unique: 1
+	 2022-06-09 00:00:00 total: 1 unique: 1
+	 2022-06-10 00:00:00 total: 2 unique: 1
+	 2022-06-13 00:00:00 total: 5 unique: 2
+	Referrers:
+		Count: 11 Unique: 7 Url: github.com
+
+repo: duckduckbang views: total: 7 unique:  5
+Views:
+	 2022-06-04 00:00:00 total: 1 unique: 1
+	 2022-06-05 00:00:00 total: 1 unique: 1
+	 2022-06-13 00:00:00 total: 1 unique: 1
+	 2022-06-14 00:00:00 total: 1 unique: 1
+	 2022-06-16 00:00:00 total: 2 unique: 1
+	 2022-06-17 00:00:00 total: 1 unique: 1
+	Referrers:
+		Count: 2 Unique: 2 Url: Google
+		Count: 2 Unique: 1 Url: github.com
 
 repo: visual-python-strace views: total: 7 unique:  4
 Views:
@@ -99,17 +109,6 @@ Views:
 	Referrers:
 		Count: 4 Unique: 1 Url: pypi.org
 		Count: 3 Unique: 3 Url: Google
-
-repo: duckduckbang views: total: 6 unique:  5
-Views:
-	 2022-06-04 00:00:00 total: 1 unique: 1
-	 2022-06-05 00:00:00 total: 1 unique: 1
-	 2022-06-13 00:00:00 total: 1 unique: 1
-	 2022-06-14 00:00:00 total: 1 unique: 1
-	 2022-06-16 00:00:00 total: 2 unique: 1
-	Referrers:
-		Count: 2 Unique: 2 Url: Google
-		Count: 1 Unique: 1 Url: github.com
 
 repo: kind-helper views: total: 6 unique:  3
 Views:
@@ -127,16 +126,22 @@ Views:
 	Referrers:
 		Count: 5 Unique: 4 Url: Google
 
-repo: pygamewrap views: total: 6 unique:  5
+repo: pygamewrap views: total: 5 unique:  4
 Views:
-	 2022-06-03 00:00:00 total: 1 unique: 1
 	 2022-06-05 00:00:00 total: 2 unique: 1
 	 2022-06-07 00:00:00 total: 1 unique: 1
 	 2022-06-10 00:00:00 total: 1 unique: 1
 	 2022-06-16 00:00:00 total: 1 unique: 1
 	Referrers:
+		Count: 2 Unique: 2 Url: Google
 		Count: 2 Unique: 2 Url: news.ycombinator.com
-		Count: 1 Unique: 1 Url: Google
+
+repo: roget-thesaurus-parser views: total: 5 unique:  2
+Views:
+	 2022-06-14 00:00:00 total: 2 unique: 1
+	 2022-06-17 00:00:00 total: 3 unique: 1
+	Referrers:
+		Count: 2 Unique: 1 Url: Google
 
 repo: zipit views: total: 5 unique:  2
 Views:
@@ -152,19 +157,12 @@ Views:
 	Referrers:
 		Count: 2 Unique: 2 Url: github.com
 
-repo: cstuff views: total: 2 unique:  2
-Views:
-	 2022-06-03 00:00:00 total: 1 unique: 1
-	 2022-06-07 00:00:00 total: 1 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: github.com
-
 repo: MoserMichael views: total: 2 unique:  1
 Views:
 	 2022-06-04 00:00:00 total: 1 unique: 1
 	 2022-06-12 00:00:00 total: 1 unique: 1
 	Referrers:
-		Count: 2 Unique: 1 Url: github.com
+		Count: 1 Unique: 1 Url: github.com
 
 repo: pythoncourse views: total: 2 unique:  2
 Views:
@@ -174,11 +172,11 @@ Views:
 		Count: 1 Unique: 1 Url: libhunt.com
 		Count: 1 Unique: 1 Url: github.com
 
-repo: roget-thesaurus-parser views: total: 2 unique:  1
+repo: cstuff views: total: 1 unique:  1
 Views:
-	 2022-06-14 00:00:00 total: 2 unique: 1
+	 2022-06-07 00:00:00 total: 1 unique: 1
 	Referrers:
-		Count: 2 Unique: 1 Url: Google
+		Count: 1 Unique: 1 Url: github.com
 
 repo: devgoodies views: total: 1 unique:  1
 Views:
@@ -254,4 +252,4 @@ repo: vosk-api views: total: 0 unique:  0
 
 
 ***
-Total views: 250
+Total views: 251
