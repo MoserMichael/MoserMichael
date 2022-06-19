@@ -1,26 +1,17 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sat Jun 18 00:53:24 UTC 2022
+Sun Jun 19 00:53:40 UTC 2022
 
 <pre>
 
- _________________________________________
-/ I will honour Christmas in my heart,    \
-| and try to keep it all the year. I will |
-| live in the Past, the Present, and the  |
-| Future. The Spirits of all Three shall  |
-| strive within me. I will not shut out   |
-| the lessons that they teach. Oh, tell   |
-| me that I may sponge away the writing   |
-| on this stone!                          |
-|                                         |
-\ -- Charles Dickens                      /
- -----------------------------------------
+ ____________________
+< Beware of Bigfoot! >
+ --------------------
         \   ^__^
-         \  (OO)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :) ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: 61 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
