@@ -1,11 +1,16 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sun Jun 19 00:53:40 UTC 2022
+Mon Jun 20 00:53:43 UTC 2022
 
 <pre>
 
- ____________________
-< Beware of Bigfoot! >
- --------------------
+ ________________________________________
+/ A banker is a fellow who lends you his \
+| umbrella when the sun is shining and   |
+| wants it back the minute it begins to  |
+| rain.                                  |
+|                                        |
+\ -- Mark Twain                          /
+ ----------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
