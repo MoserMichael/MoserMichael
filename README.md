@@ -1,21 +1,11 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Wed Jun 22 00:58:49 UTC 2022
+Thu Jun 23 00:47:10 UTC 2022
 
 <pre>
 
  ________________________________________
-/ Q: How many DEC repairman does it take \
-| to fix a flat? A: Five; four to hold   |
-| the car up and one to swap tires.      |
-|                                        |
-| Q: How long does it take? A: It's      |
-| indeterminate.                         |
-|                                        |
-| It will depend upon how many flats     |
-| they've brought with them.             |
-|                                        |
-| Q: What happens if you've got TWO      |
-\ flats? A: They replace your generator. /
+/ Q: How was Thomas J. Watson buried? A: \
+\ 9 edge down.                           /
  ----------------------------------------
         \   ^__^
          \  (..)\_______
