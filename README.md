@@ -1,17 +1,17 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Fri Jun 24 00:53:45 UTC 2022
+Sat Jun 25 00:53:05 UTC 2022
 
 <pre>
 
- _________________________________________
-< Do something unusual today. Pay a bill. >
- -----------------------------------------
+ _______________________________________
+< You will be run over by a beer truck. >
+ ---------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
              -- ||----w |
                 ||     ||
-nltk score: -10 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
@@ -114,8 +114,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 479 </th></tr>
 </table>
 <br>
-old_date:  2022-06-16 00:53:52.852494 now: 2022-06-24 00:54:01.449395
-pyasmtool stars changed from: 272 to: 273
     </pre>
   </td>
 </table>
