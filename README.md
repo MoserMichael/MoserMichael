@@ -1,18 +1,22 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sun Jun 26 00:57:18 UTC 2022
+Mon Jun 27 00:58:41 UTC 2022
 
 <pre>
 
- ______________________________________
-/ You are a fluke of the universe; you \
-\ have no right to be here.            /
- --------------------------------------
+ _______________________________________
+/ One of the most striking differences  \
+| between a cat and a lie is that a cat |
+| has only nine lives.                  |
+|                                       |
+| -- Mark Twain, "Pudd'nhead Wilson's   |
+\ Calendar"                             /
+ ---------------------------------------
         \   ^__^
-         \  (!!)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :( ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: -30 '(from -100..100) state: 'bad' eye: !! tongue: :(
+nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
@@ -115,8 +119,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 480 </th></tr>
 </table>
 <br>
-old_date:  2022-06-24 00:54:01.449597 now: 2022-06-26 00:57:31.959105
-pyasmtool stars changed from: 273 to: 274
     </pre>
   </td>
 </table>
