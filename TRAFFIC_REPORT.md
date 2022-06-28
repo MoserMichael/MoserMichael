@@ -17,9 +17,8 @@ Views:
 	Referrers:
 		Count: 11 Unique: 1 Url: github.com
 
-repo: pyasmtool views: total: 42 unique:  29
+repo: pyasmtool views: total: 43 unique:  29
 Views:
-	 2022-06-13 00:00:00 total: 1 unique: 1
 	 2022-06-14 00:00:00 total: 2 unique: 2
 	 2022-06-16 00:00:00 total: 1 unique: 1
 	 2022-06-17 00:00:00 total: 3 unique: 2
@@ -31,26 +30,28 @@ Views:
 	 2022-06-24 00:00:00 total: 1 unique: 1
 	 2022-06-25 00:00:00 total: 11 unique: 8
 	 2022-06-26 00:00:00 total: 3 unique: 2
+	 2022-06-27 00:00:00 total: 2 unique: 2
 	Referrers:
-		Count: 12 Unique: 6 Url: Google
-		Count: 6 Unique: 5 Url: github.com
+		Count: 11 Unique: 6 Url: Google
+		Count: 7 Unique: 6 Url: github.com
 		Count: 2 Unique: 1 Url: t.co
 		Count: 1 Unique: 1 Url: popurls.com
 		Count: 1 Unique: 1 Url: Bing
 		Count: 1 Unique: 1 Url: news.ycombinator.com
 		Count: 1 Unique: 1 Url: pointer.io
 
-repo: roget-thesaurus-parser views: total: 33 unique:  6
+repo: roget-thesaurus-parser views: total: 36 unique:  7
 Views:
 	 2022-06-14 00:00:00 total: 2 unique: 1
 	 2022-06-17 00:00:00 total: 3 unique: 1
 	 2022-06-18 00:00:00 total: 1 unique: 1
 	 2022-06-21 00:00:00 total: 4 unique: 2
 	 2022-06-22 00:00:00 total: 23 unique: 2
+	 2022-06-27 00:00:00 total: 3 unique: 1
 	Referrers:
-		Count: 7 Unique: 3 Url: Google
 		Count: 6 Unique: 1 Url: StartPage
 		Count: 6 Unique: 1 Url: github.com
+		Count: 5 Unique: 2 Url: Google
 		Count: 1 Unique: 1 Url: neeva.com
 
 repo: cstuff views: total: 24 unique:  3
@@ -68,9 +69,19 @@ Views:
 	Referrers:
 		Count: 17 Unique: 1 Url: github.com
 
-repo: cppcombinator views: total: 19 unique:  11
+repo: pygamewrap views: total: 22 unique:  7
 Views:
-	 2022-06-13 00:00:00 total: 5 unique: 2
+	 2022-06-16 00:00:00 total: 1 unique: 1
+	 2022-06-18 00:00:00 total: 1 unique: 1
+	 2022-06-20 00:00:00 total: 1 unique: 1
+	 2022-06-23 00:00:00 total: 1 unique: 1
+	 2022-06-27 00:00:00 total: 18 unique: 3
+	Referrers:
+		Count: 3 Unique: 3 Url: Google
+		Count: 1 Unique: 1 Url: news.ycombinator.com
+
+repo: cppcombinator views: total: 14 unique:  9
+Views:
 	 2022-06-19 00:00:00 total: 1 unique: 1
 	 2022-06-20 00:00:00 total: 2 unique: 1
 	 2022-06-21 00:00:00 total: 4 unique: 2
@@ -78,18 +89,19 @@ Views:
 	 2022-06-24 00:00:00 total: 1 unique: 1
 	 2022-06-26 00:00:00 total: 4 unique: 2
 	Referrers:
-		Count: 8 Unique: 5 Url: github.com
+		Count: 12 Unique: 7 Url: github.com
 		Count: 1 Unique: 1 Url: DuckDuckGo
 
-repo: python-obj-system views: total: 13 unique:  7
+repo: python-obj-system views: total: 14 unique:  7
 Views:
 	 2022-06-14 00:00:00 total: 6 unique: 2
 	 2022-06-16 00:00:00 total: 1 unique: 1
 	 2022-06-23 00:00:00 total: 3 unique: 2
 	 2022-06-24 00:00:00 total: 1 unique: 1
 	 2022-06-25 00:00:00 total: 2 unique: 2
+	 2022-06-27 00:00:00 total: 1 unique: 1
 	Referrers:
-		Count: 5 Unique: 4 Url: github.com
+		Count: 4 Unique: 3 Url: github.com
 		Count: 2 Unique: 1 Url: wiki.traiana.com
 		Count: 1 Unique: 1 Url: reddit.com
 
@@ -109,45 +121,33 @@ Views:
 	Referrers:
 		Count: 11 Unique: 2 Url: github.com
 
-repo: kind-helper views: total: 8 unique:  5
+repo: duckduckbang views: total: 6 unique:  4
 Views:
-	 2022-06-13 00:00:00 total: 2 unique: 1
-	 2022-06-18 00:00:00 total: 4 unique: 2
-	 2022-06-25 00:00:00 total: 2 unique: 2
-	Referrers:
-		Count: 2 Unique: 1 Url: github.com
-		Count: 1 Unique: 1 Url: news.ycombinator.com
-
-repo: duckduckbang views: total: 7 unique:  5
-Views:
-	 2022-06-13 00:00:00 total: 1 unique: 1
 	 2022-06-14 00:00:00 total: 1 unique: 1
 	 2022-06-16 00:00:00 total: 2 unique: 1
 	 2022-06-17 00:00:00 total: 1 unique: 1
 	 2022-06-24 00:00:00 total: 1 unique: 1
 	 2022-06-26 00:00:00 total: 1 unique: 1
 	Referrers:
-		Count: 4 Unique: 2 Url: github.com
+		Count: 5 Unique: 3 Url: github.com
 
-repo: s9k views: total: 6 unique:  4
+repo: kind-helper views: total: 6 unique:  4
 Views:
-	 2022-06-13 00:00:00 total: 2 unique: 1
+	 2022-06-18 00:00:00 total: 4 unique: 2
+	 2022-06-25 00:00:00 total: 2 unique: 2
+	Referrers:
+		Count: 2 Unique: 1 Url: github.com
+		Count: 1 Unique: 1 Url: news.ycombinator.com
+
+repo: s9k views: total: 5 unique:  4
+Views:
 	 2022-06-14 00:00:00 total: 1 unique: 1
 	 2022-06-16 00:00:00 total: 1 unique: 1
 	 2022-06-23 00:00:00 total: 2 unique: 1
+	 2022-06-27 00:00:00 total: 1 unique: 1
 	Referrers:
-		Count: 2 Unique: 2 Url: github.com
 		Count: 2 Unique: 1 Url: Google
-
-repo: pygamewrap views: total: 4 unique:  4
-Views:
-	 2022-06-16 00:00:00 total: 1 unique: 1
-	 2022-06-18 00:00:00 total: 1 unique: 1
-	 2022-06-20 00:00:00 total: 1 unique: 1
-	 2022-06-23 00:00:00 total: 1 unique: 1
-	Referrers:
-		Count: 3 Unique: 3 Url: Google
-		Count: 1 Unique: 1 Url: news.ycombinator.com
+		Count: 1 Unique: 1 Url: github.com
 
 repo: vimcrypt2 views: total: 4 unique:  4
 Views:
@@ -179,8 +179,6 @@ Views:
 repo: devgoodies views: total: 1 unique:  1
 Views:
 	 2022-06-14 00:00:00 total: 1 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: Google
 
 repo: flagged-hn views: total: 1 unique:  1
 Views:
@@ -218,10 +216,6 @@ Views:
 	Referrers:
 		Count: 1 Unique: 1 Url: github.com
 
-repo: visual-python-strace views: total: 1 unique:  1
-Views:
-	 2022-06-13 00:00:00 total: 1 unique: 1
-
 repo: follow-kube-logs views: total: 0 unique:  0
 
 repo: gitblame views: total: 0 unique:  0
@@ -248,10 +242,12 @@ repo: scriptrunner-operator views: total: 0 unique:  0
 
 repo: vimcrypt views: total: 0 unique:  0
 
+repo: visual-python-strace views: total: 0 unique:  0
+
 repo: vosk-api views: total: 0 unique:  0
 
 repo: zipit views: total: 0 unique:  0
 
 
 ***
-Total views: 326
+Total views: 339
