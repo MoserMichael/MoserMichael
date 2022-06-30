@@ -1,18 +1,22 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Wed Jun 29 00:56:15 UTC 2022
+Thu Jun 30 00:52:03 UTC 2022
 
 <pre>
 
  ________________________________________
-/ Try the Moo Shu Pork. It is especially \
-\ good today.                            /
+/ Q: Why did the chicken cross the road? \
+| A: To see his friend Gregory peck.     |
+|                                        |
+| Q: Why did the chicken cross the       |
+| playground? A: To get to the other     |
+\ slide.                                 /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
              :) ||----w |
                 ||     ||
-nltk score: 49 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: 55 '(from -100..100) state: 'good' eye: oo tongue: :)
 
 </pre>
 
