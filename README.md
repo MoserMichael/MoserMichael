@@ -1,22 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Thu Jun 30 00:52:03 UTC 2022
+Fri Jul  1 01:01:26 UTC 2022
 
 <pre>
 
- ________________________________________
-/ Q: Why did the chicken cross the road? \
-| A: To see his friend Gregory peck.     |
-|                                        |
-| Q: Why did the chicken cross the       |
-| playground? A: To get to the other     |
-\ slide.                                 /
- ----------------------------------------
+ ______________________________________
+/ You could live a better life, if you \
+\ had a better mind and a better body. /
+ --------------------------------------
         \   ^__^
-         \  (oo)\_______
+         \  (OO)\_______
             (__)\       )\/\
              :) ||----w |
                 ||     ||
-nltk score: 55 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: 83 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
@@ -98,7 +94,7 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/k8explain">k8explain</a></td><td>1</td><td>Go</td><td>golang exercise: produce a table of kubernetes api resources where each row is linked to an explanation</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/MoserMichael">MoserMichael</a></td><td>1</td><td>Shell</td><td>some blurb about the owner and his stuff. A script generates README.md, that appears on the public profile. The script is run periodically by github action. (see ABOUT.md)</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/subb">subb</a></td><td>1</td><td>Python</td><td>a wrapper module for python subprocess</td></tr>
-<tr><td><a href="https://github.com/MoserMichael/teach-your-children-well">teach-your-children-well</a></td><td>1</td><td>None</td><td>Telling stories in simple children, so that I have something to tell to my kids...</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/teach-your-children-well">teach-your-children-well</a></td><td>1</td><td>None</td><td>Telling stories in simple English, so that I have something to tell to my kids during the summer vacation</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/bloxroutehomework">bloxroutehomework</a></td><td>0</td><td>C++</td><td>assignment for bloxroute interview</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/devgoodies">devgoodies</a></td><td>0</td><td>Vim script</td><td>Vim plugin - useful commands for editing code.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/follow-kube-logs">follow-kube-logs</a></td><td>0</td><td>Python</td><td>tail the log of all containers in all pods of a kubernetes deployment/replicaset/statefull set, for a limited time period. Interactive script: the user presses enter to stop logging.</td></tr>
