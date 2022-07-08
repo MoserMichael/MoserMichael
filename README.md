@@ -1,17 +1,19 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Thu Jul  7 00:59:03 UTC 2022
+Fri Jul  8 00:59:32 UTC 2022
 
 <pre>
 
- ________________________________
-< It's all in the mind, ya know. >
- --------------------------------
+ _________________________________________
+/ You will be attacked by a beast who has \
+| the body of a wolf, the tail of a lion, |
+\ and the face of Donald Duck.            /
+ -----------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (!!)\_______
             (__)\       )\/\
-             -- ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: -46 '(from -100..100) state: 'bad' eye: !! tongue: :(
 
 </pre>
 
