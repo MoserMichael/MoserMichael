@@ -1,19 +1,19 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Fri Jul  8 00:59:32 UTC 2022
+Sat Jul  9 00:48:54 UTC 2022
 
 <pre>
 
  _________________________________________
-/ You will be attacked by a beast who has \
-| the body of a wolf, the tail of a lion, |
-\ and the face of Donald Duck.            /
+/ You are wise, witty, and wonderful, but \
+| you spend too much time reading this    |
+\ sort of trash.                          /
  -----------------------------------------
         \   ^__^
-         \  (!!)\_______
+         \  (oo)\_______
             (__)\       )\/\
-             :( ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: -46 '(from -100..100) state: 'bad' eye: !! tongue: :(
+nltk score: 53 '(from -100..100) state: 'good' eye: oo tongue: :)
 
 </pre>
 
