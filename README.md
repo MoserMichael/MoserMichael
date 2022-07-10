@@ -1,19 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sat Jul  9 00:48:54 UTC 2022
+Sun Jul 10 01:01:10 UTC 2022
 
 <pre>
 
- _________________________________________
-/ You are wise, witty, and wonderful, but \
-| you spend too much time reading this    |
-\ sort of trash.                          /
- -----------------------------------------
+ _______________________________________
+/ You are a bundle of energy, always on \
+\ the go.                               /
+ ---------------------------------------
         \   ^__^
-         \  (oo)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :) ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: 53 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: 27 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
