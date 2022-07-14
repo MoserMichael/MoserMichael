@@ -1,17 +1,19 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Wed Jul 13 00:55:02 UTC 2022
+Thu Jul 14 00:59:35 UTC 2022
 
 <pre>
 
  _________________________________________
-< Q: How do you keep a moron in suspense? >
+/ You may be infinitely smaller than some \
+| things, but you're infinitely larger    |
+\ than others.                            /
  -----------------------------------------
         \   ^__^
-         \  (!!)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :( ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: -49 '(from -100..100) state: 'bad' eye: !! tongue: :(
+nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
@@ -114,8 +116,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 481 </th></tr>
 </table>
 <br>
-old_date:  2022-06-26 00:57:31.959274 now: 2022-07-13 00:55:14.711627
-cppcombinator stars changed from: 19 to: 20
     </pre>
   </td>
 </table>
