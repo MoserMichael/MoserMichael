@@ -1,13 +1,11 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Fri Jul 15 01:03:32 UTC 2022
+Sat Jul 16 00:57:18 UTC 2022
 
 <pre>
 
- _________________________________________
-/ Q: What do Winnie the Pooh and John the \
-| Baptist have in common? A: The same     |
-\ middle name.                            /
- -----------------------------------------
+ ________________
+< Chess tonight. >
+ ----------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
@@ -116,8 +114,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 482 </th></tr>
 </table>
 <br>
-old_date:  2022-07-13 00:55:14.711797 now: 2022-07-15 01:03:44.232453
-duckduckbang stars changed from: 31 to: 32
     </pre>
   </td>
 </table>
