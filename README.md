@@ -1,12 +1,12 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sun Jul 17 01:01:41 UTC 2022
+Mon Jul 18 00:55:40 UTC 2022
 
 <pre>
 
- ________________________________________
-/ Q: How was Thomas J. Watson buried? A: \
-\ 9 edge down.                           /
- ----------------------------------------
+ _____________________________________
+/ You'll never be the man your mother \
+\ was!                                /
+ -------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
