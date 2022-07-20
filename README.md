@@ -1,17 +1,24 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Tue Jul 19 01:02:41 UTC 2022
+Wed Jul 20 00:53:38 UTC 2022
 
 <pre>
 
- ____________________________________
-< Be cautious in your daily affairs. >
- ------------------------------------
+ _________________________________________
+/ Q: How do you shoot a blue elephant? A: \
+| With a blue-elephant gun.               |
+|                                         |
+| Q: How do you shoot a pink elephant? A: |
+| Twist its trunk until it turns blue,    |
+| then shoot it with                      |
+|                                         |
+\ a blue-elephant gun.                    /
+ -----------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (~~)\_______
             (__)\       )\/\
-             -- ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: -10 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: -88 '(from -100..100) state: 'very bad' eye: ~~ tongue: :(
 
 </pre>
 
