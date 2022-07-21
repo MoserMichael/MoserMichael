@@ -1,24 +1,17 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Wed Jul 20 00:53:38 UTC 2022
+Thu Jul 21 00:58:39 UTC 2022
 
 <pre>
 
  _________________________________________
-/ Q: How do you shoot a blue elephant? A: \
-| With a blue-elephant gun.               |
-|                                         |
-| Q: How do you shoot a pink elephant? A: |
-| Twist its trunk until it turns blue,    |
-| then shoot it with                      |
-|                                         |
-\ a blue-elephant gun.                    /
+< Q: How do you keep a moron in suspense? >
  -----------------------------------------
         \   ^__^
-         \  (~~)\_______
+         \  (!!)\_______
             (__)\       )\/\
              :( ||----w |
                 ||     ||
-nltk score: -88 '(from -100..100) state: 'very bad' eye: ~~ tongue: :(
+nltk score: -49 '(from -100..100) state: 'bad' eye: !! tongue: :(
 
 </pre>
 
