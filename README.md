@@ -1,19 +1,22 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sat Jul 23 00:57:14 UTC 2022
+Sun Jul 24 01:00:25 UTC 2022
 
 <pre>
 
- _________________________________________
-/ Next Friday will not be your lucky day. \
-| As a matter of fact, you don't have a   |
-\ lucky day this year.                    /
- -----------------------------------------
+ _____________________________________
+/ Writing is easy; all you do is sit  \
+| staring at the blank sheet of paper |
+| until drops of blood form on your   |
+| forehead.                           |
+|                                     |
+\ -- Gene Fowler                      /
+ -------------------------------------
         \   ^__^
-         \  (!!)\_______
+         \  (oo)\_______
             (__)\       )\/\
-             :( ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: -55 '(from -100..100) state: 'bad' eye: !! tongue: :(
+nltk score: 44 '(from -100..100) state: 'good' eye: oo tongue: :)
 
 </pre>
 
