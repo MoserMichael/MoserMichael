@@ -1,19 +1,19 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Mon Jul 25 00:56:23 UTC 2022
+Tue Jul 26 00:59:20 UTC 2022
 
 <pre>
 
  _________________________________________
-/ FORTUNE PROVIDES QUESTIONS FOR THE      \
-| GREAT ANSWERS: #19 A: To be or not to   |
-\ be. Q: What is the square root of 4b^2? /
+/ Q: What do little WASPs want to be when \
+| they grow up? A: The very best person   |
+\ they can possibly be.                   /
  -----------------------------------------
         \   ^__^
          \  (OO)\_______
             (__)\       )\/\
              :) ||----w |
                 ||     ||
-nltk score: 62 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: 67 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
