@@ -1,19 +1,19 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Tue Jul 26 00:59:20 UTC 2022
+Wed Jul 27 01:02:48 UTC 2022
 
 <pre>
 
- _________________________________________
-/ Q: What do little WASPs want to be when \
-| they grow up? A: The very best person   |
-\ they can possibly be.                   /
- -----------------------------------------
+ ________________________
+/ I'll burn my books.    \
+|                        |
+\ -- Christopher Marlowe /
+ ------------------------
         \   ^__^
-         \  (OO)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :) ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: 67 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
