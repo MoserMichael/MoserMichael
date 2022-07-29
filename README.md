@@ -1,18 +1,21 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Thu Jul 28 00:57:20 UTC 2022
+Fri Jul 29 00:59:25 UTC 2022
 
 <pre>
 
- _____________________________________
-/ Your goose is cooked. (Your current \
-\ chick is burned up too!)            /
- -------------------------------------
+ ________________________________________
+/ Reader, suppose you were an idiot. And \
+| suppose you were a member of Congress. |
+| But I repeat myself.                   |
+|                                        |
+\ -- Mark Twain                          /
+ ----------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
              -- ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: -28 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
@@ -115,9 +118,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 484 </th></tr>
 </table>
 <br>
-old_date:  2022-07-15 01:03:44.232614 now: 2022-07-28 00:57:33.230482
-pyasmtool stars changed from: 274 to: 275
-microsofthomework stars changed from: 0 to: 1
     </pre>
   </td>
 </table>
