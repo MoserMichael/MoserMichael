@@ -1,20 +1,32 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sat Jul 30 00:53:46 UTC 2022
+Sun Jul 31 00:59:11 UTC 2022
 
 <pre>
 
  _________________________________________
-/ Q: "What is the burning question on the \
-| mind of every dyslexic                  |
+/ Q: How many IBM types does it take to   \
+| change a light bulb? A: Fifteen. One to |
+| do it, and fourteen to write document   |
+| number                                  |
 |                                         |
-\ existentialist?" A: "Is there a dog?"   /
+| GC7500439-0001, Multitasking            |
+| Incandescent Source System Facility,    |
+|                                         |
+| of which 10% of the pages state only    |
+| "This page intentionally                |
+|                                         |
+| left blank", and 20% of the definitions |
+| are of the form "A:.....                |
+|                                         |
+| consists of sequences of non-blank      |
+\ characters separated by blanks".        /
  -----------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
              -- ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 8 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
