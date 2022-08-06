@@ -1,18 +1,19 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Fri Aug  5 01:07:15 UTC 2022
+Sat Aug  6 00:55:25 UTC 2022
 
 <pre>
 
- ________________________________
-/ You may get an opportunity for \
-\ advancement today. Watch it!   /
- --------------------------------
+ _____________________________________
+/ For courage mounteth with occasion. \
+|                                     |
+\ -- William Shakespeare, "King John" /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
              :) ||----w |
                 ||     ||
-nltk score: 48 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: 49 '(from -100..100) state: 'good' eye: oo tongue: :)
 
 </pre>
 
