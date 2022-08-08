@@ -1,21 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sun Aug  7 01:00:47 UTC 2022
+Mon Aug  8 00:53:16 UTC 2022
 
 <pre>
 
- ____________________________________
-/ Q: What does a WASP Mom make for   \
-| dinner? A: A crisp salad, a hearty |
-| soup, a lovely entree, followed by |
-|                                    |
-\ a delicious dessert.               /
- ------------------------------------
+ _________________________________________
+/ Don't look now, but the man in the moon \
+\ is laughing at you.                     /
+ -----------------------------------------
         \   ^__^
          \  (OO)\_______
             (__)\       )\/\
              :) ||----w |
                 ||     ||
-nltk score: 82 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: 65 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
@@ -118,8 +115,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 485 </th></tr>
 </table>
 <br>
-old_date:  2022-07-28 00:57:33.230651 now: 2022-08-07 01:01:00.180725
-kind-helper stars changed from: 22 to: 23
     </pre>
   </td>
 </table>
