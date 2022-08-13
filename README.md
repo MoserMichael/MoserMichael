@@ -1,14 +1,11 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Fri Aug 12 00:54:46 UTC 2022
+Sat Aug 13 00:49:28 UTC 2022
 
 <pre>
 
- _________________________________________
-/ A light wife doth make a heavy husband. \
-|                                         |
-| -- Wm. Shakespeare, "The Merchant of    |
-\ Venice"                                 /
- -----------------------------------------
+ _____________________________________
+< You will be divorced within a year. >
+ -------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
