@@ -1,18 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Mon Aug 15 00:58:11 UTC 2022
+Tue Aug 16 01:02:45 UTC 2022
 
 <pre>
 
- _______________________________________
-/ You will be singled out for promotion \
-\ in your work.                         /
- ---------------------------------------
+ ___________________________________
+/ Life is to you a dashing and bold \
+\ adventure.                        /
+ -----------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (OO)\_______
             (__)\       )\/\
-             -- ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 60 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
@@ -115,8 +115,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 486 </th></tr>
 </table>
 <br>
-old_date:  2022-08-07 01:01:00.180889 now: 2022-08-15 00:58:25.096701
-pyasmtool stars changed from: 275 to: 276
     </pre>
   </td>
 </table>
