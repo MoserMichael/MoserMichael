@@ -1,19 +1,17 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Wed Aug 17 01:01:27 UTC 2022
+Thu Aug 18 01:01:53 UTC 2022
 
 <pre>
 
- ________________________________________
-/ You have a reputation for being        \
-| thoroughly reliable and trustworthy. A |
-\ pity that it's totally undeserved.     /
- ----------------------------------------
+ _____________________________
+< You fill a much-needed gap. >
+ -----------------------------
         \   ^__^
-         \  (oo)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :) ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: 39 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
@@ -116,8 +114,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 487 </th></tr>
 </table>
 <br>
-old_date:  2022-08-15 00:58:25.096896 now: 2022-08-17 01:01:39.055442
-s9k stars changed from: 12 to: 13
     </pre>
   </td>
 </table>
