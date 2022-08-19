@@ -1,17 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Thu Aug 18 01:01:53 UTC 2022
+Fri Aug 19 00:59:34 UTC 2022
 
 <pre>
 
- _____________________________
-< You fill a much-needed gap. >
- -----------------------------
+ ______________________________________
+/ You have an unusual understanding of \
+\ the problems of human relationships. /
+ --------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (!!)\_______
             (__)\       )\/\
-             -- ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: -40 '(from -100..100) state: 'bad' eye: !! tongue: :(
 
 </pre>
 
