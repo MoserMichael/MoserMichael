@@ -1,18 +1,20 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Fri Aug 19 00:59:34 UTC 2022
+Sat Aug 20 00:55:31 UTC 2022
 
 <pre>
 
- ______________________________________
-/ You have an unusual understanding of \
-\ the problems of human relationships. /
- --------------------------------------
+ ________________________________________
+/ Today's weirdness is tomorrow's reason \
+| why.                                   |
+|                                        |
+\ -- Hunter S. Thompson                  /
+ ----------------------------------------
         \   ^__^
-         \  (!!)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :( ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: -40 '(from -100..100) state: 'bad' eye: !! tongue: :(
+nltk score: -23 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
