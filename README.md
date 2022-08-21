@@ -1,20 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sat Aug 20 00:55:31 UTC 2022
+Sun Aug 21 00:57:24 UTC 2022
 
 <pre>
 
  ________________________________________
-/ Today's weirdness is tomorrow's reason \
-| why.                                   |
-|                                        |
-\ -- Hunter S. Thompson                  /
+/ You prefer the company of the opposite \
+\ sex, but are well liked by your own.   /
  ----------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (OO)\_______
             (__)\       )\/\
-             -- ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: -23 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 75 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
