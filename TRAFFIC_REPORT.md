@@ -29,13 +29,12 @@ Views:
 	 2022-08-19 00:00:00 total: 2 unique: 2
 	Referrers:
 		Count: 31 Unique: 3 Url: github.com
-		Count: 4 Unique: 3 Url: Google
+		Count: 1 Unique: 1 Url: Google
 		Count: 1 Unique: 1 Url: hn.algolia.com
 
-repo: pyasmtool views: total: 27 unique:  20
+repo: pyasmtool views: total: 28 unique:  21
 Views:
-	 2022-08-07 00:00:00 total: 1 unique: 1
-	 2022-08-08 00:00:00 total: 2 unique: 2
+	 2022-08-08 00:00:00 total: 1 unique: 1
 	 2022-08-09 00:00:00 total: 1 unique: 1
 	 2022-08-11 00:00:00 total: 3 unique: 3
 	 2022-08-13 00:00:00 total: 2 unique: 1
@@ -45,6 +44,7 @@ Views:
 	 2022-08-17 00:00:00 total: 4 unique: 2
 	 2022-08-18 00:00:00 total: 1 unique: 1
 	 2022-08-19 00:00:00 total: 6 unique: 4
+	 2022-08-21 00:00:00 total: 3 unique: 3
 	Referrers:
 		Count: 5 Unique: 4 Url: github.com
 		Count: 3 Unique: 3 Url: Google
@@ -52,9 +52,8 @@ Views:
 		Count: 2 Unique: 1 Url: pypi.org
 		Count: 2 Unique: 1 Url: DuckDuckGo
 
-repo: cstuff views: total: 11 unique:  5
+repo: cstuff views: total: 10 unique:  5
 Views:
-	 2022-08-08 00:00:00 total: 1 unique: 1
 	 2022-08-09 00:00:00 total: 1 unique: 1
 	 2022-08-10 00:00:00 total: 1 unique: 1
 	 2022-08-12 00:00:00 total: 5 unique: 2
@@ -70,7 +69,10 @@ Views:
 	 2022-08-17 00:00:00 total: 7 unique: 3
 	Referrers:
 		Count: 8 Unique: 4 Url: github.com
-		Count: 1 Unique: 1 Url: cn.bing.com
+
+repo: my-notes views: total: 7 unique:  1
+Views:
+	 2022-08-21 00:00:00 total: 7 unique: 1
 
 repo: grpc-spring-boot-starter-utils views: total: 6 unique:  1
 Views:
@@ -85,7 +87,7 @@ Views:
 	 2022-08-13 00:00:00 total: 1 unique: 1
 	 2022-08-19 00:00:00 total: 2 unique: 1
 	Referrers:
-		Count: 6 Unique: 4 Url: Google
+		Count: 4 Unique: 3 Url: Google
 
 repo: duckduckbang views: total: 4 unique:  3
 Views:
@@ -119,18 +121,11 @@ Views:
 
 repo: zipit views: total: 3 unique:  2
 Views:
-	 2022-08-07 00:00:00 total: 1 unique: 1
 	 2022-08-12 00:00:00 total: 1 unique: 1
 	 2022-08-16 00:00:00 total: 1 unique: 1
+	 2022-08-21 00:00:00 total: 1 unique: 1
 	Referrers:
 		Count: 1 Unique: 1 Url: Google
-
-repo: devgoodies views: total: 2 unique:  2
-Views:
-	 2022-08-07 00:00:00 total: 1 unique: 1
-	 2022-08-19 00:00:00 total: 1 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: vim.org
 
 repo: githubapitools views: total: 2 unique:  2
 Views:
@@ -160,6 +155,12 @@ Views:
 repo: cppcombinator views: total: 1 unique:  1
 Views:
 	 2022-08-18 00:00:00 total: 1 unique: 1
+
+repo: devgoodies views: total: 1 unique:  1
+Views:
+	 2022-08-19 00:00:00 total: 1 unique: 1
+	Referrers:
+		Count: 1 Unique: 1 Url: vim.org
 
 repo: flagged-hn views: total: 1 unique:  1
 Views:
@@ -193,10 +194,6 @@ Views:
 	Referrers:
 		Count: 1 Unique: 1 Url: github.com
 
-repo: subb views: total: 1 unique:  1
-Views:
-	 2022-08-07 00:00:00 total: 1 unique: 1
-
 repo: vimcrypt2 views: total: 1 unique:  1
 Views:
 	 2022-08-20 00:00:00 total: 1 unique: 1
@@ -219,8 +216,6 @@ repo: kwchecker views: total: 0 unique:  0
 
 repo: microsofthomework views: total: 0 unique:  0
 
-repo: my-notes views: total: 0 unique:  0
-
 repo: opinionated-fortune-cow views: total: 0 unique:  0
 
 repo: pprintex views: total: 0 unique:  0
@@ -229,8 +224,10 @@ repo: printb views: total: 0 unique:  0
 
 repo: scriptrunner-operator views: total: 0 unique:  0
 
+repo: subb views: total: 0 unique:  0
+
 repo: vimcrypt views: total: 0 unique:  0
 
 
 ***
-Total views: 198
+Total views: 203
