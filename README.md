@@ -1,21 +1,17 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Tue Aug 23 01:05:26 UTC 2022
+Wed Aug 24 00:58:33 UTC 2022
 
 <pre>
 
  ________________________________________
-/ You may my glories and my state        \
-| dispose, But not my griefs; still am I |
-| king of those.                         |
-|                                        |
-\ -- William Shakespeare, "Richard II"   /
+< You will be surprised by a loud noise. >
  ----------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
              -- ||----w |
                 ||     ||
-nltk score: 26 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 23 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
@@ -118,9 +114,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 489 </th></tr>
 </table>
 <br>
-old_date:  2022-08-17 01:01:39.055638 now: 2022-08-23 01:05:37.426205
-kind-helper stars changed from: 23 to: 24
-s9k stars changed from: 13 to: 14
     </pre>
   </td>
 </table>
