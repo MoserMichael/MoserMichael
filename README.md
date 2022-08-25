@@ -1,17 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Wed Aug 24 00:58:33 UTC 2022
+Thu Aug 25 01:06:34 UTC 2022
 
 <pre>
 
- ________________________________________
-< You will be surprised by a loud noise. >
- ----------------------------------------
+ _____________________________________
+/ You have a deep appreciation of the \
+\ arts and music.                     /
+ -------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (oo)\_______
             (__)\       )\/\
-             -- ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: 23 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 51 '(from -100..100) state: 'good' eye: oo tongue: :)
 
 </pre>
 
