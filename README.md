@@ -1,17 +1,22 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Fri Aug 26 01:00:33 UTC 2022
+Sat Aug 27 00:55:18 UTC 2022
 
 <pre>
 
- _______________________________________
-< You will be run over by a beer truck. >
- ---------------------------------------
+ _________________________________________
+/ There is no hunting like the hunting of \
+| man, and those who have hunted armed    |
+| men long enough and liked it, never     |
+| care for anything else thereafter.      |
+|                                         |
+\ -- Ernest Hemingway                     /
+ -----------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
              -- ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 12 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
@@ -114,8 +119,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 490 </th></tr>
 </table>
 <br>
-old_date:  2022-08-23 01:05:37.426567 now: 2022-08-26 01:00:45.112996
-duckduckbang stars changed from: 32 to: 33
     </pre>
   </td>
 </table>
