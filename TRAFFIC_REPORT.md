@@ -16,12 +16,11 @@ Views:
 	 2022-08-25 00:00:00 total: 14 unique: 3
 	 2022-08-26 00:00:00 total: 5 unique: 1
 	Referrers:
-		Count: 17 Unique: 3 Url: github.com
+		Count: 22 Unique: 3 Url: github.com
 		Count: 2 Unique: 2 Url: Google
 
-repo: pyasmtool views: total: 49 unique:  30
+repo: pyasmtool views: total: 49 unique:  31
 Views:
-	 2022-08-13 00:00:00 total: 2 unique: 1
 	 2022-08-14 00:00:00 total: 1 unique: 1
 	 2022-08-15 00:00:00 total: 1 unique: 1
 	 2022-08-16 00:00:00 total: 5 unique: 3
@@ -34,12 +33,14 @@ Views:
 	 2022-08-24 00:00:00 total: 2 unique: 2
 	 2022-08-25 00:00:00 total: 3 unique: 3
 	 2022-08-26 00:00:00 total: 13 unique: 3
+	 2022-08-27 00:00:00 total: 2 unique: 2
 	Referrers:
+		Count: 18 Unique: 6 Url: github.com
 		Count: 7 Unique: 6 Url: Google
-		Count: 7 Unique: 6 Url: github.com
-		Count: 3 Unique: 3 Url: news.ycombinator.com
+		Count: 2 Unique: 2 Url: news.ycombinator.com
 		Count: 2 Unique: 1 Url: pypi.org
 		Count: 2 Unique: 1 Url: DuckDuckGo
+		Count: 1 Unique: 1 Url: ngocminhtran.com
 
 repo: s9k views: total: 35 unique:  6
 Views:
@@ -54,7 +55,7 @@ Views:
 		Count: 31 Unique: 4 Url: github.com
 		Count: 1 Unique: 1 Url: Google
 
-repo: python-obj-system views: total: 26 unique:  13
+repo: python-obj-system views: total: 30 unique:  15
 Views:
 	 2022-08-16 00:00:00 total: 2 unique: 2
 	 2022-08-17 00:00:00 total: 7 unique: 3
@@ -62,12 +63,13 @@ Views:
 	 2022-08-24 00:00:00 total: 9 unique: 4
 	 2022-08-25 00:00:00 total: 5 unique: 3
 	 2022-08-26 00:00:00 total: 1 unique: 1
+	 2022-08-27 00:00:00 total: 4 unique: 2
 	Referrers:
 		Count: 14 Unique: 7 Url: github.com
 		Count: 2 Unique: 1 Url: news.ycombinator.com
 		Count: 1 Unique: 1 Url: Google
 
-repo: teach-your-children-well views: total: 25 unique:  6
+repo: teach-your-children-well views: total: 27 unique:  6
 Views:
 	 2022-08-14 00:00:00 total: 4 unique: 1
 	 2022-08-16 00:00:00 total: 9 unique: 2
@@ -75,6 +77,7 @@ Views:
 	 2022-08-22 00:00:00 total: 3 unique: 2
 	 2022-08-24 00:00:00 total: 5 unique: 1
 	 2022-08-25 00:00:00 total: 3 unique: 2
+	 2022-08-27 00:00:00 total: 2 unique: 1
 	Referrers:
 		Count: 5 Unique: 2 Url: l.facebook.com
 		Count: 5 Unique: 1 Url: Google
@@ -90,17 +93,10 @@ Views:
 	 2022-08-25 00:00:00 total: 1 unique: 1
 	 2022-08-26 00:00:00 total: 3 unique: 3
 	Referrers:
+		Count: 2 Unique: 2 Url: Google
+		Count: 2 Unique: 2 Url: github.com
 		Count: 2 Unique: 2 Url: news.ycombinator.com
-		Count: 1 Unique: 1 Url: Google
-		Count: 1 Unique: 1 Url: github.com
 		Count: 1 Unique: 1 Url: DuckDuckGo
-
-repo: cstuff views: total: 9 unique:  2
-Views:
-	 2022-08-13 00:00:00 total: 3 unique: 1
-	 2022-08-25 00:00:00 total: 6 unique: 1
-	Referrers:
-		Count: 6 Unique: 1 Url: github.com
 
 repo: cppcombinator views: total: 7 unique:  4
 Views:
@@ -109,15 +105,21 @@ Views:
 	 2022-08-24 00:00:00 total: 1 unique: 1
 	 2022-08-26 00:00:00 total: 1 unique: 1
 	Referrers:
-		Count: 5 Unique: 2 Url: github.com
+		Count: 6 Unique: 3 Url: github.com
 
 repo: pygamewrap views: total: 7 unique:  3
 Views:
-	 2022-08-13 00:00:00 total: 1 unique: 1
 	 2022-08-19 00:00:00 total: 2 unique: 1
 	 2022-08-24 00:00:00 total: 4 unique: 1
+	 2022-08-27 00:00:00 total: 1 unique: 1
 	Referrers:
 		Count: 2 Unique: 1 Url: Google
+
+repo: cstuff views: total: 6 unique:  1
+Views:
+	 2022-08-25 00:00:00 total: 6 unique: 1
+	Referrers:
+		Count: 6 Unique: 1 Url: github.com
 
 repo: flagged-hn views: total: 6 unique:  2
 Views:
@@ -125,7 +127,7 @@ Views:
 	 2022-08-23 00:00:00 total: 1 unique: 1
 	 2022-08-24 00:00:00 total: 4 unique: 1
 	Referrers:
-		Count: 6 Unique: 2 Url: news.ycombinator.com
+		Count: 5 Unique: 2 Url: news.ycombinator.com
 
 repo: grpc-spring-boot-starter-utils views: total: 6 unique:  1
 Views:
@@ -160,7 +162,7 @@ Views:
 	 2022-08-24 00:00:00 total: 1 unique: 1
 	 2022-08-26 00:00:00 total: 1 unique: 1
 	Referrers:
-		Count: 3 Unique: 2 Url: github.com
+		Count: 4 Unique: 3 Url: github.com
 		Count: 1 Unique: 1 Url: Google
 
 repo: zipit views: total: 5 unique:  5
@@ -189,23 +191,27 @@ Views:
 	Referrers:
 		Count: 1 Unique: 1 Url: Google
 
+repo: printb views: total: 3 unique:  1
+Views:
+	 2022-08-26 00:00:00 total: 1 unique: 1
+	 2022-08-27 00:00:00 total: 2 unique: 1
+
 repo: visual-python-strace views: total: 3 unique:  1
 Views:
 	 2022-08-25 00:00:00 total: 3 unique: 1
 	Referrers:
 		Count: 3 Unique: 1 Url: Google
 
-repo: vosk-api views: total: 3 unique:  2
-Views:
-	 2022-08-13 00:00:00 total: 1 unique: 1
-	 2022-08-22 00:00:00 total: 2 unique: 1
-	Referrers:
-		Count: 2 Unique: 1 Url: github.com
-
 repo: myenv views: total: 2 unique:  2
 Views:
 	 2022-08-18 00:00:00 total: 1 unique: 1
 	 2022-08-22 00:00:00 total: 1 unique: 1
+
+repo: vosk-api views: total: 2 unique:  1
+Views:
+	 2022-08-22 00:00:00 total: 2 unique: 1
+	Referrers:
+		Count: 2 Unique: 1 Url: github.com
 
 repo: devgoodies views: total: 1 unique:  1
 Views:
@@ -216,16 +222,14 @@ Views:
 repo: gitblame views: total: 1 unique:  1
 Views:
 	 2022-08-14 00:00:00 total: 1 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: DuckDuckGo
 
 repo: githubapitools views: total: 1 unique:  1
 Views:
 	 2022-08-20 00:00:00 total: 1 unique: 1
 
-repo: printb views: total: 1 unique:  1
+repo: jq-illustrated views: total: 1 unique:  1
 Views:
-	 2022-08-26 00:00:00 total: 1 unique: 1
+	 2022-08-27 00:00:00 total: 1 unique: 1
 
 repo: pythonimportplayground views: total: 1 unique:  1
 Views:
@@ -253,8 +257,6 @@ repo: github_pr_comments views: total: 0 unique:  0
 
 repo: jpa-enc-converter views: total: 0 unique:  0
 
-repo: jq-illustrated views: total: 0 unique:  0
-
 repo: k8explain views: total: 0 unique:  0
 
 repo: kwchecker views: total: 0 unique:  0
@@ -273,4 +275,4 @@ repo: vimcrypt views: total: 0 unique:  0
 
 
 ***
-Total views: 288
+Total views: 293
