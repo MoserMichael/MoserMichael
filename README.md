@@ -1,20 +1,19 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sun Aug 28 01:01:29 UTC 2022
+Mon Aug 29 01:04:07 UTC 2022
 
 <pre>
 
  _________________________________________
-/ The human race has one really effective \
-| weapon, and that is laughter.           |
-|                                         |
-\ -- Mark Twain                           /
+/ You will pay for your sins. If you have \
+| already paid, please disregard this     |
+\ message.                                /
  -----------------------------------------
         \   ^__^
-         \  (OO)\_______
+         \  (!!)\_______
             (__)\       )\/\
-             :) ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 63 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: -49 '(from -100..100) state: 'bad' eye: !! tongue: :(
 
 </pre>
 
@@ -117,8 +116,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 491 </th></tr>
 </table>
 <br>
-old_date:  2022-08-26 01:00:45.113193 now: 2022-08-28 01:01:41.375173
-python-obj-system stars changed from: 52 to: 53
     </pre>
   </td>
 </table>
