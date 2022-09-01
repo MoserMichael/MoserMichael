@@ -1,18 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Wed Aug 31 01:09:51 UTC 2022
+Thu Sep  1 00:57:06 UTC 2022
 
 <pre>
 
- ________________________________________
-/ Q: What's buried in Grant's tomb? A: A \
-\ corpse.                                /
- ----------------------------------------
+ ___________________________________
+/ Time to be aggressive. Go after a \
+\ tattooed Virgo.                   /
+ -----------------------------------
         \   ^__^
-         \  (!!)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :( ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: -57 '(from -100..100) state: 'bad' eye: !! tongue: :(
+nltk score: -15 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
