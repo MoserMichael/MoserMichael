@@ -21,9 +21,8 @@ Views:
 		Count: 23 Unique: 4 Url: github.com
 		Count: 2 Unique: 2 Url: Google
 
-repo: pyasmtool views: total: 61 unique:  28
+repo: pyasmtool views: total: 57 unique:  24
 Views:
-	 2022-08-19 00:00:00 total: 6 unique: 4
 	 2022-08-21 00:00:00 total: 3 unique: 3
 	 2022-08-22 00:00:00 total: 6 unique: 5
 	 2022-08-23 00:00:00 total: 2 unique: 2
@@ -35,15 +34,25 @@ Views:
 	 2022-08-30 00:00:00 total: 4 unique: 3
 	 2022-08-31 00:00:00 total: 7 unique: 2
 	 2022-09-01 00:00:00 total: 12 unique: 2
+	 2022-09-02 00:00:00 total: 2 unique: 1
 	Referrers:
-		Count: 13 Unique: 2 Url: github.com
+		Count: 24 Unique: 4 Url: github.com
 		Count: 7 Unique: 6 Url: Google
 		Count: 5 Unique: 1 Url: linkedin.com
 		Count: 3 Unique: 3 Url: news.ycombinator.com
 		Count: 1 Unique: 1 Url: ngocminhtran.com
 		Count: 1 Unique: 1 Url: hn.algolia.com
 
-repo: python-obj-system views: total: 24 unique:  13
+repo: cstuff views: total: 35 unique:  6
+Views:
+	 2022-08-25 00:00:00 total: 6 unique: 1
+	 2022-08-30 00:00:00 total: 2 unique: 2
+	 2022-08-31 00:00:00 total: 2 unique: 1
+	 2022-09-02 00:00:00 total: 25 unique: 2
+	Referrers:
+		Count: 6 Unique: 1 Url: github.com
+
+repo: python-obj-system views: total: 29 unique:  14
 Views:
 	 2022-08-22 00:00:00 total: 2 unique: 2
 	 2022-08-24 00:00:00 total: 9 unique: 4
@@ -52,11 +61,13 @@ Views:
 	 2022-08-27 00:00:00 total: 4 unique: 2
 	 2022-08-30 00:00:00 total: 1 unique: 1
 	 2022-09-01 00:00:00 total: 2 unique: 2
+	 2022-09-02 00:00:00 total: 5 unique: 1
 	Referrers:
-		Count: 10 Unique: 5 Url: github.com
+		Count: 11 Unique: 6 Url: github.com
 		Count: 2 Unique: 1 Url: news.ycombinator.com
 		Count: 1 Unique: 1 Url: Google
 		Count: 1 Unique: 1 Url: out.reddit.com
+		Count: 1 Unique: 1 Url: Bing
 
 repo: cppcombinator views: total: 16 unique:  7
 Views:
@@ -68,10 +79,10 @@ Views:
 	 2022-09-01 00:00:00 total: 4 unique: 1
 	Referrers:
 		Count: 12 Unique: 7 Url: github.com
+		Count: 4 Unique: 1 Url: filewave-europe-gmbh.personio.de
 
-repo: duckduckbang views: total: 16 unique:  11
+repo: duckduckbang views: total: 14 unique:  10
 Views:
-	 2022-08-19 00:00:00 total: 2 unique: 1
 	 2022-08-22 00:00:00 total: 1 unique: 1
 	 2022-08-23 00:00:00 total: 1 unique: 1
 	 2022-08-24 00:00:00 total: 1 unique: 1
@@ -97,14 +108,6 @@ Views:
 		Count: 5 Unique: 1 Url: Google
 		Count: 4 Unique: 3 Url: github.com
 
-repo: cstuff views: total: 10 unique:  4
-Views:
-	 2022-08-25 00:00:00 total: 6 unique: 1
-	 2022-08-30 00:00:00 total: 2 unique: 2
-	 2022-08-31 00:00:00 total: 2 unique: 1
-	Referrers:
-		Count: 6 Unique: 1 Url: github.com
-
 repo: kind-helper views: total: 9 unique:  5
 Views:
 	 2022-08-22 00:00:00 total: 2 unique: 1
@@ -117,7 +120,7 @@ Views:
 		Count: 1 Unique: 1 Url: Google
 		Count: 1 Unique: 1 Url: geeksrepos.com
 
-repo: vimcrypt2 views: total: 8 unique:  7
+repo: vimcrypt2 views: total: 9 unique:  8
 Views:
 	 2022-08-20 00:00:00 total: 1 unique: 1
 	 2022-08-22 00:00:00 total: 3 unique: 2
@@ -125,28 +128,11 @@ Views:
 	 2022-08-25 00:00:00 total: 1 unique: 1
 	 2022-08-29 00:00:00 total: 1 unique: 1
 	 2022-09-01 00:00:00 total: 1 unique: 1
+	 2022-09-02 00:00:00 total: 1 unique: 1
 	Referrers:
 		Count: 2 Unique: 2 Url: Google
 		Count: 1 Unique: 1 Url: search.brave.com
 		Count: 1 Unique: 1 Url: vim.org
-
-repo: pygamewrap views: total: 7 unique:  3
-Views:
-	 2022-08-19 00:00:00 total: 2 unique: 1
-	 2022-08-24 00:00:00 total: 4 unique: 1
-	 2022-08-27 00:00:00 total: 1 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: Google
-
-repo: s9k views: total: 7 unique:  5
-Views:
-	 2022-08-19 00:00:00 total: 2 unique: 2
-	 2022-08-22 00:00:00 total: 1 unique: 1
-	 2022-08-24 00:00:00 total: 2 unique: 1
-	 2022-08-25 00:00:00 total: 1 unique: 1
-	 2022-08-26 00:00:00 total: 1 unique: 1
-	Referrers:
-		Count: 2 Unique: 2 Url: github.com
 
 repo: flagged-hn views: total: 6 unique:  2
 Views:
@@ -156,13 +142,29 @@ Views:
 	Referrers:
 		Count: 6 Unique: 2 Url: news.ycombinator.com
 
+repo: pygamewrap views: total: 5 unique:  2
+Views:
+	 2022-08-24 00:00:00 total: 4 unique: 1
+	 2022-08-27 00:00:00 total: 1 unique: 1
+	Referrers:
+		Count: 1 Unique: 1 Url: Google
+
 repo: roget-thesaurus-parser views: total: 5 unique:  3
 Views:
 	 2022-08-23 00:00:00 total: 1 unique: 1
 	 2022-08-25 00:00:00 total: 3 unique: 1
 	 2022-09-01 00:00:00 total: 1 unique: 1
 	Referrers:
-		Count: 1 Unique: 1 Url: Google
+		Count: 2 Unique: 2 Url: Google
+
+repo: s9k views: total: 5 unique:  3
+Views:
+	 2022-08-22 00:00:00 total: 1 unique: 1
+	 2022-08-24 00:00:00 total: 2 unique: 1
+	 2022-08-25 00:00:00 total: 1 unique: 1
+	 2022-08-26 00:00:00 total: 1 unique: 1
+	Referrers:
+		Count: 2 Unique: 2 Url: github.com
 
 repo: zipit views: total: 5 unique:  5
 Views:
@@ -201,14 +203,14 @@ Views:
 	 2022-08-27 00:00:00 total: 1 unique: 1
 	 2022-09-01 00:00:00 total: 1 unique: 1
 	Referrers:
-		Count: 1 Unique: 1 Url: mosermichael.github.io
+		Count: 2 Unique: 2 Url: mosermichael.github.io
 
 repo: ls-annotations views: total: 2 unique:  2
 Views:
 	 2022-08-23 00:00:00 total: 1 unique: 1
 	 2022-09-01 00:00:00 total: 1 unique: 1
 	Referrers:
-		Count: 1 Unique: 1 Url: Google
+		Count: 2 Unique: 2 Url: Google
 
 repo: myenv views: total: 2 unique:  2
 Views:
@@ -222,10 +224,6 @@ Views:
 	 2022-08-22 00:00:00 total: 2 unique: 1
 	Referrers:
 		Count: 2 Unique: 1 Url: github.com
-
-repo: devgoodies views: total: 1 unique:  1
-Views:
-	 2022-08-19 00:00:00 total: 1 unique: 1
 
 repo: githubapitools views: total: 1 unique:  1
 Views:
@@ -244,6 +242,8 @@ Views:
 		Count: 1 Unique: 1 Url: news.ycombinator.com
 
 repo: bloxroutehomework views: total: 0 unique:  0
+
+repo: devgoodies views: total: 0 unique:  0
 
 repo: follow-kube-logs views: total: 0 unique:  0
 
@@ -275,4 +275,4 @@ repo: vimcrypt views: total: 0 unique:  0
 
 
 ***
-Total views: 277
+Total views: 297
