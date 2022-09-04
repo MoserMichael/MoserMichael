@@ -1,18 +1,19 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sat Sep  3 00:58:25 UTC 2022
+Sun Sep  4 00:59:31 UTC 2022
 
 <pre>
 
- _____________________________________
-/ You will be the victim of a bizarre \
-\ joke.                               /
- -------------------------------------
+ ________________________________________
+/ For a light heart lives long.          \
+|                                        |
+\ -- Shakespeare, "Love's Labour's Lost" /
+ ----------------------------------------
         \   ^__^
-         \  (!!)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :( ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: -30 '(from -100..100) state: 'bad' eye: !! tongue: :(
+nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
