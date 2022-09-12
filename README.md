@@ -1,18 +1,25 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sun Sep 11 01:04:21 UTC 2022
+Mon Sep 12 01:03:52 UTC 2022
 
 <pre>
 
- __________________________________
-/ You are capable of planning your \
-\ future.                          /
- ----------------------------------
+ ________________________________________
+/ Steady movement is more important than \
+| speed, much of the time. So long as    |
+| there is a regular progression of      |
+| stimuli to get your mental hooks into, |
+| there is room for lateral movement.    |
+| Once this begins, its rate is a matter |
+| of discretion.                         |
+|                                        |
+\ -- Corwin, Prince of Amber             /
+ ----------------------------------------
         \   ^__^
-         \  (oo)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :) ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: 38 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: 29 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
