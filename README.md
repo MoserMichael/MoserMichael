@@ -1,12 +1,13 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Thu Sep 15 01:07:31 UTC 2022
+Fri Sep 16 01:05:47 UTC 2022
 
 <pre>
 
- ______________________________________
-/ Q: What do you call a boomerang that \
-\ doesn't come back? A: A stick.       /
- --------------------------------------
+ _________________________________________
+/ Q: What do you get when you cross the   \
+| Godfather with an attorney? A: An offer |
+\ you can't understand.                   /
+ -----------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
