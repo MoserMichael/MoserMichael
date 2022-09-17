@@ -1,19 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Fri Sep 16 01:05:47 UTC 2022
+Sat Sep 17 01:01:56 UTC 2022
 
 <pre>
 
- _________________________________________
-/ Q: What do you get when you cross the   \
-| Godfather with an attorney? A: An offer |
-\ you can't understand.                   /
- -----------------------------------------
+ _______________________________________
+/ You seek to shield those you love and \
+\ you like the role of the provider.    /
+ ---------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (OO)\_______
             (__)\       )\/\
-             -- ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 77 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
