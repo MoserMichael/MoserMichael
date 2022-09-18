@@ -1,18 +1,22 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sat Sep 17 01:01:56 UTC 2022
+Sun Sep 18 01:06:56 UTC 2022
 
 <pre>
 
  _______________________________________
-/ You seek to shield those you love and \
-\ you like the role of the provider.    /
+/ Q: Minnesotans ask, "Why aren't there \
+| more pharmacists from Alabama?" A:    |
+| Easy. It's because they can't figure  |
+| out how to get the little             |
+|                                       |
+\ bottles into the typewriter.          /
  ---------------------------------------
         \   ^__^
-         \  (OO)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :) ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: 77 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
@@ -79,7 +83,7 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/cppcombinator">cppcombinator</a></td><td>20</td><td>C++</td><td>parser  combinator and AST generator in c++17</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/jq-illustrated">jq-illustrated</a></td><td>20</td><td>Shell</td><td>illustrated tutorial of jq (and the scripts that create it)</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/s9k">s9k</a></td><td>14</td><td>Python</td><td>web server/web UI for managing kubernetes clusters, with similar functionality as k9s</td></tr>
-<tr><td><a href="https://github.com/MoserMichael/cstuff">cstuff</a></td><td>10</td><td>C</td><td>My C projects and old homepage:</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/cstuff">cstuff</a></td><td>11</td><td>C</td><td>My C projects and old homepage:</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/ls-annotations">ls-annotations</a></td><td>6</td><td>Java</td><td>Show all declarations with java annotations by decompiling byte code.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/pythonimportplayground">pythonimportplayground</a></td><td>5</td><td>Python</td><td>the readme file explains python packages, with examples.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/rzgrep">rzgrep</a></td><td>5</td><td>Go</td><td>grep utility that searches through zip,jar,ear,tgz,bz2 in any form of nesting; it can also decompile class files</td></tr>
@@ -113,9 +117,11 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/visual-python-strace">visual-python-strace</a></td><td>0</td><td>Python</td><td>show a very long stack trace with variable values.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/vosk-api">vosk-api</a></td><td>0</td><td>None</td><td>Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/zipit">zipit</a></td><td>0</td><td>C++</td><td>c++ library for the equivalent of python/haskell zip function</td></tr>
-<tr><th>Total stars:</th><th colspan='2' align='left'> 490 </th></tr>
+<tr><th>Total stars:</th><th colspan='2' align='left'> 491 </th></tr>
 </table>
 <br>
+old_date:  2022-09-08 01:03:24.448835 now: 2022-09-18 01:07:13.066410
+cstuff stars changed from: 10 to: 11
     </pre>
   </td>
 </table>
