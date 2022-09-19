@@ -1,22 +1,19 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sun Sep 18 01:06:56 UTC 2022
+Mon Sep 19 01:03:07 UTC 2022
 
 <pre>
 
- _______________________________________
-/ Q: Minnesotans ask, "Why aren't there \
-| more pharmacists from Alabama?" A:    |
-| Easy. It's because they can't figure  |
-| out how to get the little             |
-|                                       |
-\ bottles into the typewriter.          /
- ---------------------------------------
+ _________________________________________
+/ The better part of valor is discretion. \
+|                                         |
+\ -- William Shakespeare, "Henry IV"      /
+ -----------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (oo)\_______
             (__)\       )\/\
-             -- ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 44 '(from -100..100) state: 'good' eye: oo tongue: :)
 
 </pre>
 
@@ -76,14 +73,14 @@ My stuff here:
         <pre>
 
 <table><tr><th align='left'>Name</th><th align='left'>Stars</th><th align='left'>Language</th><th align='left'>description</th></tr>
-<tr><td><a href="https://github.com/MoserMichael/pyasmtool">pyasmtool</a></td><td>275</td><td>Python</td><td>Explores the python bytecode, provides some tools to access it for fun and profit.</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/pyasmtool">pyasmtool</a></td><td>274</td><td>Python</td><td>Explores the python bytecode, provides some tools to access it for fun and profit.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/python-obj-system">python-obj-system</a></td><td>53</td><td>Python</td><td>Tutorials on advanced python topics, and literate programming framework to write them (see README.md)</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/duckduckbang">duckduckbang</a></td><td>33</td><td>Python</td><td>Meta search page that utilises duckduckgo !bang query operators.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/kind-helper">kind-helper</a></td><td>24</td><td>Python</td><td>Simplifies the creation of practical kubernetes test clusters with the kind utility.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/cppcombinator">cppcombinator</a></td><td>20</td><td>C++</td><td>parser  combinator and AST generator in c++17</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/jq-illustrated">jq-illustrated</a></td><td>20</td><td>Shell</td><td>illustrated tutorial of jq (and the scripts that create it)</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/s9k">s9k</a></td><td>14</td><td>Python</td><td>web server/web UI for managing kubernetes clusters, with similar functionality as k9s</td></tr>
-<tr><td><a href="https://github.com/MoserMichael/cstuff">cstuff</a></td><td>11</td><td>C</td><td>My C projects and old homepage:</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/cstuff">cstuff</a></td><td>12</td><td>C</td><td>My C projects and old homepage:</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/ls-annotations">ls-annotations</a></td><td>6</td><td>Java</td><td>Show all declarations with java annotations by decompiling byte code.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/pythonimportplayground">pythonimportplayground</a></td><td>5</td><td>Python</td><td>the readme file explains python packages, with examples.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/rzgrep">rzgrep</a></td><td>5</td><td>Go</td><td>grep utility that searches through zip,jar,ear,tgz,bz2 in any form of nesting; it can also decompile class files</td></tr>
@@ -120,8 +117,9 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 491 </th></tr>
 </table>
 <br>
-old_date:  2022-09-08 01:03:24.448835 now: 2022-09-18 01:07:13.066410
-cstuff stars changed from: 10 to: 11
+old_date:  2022-09-18 01:07:13.066619 now: 2022-09-19 01:03:19.834840
+pyasmtool stars changed from: 275 to: 274
+cstuff stars changed from: 11 to: 12
     </pre>
   </td>
 </table>
