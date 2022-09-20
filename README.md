@@ -1,19 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Mon Sep 19 01:03:07 UTC 2022
+Tue Sep 20 01:05:42 UTC 2022
 
 <pre>
 
- _________________________________________
-/ The better part of valor is discretion. \
-|                                         |
-\ -- William Shakespeare, "Henry IV"      /
- -----------------------------------------
+ ________________________________________
+/ You own a dog, but you can only feed a \
+\ cat.                                   /
+ ----------------------------------------
         \   ^__^
-         \  (oo)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :) ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: 44 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
@@ -91,7 +90,7 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/pprintex">pprintex</a></td><td>2</td><td>Python</td><td>python pretty printer, unlinke pprint it prints out all object field values.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/pythoncourse">pythoncourse</a></td><td>2</td><td>Python</td><td>my notes on teaching the python programming language.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/roget-thesaurus-parser">roget-thesaurus-parser</a></td><td>2</td><td>Python</td><td>parses Roget's thesaurus and provide API for querying related words</td></tr>
-<tr><td><a href="https://github.com/MoserMichael/gitblame">gitblame</a></td><td>1</td><td>Vim script</td><td>minimal vim plugin for working with git; with a focus on git blame and git grep commands</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/gitblame">gitblame</a></td><td>1</td><td>Vim Script</td><td>minimal vim plugin for working with git; with a focus on git blame and git grep commands</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/k8explain">k8explain</a></td><td>1</td><td>Go</td><td>golang exercise: produce a table of kubernetes api resources where each row is linked to an explanation</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/microsofthomework">microsofthomework</a></td><td>1</td><td>C++</td><td>Homework assignment at a Microsoft job interview</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/MoserMichael">MoserMichael</a></td><td>1</td><td>Shell</td><td>some blurb about the owner and his stuff. A script generates README.md, that appears on the public profile. The script is run periodically by github action. (see ABOUT.md)</td></tr>
@@ -117,9 +116,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 491 </th></tr>
 </table>
 <br>
-old_date:  2022-09-18 01:07:13.066619 now: 2022-09-19 01:03:19.834840
-pyasmtool stars changed from: 275 to: 274
-cstuff stars changed from: 11 to: 12
     </pre>
   </td>
 </table>
