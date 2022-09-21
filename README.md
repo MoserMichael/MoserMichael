@@ -1,18 +1,27 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Tue Sep 20 01:05:42 UTC 2022
+Wed Sep 21 01:07:43 UTC 2022
 
 <pre>
 
- ________________________________________
-/ You own a dog, but you can only feed a \
-\ cat.                                   /
- ----------------------------------------
+ _________________________________________
+/ Stop! There was first a game of         \
+| blindman's buff. Of course there was.   |
+| And I no more believe Topper was really |
+| blind than I believe he had eyes in his |
+| boots. My opinion is, that it was a     |
+| done thing between him and Scrooge's    |
+| nephew; and that the Ghost of Christmas |
+| Present knew it. The way he went after  |
+| that plump sister in the lace tucker,   |
+| was an outrage on the credulity of      |
+\ human nature.                           /
+ -----------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (~~)\_______
             (__)\       )\/\
-             -- ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: -91 '(from -100..100) state: 'very bad' eye: ~~ tongue: :(
 
 </pre>
 
