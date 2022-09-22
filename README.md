@@ -1,27 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Wed Sep 21 01:07:43 UTC 2022
+Thu Sep 22 01:03:58 UTC 2022
 
 <pre>
 
- _________________________________________
-/ Stop! There was first a game of         \
-| blindman's buff. Of course there was.   |
-| And I no more believe Topper was really |
-| blind than I believe he had eyes in his |
-| boots. My opinion is, that it was a     |
-| done thing between him and Scrooge's    |
-| nephew; and that the Ghost of Christmas |
-| Present knew it. The way he went after  |
-| that plump sister in the lace tucker,   |
-| was an outrage on the credulity of      |
-\ human nature.                           /
- -----------------------------------------
+ ________________________________________
+/ Everything that you know is wrong, but \
+\ you can be straightened out.           /
+ ----------------------------------------
         \   ^__^
-         \  (~~)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :( ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: -91 '(from -100..100) state: 'very bad' eye: ~~ tongue: :(
+nltk score: -26 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
