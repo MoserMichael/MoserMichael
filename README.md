@@ -1,18 +1,20 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sun Sep 25 01:03:28 UTC 2022
+Mon Sep 26 01:05:22 UTC 2022
 
 <pre>
 
- _________________________________________
-/ A gift of a flower will soon be made to \
-\ you.                                    /
- -----------------------------------------
+ _____________________________________
+/ Nothing so needs reforming as other \
+| people's habits.                    |
+|                                     |
+\ -- Mark Twain                       /
+ -------------------------------------
         \   ^__^
-         \  (oo)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :) ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: 44 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
