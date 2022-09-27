@@ -1,14 +1,15 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Mon Sep 26 01:05:22 UTC 2022
+Tue Sep 27 01:07:52 UTC 2022
 
 <pre>
 
- _____________________________________
-/ Nothing so needs reforming as other \
-| people's habits.                    |
-|                                     |
-\ -- Mark Twain                       /
- -------------------------------------
+ _______________________________________
+/ I must have a prodigious quantity of  \
+| mind; it takes me as much as a week   |
+| sometimes to make it up.              |
+|                                       |
+\ -- Mark Twain, "The Innocents Abroad" /
+ ---------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
