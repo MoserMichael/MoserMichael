@@ -1,21 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Tue Sep 27 01:07:52 UTC 2022
+Wed Sep 28 01:08:14 UTC 2022
 
 <pre>
 
- _______________________________________
-/ I must have a prodigious quantity of  \
-| mind; it takes me as much as a week   |
-| sometimes to make it up.              |
-|                                       |
-\ -- Mark Twain, "The Innocents Abroad" /
- ---------------------------------------
+ _____________________________________
+/ Someone whom you reject today, will \
+\ reject you tomorrow.                /
+ -------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (~~)\_______
             (__)\       )\/\
-             -- ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: -66 '(from -100..100) state: 'very bad' eye: ~~ tongue: :(
 
 </pre>
 
