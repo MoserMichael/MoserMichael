@@ -1,18 +1,21 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Wed Sep 28 01:08:14 UTC 2022
+Thu Sep 29 01:13:07 UTC 2022
 
 <pre>
 
  _____________________________________
-/ Someone whom you reject today, will \
-\ reject you tomorrow.                /
+/ When angry, count four; when very   \
+| angry, swear.                       |
+|                                     |
+| -- Mark Twain, "Pudd'nhead Wilson's |
+\ Calendar"                           /
  -------------------------------------
         \   ^__^
          \  (~~)\_______
             (__)\       )\/\
              :( ||----w |
                 ||     ||
-nltk score: -66 '(from -100..100) state: 'very bad' eye: ~~ tongue: :(
+nltk score: -80 '(from -100..100) state: 'very bad' eye: ~~ tongue: :(
 
 </pre>
 
