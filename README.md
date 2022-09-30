@@ -1,21 +1,25 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Thu Sep 29 01:13:07 UTC 2022
+Fri Sep 30 01:25:31 UTC 2022
 
 <pre>
 
- _____________________________________
-/ When angry, count four; when very   \
-| angry, swear.                       |
-|                                     |
-| -- Mark Twain, "Pudd'nhead Wilson's |
-\ Calendar"                           /
- -------------------------------------
+ _________________________________________
+/ Q: What's the difference between the    \
+| 1950's and the 1980's? A: In the 80's,  |
+| a man walks into a drugstore and states |
+| loudly, "I'd                            |
+|                                         |
+| like some condoms," and then, leaning   |
+| over the counter, whispers,             |
+|                                         |
+\ "and some cigarettes."                  /
+ -----------------------------------------
         \   ^__^
-         \  (~~)\_______
+         \  (oo)\_______
             (__)\       )\/\
-             :( ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: -80 '(from -100..100) state: 'very bad' eye: ~~ tongue: :(
+nltk score: 36 '(from -100..100) state: 'good' eye: oo tongue: :)
 
 </pre>
 
