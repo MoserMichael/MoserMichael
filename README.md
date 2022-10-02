@@ -1,20 +1,20 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sat Oct  1 01:21:27 UTC 2022
+Sun Oct  2 01:15:46 UTC 2022
 
 <pre>
 
- ______________________________________
-/ When one burns one's bridges, what a \
-| very nice fire it makes.             |
-|                                      |
-\ -- Dylan Thomas                      /
- --------------------------------------
+ ____________________________________
+/ A horse! A horse! My kingdom for a \
+| horse!                             |
+|                                    |
+\ -- Wm. Shakespeare, "Richard III"  /
+ ------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
              -- ||----w |
                 ||     ||
-nltk score: 11 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
@@ -116,7 +116,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 491 </th></tr>
 </table>
 <br>
-old_date:  2022-09-19 01:03:19.835050 now: 2022-10-01 01:21:42.768646
     </pre>
   </td>
 </table>
