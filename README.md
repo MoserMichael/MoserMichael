@@ -1,20 +1,21 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sun Oct  2 01:15:46 UTC 2022
+Mon Oct  3 01:05:57 UTC 2022
 
 <pre>
 
- ____________________________________
-/ A horse! A horse! My kingdom for a \
-| horse!                             |
-|                                    |
-\ -- Wm. Shakespeare, "Richard III"  /
- ------------------------------------
+ _______________________________________
+/ The lunatic, the lover, and the poet, \
+| Are of imagination all compact...     |
+|                                       |
+| -- Wm. Shakespeare, "A Midsummer      |
+\ Night's Dream"                        /
+ ---------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
              -- ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 15 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
