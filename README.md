@@ -1,21 +1,32 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Mon Oct  3 01:05:57 UTC 2022
+Tue Oct  4 01:14:29 UTC 2022
 
 <pre>
 
- _______________________________________
-/ The lunatic, the lover, and the poet, \
-| Are of imagination all compact...     |
-|                                       |
-| -- Wm. Shakespeare, "A Midsummer      |
-\ Night's Dream"                        /
- ---------------------------------------
+ _________________________________________
+/ Q: How many IBM types does it take to   \
+| change a light bulb? A: Fifteen. One to |
+| do it, and fourteen to write document   |
+| number                                  |
+|                                         |
+| GC7500439-0001, Multitasking            |
+| Incandescent Source System Facility,    |
+|                                         |
+| of which 10% of the pages state only    |
+| "This page intentionally                |
+|                                         |
+| left blank", and 20% of the definitions |
+| are of the form "A:.....                |
+|                                         |
+| consists of sequences of non-blank      |
+\ characters separated by blanks".        /
+ -----------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
              -- ||----w |
                 ||     ||
-nltk score: 15 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 8 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
