@@ -1,21 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Thu Oct  6 01:06:42 UTC 2022
+Fri Oct  7 01:17:15 UTC 2022
 
 <pre>
 
- ________________________________________
-/ It is a wise father that knows his own \
-| child.                                 |
-|                                        |
-| -- William Shakespeare, "The Merchant  |
-\ of Venice"                             /
- ----------------------------------------
+ ________________________________
+/ Never look up when dragons fly \
+\ overhead.                      /
+ --------------------------------
         \   ^__^
-         \  (oo)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :) ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: 48 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
@@ -117,8 +114,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 492 </th></tr>
 </table>
 <br>
-old_date:  2022-10-01 01:21:42.768841 now: 2022-10-06 01:06:54.612148
-pyasmtool stars changed from: 274 to: 275
     </pre>
   </td>
 </table>
