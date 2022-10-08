@@ -1,18 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Fri Oct  7 01:17:15 UTC 2022
+Sat Oct  8 01:01:40 UTC 2022
 
 <pre>
 
- ________________________________
-/ Never look up when dragons fly \
-\ overhead.                      /
- --------------------------------
+ ________________________________________
+/ You prefer the company of the opposite \
+\ sex, but are well liked by your own.   /
+ ----------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (OO)\_______
             (__)\       )\/\
-             -- ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 75 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
