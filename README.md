@@ -1,18 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sat Oct  8 01:01:40 UTC 2022
+Sun Oct  9 01:05:58 UTC 2022
 
 <pre>
 
  ________________________________________
-/ You prefer the company of the opposite \
-\ sex, but are well liked by your own.   /
+/ You will always have good luck in your \
+\ personal affairs.                      /
  ----------------------------------------
         \   ^__^
          \  (OO)\_______
             (__)\       )\/\
              :) ||----w |
                 ||     ||
-nltk score: 75 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: 71 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
