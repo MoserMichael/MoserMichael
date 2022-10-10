@@ -1,18 +1,20 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sun Oct  9 01:05:58 UTC 2022
+Mon Oct 10 01:12:33 UTC 2022
 
 <pre>
 
  ________________________________________
-/ You will always have good luck in your \
-\ personal affairs.                      /
+/ Lay on, MacDuff, and curs'd be him who \
+| first cries, "Hold, enough!".          |
+|                                        |
+\ -- Shakespeare                         /
  ----------------------------------------
         \   ^__^
-         \  (OO)\_______
+         \  (!!)\_______
             (__)\       )\/\
-             :) ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 71 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: -46 '(from -100..100) state: 'bad' eye: !! tongue: :(
 
 </pre>
 
