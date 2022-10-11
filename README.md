@@ -1,20 +1,19 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Mon Oct 10 01:12:33 UTC 2022
+Tue Oct 11 01:04:00 UTC 2022
 
 <pre>
 
- ________________________________________
-/ Lay on, MacDuff, and curs'd be him who \
-| first cries, "Hold, enough!".          |
-|                                        |
-\ -- Shakespeare                         /
- ----------------------------------------
+ ______________________________________
+/ Many pages make a thick book, except \
+| for pocket Bibles which are on very  |
+\ very thin paper.                     /
+ --------------------------------------
         \   ^__^
-         \  (!!)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :( ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: -46 '(from -100..100) state: 'bad' eye: !! tongue: :(
+nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
