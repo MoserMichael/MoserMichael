@@ -1,18 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Fri Oct 14 01:17:55 UTC 2022
+Sat Oct 15 01:10:58 UTC 2022
 
 <pre>
 
- _______________________________________
-/ You'll be called to a post requiring  \
-\ ability in handling groups of people. /
- ---------------------------------------
+ _________________________________________
+/ Your object is to save the world, while \
+\ still leading a pleasant life.          /
+ -----------------------------------------
         \   ^__^
-         \  (oo)\_______
+         \  (OO)\_______
             (__)\       )\/\
              :) ||----w |
                 ||     ||
-nltk score: 32 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: 76 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
