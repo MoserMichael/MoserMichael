@@ -1,19 +1,19 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sun Oct 16 01:14:49 UTC 2022
+Mon Oct 17 01:17:21 UTC 2022
 
 <pre>
 
- ____________________________________
-/ This life is yours. Some of it was \
-| given to you; the rest, you made   |
-\ yourself.                          /
- ------------------------------------
+ ________________________
+/ Don't Worry, Be Happy. \
+|                        |
+\ -- Meher Baba          /
+ ------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
              -- ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: -15 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
@@ -115,9 +115,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 495 </th></tr>
 </table>
 <br>
-old_date:  2022-10-06 01:06:54.612382 now: 2022-10-16 01:15:07.717409
-python-obj-system stars changed from: 53 to: 55
-jq-illustrated stars changed from: 20 to: 21
     </pre>
   </td>
 </table>
