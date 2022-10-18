@@ -1,19 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Mon Oct 17 01:17:21 UTC 2022
+Tue Oct 18 01:11:09 UTC 2022
 
 <pre>
 
- ________________________
-/ Don't Worry, Be Happy. \
-|                        |
-\ -- Meher Baba          /
- ------------------------
+ _______________________________________
+/ You will give someone a piece of your \
+\ mind, which you can ill afford.       /
+ ---------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (!!)\_______
             (__)\       )\/\
-             -- ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: -15 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: -42 '(from -100..100) state: 'bad' eye: !! tongue: :(
 
 </pre>
 
