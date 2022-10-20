@@ -1,18 +1,29 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Wed Oct 19 01:11:47 UTC 2022
+Thu Oct 20 01:09:59 UTC 2022
 
 <pre>
 
- _______________________________________
-/ Today is the first day of the rest of \
-\ your life.                            /
- ---------------------------------------
+ _________________________________________
+/ In the plot, people came to the land;   \
+| the land loved them; they worked and    |
+| struggled and had lots of children.     |
+| There was a Frenchman who talked funny  |
+| and a greenhorn from England who was a  |
+| fancy-pants but when it came to the     |
+| crunch he was all courage. Those novels |
+| would make you retch.                   |
+|                                         |
+| -- Canadian novelist Robertson Davies,  |
+| on the generic Canadian                 |
+|                                         |
+\ novel.                                  /
+ -----------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (OO)\_______
             (__)\       )\/\
-             -- ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 79 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
