@@ -1,29 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Thu Oct 20 01:09:59 UTC 2022
+Fri Oct 21 01:06:07 UTC 2022
 
 <pre>
 
  _________________________________________
-/ In the plot, people came to the land;   \
-| the land loved them; they worked and    |
-| struggled and had lots of children.     |
-| There was a Frenchman who talked funny  |
-| and a greenhorn from England who was a  |
-| fancy-pants but when it came to the     |
-| crunch he was all courage. Those novels |
-| would make you retch.                   |
-|                                         |
-| -- Canadian novelist Robertson Davies,  |
-| on the generic Canadian                 |
-|                                         |
-\ novel.                                  /
+/ You worry too much about your job. Stop \
+\ it. You are not paid enough to worry.   /
  -----------------------------------------
         \   ^__^
-         \  (OO)\_______
+         \  (~~)\_______
             (__)\       )\/\
-             :) ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 79 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: -79 '(from -100..100) state: 'very bad' eye: ~~ tongue: :(
 
 </pre>
 
