@@ -1,12 +1,25 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sat Oct 22 01:13:46 UTC 2022
+Sun Oct 23 01:10:25 UTC 2022
 
 <pre>
 
- _________________________________________
-/ Of course you have a purpose -- to find \
-\ a purpose.                              /
- -----------------------------------------
+ ________________________________________
+/ Q: How many hardware engineers does it \
+| take to change a light bulb? A: None.  |
+| We'll fix it in software.              |
+|                                        |
+| Q: How many system programmers does it |
+| take to change a light bulb? A: None.  |
+| The application can work around it.    |
+|                                        |
+| Q: How many software engineers does it |
+| take to change a light bulb? A: None.  |
+| We'll document it in the manual.       |
+|                                        |
+| Q: How many tech writers does it take  |
+| to change a light bulb? A: None. The   |
+\ user can figure it out.                /
+ ----------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
