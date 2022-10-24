@@ -9,7 +9,6 @@ Traffic report for user Michael Moser
 
 repo: pyasmtool views: total: 42 unique:  35
 Views:
-	 2022-10-09 00:00:00 total: 2 unique: 2
 	 2022-10-10 00:00:00 total: 3 unique: 2
 	 2022-10-11 00:00:00 total: 3 unique: 3
 	 2022-10-12 00:00:00 total: 1 unique: 1
@@ -22,9 +21,10 @@ Views:
 	 2022-10-20 00:00:00 total: 3 unique: 3
 	 2022-10-21 00:00:00 total: 6 unique: 6
 	 2022-10-22 00:00:00 total: 3 unique: 3
+	 2022-10-23 00:00:00 total: 2 unique: 2
 	Referrers:
-		Count: 12 Unique: 11 Url: Google
-		Count: 11 Unique: 8 Url: github.com
+		Count: 14 Unique: 13 Url: Google
+		Count: 11 Unique: 9 Url: github.com
 		Count: 3 Unique: 3 Url: news.ycombinator.com
 		Count: 1 Unique: 1 Url: out.reddit.com
 
@@ -42,6 +42,19 @@ Views:
 	Referrers:
 		Count: 5 Unique: 5 Url: github.com
 		Count: 2 Unique: 2 Url: Google
+		Count: 1 Unique: 1 Url: news.ycombinator.com
+
+repo: cstuff views: total: 25 unique:  8
+Views:
+	 2022-10-11 00:00:00 total: 17 unique: 2
+	 2022-10-13 00:00:00 total: 1 unique: 1
+	 2022-10-14 00:00:00 total: 1 unique: 1
+	 2022-10-20 00:00:00 total: 1 unique: 1
+	 2022-10-21 00:00:00 total: 1 unique: 1
+	 2022-10-23 00:00:00 total: 4 unique: 2
+	Referrers:
+		Count: 13 Unique: 2 Url: Google
+		Count: 2 Unique: 2 Url: mosermichael.github.io
 
 repo: zipit views: total: 23 unique:  9
 Views:
@@ -56,17 +69,6 @@ Views:
 	Referrers:
 		Count: 20 Unique: 8 Url: Google
 
-repo: cstuff views: total: 21 unique:  6
-Views:
-	 2022-10-11 00:00:00 total: 17 unique: 2
-	 2022-10-13 00:00:00 total: 1 unique: 1
-	 2022-10-14 00:00:00 total: 1 unique: 1
-	 2022-10-20 00:00:00 total: 1 unique: 1
-	 2022-10-21 00:00:00 total: 1 unique: 1
-	Referrers:
-		Count: 13 Unique: 2 Url: Google
-		Count: 2 Unique: 2 Url: mosermichael.github.io
-
 repo: pygamewrap views: total: 17 unique:  6
 Views:
 	 2022-10-10 00:00:00 total: 5 unique: 2
@@ -75,8 +77,7 @@ Views:
 	 2022-10-21 00:00:00 total: 3 unique: 1
 	 2022-10-22 00:00:00 total: 2 unique: 2
 	Referrers:
-		Count: 12 Unique: 3 Url: Google
-		Count: 3 Unique: 1 Url: reddit.com
+		Count: 11 Unique: 3 Url: Google
 
 repo: grpc-spring-boot-starter-utils views: total: 12 unique:  2
 Views:
@@ -93,20 +94,7 @@ Views:
 	 2022-10-21 00:00:00 total: 1 unique: 1
 	 2022-10-22 00:00:00 total: 4 unique: 1
 	Referrers:
-		Count: 1 Unique: 1 Url: news.ycombinator.com
-
-repo: python-obj-system views: total: 12 unique:  8
-Views:
-	 2022-10-09 00:00:00 total: 4 unique: 1
-	 2022-10-10 00:00:00 total: 2 unique: 1
-	 2022-10-11 00:00:00 total: 1 unique: 1
-	 2022-10-12 00:00:00 total: 2 unique: 2
-	 2022-10-20 00:00:00 total: 1 unique: 1
-	 2022-10-21 00:00:00 total: 1 unique: 1
-	 2022-10-22 00:00:00 total: 1 unique: 1
-	Referrers:
-		Count: 5 Unique: 4 Url: github.com
-		Count: 1 Unique: 1 Url: news.ycombinator.com
+		Count: 5 Unique: 2 Url: news.ycombinator.com
 
 repo: teach-your-children-well views: total: 10 unique:  2
 Views:
@@ -122,7 +110,20 @@ Views:
 	 2022-10-12 00:00:00 total: 4 unique: 1
 	 2022-10-17 00:00:00 total: 1 unique: 1
 	Referrers:
-		Count: 8 Unique: 2 Url: github.com
+		Count: 4 Unique: 1 Url: github.com
+		Count: 1 Unique: 1 Url: news.ycombinator.com
+
+repo: python-obj-system views: total: 9 unique:  8
+Views:
+	 2022-10-10 00:00:00 total: 2 unique: 1
+	 2022-10-11 00:00:00 total: 1 unique: 1
+	 2022-10-12 00:00:00 total: 2 unique: 2
+	 2022-10-20 00:00:00 total: 1 unique: 1
+	 2022-10-21 00:00:00 total: 1 unique: 1
+	 2022-10-22 00:00:00 total: 1 unique: 1
+	 2022-10-23 00:00:00 total: 1 unique: 1
+	Referrers:
+		Count: 4 Unique: 4 Url: github.com
 		Count: 1 Unique: 1 Url: news.ycombinator.com
 
 repo: cppcombinator views: total: 8 unique:  6
@@ -142,6 +143,7 @@ Views:
 	 2022-10-22 00:00:00 total: 2 unique: 1
 	Referrers:
 		Count: 2 Unique: 1 Url: golangexample.com
+		Count: 2 Unique: 1 Url: fasthub.cc
 
 repo: scriptrunner-operator views: total: 4 unique:  1
 Views:
@@ -175,12 +177,15 @@ Views:
 repo: bloxroutehomework views: total: 2 unique:  1
 Views:
 	 2022-10-22 00:00:00 total: 2 unique: 1
+	Referrers:
+		Count: 2 Unique: 1 Url: github.com
 
 repo: duckduckbang views: total: 2 unique:  2
 Views:
 	 2022-10-20 00:00:00 total: 1 unique: 1
 	 2022-10-22 00:00:00 total: 1 unique: 1
 	Referrers:
+		Count: 1 Unique: 1 Url: fmhy.tk
 		Count: 1 Unique: 1 Url: github.com
 
 repo: MoserMichael views: total: 2 unique:  1
@@ -194,15 +199,19 @@ Views:
 	Referrers:
 		Count: 1 Unique: 1 Url: github.com
 
+repo: myenv views: total: 1 unique:  1
+Views:
+	 2022-10-23 00:00:00 total: 1 unique: 1
+
 repo: vimcrypt2 views: total: 1 unique:  1
 Views:
 	 2022-10-22 00:00:00 total: 1 unique: 1
+	Referrers:
+		Count: 1 Unique: 1 Url: Google
 
 repo: visual-python-strace views: total: 1 unique:  1
 Views:
 	 2022-10-10 00:00:00 total: 1 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: Google
 
 repo: devgoodies views: total: 0 unique:  0
 
@@ -222,8 +231,6 @@ repo: microsofthomework views: total: 0 unique:  0
 
 repo: my-notes views: total: 0 unique:  0
 
-repo: myenv views: total: 0 unique:  0
-
 repo: opinionated-fortune-cow views: total: 0 unique:  0
 
 repo: pprintex views: total: 0 unique:  0
@@ -240,4 +247,4 @@ repo: vimcrypt views: total: 0 unique:  0
 
 
 ***
-Total views: 226
+Total views: 228
