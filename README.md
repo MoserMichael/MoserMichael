@@ -1,18 +1,21 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Tue Oct 25 01:16:13 UTC 2022
+Wed Oct 26 01:02:18 UTC 2022
 
 <pre>
 
- ________________________________________
-/ You prefer the company of the opposite \
-\ sex, but are well liked by your own.   /
- ----------------------------------------
+ _________________________________________
+/ If one cannot enjoy reading a book over \
+| and over again, there is no use in      |
+| reading it at all.                      |
+|                                         |
+\ -- Oscar Wilde                          /
+ -----------------------------------------
         \   ^__^
-         \  (OO)\_______
+         \  (!!)\_______
             (__)\       )\/\
-             :) ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 75 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: -59 '(from -100..100) state: 'bad' eye: !! tongue: :(
 
 </pre>
 
