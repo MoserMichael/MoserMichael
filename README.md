@@ -1,21 +1,23 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Wed Oct 26 01:02:18 UTC 2022
+Thu Oct 27 01:01:55 UTC 2022
 
 <pre>
 
  _________________________________________
-/ If one cannot enjoy reading a book over \
-| and over again, there is no use in      |
-| reading it at all.                      |
+/ When I reflect upon the number of       \
+| disagreeable people who I know who have |
+| gone to a better world, I am moved to   |
+| lead a different life.                  |
 |                                         |
-\ -- Oscar Wilde                          /
+| -- Mark Twain, "Pudd'nhead Wilson's     |
+\ Calendar"                               /
  -----------------------------------------
         \   ^__^
-         \  (!!)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :( ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: -59 '(from -100..100) state: 'bad' eye: !! tongue: :(
+nltk score: 13 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
@@ -108,6 +110,7 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/jpa-enc-converter">jpa-enc-converter</a></td><td>0</td><td>Java</td><td>Example of handling the encryption/decryption of data at rest in an SQL table, by means of spring JPA/AttributeConverter</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/kwchecker">kwchecker</a></td><td>0</td><td>Python</td><td>Declarative verifier and sanitizer for python kwargs parameters.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/my-notes">my-notes</a></td><td>0</td><td>Go</td><td>Keeping notes while learning stuff (so they don't get lost) These notes are best viewed in vim - meaning in a fixed font with text wrapping)</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/phpexercise">phpexercise</a></td><td>0</td><td>JavaScript</td><td>Run php server localy to show web ui that allows to run docker commands.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/printb">printb</a></td><td>0</td><td>Python</td><td>Adds bidi aware 'print' and 'input' functions.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/scriptrunner-operator">scriptrunner-operator</a></td><td>0</td><td>Go</td><td>k8s operator that runs python scripts.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/vimcrypt">vimcrypt</a></td><td>0</td><td>Vim script</td><td>my vim plugin for encrypting/decryting text files with openssl</td></tr>
@@ -117,6 +120,8 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 495 </th></tr>
 </table>
 <br>
+old_date:  2022-10-16 01:15:07.717687 now: 2022-10-27 01:02:07.422368
+phpexercise new project. stars: 0
     </pre>
   </td>
 </table>
