@@ -1,23 +1,22 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Thu Oct 27 01:01:55 UTC 2022
+Fri Oct 28 01:06:30 UTC 2022
 
 <pre>
 
- _________________________________________
-/ When I reflect upon the number of       \
-| disagreeable people who I know who have |
-| gone to a better world, I am moved to   |
-| lead a different life.                  |
-|                                         |
-| -- Mark Twain, "Pudd'nhead Wilson's     |
-\ Calendar"                               /
- -----------------------------------------
+ _______________________________________
+/ The difference between the right word \
+| and the almost right word is the      |
+| difference between lightning and the  |
+| lightning bug.                        |
+|                                       |
+\ -- Mark Twain                         /
+ ---------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
              -- ||----w |
                 ||     ||
-nltk score: 13 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
@@ -120,8 +119,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 495 </th></tr>
 </table>
 <br>
-old_date:  2022-10-16 01:15:07.717687 now: 2022-10-27 01:02:07.422368
-phpexercise new project. stars: 0
     </pre>
   </td>
 </table>
