@@ -1,23 +1,21 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Tue Nov  1 01:13:21 UTC 2022
+Wed Nov  2 01:06:20 UTC 2022
 
 <pre>
 
- ____________________________________
-/ Q: What do you call a blind        \
-| pre-historic animal? A:            |
-| Diyathinkhesaurus.                 |
-|                                    |
-| Q: What do you call a blind        |
-| pre-historic animal with a dog? A: |
-\ Diyathinkhesaurus Rex.             /
- ------------------------------------
+ _________________________________________
+/ Fame is a vapor; popularity an          \
+| accident; the only earthly certainty is |
+| oblivion.                               |
+|                                         |
+\ -- Mark Twain                           /
+ -----------------------------------------
         \   ^__^
-         \  (~~)\_______
+         \  (OO)\_______
             (__)\       )\/\
-             :( ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: -70 '(from -100..100) state: 'very bad' eye: ~~ tongue: :(
+nltk score: 60 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
