@@ -20,9 +20,8 @@ Views:
 	Referrers:
 		Count: 23 Unique: 2 Url: github.com
 
-repo: pyasmtool views: total: 52 unique:  26
+repo: pyasmtool views: total: 54 unique:  27
 Views:
-	 2022-10-23 00:00:00 total: 2 unique: 2
 	 2022-10-24 00:00:00 total: 1 unique: 1
 	 2022-10-25 00:00:00 total: 4 unique: 2
 	 2022-10-26 00:00:00 total: 4 unique: 2
@@ -36,6 +35,7 @@ Views:
 	 2022-11-03 00:00:00 total: 2 unique: 2
 	 2022-11-04 00:00:00 total: 5 unique: 3
 	 2022-11-05 00:00:00 total: 1 unique: 1
+	 2022-11-06 00:00:00 total: 4 unique: 3
 	Referrers:
 		Count: 12 Unique: 7 Url: Google
 		Count: 10 Unique: 1 Url: reddit.com
@@ -43,7 +43,7 @@ Views:
 		Count: 3 Unique: 3 Url: news.ycombinator.com
 		Count: 1 Unique: 1 Url: Bing
 
-repo: s9k views: total: 36 unique:  8
+repo: s9k views: total: 38 unique:  10
 Views:
 	 2022-10-24 00:00:00 total: 3 unique: 2
 	 2022-10-29 00:00:00 total: 2 unique: 2
@@ -52,9 +52,26 @@ Views:
 	 2022-11-01 00:00:00 total: 3 unique: 2
 	 2022-11-03 00:00:00 total: 2 unique: 2
 	 2022-11-04 00:00:00 total: 1 unique: 1
+	 2022-11-06 00:00:00 total: 2 unique: 2
 	Referrers:
 		Count: 18 Unique: 2 Url: github.com
 		Count: 4 Unique: 4 Url: Google
+
+repo: python-obj-system views: total: 23 unique:  12
+Views:
+	 2022-10-24 00:00:00 total: 1 unique: 1
+	 2022-10-25 00:00:00 total: 5 unique: 1
+	 2022-10-27 00:00:00 total: 1 unique: 1
+	 2022-10-28 00:00:00 total: 3 unique: 1
+	 2022-10-29 00:00:00 total: 4 unique: 2
+	 2022-10-30 00:00:00 total: 1 unique: 1
+	 2022-11-03 00:00:00 total: 4 unique: 2
+	 2022-11-05 00:00:00 total: 1 unique: 1
+	 2022-11-06 00:00:00 total: 3 unique: 2
+	Referrers:
+		Count: 12 Unique: 4 Url: github.com
+		Count: 3 Unique: 1 Url: reddit.com
+		Count: 1 Unique: 1 Url: news.ycombinator.com
 
 repo: my-notes views: total: 21 unique:  2
 Views:
@@ -64,22 +81,6 @@ Views:
 	 2022-11-01 00:00:00 total: 6 unique: 2
 	Referrers:
 		Count: 13 Unique: 2 Url: github.com
-
-repo: python-obj-system views: total: 21 unique:  11
-Views:
-	 2022-10-23 00:00:00 total: 1 unique: 1
-	 2022-10-24 00:00:00 total: 1 unique: 1
-	 2022-10-25 00:00:00 total: 5 unique: 1
-	 2022-10-27 00:00:00 total: 1 unique: 1
-	 2022-10-28 00:00:00 total: 3 unique: 1
-	 2022-10-29 00:00:00 total: 4 unique: 2
-	 2022-10-30 00:00:00 total: 1 unique: 1
-	 2022-11-03 00:00:00 total: 4 unique: 2
-	 2022-11-05 00:00:00 total: 1 unique: 1
-	Referrers:
-		Count: 13 Unique: 5 Url: github.com
-		Count: 3 Unique: 1 Url: reddit.com
-		Count: 1 Unique: 1 Url: news.ycombinator.com
 
 repo: cppcombinator views: total: 14 unique:  8
 Views:
@@ -133,32 +134,36 @@ Views:
 	Referrers:
 		Count: 10 Unique: 1 Url: Google
 
-repo: cstuff views: total: 8 unique:  5
-Views:
-	 2022-10-23 00:00:00 total: 4 unique: 2
-	 2022-10-24 00:00:00 total: 1 unique: 1
-	 2022-11-04 00:00:00 total: 3 unique: 2
-	Referrers:
-		Count: 3 Unique: 2 Url: github.com
-		Count: 1 Unique: 1 Url: Google
-
 repo: grpc-spring-boot-starter-utils views: total: 8 unique:  1
 Views:
 	 2022-11-01 00:00:00 total: 8 unique: 1
 	Referrers:
 		Count: 8 Unique: 1 Url: github.com
 
-repo: MoserMichael views: total: 5 unique:  1
+repo: MoserMichael views: total: 6 unique:  1
 Views:
 	 2022-10-30 00:00:00 total: 3 unique: 1
 	 2022-10-31 00:00:00 total: 1 unique: 1
 	 2022-11-04 00:00:00 total: 1 unique: 1
+	 2022-11-06 00:00:00 total: 1 unique: 1
 	Referrers:
 		Count: 5 Unique: 1 Url: github.com
 
-repo: myenv views: total: 5 unique:  3
+repo: rzgrep views: total: 5 unique:  3
 Views:
-	 2022-10-23 00:00:00 total: 1 unique: 1
+	 2022-10-26 00:00:00 total: 3 unique: 1
+	 2022-10-28 00:00:00 total: 1 unique: 1
+	 2022-11-06 00:00:00 total: 1 unique: 1
+
+repo: cstuff views: total: 4 unique:  3
+Views:
+	 2022-10-24 00:00:00 total: 1 unique: 1
+	 2022-11-04 00:00:00 total: 3 unique: 2
+	Referrers:
+		Count: 3 Unique: 2 Url: github.com
+
+repo: myenv views: total: 4 unique:  2
+Views:
 	 2022-10-25 00:00:00 total: 1 unique: 1
 	 2022-10-26 00:00:00 total: 1 unique: 1
 	 2022-10-28 00:00:00 total: 1 unique: 1
@@ -166,11 +171,6 @@ Views:
 	Referrers:
 		Count: 3 Unique: 1 Url: github.com
 		Count: 1 Unique: 1 Url: Google
-
-repo: rzgrep views: total: 4 unique:  2
-Views:
-	 2022-10-26 00:00:00 total: 3 unique: 1
-	 2022-10-28 00:00:00 total: 1 unique: 1
 
 repo: teach-your-children-well views: total: 4 unique:  2
 Views:
@@ -216,6 +216,8 @@ Views:
 repo: opinionated-fortune-cow views: total: 1 unique:  1
 Views:
 	 2022-11-05 00:00:00 total: 1 unique: 1
+	Referrers:
+		Count: 1 Unique: 1 Url: Google
 
 repo: pythonimportplayground views: total: 1 unique:  1
 Views:
@@ -265,4 +267,4 @@ repo: subb views: total: 0 unique:  0
 
 
 ***
-Total views: 296
+Total views: 299
