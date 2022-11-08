@@ -1,23 +1,27 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Mon Nov  7 00:57:13 UTC 2022
+Tue Nov  8 00:57:34 UTC 2022
 
 <pre>
 
- _________________________________________
-/ "I understand this is your first dead   \
-| client," Sabian was saying. The         |
-| absurdity of the statement made me want |
-| to laugh but they don't call me Deadpan |
-| Allie and lie.                          |
-|                                         |
-\ -- Pat Cadigan, "Mindplayers"           /
- -----------------------------------------
+ ________________________________________
+/ Unless hours were cups of sack, and    \
+| minutes capons, and clocks the tongues |
+| of bawds, and dials the signs of       |
+| leaping houses, and the blessed sun    |
+| himself a fair, hot wench in           |
+| flame-colored taffeta, I see no reason |
+| why thou shouldst be so superfluous to |
+| demand the time of the day. I wasted   |
+| time and now doth time waste me.       |
+|                                        |
+\ -- William Shakespeare                 /
+ ----------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (!!)\_______
             (__)\       )\/\
-             -- ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: -5 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: -41 '(from -100..100) state: 'bad' eye: !! tongue: :(
 
 </pre>
 
