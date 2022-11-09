@@ -18,11 +18,10 @@ Views:
 	 2022-11-03 00:00:00 total: 4 unique: 2
 	 2022-11-04 00:00:00 total: 2 unique: 1
 	Referrers:
-		Count: 23 Unique: 2 Url: github.com
+		Count: 14 Unique: 2 Url: github.com
 
-repo: pyasmtool views: total: 56 unique:  29
+repo: pyasmtool views: total: 53 unique:  28
 Views:
-	 2022-10-25 00:00:00 total: 4 unique: 2
 	 2022-10-26 00:00:00 total: 4 unique: 2
 	 2022-10-27 00:00:00 total: 3 unique: 2
 	 2022-10-28 00:00:00 total: 3 unique: 1
@@ -36,15 +35,16 @@ Views:
 	 2022-11-05 00:00:00 total: 1 unique: 1
 	 2022-11-06 00:00:00 total: 4 unique: 3
 	 2022-11-07 00:00:00 total: 3 unique: 3
+	 2022-11-08 00:00:00 total: 1 unique: 1
 	Referrers:
 		Count: 12 Unique: 7 Url: Google
-		Count: 10 Unique: 1 Url: reddit.com
-		Count: 8 Unique: 5 Url: github.com
+		Count: 11 Unique: 2 Url: reddit.com
+		Count: 7 Unique: 5 Url: github.com
 		Count: 3 Unique: 3 Url: news.ycombinator.com
 		Count: 2 Unique: 1 Url: hn.algolia.com
 		Count: 1 Unique: 1 Url: Bing
 
-repo: s9k views: total: 39 unique:  10
+repo: s9k views: total: 47 unique:  12
 Views:
 	 2022-10-29 00:00:00 total: 2 unique: 2
 	 2022-10-30 00:00:00 total: 11 unique: 2
@@ -54,13 +54,23 @@ Views:
 	 2022-11-04 00:00:00 total: 1 unique: 1
 	 2022-11-06 00:00:00 total: 2 unique: 2
 	 2022-11-07 00:00:00 total: 4 unique: 3
+	 2022-11-08 00:00:00 total: 8 unique: 2
 	Referrers:
-		Count: 19 Unique: 3 Url: github.com
-		Count: 5 Unique: 5 Url: Google
+		Count: 20 Unique: 4 Url: github.com
+		Count: 6 Unique: 6 Url: Google
 
-repo: python-obj-system views: total: 23 unique:  11
+repo: my-notes views: total: 28 unique:  2
 Views:
-	 2022-10-25 00:00:00 total: 5 unique: 1
+	 2022-10-26 00:00:00 total: 8 unique: 1
+	 2022-10-28 00:00:00 total: 5 unique: 1
+	 2022-10-30 00:00:00 total: 2 unique: 1
+	 2022-11-01 00:00:00 total: 6 unique: 2
+	 2022-11-08 00:00:00 total: 7 unique: 1
+	Referrers:
+		Count: 13 Unique: 2 Url: github.com
+
+repo: python-obj-system views: total: 19 unique:  11
+Views:
 	 2022-10-27 00:00:00 total: 1 unique: 1
 	 2022-10-28 00:00:00 total: 3 unique: 1
 	 2022-10-29 00:00:00 total: 4 unique: 2
@@ -69,30 +79,25 @@ Views:
 	 2022-11-05 00:00:00 total: 1 unique: 1
 	 2022-11-06 00:00:00 total: 3 unique: 2
 	 2022-11-07 00:00:00 total: 1 unique: 1
+	 2022-11-08 00:00:00 total: 1 unique: 1
 	Referrers:
-		Count: 10 Unique: 5 Url: github.com
+		Count: 11 Unique: 5 Url: github.com
 		Count: 3 Unique: 1 Url: reddit.com
 		Count: 1 Unique: 1 Url: news.ycombinator.com
 
-repo: my-notes views: total: 21 unique:  2
+repo: kwchecker views: total: 14 unique:  1
 Views:
-	 2022-10-26 00:00:00 total: 8 unique: 1
-	 2022-10-28 00:00:00 total: 5 unique: 1
-	 2022-10-30 00:00:00 total: 2 unique: 1
-	 2022-11-01 00:00:00 total: 6 unique: 2
-	Referrers:
-		Count: 13 Unique: 2 Url: github.com
+	 2022-11-08 00:00:00 total: 14 unique: 1
 
-repo: cppcombinator views: total: 14 unique:  8
+repo: cppcombinator views: total: 13 unique:  7
 Views:
-	 2022-10-25 00:00:00 total: 1 unique: 1
 	 2022-10-26 00:00:00 total: 1 unique: 1
 	 2022-10-27 00:00:00 total: 1 unique: 1
 	 2022-10-29 00:00:00 total: 5 unique: 2
 	 2022-10-31 00:00:00 total: 5 unique: 2
 	 2022-11-04 00:00:00 total: 1 unique: 1
 	Referrers:
-		Count: 12 Unique: 6 Url: github.com
+		Count: 11 Unique: 5 Url: github.com
 		Count: 1 Unique: 1 Url: Google
 
 repo: pygamewrap views: total: 13 unique:  7
@@ -103,11 +108,30 @@ Views:
 	 2022-11-03 00:00:00 total: 1 unique: 1
 	 2022-11-07 00:00:00 total: 1 unique: 1
 	Referrers:
-		Count: 11 Unique: 5 Url: Google
+		Count: 8 Unique: 4 Url: Google
 
-repo: zipit views: total: 12 unique:  8
+repo: duckduckbang views: total: 11 unique:  6
 Views:
-	 2022-10-25 00:00:00 total: 2 unique: 2
+	 2022-10-26 00:00:00 total: 5 unique: 2
+	 2022-10-27 00:00:00 total: 1 unique: 1
+	 2022-10-31 00:00:00 total: 1 unique: 1
+	 2022-11-01 00:00:00 total: 1 unique: 1
+	 2022-11-03 00:00:00 total: 1 unique: 1
+	 2022-11-04 00:00:00 total: 1 unique: 1
+	 2022-11-08 00:00:00 total: 1 unique: 1
+	Referrers:
+		Count: 2 Unique: 1 Url: news.ycombinator.com
+		Count: 1 Unique: 1 Url: Google
+		Count: 1 Unique: 1 Url: github.com
+
+repo: jpa-enc-converter views: total: 10 unique:  1
+Views:
+	 2022-11-01 00:00:00 total: 10 unique: 1
+	Referrers:
+		Count: 10 Unique: 1 Url: Google
+
+repo: zipit views: total: 10 unique:  6
+Views:
 	 2022-10-26 00:00:00 total: 1 unique: 1
 	 2022-10-27 00:00:00 total: 1 unique: 1
 	 2022-10-29 00:00:00 total: 5 unique: 1
@@ -116,25 +140,6 @@ Views:
 	 2022-11-07 00:00:00 total: 1 unique: 1
 	Referrers:
 		Count: 9 Unique: 5 Url: Google
-
-repo: duckduckbang views: total: 10 unique:  5
-Views:
-	 2022-10-26 00:00:00 total: 5 unique: 2
-	 2022-10-27 00:00:00 total: 1 unique: 1
-	 2022-10-31 00:00:00 total: 1 unique: 1
-	 2022-11-01 00:00:00 total: 1 unique: 1
-	 2022-11-03 00:00:00 total: 1 unique: 1
-	 2022-11-04 00:00:00 total: 1 unique: 1
-	Referrers:
-		Count: 4 Unique: 2 Url: Google
-		Count: 2 Unique: 1 Url: news.ycombinator.com
-		Count: 1 Unique: 1 Url: github.com
-
-repo: jpa-enc-converter views: total: 10 unique:  1
-Views:
-	 2022-11-01 00:00:00 total: 10 unique: 1
-	Referrers:
-		Count: 10 Unique: 1 Url: Google
 
 repo: grpc-spring-boot-starter-utils views: total: 8 unique:  1
 Views:
@@ -150,7 +155,7 @@ Views:
 	 2022-11-06 00:00:00 total: 1 unique: 1
 	 2022-11-07 00:00:00 total: 1 unique: 1
 	Referrers:
-		Count: 6 Unique: 1 Url: github.com
+		Count: 7 Unique: 1 Url: github.com
 
 repo: rzgrep views: total: 5 unique:  3
 Views:
@@ -160,15 +165,16 @@ Views:
 	Referrers:
 		Count: 1 Unique: 1 Url: medium.com
 
-repo: myenv views: total: 4 unique:  2
+repo: cstuff views: total: 4 unique:  3
 Views:
-	 2022-10-25 00:00:00 total: 1 unique: 1
-	 2022-10-26 00:00:00 total: 1 unique: 1
-	 2022-10-28 00:00:00 total: 1 unique: 1
-	 2022-11-02 00:00:00 total: 1 unique: 1
+	 2022-11-04 00:00:00 total: 3 unique: 2
+	 2022-11-08 00:00:00 total: 1 unique: 1
 	Referrers:
-		Count: 2 Unique: 1 Url: github.com
-		Count: 1 Unique: 1 Url: Google
+		Count: 3 Unique: 2 Url: github.com
+
+repo: subb views: total: 4 unique:  1
+Views:
+	 2022-11-08 00:00:00 total: 4 unique: 1
 
 repo: teach-your-children-well views: total: 4 unique:  2
 Views:
@@ -185,18 +191,22 @@ Views:
 	 2022-11-07 00:00:00 total: 1 unique: 1
 	Referrers:
 		Count: 1 Unique: 1 Url: colab.research.google.com
-
-repo: cstuff views: total: 3 unique:  2
-Views:
-	 2022-11-04 00:00:00 total: 3 unique: 2
-	Referrers:
-		Count: 3 Unique: 2 Url: github.com
+		Count: 1 Unique: 1 Url: Google
 
 repo: jq-illustrated views: total: 3 unique:  2
 Views:
 	 2022-10-26 00:00:00 total: 1 unique: 1
 	 2022-10-28 00:00:00 total: 2 unique: 1
 	Referrers:
+		Count: 1 Unique: 1 Url: github.com
+
+repo: myenv views: total: 3 unique:  2
+Views:
+	 2022-10-26 00:00:00 total: 1 unique: 1
+	 2022-10-28 00:00:00 total: 1 unique: 1
+	 2022-11-02 00:00:00 total: 1 unique: 1
+	Referrers:
+		Count: 1 Unique: 1 Url: Google
 		Count: 1 Unique: 1 Url: github.com
 
 repo: gitblame views: total: 2 unique:  2
@@ -234,10 +244,6 @@ Views:
 	Referrers:
 		Count: 1 Unique: 1 Url: Google
 
-repo: vimcrypt2 views: total: 1 unique:  1
-Views:
-	 2022-10-25 00:00:00 total: 1 unique: 1
-
 repo: bloxroutehomework views: total: 0 unique:  0
 
 repo: flagged-hn views: total: 0 unique:  0
@@ -252,8 +258,6 @@ repo: k8explain views: total: 0 unique:  0
 
 repo: kind-helper views: total: 0 unique:  0
 
-repo: kwchecker views: total: 0 unique:  0
-
 repo: microsofthomework views: total: 0 unique:  0
 
 repo: pprintex views: total: 0 unique:  0
@@ -266,8 +270,8 @@ repo: roget-thesaurus-parser views: total: 0 unique:  0
 
 repo: scriptrunner-operator views: total: 0 unique:  0
 
-repo: subb views: total: 0 unique:  0
+repo: vimcrypt2 views: total: 0 unique:  0
 
 
 ***
-Total views: 304
+Total views: 327
