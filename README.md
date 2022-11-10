@@ -1,12 +1,16 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Wed Nov  9 00:58:24 UTC 2022
+Thu Nov 10 00:59:32 UTC 2022
 
 <pre>
 
- ________________________________
-/ It was all so different before \
-\ everything changed.            /
- --------------------------------
+ _______________________________________
+/ Q: Minnesotans ask, "Why aren't there \
+| more pharmacists from Alabama?" A:    |
+| Easy. It's because they can't figure  |
+| out how to get the little             |
+|                                       |
+\ bottles into the typewriter.          /
+ ---------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
