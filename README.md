@@ -1,20 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sun Nov 13 00:56:29 UTC 2022
+Mon Nov 14 00:56:08 UTC 2022
 
 <pre>
 
- ________________________________________
-/ FORTUNE PROVIDES QUESTIONS FOR THE     \
-| GREAT ANSWERS: #4 A: Go west, young    |
-| man, go west! Q: What do wabbits do    |
-\ when they get tiwed of wunning awound? /
- ----------------------------------------
+ __________________________________
+/ You are going to have a new love \
+\ affair.                          /
+ ----------------------------------
         \   ^__^
          \  (OO)\_______
             (__)\       )\/\
              :) ||----w |
                 ||     ||
-nltk score: 66 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: 64 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
