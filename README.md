@@ -1,22 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Tue Nov 15 00:56:01 UTC 2022
+Wed Nov 16 00:56:32 UTC 2022
 
 <pre>
 
- ________________________________________
-/ A classic is something that everyone   \
-| wants to have read and nobody wants to |
-| read.                                  |
-|                                        |
-| -- Mark Twain, "The Disappearance of   |
-\ Literature"                            /
- ----------------------------------------
+ ___________________________________
+/ Life is to you a dashing and bold \
+\ adventure.                        /
+ -----------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (OO)\_______
             (__)\       )\/\
-             -- ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 60 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
