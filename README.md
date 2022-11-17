@@ -1,18 +1,29 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Wed Nov 16 00:56:32 UTC 2022
+Thu Nov 17 00:55:43 UTC 2022
 
 <pre>
 
- ___________________________________
-/ Life is to you a dashing and bold \
-\ adventure.                        /
- -----------------------------------
+ _________________________________________
+/ There are three infallible ways of      \
+| pleasing an author, and the three form  |
+| a rising scale of compliment: 1, to     |
+| tell him you have read one of his       |
+| books; 2, to tell him you have read all |
+| of his books; 3, to ask him to let you  |
+| read the manuscript of his forthcoming  |
+| book. No. 1 admits you to his respect;  |
+| No. 2 admits you to his admiration; No. |
+| 3 carries you clear into his heart.     |
+|                                         |
+| -- Mark Twain, "Pudd'nhead Wilson's     |
+\ Calendar"                               /
+ -----------------------------------------
         \   ^__^
          \  (OO)\_______
             (__)\       )\/\
              :) ||----w |
                 ||     ||
-nltk score: 60 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: 93 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
@@ -79,7 +90,7 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/cppcombinator">cppcombinator</a></td><td>22</td><td>C++</td><td>parser  combinator and AST generator in c++17</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/jq-illustrated">jq-illustrated</a></td><td>21</td><td>Shell</td><td>illustrated tutorial of jq (and the scripts that create it)</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/s9k">s9k</a></td><td>14</td><td>Python</td><td>web server/web UI for managing kubernetes clusters, with similar functionality as k9s</td></tr>
-<tr><td><a href="https://github.com/MoserMichael/cstuff">cstuff</a></td><td>12</td><td>C</td><td>My C projects and old homepage:</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/cstuff">cstuff</a></td><td>13</td><td>C</td><td>My C projects and old homepage:</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/ls-annotations">ls-annotations</a></td><td>6</td><td>Java</td><td>Show all declarations with java annotations by decompiling byte code.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/pythonimportplayground">pythonimportplayground</a></td><td>5</td><td>Python</td><td>the readme file explains python packages, with examples.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/rzgrep">rzgrep</a></td><td>5</td><td>Go</td><td>grep utility that searches through zip,jar,ear,tgz,bz2 in any form of nesting; it can also decompile class files</td></tr>
@@ -112,9 +123,11 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/vimcrypt2">vimcrypt2</a></td><td>0</td><td>Vim script</td><td>Advanced vim plugin to encrypt files with openssl</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/visual-python-strace">visual-python-strace</a></td><td>0</td><td>Python</td><td>show a very long stack trace with variable values.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/zipit">zipit</a></td><td>0</td><td>C++</td><td>c++ library for the equivalent of python/haskell zip function</td></tr>
-<tr><th>Total stars:</th><th colspan='2' align='left'> 498 </th></tr>
+<tr><th>Total stars:</th><th colspan='2' align='left'> 499 </th></tr>
 </table>
 <br>
+old_date:  2022-11-05 01:00:57.547058 now: 2022-11-17 00:55:54.921268
+cstuff stars changed from: 12 to: 13
     </pre>
   </td>
 </table>
