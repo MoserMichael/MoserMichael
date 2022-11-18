@@ -9,7 +9,6 @@ Traffic report for user Michael Moser
 
 repo: pyasmtool views: total: 42 unique:  28
 Views:
-	 2022-11-03 00:00:00 total: 2 unique: 2
 	 2022-11-04 00:00:00 total: 5 unique: 3
 	 2022-11-05 00:00:00 total: 1 unique: 1
 	 2022-11-06 00:00:00 total: 4 unique: 3
@@ -21,16 +20,16 @@ Views:
 	 2022-11-12 00:00:00 total: 4 unique: 4
 	 2022-11-13 00:00:00 total: 7 unique: 3
 	 2022-11-15 00:00:00 total: 2 unique: 1
+	 2022-11-17 00:00:00 total: 2 unique: 2
 	Referrers:
 		Count: 12 Unique: 7 Url: github.com
-		Count: 6 Unique: 5 Url: news.ycombinator.com
-		Count: 6 Unique: 4 Url: Google
+		Count: 5 Unique: 4 Url: news.ycombinator.com
+		Count: 2 Unique: 2 Url: Google
 		Count: 2 Unique: 1 Url: hn.algolia.com
 		Count: 1 Unique: 1 Url: reddit.com
 
-repo: phpexercise views: total: 38 unique:  2
+repo: phpexercise views: total: 35 unique:  2
 Views:
-	 2022-11-03 00:00:00 total: 4 unique: 2
 	 2022-11-04 00:00:00 total: 2 unique: 1
 	 2022-11-09 00:00:00 total: 1 unique: 1
 	 2022-11-10 00:00:00 total: 1 unique: 1
@@ -38,22 +37,9 @@ Views:
 	 2022-11-13 00:00:00 total: 2 unique: 1
 	 2022-11-14 00:00:00 total: 5 unique: 2
 	 2022-11-15 00:00:00 total: 22 unique: 2
+	 2022-11-17 00:00:00 total: 1 unique: 1
 	Referrers:
-		Count: 33 Unique: 2 Url: github.com
-
-repo: python-obj-system views: total: 31 unique:  11
-Views:
-	 2022-11-03 00:00:00 total: 4 unique: 2
-	 2022-11-05 00:00:00 total: 1 unique: 1
-	 2022-11-06 00:00:00 total: 3 unique: 2
-	 2022-11-07 00:00:00 total: 1 unique: 1
-	 2022-11-08 00:00:00 total: 1 unique: 1
-	 2022-11-13 00:00:00 total: 7 unique: 2
-	 2022-11-14 00:00:00 total: 10 unique: 2
-	 2022-11-15 00:00:00 total: 4 unique: 2
-	Referrers:
-		Count: 14 Unique: 5 Url: github.com
-		Count: 1 Unique: 1 Url: Google
+		Count: 31 Unique: 2 Url: github.com
 
 repo: my-notes views: total: 28 unique:  7
 Views:
@@ -63,10 +49,24 @@ Views:
 	 2022-11-16 00:00:00 total: 2 unique: 2
 	Referrers:
 		Count: 19 Unique: 5 Url: github.com
+		Count: 1 Unique: 1 Url: Google
 
-repo: s9k views: total: 19 unique:  12
+repo: python-obj-system views: total: 28 unique:  10
 Views:
-	 2022-11-03 00:00:00 total: 2 unique: 2
+	 2022-11-05 00:00:00 total: 1 unique: 1
+	 2022-11-06 00:00:00 total: 3 unique: 2
+	 2022-11-07 00:00:00 total: 1 unique: 1
+	 2022-11-08 00:00:00 total: 1 unique: 1
+	 2022-11-13 00:00:00 total: 7 unique: 2
+	 2022-11-14 00:00:00 total: 10 unique: 2
+	 2022-11-15 00:00:00 total: 4 unique: 2
+	 2022-11-17 00:00:00 total: 1 unique: 1
+	Referrers:
+		Count: 14 Unique: 5 Url: github.com
+		Count: 1 Unique: 1 Url: Google
+
+repo: s9k views: total: 17 unique:  10
+Views:
 	 2022-11-04 00:00:00 total: 1 unique: 1
 	 2022-11-06 00:00:00 total: 2 unique: 2
 	 2022-11-07 00:00:00 total: 4 unique: 3
@@ -74,7 +74,7 @@ Views:
 	 2022-11-09 00:00:00 total: 1 unique: 1
 	 2022-11-15 00:00:00 total: 1 unique: 1
 	Referrers:
-		Count: 8 Unique: 4 Url: Google
+		Count: 7 Unique: 3 Url: Google
 		Count: 4 Unique: 4 Url: github.com
 
 repo: kwchecker views: total: 15 unique:  2
@@ -82,18 +82,18 @@ Views:
 	 2022-11-08 00:00:00 total: 14 unique: 1
 	 2022-11-16 00:00:00 total: 1 unique: 1
 	Referrers:
-		Count: 5 Unique: 1 Url: github.com
+		Count: 6 Unique: 2 Url: github.com
 
-repo: cstuff views: total: 14 unique:  8
+repo: cstuff views: total: 12 unique:  7
 Views:
-	 2022-11-04 00:00:00 total: 3 unique: 2
+	 2022-11-04 00:00:00 total: 1 unique: 1
 	 2022-11-08 00:00:00 total: 1 unique: 1
 	 2022-11-10 00:00:00 total: 2 unique: 1
 	 2022-11-12 00:00:00 total: 2 unique: 1
 	 2022-11-16 00:00:00 total: 6 unique: 3
 	Referrers:
+		Count: 5 Unique: 3 Url: mosermichael.github.io
 		Count: 3 Unique: 2 Url: github.com
-		Count: 2 Unique: 1 Url: mosermichael.github.io
 		Count: 1 Unique: 1 Url: Google
 
 repo: grpc-spring-boot-starter-utils views: total: 8 unique:  3
@@ -102,7 +102,7 @@ Views:
 	 2022-11-15 00:00:00 total: 1 unique: 1
 	 2022-11-16 00:00:00 total: 6 unique: 1
 	Referrers:
-		Count: 1 Unique: 1 Url: github.com
+		Count: 7 Unique: 2 Url: github.com
 		Count: 1 Unique: 1 Url: yandex.ru
 
 repo: vimcrypt2 views: total: 8 unique:  1
@@ -111,17 +111,6 @@ Views:
 	 2022-11-15 00:00:00 total: 3 unique: 1
 	 2022-11-16 00:00:00 total: 3 unique: 1
 	Referrers:
-		Count: 1 Unique: 1 Url: Google
-
-repo: duckduckbang views: total: 6 unique:  4
-Views:
-	 2022-11-03 00:00:00 total: 1 unique: 1
-	 2022-11-04 00:00:00 total: 1 unique: 1
-	 2022-11-08 00:00:00 total: 1 unique: 1
-	 2022-11-10 00:00:00 total: 2 unique: 1
-	 2022-11-13 00:00:00 total: 1 unique: 1
-	Referrers:
-		Count: 4 Unique: 3 Url: github.com
 		Count: 1 Unique: 1 Url: Google
 
 repo: MoserMichael views: total: 6 unique:  2
@@ -133,22 +122,33 @@ Views:
 	 2022-11-11 00:00:00 total: 1 unique: 1
 	 2022-11-15 00:00:00 total: 1 unique: 1
 	Referrers:
-		Count: 6 Unique: 2 Url: github.com
+		Count: 5 Unique: 2 Url: github.com
+
+repo: cppcombinator views: total: 5 unique:  5
+Views:
+	 2022-11-04 00:00:00 total: 1 unique: 1
+	 2022-11-11 00:00:00 total: 1 unique: 1
+	 2022-11-15 00:00:00 total: 1 unique: 1
+	 2022-11-16 00:00:00 total: 1 unique: 1
+	 2022-11-17 00:00:00 total: 1 unique: 1
+	Referrers:
+		Count: 2 Unique: 2 Url: github.com
+
+repo: duckduckbang views: total: 5 unique:  3
+Views:
+	 2022-11-04 00:00:00 total: 1 unique: 1
+	 2022-11-08 00:00:00 total: 1 unique: 1
+	 2022-11-10 00:00:00 total: 2 unique: 1
+	 2022-11-13 00:00:00 total: 1 unique: 1
+	Referrers:
+		Count: 3 Unique: 2 Url: github.com
+		Count: 1 Unique: 1 Url: Google
 
 repo: gitblame views: total: 5 unique:  1
 Views:
 	 2022-11-12 00:00:00 total: 5 unique: 1
 	Referrers:
 		Count: 3 Unique: 1 Url: cn.bing.com
-
-repo: cppcombinator views: total: 4 unique:  4
-Views:
-	 2022-11-04 00:00:00 total: 1 unique: 1
-	 2022-11-11 00:00:00 total: 1 unique: 1
-	 2022-11-15 00:00:00 total: 1 unique: 1
-	 2022-11-16 00:00:00 total: 1 unique: 1
-	Referrers:
-		Count: 2 Unique: 2 Url: github.com
 
 repo: subb views: total: 4 unique:  1
 Views:
@@ -172,11 +172,11 @@ Views:
 		Count: 1 Unique: 1 Url: github.com
 		Count: 1 Unique: 1 Url: news.ycombinator.com
 
-repo: pygamewrap views: total: 3 unique:  3
+repo: pygamewrap views: total: 3 unique:  2
 Views:
-	 2022-11-03 00:00:00 total: 1 unique: 1
 	 2022-11-07 00:00:00 total: 1 unique: 1
 	 2022-11-12 00:00:00 total: 1 unique: 1
+	 2022-11-17 00:00:00 total: 1 unique: 1
 	Referrers:
 		Count: 2 Unique: 2 Url: Google
 
@@ -207,17 +207,10 @@ Views:
 	 2022-11-05 00:00:00 total: 1 unique: 1
 	 2022-11-15 00:00:00 total: 1 unique: 1
 
-repo: visual-python-strace views: total: 2 unique:  2
-Views:
-	 2022-11-03 00:00:00 total: 1 unique: 1
-	 2022-11-07 00:00:00 total: 1 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: Google
-
 repo: zipit views: total: 2 unique:  2
 Views:
-	 2022-11-03 00:00:00 total: 1 unique: 1
 	 2022-11-07 00:00:00 total: 1 unique: 1
+	 2022-11-17 00:00:00 total: 1 unique: 1
 	Referrers:
 		Count: 1 Unique: 1 Url: Google
 
@@ -242,6 +235,12 @@ Views:
 repo: vimcrypt views: total: 1 unique:  1
 Views:
 	 2022-11-12 00:00:00 total: 1 unique: 1
+	Referrers:
+		Count: 1 Unique: 1 Url: Google
+
+repo: visual-python-strace views: total: 1 unique:  1
+Views:
+	 2022-11-07 00:00:00 total: 1 unique: 1
 	Referrers:
 		Count: 1 Unique: 1 Url: Google
 
@@ -273,4 +272,4 @@ repo: scriptrunner-operator views: total: 0 unique:  0
 
 
 ***
-Total views: 255
+Total views: 244
