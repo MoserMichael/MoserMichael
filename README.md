@@ -1,12 +1,11 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Fri Nov 18 00:59:08 UTC 2022
+Sat Nov 19 00:57:00 UTC 2022
 
 <pre>
 
- ___________________________________
-/ Q: How many WASPs does it take to \
-\ change a light bulb? A: One.      /
- -----------------------------------
+ ___________________________
+< Is this really happening? >
+ ---------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
