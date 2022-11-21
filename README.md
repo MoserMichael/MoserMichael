@@ -1,15 +1,13 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sun Nov 20 00:58:34 UTC 2022
+Mon Nov 21 00:56:47 UTC 2022
 
 <pre>
 
  _____________________________________
-/ Q: What do you call 15 blondes in a \
-| circle? A: A dope ring.             |
+/ A kind of Batman of contemporary    \
+| letters.                            |
 |                                     |
-| Q: Why do blondes put their hair in |
-| ponytails? A: To cover up the valve |
-\ stem.                               /
+\ -- Philip Larkin on Anthony Burgess /
  -------------------------------------
         \   ^__^
          \  (..)\_______

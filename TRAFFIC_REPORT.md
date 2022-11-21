@@ -9,7 +9,6 @@ Traffic report for user Michael Moser
 
 repo: pyasmtool views: total: 43 unique:  30
 Views:
-	 2022-11-06 00:00:00 total: 4 unique: 3
 	 2022-11-07 00:00:00 total: 3 unique: 3
 	 2022-11-08 00:00:00 total: 1 unique: 1
 	 2022-11-09 00:00:00 total: 5 unique: 2
@@ -21,14 +20,14 @@ Views:
 	 2022-11-17 00:00:00 total: 2 unique: 2
 	 2022-11-18 00:00:00 total: 3 unique: 3
 	 2022-11-19 00:00:00 total: 4 unique: 2
+	 2022-11-20 00:00:00 total: 4 unique: 3
 	Referrers:
 		Count: 11 Unique: 6 Url: github.com
-		Count: 5 Unique: 5 Url: Google
+		Count: 7 Unique: 6 Url: Google
 		Count: 5 Unique: 4 Url: news.ycombinator.com
 		Count: 1 Unique: 1 Url: cn.bing.com
-		Count: 1 Unique: 1 Url: reddit.com
 
-repo: phpexercise views: total: 34 unique:  2
+repo: phpexercise views: total: 41 unique:  2
 Views:
 	 2022-11-09 00:00:00 total: 1 unique: 1
 	 2022-11-10 00:00:00 total: 1 unique: 1
@@ -38,22 +37,9 @@ Views:
 	 2022-11-15 00:00:00 total: 22 unique: 2
 	 2022-11-17 00:00:00 total: 1 unique: 1
 	 2022-11-19 00:00:00 total: 1 unique: 1
+	 2022-11-20 00:00:00 total: 7 unique: 1
 	Referrers:
 		Count: 32 Unique: 2 Url: github.com
-
-repo: python-obj-system views: total: 29 unique:  10
-Views:
-	 2022-11-06 00:00:00 total: 3 unique: 2
-	 2022-11-07 00:00:00 total: 1 unique: 1
-	 2022-11-08 00:00:00 total: 1 unique: 1
-	 2022-11-13 00:00:00 total: 7 unique: 2
-	 2022-11-14 00:00:00 total: 10 unique: 2
-	 2022-11-15 00:00:00 total: 4 unique: 2
-	 2022-11-17 00:00:00 total: 1 unique: 1
-	 2022-11-19 00:00:00 total: 2 unique: 1
-	Referrers:
-		Count: 12 Unique: 5 Url: github.com
-		Count: 1 Unique: 1 Url: Google
 
 repo: my-notes views: total: 28 unique:  7
 Views:
@@ -65,16 +51,29 @@ Views:
 		Count: 19 Unique: 5 Url: github.com
 		Count: 1 Unique: 1 Url: Google
 
+repo: python-obj-system views: total: 26 unique:  9
+Views:
+	 2022-11-07 00:00:00 total: 1 unique: 1
+	 2022-11-08 00:00:00 total: 1 unique: 1
+	 2022-11-13 00:00:00 total: 7 unique: 2
+	 2022-11-14 00:00:00 total: 10 unique: 2
+	 2022-11-15 00:00:00 total: 4 unique: 2
+	 2022-11-17 00:00:00 total: 1 unique: 1
+	 2022-11-19 00:00:00 total: 2 unique: 1
+	Referrers:
+		Count: 13 Unique: 5 Url: github.com
+		Count: 1 Unique: 1 Url: Google
+
 repo: s9k views: total: 16 unique:  9
 Views:
-	 2022-11-06 00:00:00 total: 2 unique: 2
 	 2022-11-07 00:00:00 total: 4 unique: 3
 	 2022-11-08 00:00:00 total: 8 unique: 2
 	 2022-11-09 00:00:00 total: 1 unique: 1
 	 2022-11-15 00:00:00 total: 1 unique: 1
+	 2022-11-20 00:00:00 total: 2 unique: 2
 	Referrers:
-		Count: 6 Unique: 2 Url: Google
-		Count: 3 Unique: 3 Url: github.com
+		Count: 5 Unique: 1 Url: Google
+		Count: 2 Unique: 2 Url: github.com
 
 repo: kwchecker views: total: 15 unique:  2
 Views:
@@ -120,7 +119,7 @@ Views:
 	 2022-11-17 00:00:00 total: 1 unique: 1
 	 2022-11-19 00:00:00 total: 1 unique: 1
 	Referrers:
-		Count: 3 Unique: 3 Url: github.com
+		Count: 4 Unique: 4 Url: github.com
 
 repo: duckduckbang views: total: 5 unique:  3
 Views:
@@ -131,6 +130,7 @@ Views:
 	Referrers:
 		Count: 3 Unique: 2 Url: github.com
 		Count: 1 Unique: 1 Url: Google
+		Count: 1 Unique: 1 Url: linkedin.com
 
 repo: gitblame views: total: 5 unique:  1
 Views:
@@ -138,15 +138,14 @@ Views:
 	Referrers:
 		Count: 3 Unique: 1 Url: cn.bing.com
 
-repo: MoserMichael views: total: 5 unique:  2
+repo: MoserMichael views: total: 4 unique:  2
 Views:
-	 2022-11-06 00:00:00 total: 1 unique: 1
 	 2022-11-07 00:00:00 total: 1 unique: 1
 	 2022-11-10 00:00:00 total: 1 unique: 1
 	 2022-11-11 00:00:00 total: 1 unique: 1
 	 2022-11-15 00:00:00 total: 1 unique: 1
 	Referrers:
-		Count: 4 Unique: 2 Url: github.com
+		Count: 3 Unique: 2 Url: github.com
 
 repo: subb views: total: 4 unique:  1
 Views:
@@ -176,15 +175,7 @@ Views:
 	 2022-11-12 00:00:00 total: 1 unique: 1
 	 2022-11-17 00:00:00 total: 1 unique: 1
 	Referrers:
-		Count: 3 Unique: 2 Url: Google
-
-repo: rzgrep views: total: 3 unique:  3
-Views:
-	 2022-11-06 00:00:00 total: 1 unique: 1
-	 2022-11-09 00:00:00 total: 1 unique: 1
-	 2022-11-10 00:00:00 total: 1 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: github.com
+		Count: 2 Unique: 1 Url: Google
 
 repo: jq-illustrated views: total: 2 unique:  1
 Views:
@@ -192,12 +183,19 @@ Views:
 	Referrers:
 		Count: 2 Unique: 1 Url: github.com
 
+repo: rzgrep views: total: 2 unique:  2
+Views:
+	 2022-11-09 00:00:00 total: 1 unique: 1
+	 2022-11-10 00:00:00 total: 1 unique: 1
+	Referrers:
+		Count: 1 Unique: 1 Url: github.com
+
 repo: zipit views: total: 2 unique:  2
 Views:
 	 2022-11-07 00:00:00 total: 1 unique: 1
 	 2022-11-17 00:00:00 total: 1 unique: 1
 	Referrers:
-		Count: 2 Unique: 2 Url: Google
+		Count: 1 Unique: 1 Url: Google
 
 repo: flagged-hn views: total: 1 unique:  1
 Views:
@@ -220,6 +218,8 @@ Views:
 repo: printb views: total: 1 unique:  1
 Views:
 	 2022-11-19 00:00:00 total: 1 unique: 1
+	Referrers:
+		Count: 1 Unique: 1 Url: Google
 
 repo: pythoncourse views: total: 1 unique:  1
 Views:
@@ -240,8 +240,6 @@ Views:
 repo: visual-python-strace views: total: 1 unique:  1
 Views:
 	 2022-11-07 00:00:00 total: 1 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: Google
 
 repo: bloxroutehomework views: total: 0 unique:  0
 
@@ -269,4 +267,4 @@ repo: scriptrunner-operator views: total: 0 unique:  0
 
 
 ***
-Total views: 242
+Total views: 244
