@@ -1,14 +1,11 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Mon Nov 21 00:56:47 UTC 2022
+Tue Nov 22 00:58:31 UTC 2022
 
 <pre>
 
- _____________________________________
-/ A kind of Batman of contemporary    \
-| letters.                            |
-|                                     |
-\ -- Philip Larkin on Anthony Burgess /
- -------------------------------------
+ ______________________________
+< There is a fly on your nose. >
+ ------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
