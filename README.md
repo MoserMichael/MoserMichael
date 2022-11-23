@@ -1,11 +1,13 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Tue Nov 22 00:58:31 UTC 2022
+Wed Nov 23 00:50:13 UTC 2022
 
 <pre>
 
- ______________________________
-< There is a fly on your nose. >
- ------------------------------
+ _________________________________________
+/ He hath eaten me out of house and home. \
+|                                         |
+\ -- William Shakespeare, "Henry IV"      /
+ -----------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
