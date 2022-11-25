@@ -1,12 +1,12 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Thu Nov 24 00:55:44 UTC 2022
+Fri Nov 25 00:51:53 UTC 2022
 
 <pre>
 
- ________________________________
-/ Your business will assume vast \
-\ proportions.                   /
- --------------------------------
+ _______________________________________
+/ You will visit the Dung Pits of Glive \
+\ soon.                                 /
+ ---------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
@@ -115,8 +115,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 500 </th></tr>
 </table>
 <br>
-old_date:  2022-11-17 00:55:54.921453 now: 2022-11-24 00:55:56.222030
-roget-thesaurus-parser stars changed from: 2 to: 3
     </pre>
   </td>
 </table>
