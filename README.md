@@ -1,19 +1,32 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sun Nov 27 00:55:03 UTC 2022
+Mon Nov 28 00:48:37 UTC 2022
 
 <pre>
 
  _________________________________________
-/ You will pay for your sins. If you have \
-| already paid, please disregard this     |
-\ message.                                /
+/ In the space of one hundred and         \
+| seventy-six years the Mississippi has   |
+| shortened itself two hundred and        |
+| forty-two miles. Therefore ... in the   |
+| Old Silurian Period the Mississippi     |
+| River was upward of one million three   |
+| hundred thousand miles long ... seven   |
+| hundred and forty-two years from now    |
+| the Mississippi will be only a mile and |
+| three-quarters long. ... There is       |
+| something fascinating about science.    |
+| One gets such wholesome returns of      |
+| conjecture out of such a trifling       |
+| investment of fact.                     |
+|                                         |
+\ -- Mark Twain                           /
  -----------------------------------------
         \   ^__^
-         \  (!!)\_______
+         \  (oo)\_______
             (__)\       )\/\
-             :( ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: -49 '(from -100..100) state: 'bad' eye: !! tongue: :(
+nltk score: 54 '(from -100..100) state: 'good' eye: oo tongue: :)
 
 </pre>
 
@@ -117,8 +130,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 501 </th></tr>
 </table>
 <br>
-old_date:  2022-11-26 00:46:04.232534 now: 2022-11-27 00:55:15.780642
-download-artifacts new project. stars: 0
     </pre>
   </td>
 </table>
