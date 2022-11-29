@@ -1,32 +1,21 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Mon Nov 28 00:48:37 UTC 2022
+Tue Nov 29 00:51:37 UTC 2022
 
 <pre>
 
- _________________________________________
-/ In the space of one hundred and         \
-| seventy-six years the Mississippi has   |
-| shortened itself two hundred and        |
-| forty-two miles. Therefore ... in the   |
-| Old Silurian Period the Mississippi     |
-| River was upward of one million three   |
-| hundred thousand miles long ... seven   |
-| hundred and forty-two years from now    |
-| the Mississippi will be only a mile and |
-| three-quarters long. ... There is       |
-| something fascinating about science.    |
-| One gets such wholesome returns of      |
-| conjecture out of such a trifling       |
-| investment of fact.                     |
-|                                         |
-\ -- Mark Twain                           /
- -----------------------------------------
+ _______________________________________
+/ Don't go around saying the world owes \
+| you a living. The world owes you      |
+| nothing. It was here first.           |
+|                                       |
+\ -- Mark Twain                         /
+ ---------------------------------------
         \   ^__^
-         \  (oo)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :) ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: 54 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
