@@ -1,21 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sun Dec  4 00:48:11 UTC 2022
+Mon Dec  5 00:46:28 UTC 2022
 
 <pre>
 
- _________________________________________
-/ They spell it "da Vinci" and pronounce  \
-| it "da Vinchy". Foreigners always spell |
-| better than they pronounce.             |
-|                                         |
-\ -- Mark Twain                           /
- -----------------------------------------
+ ______________________________________
+/ Your life would be very empty if you \
+\ had nothing to regret.               /
+ --------------------------------------
         \   ^__^
-         \  (oo)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :) ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: 44 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: 6 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
@@ -75,7 +72,7 @@ My stuff here:
         <pre>
 
 <table><tr><th align='left'>Name</th><th align='left'>Stars</th><th align='left'>Language</th><th align='left'>description</th></tr>
-<tr><td><a href="https://github.com/MoserMichael/pyasmtool">pyasmtool</a></td><td>288</td><td>Python</td><td>Explores the python bytecode, provides some tools to access it for fun and profit.</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/pyasmtool">pyasmtool</a></td><td>289</td><td>Python</td><td>Explores the python bytecode, provides some tools to access it for fun and profit.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/python-obj-system">python-obj-system</a></td><td>55</td><td>Python</td><td>Tutorials on advanced python topics, and literate programming framework to write them (see README.md)</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/duckduckbang">duckduckbang</a></td><td>34</td><td>Python</td><td>Meta search page that utilises duckduckgo !bang query operators.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/kind-helper">kind-helper</a></td><td>24</td><td>Python</td><td>Simplifies the creation of practical kubernetes test clusters with the kind utility.</td></tr>
@@ -116,11 +113,11 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/vimcrypt2">vimcrypt2</a></td><td>0</td><td>Vim script</td><td>Advanced vim plugin to encrypt files with openssl</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/visual-python-strace">visual-python-strace</a></td><td>0</td><td>Python</td><td>show a very long stack trace with variable values.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/zipit">zipit</a></td><td>0</td><td>C++</td><td>c++ library for the equivalent of python/haskell zip function</td></tr>
-<tr><th>Total stars:</th><th colspan='2' align='left'> 514 </th></tr>
+<tr><th>Total stars:</th><th colspan='2' align='left'> 515 </th></tr>
 </table>
 <br>
-old_date:  2022-12-03 00:44:20.038099 now: 2022-12-04 00:48:24.971820
-pyasmtool stars changed from: 287 to: 288
+old_date:  2022-12-04 00:48:24.972017 now: 2022-12-05 00:46:43.141683
+pyasmtool stars changed from: 288 to: 289
     </pre>
   </td>
 </table>
