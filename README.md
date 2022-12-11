@@ -1,20 +1,28 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sat Dec 10 00:43:53 UTC 2022
+Sun Dec 11 00:52:42 UTC 2022
 
 <pre>
 
  ________________________________________
-/ Today's weirdness is tomorrow's reason \
-| why.                                   |
+/ The true Southern watermelon is a boon \
+| apart, and not to be mentioned with    |
+| commoner things. It is chief of the    |
+| world's luxuries, king by the grace of |
+| God over all the fruits of the earth.  |
+| When one has tasted it, he knows what  |
+| the angels eat. It was not a Southern  |
+| watermelon that Eve took; we know it   |
+| because she repented.                  |
 |                                        |
-\ -- Hunter S. Thompson                  /
+| -- Mark Twain, "Pudd'nhead Wilson's    |
+\ Calendar"                              /
  ----------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (OO)\_______
             (__)\       )\/\
-             -- ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: -23 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 77 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
@@ -74,7 +82,7 @@ My stuff here:
         <pre>
 
 <table><tr><th align='left'>Name</th><th align='left'>Stars</th><th align='left'>Language</th><th align='left'>description</th></tr>
-<tr><td><a href="https://github.com/MoserMichael/pyasmtool">pyasmtool</a></td><td>295</td><td>Python</td><td>Explores the python bytecode, provides some tools to access it for fun and profit.</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/pyasmtool">pyasmtool</a></td><td>296</td><td>Python</td><td>Explores the python bytecode, provides some tools to access it for fun and profit.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/python-obj-system">python-obj-system</a></td><td>57</td><td>Python</td><td>Tutorials on advanced python topics, and literate programming framework to write them (see README.md)</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/duckduckbang">duckduckbang</a></td><td>34</td><td>Python</td><td>Meta search page that utilises duckduckgo !bang query operators.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/kind-helper">kind-helper</a></td><td>24</td><td>Python</td><td>Simplifies the creation of practical kubernetes test clusters with the kind utility.</td></tr>
@@ -87,18 +95,18 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/rzgrep">rzgrep</a></td><td>5</td><td>Go</td><td>grep utility that searches through zip,jar,ear,tgz,bz2 in any form of nesting; it can also decompile class files</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/myenv">myenv</a></td><td>4</td><td>Shell</td><td>my work environment (so i don't have to search for it ;-)</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/pygamewrap">pygamewrap</a></td><td>4</td><td>Python</td><td>A small wrapper toolkit that simplifies development with the pygame library (hopefully)</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/MoserMichael">MoserMichael</a></td><td>3</td><td>Shell</td><td>some blurb about the owner and his stuff. A script generates README.md, that appears on the public profile. The script is run periodically by github action. (see ABOUT.md)</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/opinionated-fortune-cow">opinionated-fortune-cow</a></td><td>3</td><td>Shell</td><td>fortune | cow pipe that runs sentiment analysis on the fortune cookie, in order to determine the mood and expression of the cow</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/roget-thesaurus-parser">roget-thesaurus-parser</a></td><td>3</td><td>Python</td><td>parses Roget's thesaurus and provide API for querying related words</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/flagged-hn">flagged-hn</a></td><td>2</td><td>Python</td><td>crawl hn and build a page containing flagged stories only.</td></tr>
-<tr><td><a href="https://github.com/MoserMichael/MoserMichael">MoserMichael</a></td><td>2</td><td>Shell</td><td>some blurb about the owner and his stuff. A script generates README.md, that appears on the public profile. The script is run periodically by github action. (see ABOUT.md)</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/pprintex">pprintex</a></td><td>2</td><td>Python</td><td>python pretty printer, unlinke pprint it prints out all object field values.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/pythoncourse">pythoncourse</a></td><td>2</td><td>Python</td><td>my notes on teaching the python programming language.</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/teach-your-children-well">teach-your-children-well</a></td><td>2</td><td>Python</td><td>Telling stories in simple English, so that I have something to tell to my kids during the summer vacation</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/docker-force-attach">docker-force-attach</a></td><td>1</td><td>Shell</td><td>script to attach shell to running docker container - even if there is no shell in the image</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/gitblame">gitblame</a></td><td>1</td><td>Vim Script</td><td>minimal vim plugin for working with git; with a focus on git blame and git grep commands</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/k8explain">k8explain</a></td><td>1</td><td>Go</td><td>golang exercise: produce a table of kubernetes api resources where each row is linked to an explanation</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/microsofthomework">microsofthomework</a></td><td>1</td><td>C++</td><td>Homework assignment at a Microsoft job interview</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/subb">subb</a></td><td>1</td><td>Python</td><td>a wrapper module for python subprocess</td></tr>
-<tr><td><a href="https://github.com/MoserMichael/teach-your-children-well">teach-your-children-well</a></td><td>1</td><td>Python</td><td>Telling stories in simple English, so that I have something to tell to my kids during the summer vacation</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/bloxroutehomework">bloxroutehomework</a></td><td>0</td><td>C++</td><td>assignment for bloxroute interview</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/devgoodies">devgoodies</a></td><td>0</td><td>Vim script</td><td>Vim plugin - useful commands for editing code.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/download-artifacts">download-artifacts</a></td><td>0</td><td>Shell</td><td>bash script for downloading the artifacts of the latest release for a given github repo of a given user.</td></tr>
@@ -117,11 +125,13 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/vimcrypt2">vimcrypt2</a></td><td>0</td><td>Vim script</td><td>Advanced vim plugin to encrypt files with openssl</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/visual-python-strace">visual-python-strace</a></td><td>0</td><td>Python</td><td>show a very long stack trace with variable values.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/zipit">zipit</a></td><td>0</td><td>C++</td><td>c++ library for the equivalent of python/haskell zip function</td></tr>
-<tr><th>Total stars:</th><th colspan='2' align='left'> 524 </th></tr>
+<tr><th>Total stars:</th><th colspan='2' align='left'> 527 </th></tr>
 </table>
 <br>
-old_date:  2022-12-09 00:48:24.148694 now: 2022-12-10 00:44:05.454611
-pyasmtool stars changed from: 294 to: 295
+old_date:  2022-12-10 00:44:05.454828 now: 2022-12-11 00:52:53.859497
+pyasmtool stars changed from: 295 to: 296
+MoserMichael stars changed from: 2 to: 3
+teach-your-children-well stars changed from: 1 to: 2
     </pre>
   </td>
 </table>
