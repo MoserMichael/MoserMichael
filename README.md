@@ -1,28 +1,21 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sun Dec 11 00:52:42 UTC 2022
+Mon Dec 12 00:49:45 UTC 2022
 
 <pre>
 
- ________________________________________
-/ The true Southern watermelon is a boon \
-| apart, and not to be mentioned with    |
-| commoner things. It is chief of the    |
-| world's luxuries, king by the grace of |
-| God over all the fruits of the earth.  |
-| When one has tasted it, he knows what  |
-| the angels eat. It was not a Southern  |
-| watermelon that Eve took; we know it   |
-| because she repented.                  |
-|                                        |
-| -- Mark Twain, "Pudd'nhead Wilson's    |
-\ Calendar"                              /
- ----------------------------------------
+ _______________________________________
+/ Whenever you find that you are on the \
+| side of the majority, it is time to   |
+| reform.                               |
+|                                       |
+\ -- Mark Twain                         /
+ ---------------------------------------
         \   ^__^
-         \  (OO)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :) ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: 77 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
@@ -82,8 +75,8 @@ My stuff here:
         <pre>
 
 <table><tr><th align='left'>Name</th><th align='left'>Stars</th><th align='left'>Language</th><th align='left'>description</th></tr>
-<tr><td><a href="https://github.com/MoserMichael/pyasmtool">pyasmtool</a></td><td>296</td><td>Python</td><td>Explores the python bytecode, provides some tools to access it for fun and profit.</td></tr>
-<tr><td><a href="https://github.com/MoserMichael/python-obj-system">python-obj-system</a></td><td>57</td><td>Python</td><td>Tutorials on advanced python topics, and literate programming framework to write them (see README.md)</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/pyasmtool">pyasmtool</a></td><td>297</td><td>Python</td><td>Explores the python bytecode, provides some tools to access it for fun and profit.</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/python-obj-system">python-obj-system</a></td><td>58</td><td>Python</td><td>Tutorials on advanced python topics, and literate programming framework to write them (see README.md)</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/duckduckbang">duckduckbang</a></td><td>34</td><td>Python</td><td>Meta search page that utilises duckduckgo !bang query operators.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/kind-helper">kind-helper</a></td><td>24</td><td>Python</td><td>Simplifies the creation of practical kubernetes test clusters with the kind utility.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/cppcombinator">cppcombinator</a></td><td>22</td><td>C++</td><td>parser  combinator and AST generator in c++17</td></tr>
@@ -125,13 +118,12 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/vimcrypt2">vimcrypt2</a></td><td>0</td><td>Vim script</td><td>Advanced vim plugin to encrypt files with openssl</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/visual-python-strace">visual-python-strace</a></td><td>0</td><td>Python</td><td>show a very long stack trace with variable values.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/zipit">zipit</a></td><td>0</td><td>C++</td><td>c++ library for the equivalent of python/haskell zip function</td></tr>
-<tr><th>Total stars:</th><th colspan='2' align='left'> 527 </th></tr>
+<tr><th>Total stars:</th><th colspan='2' align='left'> 529 </th></tr>
 </table>
 <br>
-old_date:  2022-12-10 00:44:05.454828 now: 2022-12-11 00:52:53.859497
-pyasmtool stars changed from: 295 to: 296
-MoserMichael stars changed from: 2 to: 3
-teach-your-children-well stars changed from: 1 to: 2
+old_date:  2022-12-11 00:52:53.859744 now: 2022-12-12 00:49:59.162340
+pyasmtool stars changed from: 296 to: 297
+python-obj-system stars changed from: 57 to: 58
     </pre>
   </td>
 </table>
