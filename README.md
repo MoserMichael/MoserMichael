@@ -1,21 +1,43 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Thu Dec 15 00:49:01 UTC 2022
+Fri Dec 16 00:44:36 UTC 2022
 
 <pre>
 
- ______________________________________
-/ In the first place, God made idiots; \
-| this was for practice; then he made  |
-| school boards.                       |
-|                                      |
-\ -- Mark Twain                        /
- --------------------------------------
+ _________________________________________
+/ Courage is resistance to fear, mastery  \
+| of fear--not absence of fear. Except a  |
+| creature be part coward it is not a     |
+| compliment to say it is brave; it is    |
+| merely a loose misapplication of the    |
+| word. Consider the flea!--incomparably  |
+| the bravest of all the creatures of     |
+| God, if ignorance of fear were courage. |
+| Whether you are asleep or awake he will |
+| attack you, caring nothing for the fact |
+| that in bulk and strength you are to    |
+| him as are the massed armies of the     |
+| earth to a sucking child; he lives both |
+| day and night and all days and nights   |
+| in the very lap of peril and the        |
+| immediate presence of death, and yet is |
+| no more afraid than is the man who      |
+| walks the streets of a city that was    |
+| threatened by an earthquake ten         |
+| centuries before. When we speak of      |
+| Clive, Nelson, and Putnam as men who    |
+| "didn't know what fear was," we ought   |
+| always to add the flea--and put him at  |
+| the head of the procession.             |
+|                                         |
+| -- Mark Twain, "Pudd'nhead Wilson's     |
+\ Calendar"                               /
+ -----------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (~~)\_______
             (__)\       )\/\
-             -- ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 27 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: -94 '(from -100..100) state: 'very bad' eye: ~~ tongue: :(
 
 </pre>
 
@@ -121,10 +143,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 530 </th></tr>
 </table>
 <br>
-old_date:  2022-12-14 00:47:13.498299 now: 2022-12-15 00:49:15.655069
-roget-thesaurus-parser stars changed from: 3 to: 4
-MoserMichael stars changed from: 3 to: 2
-teach-your-children-well stars changed from: 2 to: 1
     </pre>
   </td>
 </table>
