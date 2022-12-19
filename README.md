@@ -1,20 +1,19 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sun Dec 18 00:43:40 UTC 2022
+Mon Dec 19 00:41:53 UTC 2022
 
 <pre>
 
- _________________________________________
-/ If you laid all of our laws end to end, \
-| there would be no end.                  |
-|                                         |
-\ -- Mark Twain                           /
- -----------------------------------------
+ ________________________________________
+/ For a light heart lives long.          \
+|                                        |
+\ -- Shakespeare, "Love's Labour's Lost" /
+ ----------------------------------------
         \   ^__^
-         \  (!!)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :( ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: -30 '(from -100..100) state: 'bad' eye: !! tongue: :(
+nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
