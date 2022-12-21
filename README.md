@@ -1,17 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Tue Dec 20 00:46:48 UTC 2022
+Wed Dec 21 00:43:04 UTC 2022
 
 <pre>
 
- ______________________________________
-< You're at the end of the road again. >
- --------------------------------------
+ __________________________________
+/ Break into jail and claim police \
+\ brutality.                       /
+ ----------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (~~)\_______
             (__)\       )\/\
-             -- ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: -61 '(from -100..100) state: 'very bad' eye: ~~ tongue: :(
 
 </pre>
 
@@ -117,8 +118,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 531 </th></tr>
 </table>
 <br>
-old_date:  2022-12-15 00:49:15.655435 now: 2022-12-20 00:47:05.358925
-python-obj-system stars changed from: 58 to: 59
     </pre>
   </td>
 </table>
