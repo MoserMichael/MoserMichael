@@ -1,15 +1,12 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Fri Dec 23 00:43:28 UTC 2022
+Sat Dec 24 00:40:33 UTC 2022
 
 <pre>
 
- _______________________________________
-/ Have a place for everything and keep  \
-| the thing somewhere else; this is not |
-| advice, it is merely custom.          |
-|                                       |
-\ -- Mark Twain                         /
- ---------------------------------------
+ _________________________________________
+/ If you stand on your head, you will get \
+\ footprints in your hair.                /
+ -----------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
@@ -121,8 +118,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 530 </th></tr>
 </table>
 <br>
-old_date:  2022-12-20 00:47:05.359213 now: 2022-12-23 00:43:40.548949
-pyasmtool stars changed from: 299 to: 298
     </pre>
   </td>
 </table>
