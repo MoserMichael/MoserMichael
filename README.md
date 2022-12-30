@@ -1,18 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Thu Dec 29 00:46:11 UTC 2022
+Fri Dec 30 00:45:26 UTC 2022
 
 <pre>
 
  _________________________________________
-/ Q: What lies on the bottom of the ocean \
-\ and twitches? A: A nervous wreck.       /
+/ People are beginning to notice you. Try \
+\ dressing before you leave the house.    /
  -----------------------------------------
         \   ^__^
-         \  (~~)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :( ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: -78 '(from -100..100) state: 'very bad' eye: ~~ tongue: :(
+nltk score: -5 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
