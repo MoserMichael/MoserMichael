@@ -1,18 +1,20 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Tue Jan  3 00:45:00 UTC 2023
+Wed Jan  4 00:46:12 UTC 2023
 
 <pre>
 
  _______________________________________
-/ There will be big changes for you but \
-\ you will be happy.                    /
+/ Wrinkles should merely indicate where \
+| smiles have been.                     |
+|                                       |
+\ -- Mark Twain                         /
  ---------------------------------------
         \   ^__^
-         \  (OO)\_______
+         \  (oo)\_______
             (__)\       )\/\
              :) ||----w |
                 ||     ||
-nltk score: 72 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: 48 '(from -100..100) state: 'good' eye: oo tongue: :)
 
 </pre>
 
