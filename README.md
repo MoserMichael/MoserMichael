@@ -1,22 +1,17 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Thu Jan  5 00:47:36 UTC 2023
+Fri Jan  6 00:47:46 UTC 2023
 
 <pre>
 
- _______________________________________
-/ Q: Minnesotans ask, "Why aren't there \
-| more pharmacists from Alabama?" A:    |
-| Easy. It's because they can't figure  |
-| out how to get the little             |
-|                                       |
-\ bottles into the typewriter.          /
- ---------------------------------------
+ ____________________________________
+< There is a 20% chance of tomorrow. >
+ ------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
              -- ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 25 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
@@ -122,8 +117,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 531 </th></tr>
 </table>
 <br>
-old_date:  2022-12-23 00:43:40.549135 now: 2023-01-05 00:47:49.510930
-pyasmtool stars changed from: 298 to: 299
     </pre>
   </td>
 </table>
