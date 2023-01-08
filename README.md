@@ -1,15 +1,11 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sat Jan  7 00:44:45 UTC 2023
+Sun Jan  8 00:50:30 UTC 2023
 
 <pre>
 
- _________________________________________
-/ Q: How does a hacker fix a function     \
-| which                                   |
-|                                         |
-| doesn't work for all of the elements in |
-\ its domain? A: He changes the domain.   /
- -----------------------------------------
+ ____________________
+< Beware of Bigfoot! >
+ --------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
