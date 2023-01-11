@@ -1,23 +1,19 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Tue Jan 10 00:52:40 UTC 2023
+Wed Jan 11 00:47:02 UTC 2023
 
 <pre>
 
- ________________________________________
-/ If you pick up a starving dog and make \
-| him prosperous, he will not bite you.  |
-| This is the principal difference       |
-| between a dog and a man.               |
-|                                        |
-| -- Mark Twain, "Pudd'nhead Wilson's    |
-\ Calendar"                              /
- ----------------------------------------
+ _________________________________________
+/ Q: What's the difference between an     \
+| Irish wedding and an Irish wake? A: One |
+\ less drunk.                             /
+ -----------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
              -- ||----w |
                 ||     ||
-nltk score: 8 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: -27 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
