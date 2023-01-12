@@ -1,19 +1,20 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Wed Jan 11 00:47:02 UTC 2023
+Thu Jan 12 00:48:17 UTC 2023
 
 <pre>
 
- _________________________________________
-/ Q: What's the difference between an     \
-| Irish wedding and an Irish wake? A: One |
-\ less drunk.                             /
- -----------------------------------------
+ _______________________________
+/ The surest protection against \
+| temptation is cowardice.      |
+|                               |
+\ -- Mark Twain                 /
+ -------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (oo)\_______
             (__)\       )\/\
-             -- ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: -27 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 32 '(from -100..100) state: 'good' eye: oo tongue: :)
 
 </pre>
 
