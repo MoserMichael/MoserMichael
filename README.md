@@ -1,20 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Thu Jan 12 00:48:17 UTC 2023
+Fri Jan 13 01:13:06 UTC 2023
 
 <pre>
 
- _______________________________
-/ The surest protection against \
-| temptation is cowardice.      |
-|                               |
-\ -- Mark Twain                 /
- -------------------------------
+ _____________________________________
+/ Your sister swims out to meet troop \
+\ ships.                              /
+ -------------------------------------
         \   ^__^
-         \  (oo)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :) ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: 32 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
@@ -74,7 +72,7 @@ My stuff here:
         <pre>
 
 <table><tr><th align='left'>Name</th><th align='left'>Stars</th><th align='left'>Language</th><th align='left'>description</th></tr>
-<tr><td><a href="https://github.com/MoserMichael/pyasmtool">pyasmtool</a></td><td>299</td><td>Python</td><td>Explores the python bytecode, provides some tools to access it for fun and profit.</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/pyasmtool">pyasmtool</a></td><td>298</td><td>Python</td><td>Explores the python bytecode, provides some tools to access it for fun and profit.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/python-obj-system">python-obj-system</a></td><td>59</td><td>Python</td><td>Tutorials on advanced python topics, and literate programming framework to write them (see README.md)</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/duckduckbang">duckduckbang</a></td><td>34</td><td>Python</td><td>Meta search page that utilises duckduckgo !bang query operators.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/kind-helper">kind-helper</a></td><td>24</td><td>Python</td><td>Simplifies the creation of practical kubernetes test clusters with the kind utility.</td></tr>
@@ -117,9 +115,11 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/vimcrypt2">vimcrypt2</a></td><td>0</td><td>Vim script</td><td>Advanced vim plugin to encrypt files with openssl</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/visual-python-strace">visual-python-strace</a></td><td>0</td><td>Python</td><td>show a very long stack trace with variable values.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/zipit">zipit</a></td><td>0</td><td>C++</td><td>c++ library for the equivalent of python/haskell zip function</td></tr>
-<tr><th>Total stars:</th><th colspan='2' align='left'> 531 </th></tr>
+<tr><th>Total stars:</th><th colspan='2' align='left'> 530 </th></tr>
 </table>
 <br>
+old_date:  2023-01-05 00:47:49.511133 now: 2023-01-13 01:13:20.036605
+pyasmtool stars changed from: 299 to: 298
     </pre>
   </td>
 </table>
