@@ -1,18 +1,21 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Fri Jan 13 01:13:06 UTC 2023
+Sat Jan 14 00:44:25 UTC 2023
 
 <pre>
 
- _____________________________________
-/ Your sister swims out to meet troop \
-\ ships.                              /
- -------------------------------------
+ ________________________________________
+/ What good is an obscenity trial except \
+| to popularize literature?              |
+|                                        |
+| -- Nero Wolfe, "The League of          |
+\ Frightened Men"                        /
+ ----------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (OO)\_______
             (__)\       )\/\
-             -- ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 64 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
@@ -105,7 +108,7 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/github_pr_comments">github_pr_comments</a></td><td>0</td><td>Python</td><td>script that notifies if any of your PR's received  new/modified/deleted comment.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/grpc-spring-boot-starter-utils">grpc-spring-boot-starter-utils</a></td><td>0</td><td>Java</td><td>grpc ServerInterceptor for logging of grpc request/response with exception handling, used with grpc-spring-boot-starter</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/jpa-enc-converter">jpa-enc-converter</a></td><td>0</td><td>Java</td><td>Example of handling the encryption/decryption of data at rest in an SQL table, by means of spring JPA/AttributeConverter</td></tr>
-<tr><td><a href="https://github.com/MoserMichael/jscriptparse">jscriptparse</a></td><td>0</td><td>JavaScript</td><td>javascript module for building parser combinators / scripting language as test case</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/jscriptparse">jscriptparse</a></td><td>0</td><td>JavaScript</td><td>javascript module for building parser combinators / pux scripting language & REPL as test case</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/kwchecker">kwchecker</a></td><td>0</td><td>Python</td><td>Declarative verifier and sanitizer for python kwargs parameters.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/my-notes">my-notes</a></td><td>0</td><td>Go</td><td>Keeping notes while learning stuff (so they don't get lost) These notes are best viewed in vim - meaning in a fixed font with text wrapping)</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/phpexercise">phpexercise</a></td><td>0</td><td>JavaScript</td><td>dashboard/web application for working with docker</td></tr>
@@ -118,8 +121,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 530 </th></tr>
 </table>
 <br>
-old_date:  2023-01-05 00:47:49.511133 now: 2023-01-13 01:13:20.036605
-pyasmtool stars changed from: 299 to: 298
     </pre>
   </td>
 </table>
