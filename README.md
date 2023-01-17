@@ -1,17 +1,93 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Mon Jan 16 00:46:45 UTC 2023
+Tue Jan 17 00:47:23 UTC 2023
 
 <pre>
 
- ________________________________________
-< Your supervisor is thinking about you. >
- ----------------------------------------
+ _________________________________________
+/ "Good afternoon, madam. How may I help  \
+| you?"                                   |
+|                                         |
+| "Good afternoon. I'd like a FrintArms   |
+| HandCannon, please."                    |
+|                                         |
+| "A--? Oh, now, that's an awfully big    |
+| gun for such a lovely lady. I mean, not |
+| everybody thinks ladies should carry    |
+| guns at all, though I say they have a   |
+| right to. But I think... I might...     |
+| Let's have a look down here. I might    |
+| have just the thing for you. Yes, here  |
+| we are! Look at that, isn't it neat?    |
+| Now that is a FrintArms product as      |
+| well, but it's what's called a laser -- |
+| a light-pistol some people call them.   |
+| Very small, as you see; fits easily     |
+| into a pocket or bag; won't spoil the   |
+| line of a jacket; and you won't feel    |
+| you're lugging half a tonne of iron     |
+| around with you. We do a range of       |
+| matching accessories, including -- if I |
+| may say so -- a rather saucy garter     |
+| holster. Wish I got to do the fitting   |
+| for that! Ha -- just my little joke.    |
+| And there's *even*... here we are --    |
+| this special presentation pack: gun,    |
+| charged battery, charging unit,         |
+| beautiful glider-hide shoulder holster  |
+| with adjustable fitting and contrast    |
+| stitching, and a discount on your next  |
+| battery. Full instructions, of course,  |
+| and a voucher for free lessons at your  |
+| local gun club or range. Or there's the |
+| *special* presentation pack; it has all |
+| the other one's got but with *two*      |
+| charged batteries and a night-sight,    |
+| too. Here, feel that -- don't worry,    |
+| it's a dummy battery -- isn't it neat?  |
+| Feel how light it is? Smooth, see? No   |
+| bits to stick out and catch on your     |
+| clothes, *and* beautifully balanced.    |
+| And of course the beauty of a laser is, |
+| there's no recoil. Because it's         |
+| shooting light, you see? Beautiful gun, |
+| beautiful gun; my wife has one. Really. |
+| That's not a line, she really has. Now, |
+| I can do you that one -- with a battery |
+| and a free charge -- for ninety-five;   |
+| or the presentation pack on a special   |
+| offer for one-nineteen; or this, the    |
+| special presentation pack, for          |
+| one-forty-nine."                        |
+|                                         |
+| "I'll take the special."                |
+|                                         |
+| "Sound choice, madam, *sound* choice.   |
+| Now, do--?"                             |
+|                                         |
+| "And a HandCannon, with the eighty-mill |
+| silencer, five GP clips, three six-five |
+| AP/wire-fl'echettes clips, two           |
+| bipropellant HE clips, and a Special    |
+| Projectile Pack if you have one -- the  |
+| one with the embedding rounds, not the  |
+| signalers. I assume the night-sight on  |
+| this toy is compatible?"                |
+|                                         |
+| "Aah... yes, And how does madam wish to |
+| pay?"                                   |
+|                                         |
+| She slapped her credit card on the      |
+| counter. "Eventually."                  |
+|                                         |
+| -- Iain M. Banks, "Against a Dark       |
+\ Background"                             /
+ -----------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (OO)\_______
             (__)\       )\/\
-             -- ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 100 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
@@ -71,13 +147,13 @@ My stuff here:
         <pre>
 
 <table><tr><th align='left'>Name</th><th align='left'>Stars</th><th align='left'>Language</th><th align='left'>description</th></tr>
-<tr><td><a href="https://github.com/MoserMichael/pyasmtool">pyasmtool</a></td><td>299</td><td>Python</td><td>Explores the python bytecode, provides some tools to access it for fun and profit.</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/pyasmtool">pyasmtool</a></td><td>300</td><td>Python</td><td>Explores the python bytecode, provides some tools to access it for fun and profit.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/python-obj-system">python-obj-system</a></td><td>59</td><td>Python</td><td>Tutorials on advanced python topics, and literate programming framework to write them (see README.md)</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/duckduckbang">duckduckbang</a></td><td>34</td><td>Python</td><td>Meta search page that utilises duckduckgo !bang query operators.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/kind-helper">kind-helper</a></td><td>24</td><td>Python</td><td>Simplifies the creation of practical kubernetes test clusters with the kind utility.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/cppcombinator">cppcombinator</a></td><td>22</td><td>C++</td><td>parser  combinator and AST generator in c++17</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/jq-illustrated">jq-illustrated</a></td><td>21</td><td>Shell</td><td>illustrated tutorial of jq (and the scripts that create it)</td></tr>
-<tr><td><a href="https://github.com/MoserMichael/s9k">s9k</a></td><td>14</td><td>Python</td><td>dashboard/web app for managing kubernetes clusters, with similar functionality as k9s</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/s9k">s9k</a></td><td>15</td><td>Python</td><td>dashboard/web app for managing kubernetes clusters, with similar functionality as k9s</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/cstuff">cstuff</a></td><td>13</td><td>C</td><td>My C projects and old homepage:</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/ls-annotations">ls-annotations</a></td><td>6</td><td>Java</td><td>Show all declarations with java annotations by decompiling byte code.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/pythonimportplayground">pythonimportplayground</a></td><td>5</td><td>Python</td><td>the readme file explains python packages, with examples.</td></tr>
@@ -114,9 +190,12 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/vimcrypt2">vimcrypt2</a></td><td>0</td><td>Vim script</td><td>Advanced vim plugin to encrypt files with openssl</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/visual-python-strace">visual-python-strace</a></td><td>0</td><td>Python</td><td>show a very long stack trace with variable values.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/zipit">zipit</a></td><td>0</td><td>C++</td><td>c++ library for the equivalent of python/haskell zip function</td></tr>
-<tr><th>Total stars:</th><th colspan='2' align='left'> 531 </th></tr>
+<tr><th>Total stars:</th><th colspan='2' align='left'> 533 </th></tr>
 </table>
 <br>
+old_date:  2023-01-15 00:51:05.700307 now: 2023-01-17 00:47:38.307397
+pyasmtool stars changed from: 299 to: 300
+s9k stars changed from: 14 to: 15
     </pre>
   </td>
 </table>
