@@ -1,13 +1,12 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Wed Jan 18 00:49:56 UTC 2023
+Thu Jan 19 00:48:50 UTC 2023
 
 <pre>
 
- ____________________________________
-/ Harp not on that string.           \
-|                                    |
-\ -- William Shakespeare, "Henry VI" /
- ------------------------------------
+ _______________________________________
+/ You will visit the Dung Pits of Glive \
+\ soon.                                 /
+ ---------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
@@ -119,8 +118,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 534 </th></tr>
 </table>
 <br>
-old_date:  2023-01-17 00:47:38.307594 now: 2023-01-18 00:50:09.408572
-rzgrep stars changed from: 5 to: 6
     </pre>
   </td>
 </table>
