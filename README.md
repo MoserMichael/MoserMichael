@@ -1,21 +1,20 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Mon Jan 23 00:44:52 UTC 2023
+Tue Jan 24 00:49:57 UTC 2023
 
 <pre>
 
- ____________________________________
-/ The last thing one knows in        \
-| constructing a work is what to put |
-| first.                             |
-|                                    |
-\ -- Blaise Pascal                   /
- ------------------------------------
+ ______________________________________
+/ Things past redress and now with me  \
+| past care.                           |
+|                                      |
+\ -- William Shakespeare, "Richard II" /
+ --------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (oo)\_______
             (__)\       )\/\
-             -- ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 49 '(from -100..100) state: 'good' eye: oo tongue: :)
 
 </pre>
 
@@ -121,8 +120,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 539 </th></tr>
 </table>
 <br>
-old_date:  2023-01-22 00:51:09.545306 now: 2023-01-23 00:45:04.815583
-pyasmtool stars changed from: 303 to: 304
     </pre>
   </td>
 </table>
