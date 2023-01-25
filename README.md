@@ -1,20 +1,20 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Tue Jan 24 00:49:57 UTC 2023
+Wed Jan 25 00:45:23 UTC 2023
 
 <pre>
 
- ______________________________________
-/ Things past redress and now with me  \
-| past care.                           |
-|                                      |
-\ -- William Shakespeare, "Richard II" /
- --------------------------------------
+ ____________________________________
+/ He is now rising from affluence to \
+| poverty.                           |
+|                                    |
+\ -- Mark Twain                      /
+ ------------------------------------
         \   ^__^
-         \  (oo)\_______
+         \  (!!)\_______
             (__)\       )\/\
-             :) ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 49 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: -51 '(from -100..100) state: 'bad' eye: !! tongue: :(
 
 </pre>
 
