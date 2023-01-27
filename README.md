@@ -1,20 +1,31 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Thu Jan 26 00:46:48 UTC 2023
+Fri Jan 27 00:49:27 UTC 2023
 
 <pre>
 
- ________________________________________
-/ There's small choice in rotten apples. \
-|                                        |
-| -- William Shakespeare, "The Taming of |
-\ the Shrew"                             /
- ----------------------------------------
+ _________________________________________
+/ So she went into the garden to cut a    \
+| cabbage leaf to make an apple pie; and  |
+| at the same time a great she-bear,      |
+| coming up the street pops its head into |
+| the shop. "What! no soap?" So he died,  |
+| and she very imprudently married the    |
+| barber; and there were present the      |
+| Picninnies, and the Grand Panjandrum    |
+| himself, with the little round button   |
+| at top, and they all fell to playing    |
+| the game of catch as catch can, till    |
+| the gunpowder ran out at the heels of   |
+| their boots.                            |
+|                                         |
+\ -- Samuel Foote                         /
+ -----------------------------------------
         \   ^__^
-         \  (!!)\_______
+         \  (oo)\_______
             (__)\       )\/\
-             :( ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: -51 '(from -100..100) state: 'bad' eye: !! tongue: :(
+nltk score: 42 '(from -100..100) state: 'good' eye: oo tongue: :)
 
 </pre>
 
@@ -75,7 +86,7 @@ My stuff here:
 
 <table><tr><th align='left'>Name</th><th align='left'>Stars</th><th align='left'>Language</th><th align='left'>description</th></tr>
 <tr><td><a href="https://github.com/MoserMichael/pyasmtool">pyasmtool</a></td><td>304</td><td>Python</td><td>Explores the python bytecode, provides some tools to access it for fun and profit.</td></tr>
-<tr><td><a href="https://github.com/MoserMichael/python-obj-system">python-obj-system</a></td><td>59</td><td>Python</td><td>Tutorials on advanced python topics, and literate programming framework to write them (see README.md)</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/python-obj-system">python-obj-system</a></td><td>60</td><td>Python</td><td>Tutorials on advanced python topics, and literate programming framework to write them (see README.md)</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/duckduckbang">duckduckbang</a></td><td>34</td><td>Python</td><td>Meta search page that utilises duckduckgo !bang query operators.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/kind-helper">kind-helper</a></td><td>24</td><td>Python</td><td>Simplifies the creation of practical kubernetes test clusters with the kind utility.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/cppcombinator">cppcombinator</a></td><td>22</td><td>C++</td><td>parser  combinator and AST generator in c++17</td></tr>
@@ -117,11 +128,11 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/vimcrypt2">vimcrypt2</a></td><td>0</td><td>Vim script</td><td>Advanced vim plugin to encrypt files with openssl</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/visual-python-strace">visual-python-strace</a></td><td>0</td><td>Python</td><td>show a very long stack trace with variable values.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/zipit">zipit</a></td><td>0</td><td>C++</td><td>c++ library for the equivalent of python/haskell zip function</td></tr>
-<tr><th>Total stars:</th><th colspan='2' align='left'> 538 </th></tr>
+<tr><th>Total stars:</th><th colspan='2' align='left'> 539 </th></tr>
 </table>
 <br>
-old_date:  2023-01-23 00:45:04.815791 now: 2023-01-26 00:47:02.663501
-python-obj-system stars changed from: 60 to: 59
+old_date:  2023-01-26 00:47:02.663748 now: 2023-01-27 00:49:41.877488
+python-obj-system stars changed from: 59 to: 60
     </pre>
   </td>
 </table>
