@@ -1,31 +1,29 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Fri Jan 27 00:49:27 UTC 2023
+Sat Jan 28 00:47:53 UTC 2023
 
 <pre>
 
  _________________________________________
-/ So she went into the garden to cut a    \
-| cabbage leaf to make an apple pie; and  |
-| at the same time a great she-bear,      |
-| coming up the street pops its head into |
-| the shop. "What! no soap?" So he died,  |
-| and she very imprudently married the    |
-| barber; and there were present the      |
-| Picninnies, and the Grand Panjandrum    |
-| himself, with the little round button   |
-| at top, and they all fell to playing    |
-| the game of catch as catch can, till    |
-| the gunpowder ran out at the heels of   |
-| their boots.                            |
+/ For the fashion of Minas Tirith was     \
+| such that it was built on seven levels, |
+| each delved into a hill, and about each |
+| was set a wall, and in each wall was a  |
+| gate.                                   |
 |                                         |
-\ -- Samuel Foote                         /
+| -- J.R.R. Tolkien, "The Return of the   |
+| King"                                   |
+|                                         |
+| [Quoted in "VMS Internals and Data      |
+| Structures", V4.4, when                 |
+|                                         |
+\ referring to system overview.]          /
  -----------------------------------------
         \   ^__^
-         \  (oo)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :) ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: 42 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
@@ -131,8 +129,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 539 </th></tr>
 </table>
 <br>
-old_date:  2023-01-26 00:47:02.663748 now: 2023-01-27 00:49:41.877488
-python-obj-system stars changed from: 59 to: 60
     </pre>
   </td>
 </table>
