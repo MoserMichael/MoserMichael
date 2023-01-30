@@ -1,18 +1,21 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sun Jan 29 00:52:42 UTC 2023
+Mon Jan 30 00:44:00 UTC 2023
 
 <pre>
 
- _______________________________________
-/ Today is the first day of the rest of \
-\ your life.                            /
- ---------------------------------------
+ _____________________________________
+/ When angry, count four; when very   \
+| angry, swear.                       |
+|                                     |
+| -- Mark Twain, "Pudd'nhead Wilson's |
+\ Calendar"                           /
+ -------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (~~)\_______
             (__)\       )\/\
-             -- ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: -80 '(from -100..100) state: 'very bad' eye: ~~ tongue: :(
 
 </pre>
 
@@ -105,7 +108,7 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/github_pr_comments">github_pr_comments</a></td><td>0</td><td>Python</td><td>script that notifies if any of your PR's received  new/modified/deleted comment.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/grpc-spring-boot-starter-utils">grpc-spring-boot-starter-utils</a></td><td>0</td><td>Java</td><td>grpc ServerInterceptor for logging of grpc request/response with exception handling, used with grpc-spring-boot-starter</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/jpa-enc-converter">jpa-enc-converter</a></td><td>0</td><td>Java</td><td>Example of handling the encryption/decryption of data at rest in an SQL table, by means of spring JPA/AttributeConverter</td></tr>
-<tr><td><a href="https://github.com/MoserMichael/jscriptparse">jscriptparse</a></td><td>0</td><td>JavaScript</td><td>javascript module for building parser combinators / pyx scripting language & REPL as test case</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/jscriptparse">jscriptparse</a></td><td>0</td><td>JavaScript</td><td>pyx scripting language & REPL/Shell ; prs - javascript module for building parser combinators</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/kwchecker">kwchecker</a></td><td>0</td><td>Python</td><td>Declarative verifier and sanitizer for python kwargs parameters.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/my-notes">my-notes</a></td><td>0</td><td>Go</td><td>Keeping notes while learning stuff (so they don't get lost) These notes are best viewed in vim - meaning in a fixed font with text wrapping)</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/phpexercise">phpexercise</a></td><td>0</td><td>JavaScript</td><td>dashboard/web application for working with docker</td></tr>
