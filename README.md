@@ -1,18 +1,17 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Wed Feb  1 00:54:25 UTC 2023
+Thu Feb  2 00:48:14 UTC 2023
 
 <pre>
 
- ________________________________________
-/ You prefer the company of the opposite \
-\ sex, but are well liked by your own.   /
- ----------------------------------------
+ ____________________
+< Beware of Bigfoot! >
+ --------------------
         \   ^__^
-         \  (OO)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :) ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: 75 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
@@ -118,8 +117,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 539 </th></tr>
 </table>
 <br>
-old_date:  2023-01-31 00:51:46.912620 now: 2023-02-01 00:54:38.890952
-pyasmtool stars changed from: 304 to: 303
     </pre>
   </td>
 </table>
