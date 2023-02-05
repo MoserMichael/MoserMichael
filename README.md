@@ -1,18 +1,22 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sat Feb  4 00:45:52 UTC 2023
+Sun Feb  5 00:52:44 UTC 2023
 
 <pre>
 
- ___________________________________
-/ Q: How many WASPs does it take to \
-\ change a light bulb? A: One.      /
- -----------------------------------
+ _________________________________________
+/ Q: Why is it that the more accuracy you \
+| demand from an interpolation            |
+|                                         |
+| function, the more expensive it becomes |
+| to compute? A: That's the Law of Spline |
+\ Demand.                                 /
+ -----------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (!!)\_______
             (__)\       )\/\
-             -- ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: -37 '(from -100..100) state: 'bad' eye: !! tongue: :(
 
 </pre>
 
