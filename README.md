@@ -1,22 +1,21 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sun Feb  5 00:52:44 UTC 2023
+Mon Feb  6 00:46:11 UTC 2023
 
 <pre>
 
- _________________________________________
-/ Q: Why is it that the more accuracy you \
-| demand from an interpolation            |
-|                                         |
-| function, the more expensive it becomes |
-| to compute? A: That's the Law of Spline |
-\ Demand.                                 /
- -----------------------------------------
+ ________________________________________
+/ It is a wise father that knows his own \
+| child.                                 |
+|                                        |
+| -- William Shakespeare, "The Merchant  |
+\ of Venice"                             /
+ ----------------------------------------
         \   ^__^
-         \  (!!)\_______
+         \  (oo)\_______
             (__)\       )\/\
-             :( ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: -37 '(from -100..100) state: 'bad' eye: !! tongue: :(
+nltk score: 48 '(from -100..100) state: 'good' eye: oo tongue: :)
 
 </pre>
 
