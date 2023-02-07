@@ -1,21 +1,21 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Mon Feb  6 00:46:11 UTC 2023
+Tue Feb  7 00:49:46 UTC 2023
 
 <pre>
 
  ________________________________________
-/ It is a wise father that knows his own \
-| child.                                 |
+/ You may my glories and my state        \
+| dispose, But not my griefs; still am I |
+| king of those.                         |
 |                                        |
-| -- William Shakespeare, "The Merchant  |
-\ of Venice"                             /
+\ -- William Shakespeare, "Richard II"   /
  ----------------------------------------
         \   ^__^
-         \  (oo)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :) ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: 48 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: 26 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
