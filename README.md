@@ -1,22 +1,23 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Fri Feb 10 00:52:51 UTC 2023
+Sat Feb 11 00:42:36 UTC 2023
 
 <pre>
 
  ________________________________________
-/ It is often the case that the man who  \
-| can't tell a lie thinks he is the best |
-| judge of one.                          |
+/ If you pick up a starving dog and make \
+| him prosperous, he will not bite you.  |
+| This is the principal difference       |
+| between a dog and a man.               |
 |                                        |
 | -- Mark Twain, "Pudd'nhead Wilson's    |
 \ Calendar"                              /
  ----------------------------------------
         \   ^__^
-         \  (OO)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :) ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: 64 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: 8 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
