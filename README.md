@@ -1,20 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sun Feb 12 00:53:01 UTC 2023
+Mon Feb 13 00:51:52 UTC 2023
 
 <pre>
 
  ______________________________________
-/ If two people love each other, there \
-| can be no happy end to it.           |
-|                                      |
-\ -- Ernest Hemingway                  /
+/ Q: What's a light-year? A: One-third \
+\ less calories than a regular year.   /
  --------------------------------------
         \   ^__^
-         \  (OO)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :) ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: 77 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
@@ -120,8 +118,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 540 </th></tr>
 </table>
 <br>
-old_date:  2023-02-01 00:54:38.891130 now: 2023-02-12 00:53:14.163992
-pyasmtool stars changed from: 303 to: 304
     </pre>
   </td>
 </table>
