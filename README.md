@@ -1,18 +1,44 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Mon Feb 13 00:51:52 UTC 2023
+Tue Feb 14 00:51:46 UTC 2023
 
 <pre>
 
- ______________________________________
-/ Q: What's a light-year? A: One-third \
-\ less calories than a regular year.   /
- --------------------------------------
+ _________________________________________
+/ You see, I consider that a man's brain  \
+| originally is like a little empty       |
+| attic, and you have to stock it with    |
+| such furniture as you choose. A fool    |
+| takes in all the lumber of every sort   |
+| he comes across, so that the knowledge  |
+| which might be useful to him gets       |
+| crowded out, or at best is jumbled up   |
+| with a lot of other things, so that he  |
+| has difficulty in laying his hands upon |
+| it. Now the skilful workman is very     |
+| careful indeed as to what he takes into |
+| his brain-attic. He will have nothing   |
+| but the tools which may help him in     |
+| doing his work, but of these he has a   |
+| large assortment, and all in the most   |
+| perfect order. It is a mistake to think |
+| that that little room has elastic walls |
+| and can distend to any extent. Depend   |
+| upon it there comes a time when for     |
+| every addition of knowledge you forget  |
+| something that you knew before. It is   |
+| of the highest importance, therefore,   |
+| not to have useless facts elbowing out  |
+| the useful ones.                        |
+|                                         |
+| -- Sir Arthur Conan Doyle, "A Study in  |
+\ Scarlet"                                /
+ -----------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (OO)\_______
             (__)\       )\/\
-             -- ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 96 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
