@@ -1,44 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Tue Feb 14 00:51:46 UTC 2023
+Wed Feb 15 00:51:07 UTC 2023
 
 <pre>
 
  _________________________________________
-/ You see, I consider that a man's brain  \
-| originally is like a little empty       |
-| attic, and you have to stock it with    |
-| such furniture as you choose. A fool    |
-| takes in all the lumber of every sort   |
-| he comes across, so that the knowledge  |
-| which might be useful to him gets       |
-| crowded out, or at best is jumbled up   |
-| with a lot of other things, so that he  |
-| has difficulty in laying his hands upon |
-| it. Now the skilful workman is very     |
-| careful indeed as to what he takes into |
-| his brain-attic. He will have nothing   |
-| but the tools which may help him in     |
-| doing his work, but of these he has a   |
-| large assortment, and all in the most   |
-| perfect order. It is a mistake to think |
-| that that little room has elastic walls |
-| and can distend to any extent. Depend   |
-| upon it there comes a time when for     |
-| every addition of knowledge you forget  |
-| something that you knew before. It is   |
-| of the highest importance, therefore,   |
-| not to have useless facts elbowing out  |
-| the useful ones.                        |
-|                                         |
-| -- Sir Arthur Conan Doyle, "A Study in  |
-\ Scarlet"                                /
+/ Truth will out this morning. (Which may \
+\ really mess things up.)                 /
  -----------------------------------------
         \   ^__^
-         \  (OO)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :) ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: 96 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: -13 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
@@ -104,7 +78,7 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/kind-helper">kind-helper</a></td><td>24</td><td>Python</td><td>Simplifies the creation of practical kubernetes test clusters with the kind utility.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/cppcombinator">cppcombinator</a></td><td>23</td><td>C++</td><td>parser  combinator and AST generator in c++17</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/jq-illustrated">jq-illustrated</a></td><td>21</td><td>Shell</td><td>illustrated tutorial of jq (and the scripts that create it)</td></tr>
-<tr><td><a href="https://github.com/MoserMichael/s9k">s9k</a></td><td>15</td><td>Python</td><td>dashboard/web app for managing kubernetes clusters, with similar functionality as k9s</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/s9k">s9k</a></td><td>16</td><td>Python</td><td>dashboard/web app for managing kubernetes clusters, with similar functionality as k9s</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/cstuff">cstuff</a></td><td>13</td><td>C</td><td>My C projects and old homepage:</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/ls-annotations">ls-annotations</a></td><td>6</td><td>Java</td><td>Show all declarations with java annotations by decompiling byte code.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/rzgrep">rzgrep</a></td><td>6</td><td>Go</td><td>grep utility that searches through zip,jar,ear,tgz,bz2 in any form of nesting; it can also decompile class files</td></tr>
@@ -141,9 +115,11 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/vimcrypt2">vimcrypt2</a></td><td>0</td><td>Vim script</td><td>Advanced vim plugin to encrypt files with openssl</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/visual-python-strace">visual-python-strace</a></td><td>0</td><td>Python</td><td>show a very long stack trace with variable values.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/zipit">zipit</a></td><td>0</td><td>C++</td><td>c++ library for the equivalent of python/haskell zip function</td></tr>
-<tr><th>Total stars:</th><th colspan='2' align='left'> 540 </th></tr>
+<tr><th>Total stars:</th><th colspan='2' align='left'> 541 </th></tr>
 </table>
 <br>
+old_date:  2023-02-12 00:53:14.164182 now: 2023-02-15 00:51:21.292282
+s9k stars changed from: 15 to: 16
     </pre>
   </td>
 </table>
