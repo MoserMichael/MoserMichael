@@ -1,18 +1,22 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Wed Feb 15 00:51:07 UTC 2023
+Thu Feb 16 00:50:13 UTC 2023
 
 <pre>
 
  _________________________________________
-/ Truth will out this morning. (Which may \
-\ really mess things up.)                 /
+/ Q: Know what the difference between     \
+| your latest project                     |
+|                                         |
+| and putting wings on an elephant is? A: |
+| Who knows? The elephant *might* fly,    |
+\ heh, heh...                             /
  -----------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
              -- ||----w |
                 ||     ||
-nltk score: -13 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: -24 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
@@ -118,8 +122,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 541 </th></tr>
 </table>
 <br>
-old_date:  2023-02-12 00:53:14.164182 now: 2023-02-15 00:51:21.292282
-s9k stars changed from: 15 to: 16
     </pre>
   </td>
 </table>
