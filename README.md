@@ -1,22 +1,19 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Thu Feb 16 00:50:13 UTC 2023
+Fri Feb 17 00:53:43 UTC 2023
 
 <pre>
 
- _________________________________________
-/ Q: Know what the difference between     \
-| your latest project                     |
-|                                         |
-| and putting wings on an elephant is? A: |
-| Who knows? The elephant *might* fly,    |
-\ heh, heh...                             /
- -----------------------------------------
+ ______________________________________
+/ Good night to spend with family, but \
+| avoid arguments with your mate's new |
+\ lover.                               /
+ --------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
              -- ||----w |
                 ||     ||
-nltk score: -24 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 20 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
@@ -114,7 +111,6 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/my-notes">my-notes</a></td><td>0</td><td>Go</td><td>Keeping notes while learning stuff (so they don't get lost) These notes are best viewed in vim - meaning in a fixed font with text wrapping)</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/phpexercise">phpexercise</a></td><td>0</td><td>JavaScript</td><td>dashboard/web application for working with docker</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/printb">printb</a></td><td>0</td><td>Python</td><td>Adds bidi aware 'print' and 'input' functions.</td></tr>
-<tr><td><a href="https://github.com/MoserMichael/scriptrunner-operator">scriptrunner-operator</a></td><td>0</td><td>Go</td><td>k8s operator that runs python scripts.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/vimcrypt">vimcrypt</a></td><td>0</td><td>Vim script</td><td>my vim plugin for encrypting/decryting text files with openssl</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/vimcrypt2">vimcrypt2</a></td><td>0</td><td>Vim script</td><td>Advanced vim plugin to encrypt files with openssl</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/visual-python-strace">visual-python-strace</a></td><td>0</td><td>Python</td><td>show a very long stack trace with variable values.</td></tr>
@@ -122,6 +118,7 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 541 </th></tr>
 </table>
 <br>
+old_date:  2023-02-15 00:51:21.292497 now: 2023-02-17 00:53:58.114053
     </pre>
   </td>
 </table>
