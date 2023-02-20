@@ -1,20 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sun Feb 19 00:51:45 UTC 2023
+Mon Feb 20 00:52:54 UTC 2023
 
 <pre>
 
- _______________________________________
-/ As flies to wanton boys are we to the \
-| gods; they kill us for their sport.   |
-|                                       |
-\ -- Shakespeare, "King Lear"           /
- ---------------------------------------
+ ________________________________
+/ It was all so different before \
+\ everything changed.            /
+ --------------------------------
         \   ^__^
-         \  (~~)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :( ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: -69 '(from -100..100) state: 'very bad' eye: ~~ tongue: :(
+nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
@@ -119,8 +117,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 544 </th></tr>
 </table>
 <br>
-old_date:  2023-02-18 00:48:38.658889 now: 2023-02-19 00:51:57.713783
-opinionated-fortune-cow stars changed from: 4 to: 5
     </pre>
   </td>
 </table>
