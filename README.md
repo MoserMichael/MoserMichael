@@ -1,19 +1,19 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Tue Feb 21 00:52:35 UTC 2023
+Wed Feb 22 00:48:21 UTC 2023
 
 <pre>
 
- _________________________________________
-/ Q: What's the difference between a Mac  \
-| and an Etch-a-Sketch? A: You don't have |
-\ to shake the Mac to clear the screen.   /
- -----------------------------------------
+ ____________________________________
+/ Try to relax and enjoy the crisis. \
+|                                    |
+\ -- Ashleigh Brilliant              /
+ ------------------------------------
         \   ^__^
-         \  (oo)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :) ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: 48 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: 25 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
@@ -118,8 +118,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 545 </th></tr>
 </table>
 <br>
-old_date:  2023-02-19 00:51:57.713966 now: 2023-02-21 00:52:47.062465
-roget-thesaurus-parser stars changed from: 4 to: 5
     </pre>
   </td>
 </table>
