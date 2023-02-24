@@ -1,18 +1,17 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Thu Feb 23 00:49:01 UTC 2023
+Fri Feb 24 00:51:13 UTC 2023
 
 <pre>
 
- _________________________________________
-/ Q: What is the difference between Texas \
-\ and yogurt? A: Yogurt has culture.      /
- -----------------------------------------
+ ____________________________________
+< So this is it. We're going to die. >
+ ------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (~~)\_______
             (__)\       )\/\
-             -- ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: -60 '(from -100..100) state: 'very bad' eye: ~~ tongue: :(
 
 </pre>
 
