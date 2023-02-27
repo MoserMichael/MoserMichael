@@ -1,17 +1,20 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sun Feb 26 00:56:24 UTC 2023
+Mon Feb 27 00:51:30 UTC 2023
 
 <pre>
 
- _____________________________________
-< Q: Are we not men? A: We are Vaxen. >
- -------------------------------------
+ ______________________________________
+/ All things that are, are with more   \
+| spirit chased than enjoyed.          |
+|                                      |
+\ -- Shakespeare, "Merchant of Venice" /
+ --------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (OO)\_______
             (__)\       )\/\
-             -- ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 65 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
@@ -116,8 +119,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 546 </th></tr>
 </table>
 <br>
-old_date:  2023-02-21 00:52:47.062637 now: 2023-02-26 00:56:40.571426
-pyasmtool stars changed from: 304 to: 305
     </pre>
   </td>
 </table>
