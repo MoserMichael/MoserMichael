@@ -1,20 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Mon Feb 27 00:51:30 UTC 2023
+Tue Feb 28 00:50:41 UTC 2023
 
 <pre>
 
- ______________________________________
-/ All things that are, are with more   \
-| spirit chased than enjoyed.          |
-|                                      |
-\ -- Shakespeare, "Merchant of Venice" /
- --------------------------------------
+ _________________________________________
+/ Go to a movie tonight. Darkness becomes \
+\ you.                                    /
+ -----------------------------------------
         \   ^__^
-         \  (OO)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :) ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: 65 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: -25 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
