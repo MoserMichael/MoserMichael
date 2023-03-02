@@ -1,18 +1,31 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Wed Mar  1 00:56:14 UTC 2023
+Thu Mar  2 00:54:48 UTC 2023
 
 <pre>
 
  _________________________________________
-/ Perfect day for scrubbing the floor and \
-\ other exciting things.                  /
+/ So she went into the garden to cut a    \
+| cabbage leaf to make an apple pie; and  |
+| at the same time a great she-bear,      |
+| coming up the street pops its head into |
+| the shop. "What! no soap?" So he died,  |
+| and she very imprudently married the    |
+| barber; and there were present the      |
+| Picninnies, and the Grand Panjandrum    |
+| himself, with the little round button   |
+| at top, and they all fell to playing    |
+| the game of catch as catch can, till    |
+| the gunpowder ran out at the heels of   |
+| their boots.                            |
+|                                         |
+\ -- Samuel Foote                         /
  -----------------------------------------
         \   ^__^
-         \  (OO)\_______
+         \  (oo)\_______
             (__)\       )\/\
              :) ||----w |
                 ||     ||
-nltk score: 78 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: 42 '(from -100..100) state: 'good' eye: oo tongue: :)
 
 </pre>
 
