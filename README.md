@@ -1,15 +1,13 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Fri Mar  3 02:41:58 UTC 2023
+Sat Mar  4 00:49:07 UTC 2023
 
 <pre>
 
- _________________________________________
-/ Soap and education are not as sudden as \
-| a massacre, but they are more deadly in |
-| the long run.                           |
-|                                         |
-\ -- Mark Twain                           /
- -----------------------------------------
+ _______________________________________
+/ English literature's performing flea. \
+|                                       |
+\ -- Sean O'Casey on P. G. Wodehouse    /
+ ---------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
