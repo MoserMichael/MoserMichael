@@ -1,13 +1,13 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sat Mar  4 00:49:07 UTC 2023
+Sun Mar  5 00:57:24 UTC 2023
 
 <pre>
 
- _______________________________________
-/ English literature's performing flea. \
-|                                       |
-\ -- Sean O'Casey on P. G. Wodehouse    /
- ---------------------------------------
+ ________________________
+/ I'll burn my books.    \
+|                        |
+\ -- Christopher Marlowe /
+ ------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
