@@ -1,19 +1,19 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sun Mar  5 00:57:24 UTC 2023
+Mon Mar  6 00:51:15 UTC 2023
 
 <pre>
 
- ________________________
-/ I'll burn my books.    \
-|                        |
-\ -- Christopher Marlowe /
- ------------------------
+ ______________________________________
+/ You need no longer worry about the   \
+| future. This time tomorrow you'll be |
+\ dead.                                /
+ --------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (~~)\_______
             (__)\       )\/\
-             -- ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: -86 '(from -100..100) state: 'very bad' eye: ~~ tongue: :(
 
 </pre>
 
