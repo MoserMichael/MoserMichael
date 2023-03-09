@@ -1,21 +1,17 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Wed Mar  8 00:53:22 UTC 2023
+Thu Mar  9 00:53:48 UTC 2023
 
 <pre>
 
  ________________________________________
-/ Q: Why do the police always travel in  \
-| threes? A: One to do the reading, one  |
-| to do the writing, and the other keeps |
-|                                        |
-\ an eye on the two intellectuals.       /
+< Your love life will be... interesting. >
  ----------------------------------------
         \   ^__^
-         \  (oo)\_______
+         \  (OO)\_______
             (__)\       )\/\
              :) ||----w |
                 ||     ||
-nltk score: 38 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: 78 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
@@ -120,8 +116,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 547 </th></tr>
 </table>
 <br>
-old_date:  2023-02-26 00:56:40.571643 now: 2023-03-08 00:53:34.996175
-pyasmtool stars changed from: 305 to: 306
     </pre>
   </td>
 </table>
