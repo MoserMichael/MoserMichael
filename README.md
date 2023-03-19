@@ -1,21 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sat Mar 18 00:45:53 UTC 2023
+Sun Mar 19 00:53:28 UTC 2023
 
 <pre>
 
- ______________________________________
-/ I was gratified to be able to answer \
-| promptly, and I did. I said I didn't |
-| know.                                |
-|                                      |
-\ -- Mark Twain                        /
- --------------------------------------
+ _______________________________________
+/ You'll be called to a post requiring  \
+\ ability in handling groups of people. /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
              :) ||----w |
                 ||     ||
-nltk score: 38 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: 32 '(from -100..100) state: 'good' eye: oo tongue: :)
 
 </pre>
 
