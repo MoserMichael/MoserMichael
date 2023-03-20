@@ -1,18 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sun Mar 19 00:53:28 UTC 2023
+Mon Mar 20 00:50:22 UTC 2023
 
 <pre>
 
  _______________________________________
-/ You'll be called to a post requiring  \
-\ ability in handling groups of people. /
+/ Today is the last day of your life so \
+\ far.                                  /
  ---------------------------------------
         \   ^__^
-         \  (oo)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :) ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: 32 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
