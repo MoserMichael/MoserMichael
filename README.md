@@ -1,13 +1,12 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Fri Mar 24 00:44:52 UTC 2023
+Sat Mar 25 00:44:21 UTC 2023
 
 <pre>
 
- ____________________________________
-/ Q: Why did the germ cross the      \
-| microscope? A: To get to the other |
-\ slide.                             /
- ------------------------------------
+ _________________________________________
+/ Learn to pause -- or nothing worthwhile \
+\ can catch up to you.                    /
+ -----------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
