@@ -1,13 +1,22 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sun Mar 26 00:49:04 UTC 2023
+Mon Mar 27 00:44:42 UTC 2023
 
 <pre>
 
- ________________________________
-/ question = ( to ) ? be : ! be; \
-|                                |
-\ -- Wm. Shakespeare             /
- --------------------------------
+ ________________________________________
+/ Q: How many DEC repairman does it take \
+| to fix a flat? A: Five; four to hold   |
+| the car up and one to swap tires.      |
+|                                        |
+| Q: How long does it take? A: It's      |
+| indeterminate.                         |
+|                                        |
+| It will depend upon how many flats     |
+| they've brought with them.             |
+|                                        |
+| Q: What happens if you've got TWO      |
+\ flats? A: They replace your generator. /
+ ----------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
@@ -118,8 +127,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 547 </th></tr>
 </table>
 <br>
-old_date:  2023-03-22 00:44:41.368937 now: 2023-03-26 00:49:16.083087
-pyasmtool stars changed from: 306 to: 305
     </pre>
   </td>
 </table>
