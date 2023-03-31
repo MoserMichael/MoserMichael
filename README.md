@@ -1,18 +1,39 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Thu Mar 30 00:47:06 UTC 2023
+Fri Mar 31 00:46:40 UTC 2023
 
 <pre>
 
  _______________________________________
-/ Excellent day for putting Slinkies on \
-\ an escalator.                         /
+/ Q: What's the contour integral around \
+| Western Europe? A: Zero, because all  |
+| the Poles are in Eastern Europe!      |
+|                                       |
+| Addendum: Actually, there ARE some    |
+| Poles in Western Europe, but they     |
+|                                       |
+| are removable!                        |
+|                                       |
+| Q: An English mathematician (I forgot |
+| who) was asked by his                 |
+|                                       |
+| very religious colleague: Do you      |
+| believe in one God? A: Yes, up to     |
+| isomorphism!                          |
+|                                       |
+| Q: What is a compact city? A: It's a  |
+| city that can be guarded by finitely  |
+| many near-sighted                     |
+|                                       |
+| policemen!                            |
+|                                       |
+\ -- Peter Lax                          /
  ---------------------------------------
         \   ^__^
-         \  (oo)\_______
+         \  (OO)\_______
             (__)\       )\/\
              :) ||----w |
                 ||     ||
-nltk score: 57 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: 66 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
@@ -97,6 +118,7 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/microsofthomework">microsofthomework</a></td><td>1</td><td>C++</td><td>Homework assignment at a Microsoft job interview</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/subb">subb</a></td><td>1</td><td>Python</td><td>a wrapper module for python subprocess</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/teach-your-children-well">teach-your-children-well</a></td><td>1</td><td>Python</td><td>Telling stories in simple English, so that I have something to tell to my kids during the summer vacation</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/vimcrypt2">vimcrypt2</a></td><td>1</td><td>Vim script</td><td>Advanced vim plugin to encrypt files with openssl</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/bloxroutehomework">bloxroutehomework</a></td><td>0</td><td>C++</td><td>assignment for bloxroute interview</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/devgoodies">devgoodies</a></td><td>0</td><td>Vim script</td><td>Vim plugin - useful commands for editing code.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/download-artifacts">download-artifacts</a></td><td>0</td><td>Shell</td><td>bash script for downloading the artifacts of the latest release for a given github repo of a given user.</td></tr>
@@ -111,12 +133,13 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/phpexercise">phpexercise</a></td><td>0</td><td>JavaScript</td><td>dashboard/web application for working with docker</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/printb">printb</a></td><td>0</td><td>Python</td><td>Adds bidi aware 'print' and 'input' functions.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/vimcrypt">vimcrypt</a></td><td>0</td><td>Vim script</td><td>my vim plugin for encrypting/decryting text files with openssl</td></tr>
-<tr><td><a href="https://github.com/MoserMichael/vimcrypt2">vimcrypt2</a></td><td>0</td><td>Vim script</td><td>Advanced vim plugin to encrypt files with openssl</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/visual-python-strace">visual-python-strace</a></td><td>0</td><td>Python</td><td>show a very long stack trace with variable values.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/zipit">zipit</a></td><td>0</td><td>C++</td><td>c++ library for the equivalent of python/haskell zip function</td></tr>
-<tr><th>Total stars:</th><th colspan='2' align='left'> 547 </th></tr>
+<tr><th>Total stars:</th><th colspan='2' align='left'> 548 </th></tr>
 </table>
 <br>
+old_date:  2023-03-26 00:49:16.083276 now: 2023-03-31 00:46:53.653278
+vimcrypt2 stars changed from: 0 to: 1
     </pre>
   </td>
 </table>
