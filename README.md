@@ -1,18 +1,20 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Mon Apr  3 00:43:35 UTC 2023
+Tue Apr  4 00:44:58 UTC 2023
 
 <pre>
 
- _____________________________________
-/ Fine day to work off excess energy. \
-\ Steal something heavy.              /
- -------------------------------------
+ _________________________________________
+/ Seeing that death, a necessary end,     \
+| Will come when it will come.            |
+|                                         |
+\ -- William Shakespeare, "Julius Caesar" /
+ -----------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (~~)\_______
             (__)\       )\/\
-             -- ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: -8 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: -60 '(from -100..100) state: 'very bad' eye: ~~ tongue: :(
 
 </pre>
 
@@ -117,8 +119,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 547 </th></tr>
 </table>
 <br>
-old_date:  2023-03-31 00:46:53.653469 now: 2023-04-03 00:43:48.806037
-s9k stars changed from: 16 to: 15
     </pre>
   </td>
 </table>
