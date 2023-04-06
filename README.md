@@ -1,19 +1,19 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Wed Apr  5 00:37:35 UTC 2023
+Thu Apr  6 00:42:18 UTC 2023
 
 <pre>
 
- ____________________________________
-/ Every cloud engenders not a storm. \
-|                                    |
-\ -- William Shakespeare, "Henry VI" /
- ------------------------------------
+ ______________________________________
+/ Q: How can you tell when a Burroughs \
+| salesman is lying? A: When his lips  |
+\ move.                                /
+ --------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (!!)\_______
             (__)\       )\/\
-             -- ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: -53 '(from -100..100) state: 'bad' eye: !! tongue: :(
 
 </pre>
 
@@ -118,8 +118,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 548 </th></tr>
 </table>
 <br>
-old_date:  2023-04-03 00:43:48.806217 now: 2023-04-05 00:37:48.083659
-pyasmtool stars changed from: 305 to: 306
     </pre>
   </td>
 </table>
