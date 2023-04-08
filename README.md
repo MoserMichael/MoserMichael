@@ -1,12 +1,15 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Fri Apr  7 00:39:16 UTC 2023
+Sat Apr  8 00:41:47 UTC 2023
 
 <pre>
 
- ___________________________________
-/ That secret you've been guarding, \
-\ isn't.                            /
- -----------------------------------
+ _______________________________________
+/ Have a place for everything and keep  \
+| the thing somewhere else; this is not |
+| advice, it is merely custom.          |
+|                                       |
+\ -- Mark Twain                         /
+ ---------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
@@ -117,8 +120,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 547 </th></tr>
 </table>
 <br>
-old_date:  2023-04-05 00:37:48.083861 now: 2023-04-07 00:39:31.202113
-pyasmtool stars changed from: 306 to: 305
     </pre>
   </td>
 </table>
