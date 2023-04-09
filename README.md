@@ -1,21 +1,17 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sat Apr  8 00:41:47 UTC 2023
+Sun Apr  9 00:44:58 UTC 2023
 
 <pre>
 
- _______________________________________
-/ Have a place for everything and keep  \
-| the thing somewhere else; this is not |
-| advice, it is merely custom.          |
-|                                       |
-\ -- Mark Twain                         /
- ---------------------------------------
+ ________________________________________
+< Your love life will be... interesting. >
+ ----------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (OO)\_______
             (__)\       )\/\
-             -- ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 78 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
