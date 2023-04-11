@@ -1,18 +1,20 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Mon Apr 10 00:43:25 UTC 2023
+Tue Apr 11 00:44:46 UTC 2023
 
 <pre>
 
- _______________________________________
-/ You are so boring that when I see you \
-\ my feet go to sleep.                  /
- ---------------------------------------
+ ________________________________________
+/ Alas, how love can trifle with itself! \
+|                                        |
+| -- William Shakespeare, "The Two       |
+\ Gentlemen of Verona"                   /
+ ----------------------------------------
         \   ^__^
-         \  (!!)\_______
+         \  (oo)\_______
             (__)\       )\/\
-             :( ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: -46 '(from -100..100) state: 'bad' eye: !! tongue: :(
+nltk score: 53 '(from -100..100) state: 'good' eye: oo tongue: :)
 
 </pre>
 
