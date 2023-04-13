@@ -1,22 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Wed Apr 12 00:42:56 UTC 2023
+Thu Apr 13 00:42:19 UTC 2023
 
 <pre>
 
- ________________________________________
-/ It has long been an axiom of mine that \
-| the little things are infinitely the   |
-| most important.                        |
-|                                        |
-| -- Sir Arthur Conan Doyle, "A Case of  |
-\ Identity"                              /
- ----------------------------------------
+ ______________________________________
+/ You could live a better life, if you \
+\ had a better mind and a better body. /
+ --------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (OO)\_______
             (__)\       )\/\
-             -- ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: 27 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 83 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
@@ -121,8 +117,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 546 </th></tr>
 </table>
 <br>
-old_date:  2023-04-07 00:39:31.202326 now: 2023-04-12 00:43:08.916464
-kind-helper stars changed from: 24 to: 23
     </pre>
   </td>
 </table>
