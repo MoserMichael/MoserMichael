@@ -14,12 +14,11 @@ Views:
 	 2023-04-13 00:00:00 total: 27 unique: 1
 	 2023-04-15 00:00:00 total: 23 unique: 1
 	Referrers:
-		Count: 35 Unique: 2 Url: Google
+		Count: 58 Unique: 3 Url: Google
 		Count: 1 Unique: 1 Url: DuckDuckGo
 
-repo: pyasmtool views: total: 50 unique:  29
+repo: pyasmtool views: total: 48 unique:  29
 Views:
-	 2023-04-02 00:00:00 total: 4 unique: 3
 	 2023-04-03 00:00:00 total: 3 unique: 3
 	 2023-04-05 00:00:00 total: 2 unique: 2
 	 2023-04-06 00:00:00 total: 9 unique: 5
@@ -31,15 +30,16 @@ Views:
 	 2023-04-13 00:00:00 total: 4 unique: 2
 	 2023-04-14 00:00:00 total: 3 unique: 2
 	 2023-04-15 00:00:00 total: 1 unique: 1
+	 2023-04-16 00:00:00 total: 2 unique: 2
 	Referrers:
 		Count: 13 Unique: 8 Url: github.com
-		Count: 7 Unique: 4 Url: Google
+		Count: 8 Unique: 5 Url: Google
 		Count: 5 Unique: 1 Url: realpython.com
 		Count: 2 Unique: 2 Url: away.vk.com
 		Count: 1 Unique: 1 Url: Bing
 		Count: 1 Unique: 1 Url: com.google.android.gm
 
-repo: kind-helper views: total: 33 unique:  10
+repo: kind-helper views: total: 34 unique:  10
 Views:
 	 2023-04-03 00:00:00 total: 1 unique: 1
 	 2023-04-04 00:00:00 total: 4 unique: 4
@@ -48,12 +48,25 @@ Views:
 	 2023-04-13 00:00:00 total: 5 unique: 1
 	 2023-04-14 00:00:00 total: 1 unique: 1
 	 2023-04-15 00:00:00 total: 18 unique: 1
+	 2023-04-16 00:00:00 total: 1 unique: 1
 	Referrers:
 		Count: 10 Unique: 4 Url: github.com
 
-repo: python-obj-system views: total: 23 unique:  9
+repo: s9k views: total: 23 unique:  14
 Views:
-	 2023-04-02 00:00:00 total: 1 unique: 1
+	 2023-04-03 00:00:00 total: 6 unique: 2
+	 2023-04-04 00:00:00 total: 7 unique: 6
+	 2023-04-05 00:00:00 total: 1 unique: 1
+	 2023-04-09 00:00:00 total: 1 unique: 1
+	 2023-04-14 00:00:00 total: 4 unique: 3
+	 2023-04-15 00:00:00 total: 3 unique: 1
+	 2023-04-16 00:00:00 total: 1 unique: 1
+	Referrers:
+		Count: 7 Unique: 5 Url: Google
+		Count: 2 Unique: 2 Url: github.com
+
+repo: python-obj-system views: total: 22 unique:  8
+Views:
 	 2023-04-05 00:00:00 total: 3 unique: 1
 	 2023-04-07 00:00:00 total: 1 unique: 1
 	 2023-04-09 00:00:00 total: 2 unique: 1
@@ -66,18 +79,6 @@ Views:
 		Count: 2 Unique: 1 Url: Google
 		Count: 2 Unique: 1 Url: news.ycombinator.com
 
-repo: s9k views: total: 22 unique:  13
-Views:
-	 2023-04-03 00:00:00 total: 6 unique: 2
-	 2023-04-04 00:00:00 total: 7 unique: 6
-	 2023-04-05 00:00:00 total: 1 unique: 1
-	 2023-04-09 00:00:00 total: 1 unique: 1
-	 2023-04-14 00:00:00 total: 4 unique: 3
-	 2023-04-15 00:00:00 total: 3 unique: 1
-	Referrers:
-		Count: 5 Unique: 4 Url: Google
-		Count: 2 Unique: 2 Url: github.com
-
 repo: zipit views: total: 14 unique:  9
 Views:
 	 2023-04-03 00:00:00 total: 2 unique: 1
@@ -88,15 +89,23 @@ Views:
 	 2023-04-14 00:00:00 total: 1 unique: 1
 	 2023-04-15 00:00:00 total: 1 unique: 1
 	Referrers:
-		Count: 11 Unique: 6 Url: Google
+		Count: 10 Unique: 6 Url: Google
+
+repo: roget-thesaurus-parser views: total: 11 unique:  4
+Views:
+	 2023-04-08 00:00:00 total: 3 unique: 1
+	 2023-04-13 00:00:00 total: 1 unique: 1
+	 2023-04-16 00:00:00 total: 7 unique: 2
+	Referrers:
+		Count: 3 Unique: 2 Url: Google
 
 repo: jscriptparse views: total: 9 unique:  5
 Views:
-	 2023-04-02 00:00:00 total: 2 unique: 2
 	 2023-04-07 00:00:00 total: 2 unique: 1
 	 2023-04-10 00:00:00 total: 1 unique: 1
 	 2023-04-11 00:00:00 total: 2 unique: 1
 	 2023-04-13 00:00:00 total: 2 unique: 2
+	 2023-04-16 00:00:00 total: 2 unique: 2
 	Referrers:
 		Count: 3 Unique: 1 Url: github.com
 
@@ -107,14 +116,13 @@ Views:
 	Referrers:
 		Count: 6 Unique: 2 Url: github.com
 
-repo: cstuff views: total: 4 unique:  4
+repo: pygamewrap views: total: 5 unique:  3
 Views:
-	 2023-04-02 00:00:00 total: 1 unique: 1
-	 2023-04-03 00:00:00 total: 1 unique: 1
-	 2023-04-04 00:00:00 total: 1 unique: 1
-	 2023-04-11 00:00:00 total: 1 unique: 1
+	 2023-04-03 00:00:00 total: 3 unique: 1
+	 2023-04-07 00:00:00 total: 1 unique: 1
+	 2023-04-16 00:00:00 total: 1 unique: 1
 	Referrers:
-		Count: 1 Unique: 1 Url: github.com
+		Count: 1 Unique: 1 Url: Google
 
 repo: gitblame views: total: 4 unique:  3
 Views:
@@ -125,19 +133,12 @@ Views:
 		Count: 3 Unique: 2 Url: DuckDuckGo
 		Count: 1 Unique: 1 Url: Bing
 
-repo: pygamewrap views: total: 4 unique:  2
+repo: pprintex views: total: 4 unique:  1
 Views:
-	 2023-04-03 00:00:00 total: 3 unique: 1
-	 2023-04-07 00:00:00 total: 1 unique: 1
+	 2023-04-15 00:00:00 total: 1 unique: 1
+	 2023-04-16 00:00:00 total: 3 unique: 1
 	Referrers:
-		Count: 3 Unique: 2 Url: Google
-
-repo: roget-thesaurus-parser views: total: 4 unique:  2
-Views:
-	 2023-04-08 00:00:00 total: 3 unique: 1
-	 2023-04-13 00:00:00 total: 1 unique: 1
-	Referrers:
-		Count: 3 Unique: 2 Url: Google
+		Count: 1 Unique: 1 Url: github.com
 
 repo: subb views: total: 4 unique:  1
 Views:
@@ -145,6 +146,14 @@ Views:
 	 2023-04-07 00:00:00 total: 3 unique: 1
 	Referrers:
 		Count: 4 Unique: 1 Url: news.ycombinator.com
+
+repo: cstuff views: total: 3 unique:  3
+Views:
+	 2023-04-03 00:00:00 total: 1 unique: 1
+	 2023-04-04 00:00:00 total: 1 unique: 1
+	 2023-04-11 00:00:00 total: 1 unique: 1
+	Referrers:
+		Count: 1 Unique: 1 Url: github.com
 
 repo: my-notes views: total: 3 unique:  1
 Views:
@@ -169,8 +178,6 @@ Views:
 repo: phpexercise views: total: 2 unique:  1
 Views:
 	 2023-04-03 00:00:00 total: 2 unique: 1
-	Referrers:
-		Count: 2 Unique: 1 Url: github.com
 
 repo: rzgrep views: total: 2 unique:  1
 Views:
@@ -190,9 +197,9 @@ Views:
 	Referrers:
 		Count: 1 Unique: 1 Url: DuckDuckGo
 
-repo: githubapitools views: total: 1 unique:  1
+repo: flagged-hn views: total: 1 unique:  1
 Views:
-	 2023-04-02 00:00:00 total: 1 unique: 1
+	 2023-04-16 00:00:00 total: 1 unique: 1
 
 repo: k8explain views: total: 1 unique:  1
 Views:
@@ -212,9 +219,17 @@ Views:
 	Referrers:
 		Count: 1 Unique: 1 Url: news.ycombinator.com
 
-repo: pprintex views: total: 1 unique:  1
+repo: pythoncourse views: total: 1 unique:  1
 Views:
-	 2023-04-15 00:00:00 total: 1 unique: 1
+	 2023-04-16 00:00:00 total: 1 unique: 1
+
+repo: vimcrypt views: total: 1 unique:  1
+Views:
+	 2023-04-16 00:00:00 total: 1 unique: 1
+
+repo: vimcrypt2 views: total: 1 unique:  1
+Views:
+	 2023-04-16 00:00:00 total: 1 unique: 1
 
 repo: visual-python-strace views: total: 1 unique:  1
 Views:
@@ -228,7 +243,7 @@ repo: docker-force-attach views: total: 0 unique:  0
 
 repo: download-artifacts views: total: 0 unique:  0
 
-repo: flagged-hn views: total: 0 unique:  0
+repo: githubapitools views: total: 0 unique:  0
 
 repo: github_pr_comments views: total: 0 unique:  0
 
@@ -244,16 +259,10 @@ repo: microsofthomework views: total: 0 unique:  0
 
 repo: printb views: total: 0 unique:  0
 
-repo: pythoncourse views: total: 0 unique:  0
-
 repo: pythonimportplayground views: total: 0 unique:  0
 
 repo: teach-your-children-well views: total: 0 unique:  0
 
-repo: vimcrypt views: total: 0 unique:  0
-
-repo: vimcrypt2 views: total: 0 unique:  0
-
 
 ***
-Total views: 255
+Total views: 267
