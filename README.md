@@ -1,20 +1,19 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Mon Apr 17 00:44:31 UTC 2023
+Tue Apr 18 00:42:37 UTC 2023
 
 <pre>
 
- ____________________________________
-/ Familiarity breeds contempt -- and \
-| children.                          |
-|                                    |
-\ -- Mark Twain                      /
- ------------------------------------
+ ______________________________________
+/ Q: What does it say on the bottom of \
+| Coke cans in North Dakota? A: Open   |
+\ other end.                           /
+ --------------------------------------
         \   ^__^
-         \  (!!)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :( ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: -59 '(from -100..100) state: 'bad' eye: !! tongue: :(
+nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
@@ -119,8 +118,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 548 </th></tr>
 </table>
 <br>
-old_date:  2023-04-14 00:43:00.207327 now: 2023-04-17 00:44:44.163468
-python-obj-system stars changed from: 60 to: 61
     </pre>
   </td>
 </table>
