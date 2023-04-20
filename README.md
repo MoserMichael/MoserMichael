@@ -1,18 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Wed Apr 19 00:58:32 UTC 2023
+Thu Apr 20 00:42:51 UTC 2023
 
 <pre>
 
  _________________________________________
-/ You will gain money by a speculation or \
-\ lottery.                                /
+/ Your mode of life will be changed for   \
+\ the better because of new developments. /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
              :) ||----w |
                 ||     ||
-nltk score: 53 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: 44 '(from -100..100) state: 'good' eye: oo tongue: :)
 
 </pre>
 
@@ -117,8 +117,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 550 </th></tr>
 </table>
 <br>
-old_date:  2023-04-17 00:44:44.163640 now: 2023-04-19 00:58:44.937463
-pyasmtool stars changed from: 306 to: 308
     </pre>
   </td>
 </table>
