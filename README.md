@@ -1,18 +1,21 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Wed Apr 26 00:44:13 UTC 2023
+Thu Apr 27 00:47:33 UTC 2023
 
 <pre>
 
- _______________________________________
-/ Excellent day for putting Slinkies on \
-\ an escalator.                         /
- ---------------------------------------
+ ________________________________________
+/ Hain't we got all the fools in town on \
+| our side? And hain't that a big enough |
+| majority in any town?                  |
+|                                        |
+\ -- Mark Twain, "Huckleberry Finn"      /
+ ----------------------------------------
         \   ^__^
-         \  (oo)\_______
+         \  (!!)\_______
             (__)\       )\/\
-             :) ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 57 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: -55 '(from -100..100) state: 'bad' eye: !! tongue: :(
 
 </pre>
 
