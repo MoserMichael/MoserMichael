@@ -1,19 +1,20 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Fri Apr 28 00:46:52 UTC 2023
+Sat Apr 29 00:43:04 UTC 2023
 
 <pre>
 
  _________________________________________
-/ He hath eaten me out of house and home. \
+/ Seeing that death, a necessary end,     \
+| Will come when it will come.            |
 |                                         |
-\ -- William Shakespeare, "Henry IV"      /
+\ -- William Shakespeare, "Julius Caesar" /
  -----------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (~~)\_______
             (__)\       )\/\
-             -- ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: -60 '(from -100..100) state: 'very bad' eye: ~~ tongue: :(
 
 </pre>
 
