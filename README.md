@@ -1,11 +1,12 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Tue May  2 00:45:18 UTC 2023
+Wed May  3 00:44:04 UTC 2023
 
 <pre>
 
- ____________________________
-< Just to have it is enough. >
- ----------------------------
+ ________________________________________
+/ Q: Why did the WASP cross the road? A: \
+\ To get to the middle.                  /
+ ----------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
@@ -117,8 +118,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 550 </th></tr>
 </table>
 <br>
-old_date:  2023-04-19 00:58:44.937636 now: 2023-05-02 00:45:31.543352
-awesome-k8s-resources new project. stars: 0
     </pre>
   </td>
 </table>
