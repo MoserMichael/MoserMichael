@@ -1,17 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Fri May  5 00:40:56 UTC 2023
+Sat May  6 00:41:16 UTC 2023
 
 <pre>
 
- _______________________
-< Blow it out your ear. >
- -----------------------
+ ________________________________________
+/ Expect a letter from a friend who will \
+\ ask a favor of you.                    /
+ ----------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (OO)\_______
             (__)\       )\/\
-             -- ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 71 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
@@ -117,8 +118,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 551 </th></tr>
 </table>
 <br>
-old_date:  2023-05-02 00:45:31.543538 now: 2023-05-05 00:41:11.518234
-duckduckbang stars changed from: 35 to: 36
     </pre>
   </td>
 </table>
