@@ -1,18 +1,21 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sat May  6 00:41:16 UTC 2023
+Sun May  7 00:46:29 UTC 2023
 
 <pre>
 
  ________________________________________
-/ Expect a letter from a friend who will \
-\ ask a favor of you.                    /
+/ ... A solemn, unsmiling, sanctimonious \
+| old iceberg who looked like he was     |
+| waiting for a vacancy in the Trinity.  |
+|                                        |
+\ -- Mark Twain                          /
  ----------------------------------------
         \   ^__^
-         \  (OO)\_______
+         \  (oo)\_______
             (__)\       )\/\
              :) ||----w |
                 ||     ||
-nltk score: 71 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: 30 '(from -100..100) state: 'good' eye: oo tongue: :)
 
 </pre>
 
@@ -98,7 +101,6 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/subb">subb</a></td><td>1</td><td>Python</td><td>a wrapper module for python subprocess</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/teach-your-children-well">teach-your-children-well</a></td><td>1</td><td>Python</td><td>Telling stories in simple English, so that I have something to tell to my kids during the summer vacation</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/vimcrypt2">vimcrypt2</a></td><td>1</td><td>Vim script</td><td>Advanced vim plugin to encrypt files with openssl</td></tr>
-<tr><td><a href="https://github.com/MoserMichael/awesome-k8s-resources">awesome-k8s-resources</a></td><td>0</td><td>None</td><td>A curated list of awesome Kubernetes tools and resources.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/bloxroutehomework">bloxroutehomework</a></td><td>0</td><td>C++</td><td>assignment for bloxroute interview</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/devgoodies">devgoodies</a></td><td>0</td><td>Vim script</td><td>Vim plugin - useful commands for editing code.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/download-artifacts">download-artifacts</a></td><td>0</td><td>Shell</td><td>bash script for downloading the artifacts of the latest release for a given github repo of a given user.</td></tr>
@@ -118,6 +120,7 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 551 </th></tr>
 </table>
 <br>
+old_date:  2023-05-05 00:41:11.518612 now: 2023-05-07 00:46:41.895739
     </pre>
   </td>
 </table>
