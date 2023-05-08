@@ -1,21 +1,19 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sun May  7 00:46:29 UTC 2023
+Mon May  8 00:43:08 UTC 2023
 
 <pre>
 
- ________________________________________
-/ ... A solemn, unsmiling, sanctimonious \
-| old iceberg who looked like he was     |
-| waiting for a vacancy in the Trinity.  |
-|                                        |
-\ -- Mark Twain                          /
- ----------------------------------------
+ _______________________________________
+/ You can create your own opportunities \
+| this week. Blackmail a senior         |
+\ executive.                            /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
              :) ||----w |
                 ||     ||
-nltk score: 30 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: 57 '(from -100..100) state: 'good' eye: oo tongue: :)
 
 </pre>
 
@@ -120,7 +118,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 551 </th></tr>
 </table>
 <br>
-old_date:  2023-05-05 00:41:11.518612 now: 2023-05-07 00:46:41.895739
     </pre>
   </td>
 </table>
