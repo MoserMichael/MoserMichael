@@ -1,18 +1,39 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Tue May  9 00:44:52 UTC 2023
+Wed May 10 00:44:08 UTC 2023
 
 <pre>
 
- ______________________________________
-/ Don't tell any big lies today. Small \
-\ ones can be just as effective.       /
- --------------------------------------
+ _______________________________________
+/ Q: What's the contour integral around \
+| Western Europe? A: Zero, because all  |
+| the Poles are in Eastern Europe!      |
+|                                       |
+| Addendum: Actually, there ARE some    |
+| Poles in Western Europe, but they     |
+|                                       |
+| are removable!                        |
+|                                       |
+| Q: An English mathematician (I forgot |
+| who) was asked by his                 |
+|                                       |
+| very religious colleague: Do you      |
+| believe in one God? A: Yes, up to     |
+| isomorphism!                          |
+|                                       |
+| Q: What is a compact city? A: It's a  |
+| city that can be guarded by finitely  |
+| many near-sighted                     |
+|                                       |
+| policemen!                            |
+|                                       |
+\ -- Peter Lax                          /
+ ---------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (OO)\_______
             (__)\       )\/\
-             -- ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: 8 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 66 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
@@ -117,8 +138,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 552 </th></tr>
 </table>
 <br>
-old_date:  2023-05-07 00:46:41.895991 now: 2023-05-09 00:45:04.128922
-s9k stars changed from: 15 to: 16
     </pre>
   </td>
 </table>
