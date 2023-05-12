@@ -1,18 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Thu May 11 00:44:04 UTC 2023
+Fri May 12 00:44:21 UTC 2023
 
 <pre>
 
- _________________________________________
-/ People are beginning to notice you. Try \
-\ dressing before you leave the house.    /
- -----------------------------------------
+ ________________________________________
+/ You are sick, twisted and perverted. I \
+\ like that in a person.                 /
+ ----------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (~~)\_______
             (__)\       )\/\
-             -- ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: -5 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: -65 '(from -100..100) state: 'very bad' eye: ~~ tongue: :(
 
 </pre>
 
@@ -117,8 +117,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 553 </th></tr>
 </table>
 <br>
-old_date:  2023-05-09 00:45:04.129100 now: 2023-05-11 00:44:20.807485
-pyasmtool stars changed from: 308 to: 309
     </pre>
   </td>
 </table>
