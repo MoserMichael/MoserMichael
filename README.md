@@ -1,18 +1,21 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Fri May 12 00:44:21 UTC 2023
+Sat May 13 00:42:15 UTC 2023
 
 <pre>
 
  ________________________________________
-/ You are sick, twisted and perverted. I \
-\ like that in a person.                 /
+/ Q: Why does Washington have the most   \
+| lawyers per capita and                 |
+|                                        |
+| New Jersey the most toxic waste dumps? |
+\ A: God gave New Jersey first choice.   /
  ----------------------------------------
         \   ^__^
          \  (~~)\_______
             (__)\       )\/\
              :( ||----w |
                 ||     ||
-nltk score: -65 '(from -100..100) state: 'very bad' eye: ~~ tongue: :(
+nltk score: -72 '(from -100..100) state: 'very bad' eye: ~~ tongue: :(
 
 </pre>
 
