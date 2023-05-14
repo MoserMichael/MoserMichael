@@ -1,21 +1,29 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sat May 13 00:42:15 UTC 2023
+Sun May 14 00:46:50 UTC 2023
 
 <pre>
 
- ________________________________________
-/ Q: Why does Washington have the most   \
-| lawyers per capita and                 |
-|                                        |
-| New Jersey the most toxic waste dumps? |
-\ A: God gave New Jersey first choice.   /
- ----------------------------------------
+ _________________________________________
+/ For the fashion of Minas Tirith was     \
+| such that it was built on seven levels, |
+| each delved into a hill, and about each |
+| was set a wall, and in each wall was a  |
+| gate.                                   |
+|                                         |
+| -- J.R.R. Tolkien, "The Return of the   |
+| King"                                   |
+|                                         |
+| [Quoted in "VMS Internals and Data      |
+| Structures", V4.4, when                 |
+|                                         |
+\ referring to system overview.]          /
+ -----------------------------------------
         \   ^__^
-         \  (~~)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :( ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: -72 '(from -100..100) state: 'very bad' eye: ~~ tongue: :(
+nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
