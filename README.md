@@ -1,22 +1,11 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sun May 14 00:46:50 UTC 2023
+Mon May 15 00:45:52 UTC 2023
 
 <pre>
 
  _________________________________________
-/ For the fashion of Minas Tirith was     \
-| such that it was built on seven levels, |
-| each delved into a hill, and about each |
-| was set a wall, and in each wall was a  |
-| gate.                                   |
-|                                         |
-| -- J.R.R. Tolkien, "The Return of the   |
-| King"                                   |
-|                                         |
-| [Quoted in "VMS Internals and Data      |
-| Structures", V4.4, when                 |
-|                                         |
-\ referring to system overview.]          /
+/ An exotic journey in downtown Newark is \
+\ in your future.                         /
  -----------------------------------------
         \   ^__^
          \  (..)\_______
