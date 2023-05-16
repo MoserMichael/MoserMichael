@@ -1,11 +1,13 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Mon May 15 00:45:52 UTC 2023
+Tue May 16 00:44:47 UTC 2023
 
 <pre>
 
  _________________________________________
-/ An exotic journey in downtown Newark is \
-\ in your future.                         /
+/ A light wife doth make a heavy husband. \
+|                                         |
+| -- Wm. Shakespeare, "The Merchant of    |
+\ Venice"                                 /
  -----------------------------------------
         \   ^__^
          \  (..)\_______
