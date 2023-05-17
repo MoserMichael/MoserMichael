@@ -1,20 +1,25 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Tue May 16 00:44:47 UTC 2023
+Wed May 17 00:48:13 UTC 2023
 
 <pre>
 
  _________________________________________
-/ A light wife doth make a heavy husband. \
+/ Q: What's the difference between the    \
+| 1950's and the 1980's? A: In the 80's,  |
+| a man walks into a drugstore and states |
+| loudly, "I'd                            |
 |                                         |
-| -- Wm. Shakespeare, "The Merchant of    |
-\ Venice"                                 /
+| like some condoms," and then, leaning   |
+| over the counter, whispers,             |
+|                                         |
+\ "and some cigarettes."                  /
  -----------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (oo)\_______
             (__)\       )\/\
-             -- ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 36 '(from -100..100) state: 'good' eye: oo tongue: :)
 
 </pre>
 
