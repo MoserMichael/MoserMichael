@@ -1,17 +1,19 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Thu May 18 00:43:51 UTC 2023
+Fri May 19 00:45:03 UTC 2023
 
 <pre>
 
- _______________________________
-< Be careful! Is it classified? >
- -------------------------------
+ _________________________________________
+/ You are scrupulously honest, frank, and \
+| straightforward. Therefore you have few |
+\ friends.                                /
+ -----------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (OO)\_______
             (__)\       )\/\
-             -- ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: 22 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 75 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
