@@ -1,19 +1,17 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Fri May 19 00:45:03 UTC 2023
+Sat May 20 00:42:23 UTC 2023
 
 <pre>
 
- _________________________________________
-/ You are scrupulously honest, frank, and \
-| straightforward. Therefore you have few |
-\ friends.                                /
- -----------------------------------------
+ _______________________________________
+< You will inherit millions of dollars. >
+ ---------------------------------------
         \   ^__^
-         \  (OO)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :) ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: 75 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
