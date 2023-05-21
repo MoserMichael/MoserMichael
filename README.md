@@ -1,17 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sat May 20 00:42:23 UTC 2023
+Sun May 21 00:47:58 UTC 2023
 
 <pre>
 
- _______________________________________
-< You will inherit millions of dollars. >
- ---------------------------------------
+ ______________________________________
+/ You have an unusual understanding of \
+\ the problems of human relationships. /
+ --------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (!!)\_______
             (__)\       )\/\
-             -- ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: -40 '(from -100..100) state: 'bad' eye: !! tongue: :(
 
 </pre>
 
