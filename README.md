@@ -1,17 +1,21 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Mon May 22 00:48:55 UTC 2023
+Tue May 23 00:45:54 UTC 2023
 
 <pre>
 
- _________________________________________
-< If you can read this, you're too close. >
- -----------------------------------------
+ _______________________________________
+/ The devil can cite Scripture for his  \
+| purpose.                              |
+|                                       |
+| -- William Shakespeare, "The Merchant |
+\ of Venice"                            /
+ ---------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (~~)\_______
             (__)\       )\/\
-             -- ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: -66 '(from -100..100) state: 'very bad' eye: ~~ tongue: :(
 
 </pre>
 
