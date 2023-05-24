@@ -1,21 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Tue May 23 00:45:54 UTC 2023
+Wed May 24 00:45:37 UTC 2023
 
 <pre>
 
- _______________________________________
-/ The devil can cite Scripture for his  \
-| purpose.                              |
-|                                       |
-| -- William Shakespeare, "The Merchant |
-\ of Venice"                            /
- ---------------------------------------
+ _____________________________________
+/ Beware of a tall blond man with one \
+\ black shoe.                         /
+ -------------------------------------
         \   ^__^
-         \  (~~)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :( ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: -66 '(from -100..100) state: 'very bad' eye: ~~ tongue: :(
+nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
