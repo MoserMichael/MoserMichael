@@ -1,12 +1,13 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Wed May 24 00:45:37 UTC 2023
+Thu May 25 00:44:13 UTC 2023
 
 <pre>
 
- _____________________________________
-/ Beware of a tall blond man with one \
-\ black shoe.                         /
- -------------------------------------
+ _________________
+/ A is for Apple. \
+|                 |
+\ -- Hester Pryne /
+ -----------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
