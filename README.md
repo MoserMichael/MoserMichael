@@ -1,25 +1,39 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Fri May 26 00:44:26 UTC 2023
+Sat May 27 00:46:22 UTC 2023
 
 <pre>
 
- _________________________________________
-/ The only people for me are the mad ones \
-| -- the ones who are mad to live, mad to |
-| talk, mad to be saved, desirous of      |
-| everything at the same time, the ones   |
-| who never yawn or say a commonplace     |
-| thing, but burn, burn, burn like        |
-| fabulous yellow Roman candles.          |
-|                                         |
-\ -- Jack Kerouac, "On the Road"          /
- -----------------------------------------
+ _______________________________________
+/ Q: What's the contour integral around \
+| Western Europe? A: Zero, because all  |
+| the Poles are in Eastern Europe!      |
+|                                       |
+| Addendum: Actually, there ARE some    |
+| Poles in Western Europe, but they     |
+|                                       |
+| are removable!                        |
+|                                       |
+| Q: An English mathematician (I forgot |
+| who) was asked by his                 |
+|                                       |
+| very religious colleague: Do you      |
+| believe in one God? A: Yes, up to     |
+| isomorphism!                          |
+|                                       |
+| Q: What is a compact city? A: It's a  |
+| city that can be guarded by finitely  |
+| many near-sighted                     |
+|                                       |
+| policemen!                            |
+|                                       |
+\ -- Peter Lax                          /
+ ---------------------------------------
         \   ^__^
          \  (OO)\_______
             (__)\       )\/\
              :) ||----w |
                 ||     ||
-nltk score: 61 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: 66 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
