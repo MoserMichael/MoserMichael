@@ -1,18 +1,20 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Mon May 29 00:47:12 UTC 2023
+Tue May 30 00:46:16 UTC 2023
 
 <pre>
 
- ________________________________________
-/ Executive ability is prominent in your \
-\ make-up.                               /
- ----------------------------------------
+ _______________________________________
+/ Kindness is a language which the deaf \
+| can hear and the blind can read.      |
+|                                       |
+\ -- Mark Twain                         /
+ ---------------------------------------
         \   ^__^
-         \  (oo)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :) ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: 56 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: 8 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
