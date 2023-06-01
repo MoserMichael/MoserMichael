@@ -17,9 +17,8 @@ Views:
 	Referrers:
 		Count: 112 Unique: 6 Url: Google
 
-repo: pyasmtool views: total: 99 unique:  39
+repo: pyasmtool views: total: 97 unique:  37
 Views:
-	 2023-05-17 00:00:00 total: 4 unique: 3
 	 2023-05-18 00:00:00 total: 2 unique: 2
 	 2023-05-19 00:00:00 total: 12 unique: 6
 	 2023-05-20 00:00:00 total: 10 unique: 5
@@ -32,13 +31,14 @@ Views:
 	 2023-05-28 00:00:00 total: 2 unique: 2
 	 2023-05-29 00:00:00 total: 4 unique: 1
 	 2023-05-30 00:00:00 total: 6 unique: 2
+	 2023-05-31 00:00:00 total: 2 unique: 2
 	Referrers:
-		Count: 5 Unique: 5 Url: Google
 		Count: 5 Unique: 2 Url: yandex.ru
+		Count: 4 Unique: 4 Url: Google
 		Count: 4 Unique: 4 Url: github.com
-		Count: 2 Unique: 1 Url: news.ycombinator.com
+		Count: 3 Unique: 2 Url: news.ycombinator.com
 
-repo: my-notes views: total: 62 unique:  4
+repo: my-notes views: total: 64 unique:  4
 Views:
 	 2023-05-18 00:00:00 total: 1 unique: 1
 	 2023-05-19 00:00:00 total: 4 unique: 1
@@ -46,13 +46,13 @@ Views:
 	 2023-05-23 00:00:00 total: 2 unique: 1
 	 2023-05-27 00:00:00 total: 25 unique: 2
 	 2023-05-28 00:00:00 total: 26 unique: 1
+	 2023-05-31 00:00:00 total: 2 unique: 1
 	Referrers:
 		Count: 2 Unique: 1 Url: Google
 		Count: 2 Unique: 1 Url: github.com
 
-repo: s9k views: total: 25 unique:  11
+repo: s9k views: total: 24 unique:  10
 Views:
-	 2023-05-17 00:00:00 total: 1 unique: 1
 	 2023-05-18 00:00:00 total: 6 unique: 2
 	 2023-05-22 00:00:00 total: 2 unique: 1
 	 2023-05-25 00:00:00 total: 10 unique: 2
@@ -60,37 +60,23 @@ Views:
 	 2023-05-27 00:00:00 total: 1 unique: 1
 	 2023-05-29 00:00:00 total: 2 unique: 1
 	Referrers:
-		Count: 15 Unique: 7 Url: Google
+		Count: 9 Unique: 5 Url: Google
 		Count: 2 Unique: 2 Url: github.com
 
-repo: roget-thesaurus-parser views: total: 22 unique:  9
+repo: vimcrypt2 views: total: 23 unique:  6
 Views:
-	 2023-05-17 00:00:00 total: 3 unique: 1
-	 2023-05-18 00:00:00 total: 6 unique: 1
-	 2023-05-23 00:00:00 total: 6 unique: 3
-	 2023-05-24 00:00:00 total: 3 unique: 3
-	 2023-05-25 00:00:00 total: 2 unique: 1
-	 2023-05-26 00:00:00 total: 2 unique: 1
+	 2023-05-18 00:00:00 total: 1 unique: 1
+	 2023-05-24 00:00:00 total: 5 unique: 1
+	 2023-05-25 00:00:00 total: 3 unique: 1
+	 2023-05-26 00:00:00 total: 1 unique: 1
+	 2023-05-28 00:00:00 total: 6 unique: 1
+	 2023-05-30 00:00:00 total: 4 unique: 1
+	 2023-05-31 00:00:00 total: 3 unique: 1
 	Referrers:
 		Count: 7 Unique: 2 Url: Google
-		Count: 1 Unique: 1 Url: pypi.org
-		Count: 1 Unique: 1 Url: github.com
+		Count: 1 Unique: 1 Url: vim.org
 
-repo: cppcombinator views: total: 20 unique:  8
-Views:
-	 2023-05-17 00:00:00 total: 1 unique: 1
-	 2023-05-18 00:00:00 total: 1 unique: 1
-	 2023-05-19 00:00:00 total: 1 unique: 1
-	 2023-05-20 00:00:00 total: 2 unique: 1
-	 2023-05-24 00:00:00 total: 5 unique: 1
-	 2023-05-26 00:00:00 total: 2 unique: 1
-	 2023-05-28 00:00:00 total: 1 unique: 1
-	 2023-05-30 00:00:00 total: 7 unique: 1
-	Referrers:
-		Count: 5 Unique: 1 Url: Google
-		Count: 3 Unique: 2 Url: github.com
-
-repo: MoserMichael views: total: 20 unique:  1
+repo: MoserMichael views: total: 22 unique:  1
 Views:
 	 2023-05-19 00:00:00 total: 2 unique: 1
 	 2023-05-20 00:00:00 total: 2 unique: 1
@@ -101,21 +87,23 @@ Views:
 	 2023-05-27 00:00:00 total: 2 unique: 1
 	 2023-05-29 00:00:00 total: 2 unique: 1
 	 2023-05-30 00:00:00 total: 4 unique: 1
+	 2023-05-31 00:00:00 total: 2 unique: 1
 	Referrers:
 		Count: 2 Unique: 1 Url: github.com
 
-repo: vimcrypt2 views: total: 20 unique:  6
+repo: cstuff views: total: 20 unique:  7
 Views:
-	 2023-05-18 00:00:00 total: 1 unique: 1
-	 2023-05-24 00:00:00 total: 5 unique: 1
-	 2023-05-25 00:00:00 total: 3 unique: 1
-	 2023-05-26 00:00:00 total: 1 unique: 1
-	 2023-05-28 00:00:00 total: 6 unique: 1
-	 2023-05-30 00:00:00 total: 4 unique: 1
+	 2023-05-20 00:00:00 total: 1 unique: 1
+	 2023-05-23 00:00:00 total: 4 unique: 2
+	 2023-05-24 00:00:00 total: 1 unique: 1
+	 2023-05-26 00:00:00 total: 6 unique: 1
+	 2023-05-30 00:00:00 total: 3 unique: 2
+	 2023-05-31 00:00:00 total: 5 unique: 1
 	Referrers:
 		Count: 7 Unique: 2 Url: Google
+		Count: 2 Unique: 1 Url: mosermichael.github.io
 
-repo: python-obj-system views: total: 19 unique:  12
+repo: python-obj-system views: total: 20 unique:  13
 Views:
 	 2023-05-18 00:00:00 total: 1 unique: 1
 	 2023-05-19 00:00:00 total: 2 unique: 1
@@ -127,19 +115,42 @@ Views:
 	 2023-05-27 00:00:00 total: 2 unique: 1
 	 2023-05-28 00:00:00 total: 2 unique: 2
 	 2023-05-30 00:00:00 total: 5 unique: 1
+	 2023-05-31 00:00:00 total: 1 unique: 1
 	Referrers:
-		Count: 6 Unique: 5 Url: github.com
+		Count: 5 Unique: 4 Url: github.com
+		Count: 4 Unique: 1 Url: news.ycombinator.com
 		Count: 1 Unique: 1 Url: reddit.com
 
-repo: cstuff views: total: 15 unique:  6
+repo: roget-thesaurus-parser views: total: 20 unique:  9
 Views:
-	 2023-05-20 00:00:00 total: 1 unique: 1
-	 2023-05-23 00:00:00 total: 4 unique: 2
-	 2023-05-24 00:00:00 total: 1 unique: 1
-	 2023-05-26 00:00:00 total: 6 unique: 1
-	 2023-05-30 00:00:00 total: 3 unique: 2
+	 2023-05-18 00:00:00 total: 6 unique: 1
+	 2023-05-23 00:00:00 total: 6 unique: 3
+	 2023-05-24 00:00:00 total: 3 unique: 3
+	 2023-05-25 00:00:00 total: 2 unique: 1
+	 2023-05-26 00:00:00 total: 2 unique: 1
+	 2023-05-31 00:00:00 total: 1 unique: 1
 	Referrers:
-		Count: 6 Unique: 1 Url: Google
+		Count: 1 Unique: 1 Url: pypi.org
+		Count: 1 Unique: 1 Url: Google
+		Count: 1 Unique: 1 Url: github.com
+
+repo: cppcombinator views: total: 19 unique:  7
+Views:
+	 2023-05-18 00:00:00 total: 1 unique: 1
+	 2023-05-19 00:00:00 total: 1 unique: 1
+	 2023-05-20 00:00:00 total: 2 unique: 1
+	 2023-05-24 00:00:00 total: 5 unique: 1
+	 2023-05-26 00:00:00 total: 2 unique: 1
+	 2023-05-28 00:00:00 total: 1 unique: 1
+	 2023-05-30 00:00:00 total: 7 unique: 1
+	Referrers:
+		Count: 12 Unique: 2 Url: Google
+		Count: 3 Unique: 2 Url: github.com
+
+repo: jq-illustrated views: total: 6 unique:  2
+Views:
+	 2023-05-18 00:00:00 total: 1 unique: 1
+	 2023-05-31 00:00:00 total: 5 unique: 1
 
 repo: teach-your-children-well views: total: 6 unique:  1
 Views:
@@ -156,23 +167,22 @@ Views:
 	Referrers:
 		Count: 2 Unique: 2 Url: yandex.ru
 
-repo: duckduckbang views: total: 4 unique:  3
+repo: zipit views: total: 5 unique:  5
 Views:
-	 2023-05-17 00:00:00 total: 1 unique: 1
+	 2023-05-18 00:00:00 total: 1 unique: 1
+	 2023-05-29 00:00:00 total: 1 unique: 1
+	 2023-05-30 00:00:00 total: 1 unique: 1
+	 2023-05-31 00:00:00 total: 2 unique: 2
+	Referrers:
+		Count: 2 Unique: 2 Url: Google
+
+repo: duckduckbang views: total: 3 unique:  2
+Views:
 	 2023-05-24 00:00:00 total: 2 unique: 1
 	 2023-05-27 00:00:00 total: 1 unique: 1
 	Referrers:
 		Count: 2 Unique: 1 Url: github.com
 		Count: 1 Unique: 1 Url: Google
-
-repo: zipit views: total: 4 unique:  4
-Views:
-	 2023-05-17 00:00:00 total: 1 unique: 1
-	 2023-05-18 00:00:00 total: 1 unique: 1
-	 2023-05-29 00:00:00 total: 1 unique: 1
-	 2023-05-30 00:00:00 total: 1 unique: 1
-	Referrers:
-		Count: 2 Unique: 2 Url: Google
 
 repo: kind-helper views: total: 3 unique:  1
 Views:
@@ -217,9 +227,9 @@ Views:
 	Referrers:
 		Count: 1 Unique: 1 Url: Google
 
-repo: jq-illustrated views: total: 1 unique:  1
+repo: kwchecker views: total: 1 unique:  1
 Views:
-	 2023-05-18 00:00:00 total: 1 unique: 1
+	 2023-05-31 00:00:00 total: 1 unique: 1
 
 repo: myenv views: total: 1 unique:  1
 Views:
@@ -231,9 +241,15 @@ repo: pprintex views: total: 1 unique:  1
 Views:
 	 2023-05-28 00:00:00 total: 1 unique: 1
 
+repo: printb views: total: 1 unique:  1
+Views:
+	 2023-05-31 00:00:00 total: 1 unique: 1
+
 repo: rzgrep views: total: 1 unique:  1
 Views:
 	 2023-05-30 00:00:00 total: 1 unique: 1
+	Referrers:
+		Count: 1 Unique: 1 Url: Google
 
 repo: subb views: total: 1 unique:  1
 Views:
@@ -259,13 +275,9 @@ repo: grpc-spring-boot-starter-utils views: total: 0 unique:  0
 
 repo: k8explain views: total: 0 unique:  0
 
-repo: kwchecker views: total: 0 unique:  0
-
 repo: microsofthomework views: total: 0 unique:  0
 
 repo: opinionated-fortune-cow views: total: 0 unique:  0
-
-repo: printb views: total: 0 unique:  0
 
 repo: pygamewrap views: total: 0 unique:  0
 
@@ -275,4 +287,4 @@ repo: visual-python-strace views: total: 0 unique:  0
 
 
 ***
-Total views: 452
+Total views: 466

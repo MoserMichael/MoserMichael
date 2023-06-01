@@ -1,12 +1,15 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Wed May 31 00:52:52 UTC 2023
+Thu Jun  1 01:02:47 UTC 2023
 
 <pre>
 
- _________________________________________
-/ Don't look now, but there is a          \
-\ multi-legged creature on your shoulder. /
- -----------------------------------------
+ _____________________________________
+/ Many a writer seems to think he is  \
+| never profound except when he can't |
+| understand his own meaning.         |
+|                                     |
+\ -- George D. Prentice               /
+ -------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
