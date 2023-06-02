@@ -1,21 +1,20 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Thu Jun  1 01:02:47 UTC 2023
+Fri Jun  2 00:53:13 UTC 2023
 
 <pre>
 
- _____________________________________
-/ Many a writer seems to think he is  \
-| never profound except when he can't |
-| understand his own meaning.         |
-|                                     |
-\ -- George D. Prentice               /
- -------------------------------------
+ ________________________________________
+/ The very ink with which all history is \
+| written is merely fluid prejudice.     |
+|                                        |
+\ -- Mark Twain                          /
+ ----------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (!!)\_______
             (__)\       )\/\
-             -- ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: -51 '(from -100..100) state: 'bad' eye: !! tongue: :(
 
 </pre>
 
