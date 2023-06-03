@@ -1,20 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Fri Jun  2 00:53:13 UTC 2023
+Sat Jun  3 00:50:43 UTC 2023
 
 <pre>
 
- ________________________________________
-/ The very ink with which all history is \
-| written is merely fluid prejudice.     |
-|                                        |
-\ -- Mark Twain                          /
- ----------------------------------------
+ ___________________________________
+/ Life is to you a dashing and bold \
+\ adventure.                        /
+ -----------------------------------
         \   ^__^
-         \  (!!)\_______
+         \  (OO)\_______
             (__)\       )\/\
-             :( ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: -51 '(from -100..100) state: 'bad' eye: !! tongue: :(
+nltk score: 60 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
