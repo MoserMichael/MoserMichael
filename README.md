@@ -1,18 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sat Jun  3 00:50:43 UTC 2023
+Sun Jun  4 00:59:17 UTC 2023
 
 <pre>
 
- ___________________________________
-/ Life is to you a dashing and bold \
-\ adventure.                        /
- -----------------------------------
+ _________________________________________
+/ It may or may not be worthwhile, but it \
+\ still has to be done.                   /
+ -----------------------------------------
         \   ^__^
-         \  (OO)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :) ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: 60 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: -13 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
