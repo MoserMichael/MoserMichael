@@ -17,9 +17,8 @@ Views:
 	Referrers:
 		Count: 112 Unique: 6 Url: Google
 
-repo: pyasmtool views: total: 82 unique:  29
+repo: pyasmtool views: total: 75 unique:  28
 Views:
-	 2023-05-21 00:00:00 total: 9 unique: 3
 	 2023-05-22 00:00:00 total: 13 unique: 6
 	 2023-05-23 00:00:00 total: 12 unique: 4
 	 2023-05-24 00:00:00 total: 17 unique: 5
@@ -31,11 +30,30 @@ Views:
 	 2023-05-31 00:00:00 total: 2 unique: 2
 	 2023-06-01 00:00:00 total: 1 unique: 1
 	 2023-06-03 00:00:00 total: 8 unique: 1
+	 2023-06-04 00:00:00 total: 2 unique: 1
 	Referrers:
-		Count: 5 Unique: 5 Url: Google
+		Count: 11 Unique: 4 Url: Google
 		Count: 5 Unique: 5 Url: github.com
 		Count: 5 Unique: 2 Url: yandex.ru
 		Count: 3 Unique: 2 Url: news.ycombinator.com
+
+repo: vimcrypt2 views: total: 68 unique:  11
+Views:
+	 2023-05-24 00:00:00 total: 5 unique: 1
+	 2023-05-25 00:00:00 total: 3 unique: 1
+	 2023-05-26 00:00:00 total: 1 unique: 1
+	 2023-05-28 00:00:00 total: 6 unique: 1
+	 2023-05-30 00:00:00 total: 4 unique: 1
+	 2023-05-31 00:00:00 total: 3 unique: 1
+	 2023-06-01 00:00:00 total: 27 unique: 4
+	 2023-06-02 00:00:00 total: 11 unique: 3
+	 2023-06-03 00:00:00 total: 1 unique: 1
+	 2023-06-04 00:00:00 total: 7 unique: 1
+	Referrers:
+		Count: 10 Unique: 5 Url: vim.org
+		Count: 7 Unique: 2 Url: Google
+		Count: 4 Unique: 1 Url: ecosia.org
+		Count: 2 Unique: 1 Url: github.com
 
 repo: my-notes views: total: 65 unique:  3
 Views:
@@ -47,23 +65,6 @@ Views:
 	 2023-06-03 00:00:00 total: 6 unique: 1
 	Referrers:
 		Count: 2 Unique: 1 Url: Google
-		Count: 2 Unique: 1 Url: github.com
-
-repo: vimcrypt2 views: total: 61 unique:  11
-Views:
-	 2023-05-24 00:00:00 total: 5 unique: 1
-	 2023-05-25 00:00:00 total: 3 unique: 1
-	 2023-05-26 00:00:00 total: 1 unique: 1
-	 2023-05-28 00:00:00 total: 6 unique: 1
-	 2023-05-30 00:00:00 total: 4 unique: 1
-	 2023-05-31 00:00:00 total: 3 unique: 1
-	 2023-06-01 00:00:00 total: 27 unique: 4
-	 2023-06-02 00:00:00 total: 11 unique: 3
-	 2023-06-03 00:00:00 total: 1 unique: 1
-	Referrers:
-		Count: 9 Unique: 4 Url: vim.org
-		Count: 7 Unique: 2 Url: Google
-		Count: 4 Unique: 1 Url: ecosia.org
 		Count: 2 Unique: 1 Url: github.com
 
 repo: python-obj-system views: total: 31 unique:  14
@@ -79,12 +80,13 @@ Views:
 	 2023-06-01 00:00:00 total: 1 unique: 1
 	 2023-06-03 00:00:00 total: 14 unique: 3
 	Referrers:
-		Count: 6 Unique: 5 Url: github.com
+		Count: 9 Unique: 2 Url: Google
+		Count: 7 Unique: 6 Url: github.com
 		Count: 4 Unique: 1 Url: news.ycombinator.com
-		Count: 1 Unique: 1 Url: Google
+		Count: 3 Unique: 1 Url: gist.github.com
 		Count: 1 Unique: 1 Url: reddit.com
 
-repo: MoserMichael views: total: 20 unique:  1
+repo: MoserMichael views: total: 23 unique:  1
 Views:
 	 2023-05-22 00:00:00 total: 2 unique: 1
 	 2023-05-23 00:00:00 total: 2 unique: 1
@@ -95,6 +97,7 @@ Views:
 	 2023-05-31 00:00:00 total: 2 unique: 1
 	 2023-06-01 00:00:00 total: 2 unique: 1
 	 2023-06-02 00:00:00 total: 2 unique: 1
+	 2023-06-04 00:00:00 total: 3 unique: 1
 
 repo: s9k views: total: 20 unique:  10
 Views:
@@ -105,7 +108,7 @@ Views:
 	 2023-05-29 00:00:00 total: 2 unique: 1
 	 2023-06-02 00:00:00 total: 2 unique: 2
 	Referrers:
-		Count: 11 Unique: 7 Url: Google
+		Count: 9 Unique: 6 Url: Google
 		Count: 2 Unique: 2 Url: github.com
 
 repo: cstuff views: total: 19 unique:  6
@@ -147,7 +150,7 @@ Views:
 	 2023-05-30 00:00:00 total: 1 unique: 1
 	 2023-06-03 00:00:00 total: 8 unique: 2
 	Referrers:
-		Count: 2 Unique: 1 Url: github.com
+		Count: 7 Unique: 2 Url: github.com
 
 repo: duckduckbang views: total: 6 unique:  4
 Views:
@@ -155,8 +158,9 @@ Views:
 	 2023-05-27 00:00:00 total: 1 unique: 1
 	 2023-06-03 00:00:00 total: 3 unique: 2
 	Referrers:
-		Count: 2 Unique: 1 Url: github.com
+		Count: 4 Unique: 2 Url: github.com
 		Count: 1 Unique: 1 Url: Google
+		Count: 1 Unique: 1 Url: news.ycombinator.com
 
 repo: teach-your-children-well views: total: 6 unique:  1
 Views:
@@ -187,6 +191,14 @@ Views:
 	Referrers:
 		Count: 4 Unique: 4 Url: Google
 
+repo: jscriptparse views: total: 3 unique:  1
+Views:
+	 2023-05-27 00:00:00 total: 1 unique: 1
+	 2023-05-29 00:00:00 total: 1 unique: 1
+	 2023-06-04 00:00:00 total: 1 unique: 1
+	Referrers:
+		Count: 1 Unique: 1 Url: github.com
+
 repo: gitblame views: total: 2 unique:  2
 Views:
 	 2023-05-26 00:00:00 total: 1 unique: 1
@@ -194,13 +206,6 @@ Views:
 	Referrers:
 		Count: 1 Unique: 1 Url: Google
 		Count: 1 Unique: 1 Url: vim.org
-
-repo: jscriptparse views: total: 2 unique:  1
-Views:
-	 2023-05-27 00:00:00 total: 1 unique: 1
-	 2023-05-29 00:00:00 total: 1 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: github.com
 
 repo: kwchecker views: total: 2 unique:  2
 Views:
@@ -222,8 +227,10 @@ Views:
 repo: bloxroutehomework views: total: 1 unique:  1
 Views:
 	 2023-05-22 00:00:00 total: 1 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: Google
+
+repo: kind-helper views: total: 1 unique:  1
+Views:
+	 2023-06-04 00:00:00 total: 1 unique: 1
 
 repo: pprintex views: total: 1 unique:  1
 Views:
@@ -271,8 +278,6 @@ repo: grpc-spring-boot-starter-utils views: total: 0 unique:  0
 
 repo: k8explain views: total: 0 unique:  0
 
-repo: kind-helper views: total: 0 unique:  0
-
 repo: microsofthomework views: total: 0 unique:  0
 
 repo: myenv views: total: 0 unique:  0
@@ -285,4 +290,4 @@ repo: visual-python-strace views: total: 0 unique:  0
 
 
 ***
-Total views: 492
+Total views: 497
