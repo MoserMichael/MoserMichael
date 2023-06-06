@@ -1,18 +1,23 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Mon Jun  5 00:53:15 UTC 2023
+Tue Jun  6 00:54:18 UTC 2023
 
 <pre>
 
- _________________________________________
-/ An avocado-tone refrigerator would look \
-\ good on your resume.                    /
- -----------------------------------------
+ _____________________________________
+/ Remark of Dr. Baldwin's concerning  \
+| upstarts: We don't care to eat      |
+| toadstools that think they are      |
+| truffles.                           |
+|                                     |
+| -- Mark Twain, "Pudd'nhead Wilson's |
+\ Calendar"                           /
+ -------------------------------------
         \   ^__^
-         \  (oo)\_______
+         \  (!!)\_______
             (__)\       )\/\
-             :) ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 44 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: -39 '(from -100..100) state: 'bad' eye: !! tongue: :(
 
 </pre>
 
