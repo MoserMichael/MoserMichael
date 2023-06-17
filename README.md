@@ -1,17 +1,19 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Fri Jun 16 00:51:32 UTC 2023
+Sat Jun 17 00:47:20 UTC 2023
 
 <pre>
 
- __________________________________
-< You will pass away very quickly. >
- ----------------------------------
+ ________________________________________
+/ Q: Why did the lone ranger kill Tonto? \
+| A: He found out what "kimosabe" really |
+\ means.                                 /
+ ----------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (~~)\_______
             (__)\       )\/\
-             -- ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: -78 '(from -100..100) state: 'very bad' eye: ~~ tongue: :(
 
 </pre>
 
@@ -116,8 +118,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 554 </th></tr>
 </table>
 <br>
-old_date:  2023-05-11 00:44:20.807702 now: 2023-06-16 00:51:48.098999
-pyasmtool stars changed from: 309 to: 310
     </pre>
   </td>
 </table>
