@@ -1,17 +1,21 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Mon Jun 19 00:50:13 UTC 2023
+Tue Jun 20 00:48:51 UTC 2023
 
 <pre>
 
  ________________________________________
-< Courage is your greatest present need. >
+/ Q: Why should you always serve a       \
+| Southern Carolina football man         |
+|                                        |
+| soup in a plate? A: 'Cause if you give |
+\ him a bowl, he'll throw it away.       /
  ----------------------------------------
         \   ^__^
-         \  (OO)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :) ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: 81 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
@@ -116,8 +120,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 555 </th></tr>
 </table>
 <br>
-old_date:  2023-06-16 00:51:48.099382 now: 2023-06-19 00:50:25.800011
-flagged-hn stars changed from: 2 to: 3
     </pre>
   </td>
 </table>
