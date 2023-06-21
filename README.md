@@ -1,15 +1,12 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Tue Jun 20 00:48:51 UTC 2023
+Wed Jun 21 00:52:13 UTC 2023
 
 <pre>
 
- ________________________________________
-/ Q: Why should you always serve a       \
-| Southern Carolina football man         |
-|                                        |
-| soup in a plate? A: 'Cause if you give |
-\ him a bowl, he'll throw it away.       /
- ----------------------------------------
+ ______________________________________
+/ You will be the last person to buy a \
+\ Chrysler.                            /
+ --------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
