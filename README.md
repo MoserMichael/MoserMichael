@@ -1,18 +1,31 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Wed Jun 21 00:52:13 UTC 2023
+Thu Jun 22 00:50:42 UTC 2023
 
 <pre>
 
- ______________________________________
-/ You will be the last person to buy a \
-\ Chrysler.                            /
- --------------------------------------
+ _________________________________________
+/ Q: How many journalists does it take to \
+| screw in a light bulb? A: Three. One to |
+| report it as an inspired government     |
+| program to bring                        |
+|                                         |
+| light to the people, one to report it   |
+| as a diabolical government plot         |
+|                                         |
+| to deprive the poor of darkness, and    |
+| one to win a Pulitzer prize for         |
+|                                         |
+| reporting that Electric Company hired a |
+| light bulb-assassin to break            |
+|                                         |
+\ the bulb in the first place.            /
+ -----------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (oo)\_______
             (__)\       )\/\
-             -- ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 40 '(from -100..100) state: 'good' eye: oo tongue: :)
 
 </pre>
 
