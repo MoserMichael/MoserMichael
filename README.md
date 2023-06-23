@@ -1,31 +1,22 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Thu Jun 22 00:50:42 UTC 2023
+Fri Jun 23 00:56:56 UTC 2023
 
 <pre>
 
  _________________________________________
-/ Q: How many journalists does it take to \
-| screw in a light bulb? A: Three. One to |
-| report it as an inspired government     |
-| program to bring                        |
+/ Q: Know what the difference between     \
+| your latest project                     |
 |                                         |
-| light to the people, one to report it   |
-| as a diabolical government plot         |
-|                                         |
-| to deprive the poor of darkness, and    |
-| one to win a Pulitzer prize for         |
-|                                         |
-| reporting that Electric Company hired a |
-| light bulb-assassin to break            |
-|                                         |
-\ the bulb in the first place.            /
+| and putting wings on an elephant is? A: |
+| Who knows? The elephant *might* fly,    |
+\ heh, heh...                             /
  -----------------------------------------
         \   ^__^
-         \  (oo)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :) ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: 40 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: -24 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
