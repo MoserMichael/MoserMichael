@@ -1,22 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Fri Jun 23 00:56:56 UTC 2023
+Sat Jun 24 00:58:50 UTC 2023
 
 <pre>
 
- _________________________________________
-/ Q: Know what the difference between     \
-| your latest project                     |
-|                                         |
-| and putting wings on an elephant is? A: |
-| Who knows? The elephant *might* fly,    |
-\ heh, heh...                             /
- -----------------------------------------
+ _______________________________________
+/ You feel a whole lot more like you do \
+\ now than you did when you used to.    /
+ ---------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (oo)\_______
             (__)\       )\/\
-             -- ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: -24 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 42 '(from -100..100) state: 'good' eye: oo tongue: :)
 
 </pre>
 
@@ -83,7 +79,7 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/kind-helper">kind-helper</a></td><td>23</td><td>Python</td><td>Simplifies the creation of practical kubernetes test clusters with the kind utility.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/jq-illustrated">jq-illustrated</a></td><td>21</td><td>Shell</td><td>illustrated tutorial of jq (and the scripts that create it)</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/s9k">s9k</a></td><td>16</td><td>Python</td><td>dashboard/web app for managing kubernetes clusters, with similar functionality as k9s</td></tr>
-<tr><td><a href="https://github.com/MoserMichael/cstuff">cstuff</a></td><td>13</td><td>C</td><td>My C projects and old homepage:</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/cstuff">cstuff</a></td><td>12</td><td>C</td><td>My C projects and old homepage:</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/rzgrep">rzgrep</a></td><td>7</td><td>Go</td><td>grep utility that searches through zip,jar,ear,tgz,bz2 in any form of nesting; it can also decompile class files</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/ls-annotations">ls-annotations</a></td><td>6</td><td>Java</td><td>Show all declarations with java annotations by decompiling byte code.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/opinionated-fortune-cow">opinionated-fortune-cow</a></td><td>5</td><td>Shell</td><td>fortune | cow pipe that runs sentiment analysis on the fortune cookie, in order to determine the mood and expression of the cow</td></tr>
@@ -118,9 +114,11 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/vimcrypt">vimcrypt</a></td><td>0</td><td>Vim script</td><td>my vim plugin for encrypting/decryting text files with openssl</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/visual-python-strace">visual-python-strace</a></td><td>0</td><td>Python</td><td>show a very long stack trace with variable values.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/zipit">zipit</a></td><td>0</td><td>C++</td><td>c++ library for the equivalent of python/haskell zip function</td></tr>
-<tr><th>Total stars:</th><th colspan='2' align='left'> 555 </th></tr>
+<tr><th>Total stars:</th><th colspan='2' align='left'> 554 </th></tr>
 </table>
 <br>
+old_date:  2023-06-19 00:50:25.800225 now: 2023-06-24 00:59:10.300572
+cstuff stars changed from: 13 to: 12
     </pre>
   </td>
 </table>
