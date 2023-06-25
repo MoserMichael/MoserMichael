@@ -1,18 +1,23 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sat Jun 24 00:58:50 UTC 2023
+Sun Jun 25 01:02:20 UTC 2023
 
 <pre>
 
- _______________________________________
-/ You feel a whole lot more like you do \
-\ now than you did when you used to.    /
- ---------------------------------------
+ _________________________________________
+/ Q: How many bureaucrats does it take to \
+| screw in a light bulb? A: Two. One to   |
+| assure everyone that everything         |
+| possible is being                       |
+|                                         |
+| done while the other screws the bulb    |
+\ into the water faucet.                  /
+ -----------------------------------------
         \   ^__^
-         \  (oo)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :) ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: 42 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: -0 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
@@ -117,8 +122,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 554 </th></tr>
 </table>
 <br>
-old_date:  2023-06-19 00:50:25.800225 now: 2023-06-24 00:59:10.300572
-cstuff stars changed from: 13 to: 12
     </pre>
   </td>
 </table>
