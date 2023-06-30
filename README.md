@@ -1,20 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Wed Jun 28 00:58:50 UTC 2023
+Fri Jun 30 00:54:17 UTC 2023
 
 <pre>
 
- ________________________________________
-/ Alas, how love can trifle with itself! \
-|                                        |
-| -- William Shakespeare, "The Two       |
-\ Gentlemen of Verona"                   /
- ----------------------------------------
+ _________________________________________
+/ And do you think (fop that I am) that I \
+\ could be the Scarlet Pumpernickel?      /
+ -----------------------------------------
         \   ^__^
-         \  (oo)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :) ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: 53 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
