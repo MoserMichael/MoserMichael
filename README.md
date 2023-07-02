@@ -1,21 +1,11 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sat Jul  1 01:03:05 UTC 2023
+Sun Jul  2 00:58:50 UTC 2023
 
 <pre>
 
  _________________________________________
-/ Q: How many existentialists does it     \
-| take to screw in a light bulb? A: Two.  |
-| One to screw it in and one to observe   |
-| how the light bulb                      |
-|                                         |
-| itself symbolizes a single incandescent |
-| beacon of subjective                    |
-|                                         |
-| reality in a netherworld of endless     |
-| absurdity reaching out toward a         |
-|                                         |
-\ maudlin cosmos of nothingness.          /
+/ You will step on the night soil of many \
+\ countries.                              /
  -----------------------------------------
         \   ^__^
          \  (..)\_______
@@ -127,8 +117,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 553 </th></tr>
 </table>
 <br>
-old_date:  2023-06-24 00:59:10.300812 now: 2023-07-01 01:03:20.735370
-microsofthomework stars changed from: 1 to: 0
     </pre>
   </td>
 </table>
