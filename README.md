@@ -1,19 +1,22 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Tue Jul  4 00:58:02 UTC 2023
+Wed Jul  5 00:58:04 UTC 2023
 
 <pre>
 
- ________________________________________
-/ You can do very well in speculation    \
-| where land or anything to do with dirt |
-\ is concerned.                          /
- ----------------------------------------
+ _______________________________________
+/ One of the most striking differences  \
+| between a cat and a lie is that a cat |
+| has only nine lives.                  |
+|                                       |
+| -- Mark Twain, "Pudd'nhead Wilson's   |
+\ Calendar"                             /
+ ---------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
              -- ||----w |
                 ||     ||
-nltk score: -0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
@@ -118,8 +121,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 554 </th></tr>
 </table>
 <br>
-old_date:  2023-07-01 01:03:20.735592 now: 2023-07-04 00:58:18.225646
-pyasmtool stars changed from: 310 to: 311
     </pre>
   </td>
 </table>
