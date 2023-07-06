@@ -1,16 +1,12 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Wed Jul  5 00:58:04 UTC 2023
+Thu Jul  6 00:58:51 UTC 2023
 
 <pre>
 
- _______________________________________
-/ One of the most striking differences  \
-| between a cat and a lie is that a cat |
-| has only nine lives.                  |
-|                                       |
-| -- Mark Twain, "Pudd'nhead Wilson's   |
-\ Calendar"                             /
- ---------------------------------------
+ _________________________________________
+/ And do you think (fop that I am) that I \
+\ could be the Scarlet Pumpernickel?      /
+ -----------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
@@ -107,6 +103,7 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/follow-kube-logs">follow-kube-logs</a></td><td>0</td><td>Python</td><td>tail the log of all containers in all pods of a kubernetes deployment/replicaset/statefull set, for a limited time period. Interactive script: the user presses enter to stop logging.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/githubapitools">githubapitools</a></td><td>0</td><td>Python</td><td>tools that make use of the python github api, for fun and profit.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/github_pr_comments">github_pr_comments</a></td><td>0</td><td>Python</td><td>script that notifies if any of your PR's received  new/modified/deleted comment.</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/gittools">gittools</a></td><td>0</td><td>Python</td><td>get some sense out of the git log for a given repository.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/grpc-spring-boot-starter-utils">grpc-spring-boot-starter-utils</a></td><td>0</td><td>Java</td><td>grpc ServerInterceptor for logging of grpc request/response with exception handling, used with grpc-spring-boot-starter</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/jpa-enc-converter">jpa-enc-converter</a></td><td>0</td><td>Java</td><td>Example of handling the encryption/decryption of data at rest in an SQL table, by means of spring JPA/AttributeConverter</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/jscriptparse">jscriptparse</a></td><td>0</td><td>JavaScript</td><td>pyx scripting language & REPL/Shell ; prs - javascript module for parser combinators</td></tr>
@@ -121,6 +118,8 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 554 </th></tr>
 </table>
 <br>
+old_date:  2023-07-04 00:58:18.226070 now: 2023-07-06 00:59:06.233278
+gittools new project. stars: 0
     </pre>
   </td>
 </table>
