@@ -1,18 +1,31 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Thu Jul  6 00:58:51 UTC 2023
+Fri Jul  7 00:59:17 UTC 2023
 
 <pre>
 
  _________________________________________
-/ And do you think (fop that I am) that I \
-\ could be the Scarlet Pumpernickel?      /
+/ So she went into the garden to cut a    \
+| cabbage leaf to make an apple pie; and  |
+| at the same time a great she-bear,      |
+| coming up the street pops its head into |
+| the shop. "What! no soap?" So he died,  |
+| and she very imprudently married the    |
+| barber; and there were present the      |
+| Picninnies, and the Grand Panjandrum    |
+| himself, with the little round button   |
+| at top, and they all fell to playing    |
+| the game of catch as catch can, till    |
+| the gunpowder ran out at the heels of   |
+| their boots.                            |
+|                                         |
+\ -- Samuel Foote                         /
  -----------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (oo)\_______
             (__)\       )\/\
-             -- ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 42 '(from -100..100) state: 'good' eye: oo tongue: :)
 
 </pre>
 
@@ -72,7 +85,7 @@ My stuff here:
         <pre>
 
 <table><tr><th align='left'>Name</th><th align='left'>Stars</th><th align='left'>Language</th><th align='left'>description</th></tr>
-<tr><td><a href="https://github.com/MoserMichael/pyasmtool">pyasmtool</a></td><td>311</td><td>Python</td><td>Explores the python bytecode, provides some tools to access it for fun and profit.</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/pyasmtool">pyasmtool</a></td><td>310</td><td>Python</td><td>Explores the python bytecode, provides some tools to access it for fun and profit.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/python-obj-system">python-obj-system</a></td><td>61</td><td>Python</td><td>Tutorials on advanced python topics, and literate programming framework to write them (see README.md)</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/duckduckbang">duckduckbang</a></td><td>36</td><td>Python</td><td>Meta search page that utilises duckduckgo !bang query operators.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/cppcombinator">cppcombinator</a></td><td>23</td><td>C++</td><td>parser  combinator and AST generator in c++17</td></tr>
@@ -93,6 +106,7 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/pythoncourse">pythoncourse</a></td><td>2</td><td>Python</td><td>my notes on teaching the python programming language.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/docker-force-attach">docker-force-attach</a></td><td>1</td><td>Shell</td><td>script to attach shell to running docker container - even if there is no shell in the image</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/gitblame">gitblame</a></td><td>1</td><td>Vim Script</td><td>minimal vim plugin for working with git; with a focus on git blame and git grep commands</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/gittools">gittools</a></td><td>1</td><td>Python</td><td>get some sense out of the git log for a given repository.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/k8explain">k8explain</a></td><td>1</td><td>Go</td><td>golang exercise: produce a table of kubernetes api resources where each row is linked to an explanation</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/subb">subb</a></td><td>1</td><td>Python</td><td>a wrapper module for python subprocess</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/teach-your-children-well">teach-your-children-well</a></td><td>1</td><td>Python</td><td>Telling stories in simple English, so that I have something to tell to my kids during the summer vacation</td></tr>
@@ -103,7 +117,6 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/follow-kube-logs">follow-kube-logs</a></td><td>0</td><td>Python</td><td>tail the log of all containers in all pods of a kubernetes deployment/replicaset/statefull set, for a limited time period. Interactive script: the user presses enter to stop logging.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/githubapitools">githubapitools</a></td><td>0</td><td>Python</td><td>tools that make use of the python github api, for fun and profit.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/github_pr_comments">github_pr_comments</a></td><td>0</td><td>Python</td><td>script that notifies if any of your PR's received  new/modified/deleted comment.</td></tr>
-<tr><td><a href="https://github.com/MoserMichael/gittools">gittools</a></td><td>0</td><td>Python</td><td>get some sense out of the git log for a given repository.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/grpc-spring-boot-starter-utils">grpc-spring-boot-starter-utils</a></td><td>0</td><td>Java</td><td>grpc ServerInterceptor for logging of grpc request/response with exception handling, used with grpc-spring-boot-starter</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/jpa-enc-converter">jpa-enc-converter</a></td><td>0</td><td>Java</td><td>Example of handling the encryption/decryption of data at rest in an SQL table, by means of spring JPA/AttributeConverter</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/jscriptparse">jscriptparse</a></td><td>0</td><td>JavaScript</td><td>pyx scripting language & REPL/Shell ; prs - javascript module for parser combinators</td></tr>
@@ -118,8 +131,9 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 554 </th></tr>
 </table>
 <br>
-old_date:  2023-07-04 00:58:18.226070 now: 2023-07-06 00:59:06.233278
-gittools new project. stars: 0
+old_date:  2023-07-06 00:59:06.233518 now: 2023-07-07 00:59:29.553023
+pyasmtool stars changed from: 311 to: 310
+gittools stars changed from: 0 to: 1
     </pre>
   </td>
 </table>
