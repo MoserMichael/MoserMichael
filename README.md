@@ -1,31 +1,22 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Fri Jul  7 00:59:17 UTC 2023
+Sat Jul  8 00:57:26 UTC 2023
 
 <pre>
 
- _________________________________________
-/ So she went into the garden to cut a    \
-| cabbage leaf to make an apple pie; and  |
-| at the same time a great she-bear,      |
-| coming up the street pops its head into |
-| the shop. "What! no soap?" So he died,  |
-| and she very imprudently married the    |
-| barber; and there were present the      |
-| Picninnies, and the Grand Panjandrum    |
-| himself, with the little round button   |
-| at top, and they all fell to playing    |
-| the game of catch as catch can, till    |
-| the gunpowder ran out at the heels of   |
-| their boots.                            |
-|                                         |
-\ -- Samuel Foote                         /
- -----------------------------------------
+ ________________________________________
+/ Your manuscript is both good and       \
+| original, but the part that is good is |
+| not original and the part that is      |
+| original is not good.                  |
+|                                        |
+\ -- Samuel Johnson                      /
+ ----------------------------------------
         \   ^__^
-         \  (oo)\_______
+         \  (OO)\_______
             (__)\       )\/\
              :) ||----w |
                 ||     ||
-nltk score: 42 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: 95 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
@@ -95,9 +86,9 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/cstuff">cstuff</a></td><td>12</td><td>C</td><td>My C projects and old homepage:</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/rzgrep">rzgrep</a></td><td>7</td><td>Go</td><td>grep utility that searches through zip,jar,ear,tgz,bz2 in any form of nesting; it can also decompile class files</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/ls-annotations">ls-annotations</a></td><td>6</td><td>Java</td><td>Show all declarations with java annotations by decompiling byte code.</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/roget-thesaurus-parser">roget-thesaurus-parser</a></td><td>6</td><td>Python</td><td>parses Roget's thesaurus and provide API for querying related words</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/opinionated-fortune-cow">opinionated-fortune-cow</a></td><td>5</td><td>Shell</td><td>fortune | cow pipe that runs sentiment analysis on the fortune cookie, in order to determine the mood and expression of the cow</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/pythonimportplayground">pythonimportplayground</a></td><td>5</td><td>Python</td><td>the readme file explains python packages, with examples.</td></tr>
-<tr><td><a href="https://github.com/MoserMichael/roget-thesaurus-parser">roget-thesaurus-parser</a></td><td>5</td><td>Python</td><td>parses Roget's thesaurus and provide API for querying related words</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/myenv">myenv</a></td><td>4</td><td>Shell</td><td>my work environment (so i don't have to search for it ;-)</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/pygamewrap">pygamewrap</a></td><td>4</td><td>Python</td><td>A small wrapper toolkit that simplifies development with the pygame library (hopefully)</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/flagged-hn">flagged-hn</a></td><td>3</td><td>Python</td><td>crawl hn and build a page containing flagged stories only.</td></tr>
@@ -128,12 +119,11 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/vimcrypt">vimcrypt</a></td><td>0</td><td>Vim script</td><td>my vim plugin for encrypting/decryting text files with openssl</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/visual-python-strace">visual-python-strace</a></td><td>0</td><td>Python</td><td>show a very long stack trace with variable values.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/zipit">zipit</a></td><td>0</td><td>C++</td><td>c++ library for the equivalent of python/haskell zip function</td></tr>
-<tr><th>Total stars:</th><th colspan='2' align='left'> 554 </th></tr>
+<tr><th>Total stars:</th><th colspan='2' align='left'> 555 </th></tr>
 </table>
 <br>
-old_date:  2023-07-06 00:59:06.233518 now: 2023-07-07 00:59:29.553023
-pyasmtool stars changed from: 311 to: 310
-gittools stars changed from: 0 to: 1
+old_date:  2023-07-07 00:59:29.553239 now: 2023-07-08 00:57:39.617438
+roget-thesaurus-parser stars changed from: 5 to: 6
     </pre>
   </td>
 </table>
