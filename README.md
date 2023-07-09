@@ -1,22 +1,21 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sat Jul  8 00:57:26 UTC 2023
+Sun Jul  9 01:00:53 UTC 2023
 
 <pre>
 
- ________________________________________
-/ Your manuscript is both good and       \
-| original, but the part that is good is |
-| not original and the part that is      |
-| original is not good.                  |
-|                                        |
-\ -- Samuel Johnson                      /
- ----------------------------------------
+ ____________________________________
+/ Q: What does a WASP Mom make for   \
+| dinner? A: A crisp salad, a hearty |
+| soup, a lovely entree, followed by |
+|                                    |
+\ a delicious dessert.               /
+ ------------------------------------
         \   ^__^
          \  (OO)\_______
             (__)\       )\/\
              :) ||----w |
                 ||     ||
-nltk score: 95 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: 82 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
@@ -122,8 +121,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 555 </th></tr>
 </table>
 <br>
-old_date:  2023-07-07 00:59:29.553239 now: 2023-07-08 00:57:39.617438
-roget-thesaurus-parser stars changed from: 5 to: 6
     </pre>
   </td>
 </table>
