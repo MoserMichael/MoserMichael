@@ -1,26 +1,17 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Mon Jul 10 00:57:16 UTC 2023
+Tue Jul 11 00:52:09 UTC 2023
 
 <pre>
 
- _________________________________________
-/ I will honour Christmas in my heart,    \
-| and try to keep it all the year. I will |
-| live in the Past, the Present, and the  |
-| Future. The Spirits of all Three shall  |
-| strive within me. I will not shut out   |
-| the lessons that they teach. Oh, tell   |
-| me that I may sponge away the writing   |
-| on this stone!                          |
-|                                         |
-\ -- Charles Dickens                      /
- -----------------------------------------
+ ___________________
+< Are you a turtle? >
+ -------------------
         \   ^__^
-         \  (OO)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :) ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: 61 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
@@ -126,9 +117,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 554 </th></tr>
 </table>
 <br>
-old_date:  2023-07-08 00:57:39.617632 now: 2023-07-10 00:57:29.254224
-pyasmtool stars changed from: 310 to: 309
-dockerdashphp new project. stars: 0
     </pre>
   </td>
 </table>
