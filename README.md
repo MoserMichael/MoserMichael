@@ -1,11 +1,12 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Tue Jul 11 00:52:09 UTC 2023
+Wed Jul 12 00:57:04 UTC 2023
 
 <pre>
 
- ___________________
-< Are you a turtle? >
- -------------------
+ ______________________________________
+/ Q: What's a light-year? A: One-third \
+\ less calories than a regular year.   /
+ --------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
