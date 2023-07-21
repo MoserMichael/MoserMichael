@@ -1,18 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Thu Jul 20 00:49:22 UTC 2023
+Fri Jul 21 00:48:42 UTC 2023
 
 <pre>
 
- ______________________________________
-/ Q: Why did Menachem Begin invade     \
-\ Lebanon? A: To impress Jodie Foster. /
- --------------------------------------
+ _________________________________________
+/ It may or may not be worthwhile, but it \
+\ still has to be done.                   /
+ -----------------------------------------
         \   ^__^
-         \  (oo)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :) ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: 44 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: -13 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
@@ -118,8 +118,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 555 </th></tr>
 </table>
 <br>
-old_date:  2023-07-10 00:57:29.254422 now: 2023-07-20 00:49:36.645152
-python-obj-system stars changed from: 61 to: 62
     </pre>
   </td>
 </table>
