@@ -1,18 +1,17 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Mon Jul 24 00:51:20 UTC 2023
+Tue Jul 25 00:53:46 UTC 2023
 
 <pre>
 
- ______________________________________
-/ You like to form new friendships and \
-\ make new acquaintances.              /
- --------------------------------------
+ _________________________________________
+< If you can read this, you're too close. >
+ -----------------------------------------
         \   ^__^
-         \  (OO)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :) ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: 62 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
