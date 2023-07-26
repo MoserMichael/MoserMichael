@@ -1,17 +1,22 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Tue Jul 25 00:53:46 UTC 2023
+Wed Jul 26 00:51:27 UTC 2023
 
 <pre>
 
  _________________________________________
-< If you can read this, you're too close. >
+/ A hundred years from now it is very     \
+| likely that [of Twain's works] "The     |
+| Jumping Frog" alone will be remembered. |
+|                                         |
+| -- Harry Thurston Peck (Editor of "The  |
+\ Bookman"), January 1901.                /
  -----------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
              -- ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: -25 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
