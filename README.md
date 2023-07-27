@@ -1,22 +1,19 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Wed Jul 26 00:51:27 UTC 2023
+Thu Jul 27 00:43:32 UTC 2023
 
 <pre>
 
  _________________________________________
-/ A hundred years from now it is very     \
-| likely that [of Twain's works] "The     |
-| Jumping Frog" alone will be remembered. |
+/ This was the most unkindest cut of all. \
 |                                         |
-| -- Harry Thurston Peck (Editor of "The  |
-\ Bookman"), January 1901.                /
+\ -- William Shakespeare, "Julius Caesar" /
  -----------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (!!)\_______
             (__)\       )\/\
-             -- ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: -25 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: -34 '(from -100..100) state: 'bad' eye: !! tongue: :(
 
 </pre>
 

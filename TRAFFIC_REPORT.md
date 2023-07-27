@@ -20,10 +20,10 @@ Views:
 	 2023-07-24 00:00:00 total: 2 unique: 1
 	 2023-07-25 00:00:00 total: 4 unique: 2
 	Referrers:
-		Count: 24 Unique: 1 Url: news.ycombinator.com
-		Count: 22 Unique: 4 Url: github.com
+		Count: 26 Unique: 1 Url: news.ycombinator.com
+		Count: 15 Unique: 3 Url: github.com
 
-repo: s9k views: total: 40 unique:  22
+repo: s9k views: total: 41 unique:  23
 Views:
 	 2023-07-13 00:00:00 total: 2 unique: 1
 	 2023-07-15 00:00:00 total: 1 unique: 1
@@ -35,16 +35,16 @@ Views:
 	 2023-07-23 00:00:00 total: 2 unique: 1
 	 2023-07-24 00:00:00 total: 3 unique: 2
 	 2023-07-25 00:00:00 total: 1 unique: 1
+	 2023-07-26 00:00:00 total: 1 unique: 1
 	Referrers:
 		Count: 15 Unique: 1 Url: youtube.com
-		Count: 9 Unique: 8 Url: Google
+		Count: 8 Unique: 8 Url: Google
 		Count: 4 Unique: 4 Url: news.ycombinator.com
 		Count: 3 Unique: 2 Url: github.com
 		Count: 1 Unique: 1 Url: guillaumebiton.github.io
 
-repo: pyasmtool views: total: 37 unique:  20
+repo: pyasmtool views: total: 35 unique:  19
 Views:
-	 2023-07-12 00:00:00 total: 2 unique: 1
 	 2023-07-14 00:00:00 total: 2 unique: 1
 	 2023-07-16 00:00:00 total: 3 unique: 2
 	 2023-07-17 00:00:00 total: 3 unique: 2
@@ -57,7 +57,7 @@ Views:
 	 2023-07-24 00:00:00 total: 4 unique: 2
 	 2023-07-25 00:00:00 total: 8 unique: 4
 	Referrers:
-		Count: 10 Unique: 4 Url: Google
+		Count: 12 Unique: 5 Url: Google
 		Count: 4 Unique: 2 Url: news.ycombinator.com
 		Count: 3 Unique: 3 Url: github.com
 		Count: 2 Unique: 1 Url: mail.google.com
@@ -68,7 +68,7 @@ Views:
 	 2023-07-14 00:00:00 total: 2 unique: 1
 	 2023-07-25 00:00:00 total: 30 unique: 1
 	Referrers:
-		Count: 2 Unique: 1 Url: Google
+		Count: 32 Unique: 2 Url: Google
 
 repo: visual-python-strace views: total: 26 unique:  2
 Views:
@@ -82,6 +82,17 @@ Views:
 	 2023-07-24 00:00:00 total: 1 unique: 1
 	Referrers:
 		Count: 25 Unique: 3 Url: Google
+
+repo: MoserMichael views: total: 21 unique:  3
+Views:
+	 2023-07-18 00:00:00 total: 2 unique: 1
+	 2023-07-20 00:00:00 total: 2 unique: 1
+	 2023-07-21 00:00:00 total: 7 unique: 3
+	 2023-07-23 00:00:00 total: 4 unique: 1
+	 2023-07-24 00:00:00 total: 2 unique: 1
+	 2023-07-26 00:00:00 total: 4 unique: 1
+	Referrers:
+		Count: 2 Unique: 1 Url: Google
 
 repo: cppcombinator views: total: 20 unique:  2
 Views:
@@ -99,9 +110,9 @@ Views:
 	Referrers:
 		Count: 11 Unique: 11 Url: news.ycombinator.com
 		Count: 2 Unique: 2 Url: hn.premii.com
+		Count: 1 Unique: 1 Url: github.com
 		Count: 1 Unique: 1 Url: Google
 		Count: 1 Unique: 1 Url: guillaumebiton.github.io
-		Count: 1 Unique: 1 Url: github.com
 
 repo: cstuff views: total: 18 unique:  3
 Views:
@@ -110,7 +121,6 @@ Views:
 	 2023-07-21 00:00:00 total: 8 unique: 1
 	Referrers:
 		Count: 2 Unique: 1 Url: mosermichael.github.io
-		Count: 1 Unique: 1 Url: github.com
 
 repo: my-notes views: total: 18 unique:  2
 Views:
@@ -118,17 +128,7 @@ Views:
 	 2023-07-16 00:00:00 total: 13 unique: 1
 	 2023-07-17 00:00:00 total: 3 unique: 1
 	Referrers:
-		Count: 10 Unique: 2 Url: github.com
-
-repo: MoserMichael views: total: 17 unique:  3
-Views:
-	 2023-07-18 00:00:00 total: 2 unique: 1
-	 2023-07-20 00:00:00 total: 2 unique: 1
-	 2023-07-21 00:00:00 total: 7 unique: 3
-	 2023-07-23 00:00:00 total: 4 unique: 1
-	 2023-07-24 00:00:00 total: 2 unique: 1
-	Referrers:
-		Count: 2 Unique: 1 Url: Google
+		Count: 8 Unique: 1 Url: github.com
 
 repo: kind-helper views: total: 13 unique:  7
 Views:
@@ -142,7 +142,7 @@ Views:
 	 2023-07-24 00:00:00 total: 2 unique: 1
 	 2023-07-25 00:00:00 total: 1 unique: 1
 	Referrers:
-		Count: 7 Unique: 3 Url: github.com
+		Count: 8 Unique: 3 Url: github.com
 		Count: 1 Unique: 1 Url: Google
 		Count: 1 Unique: 1 Url: news.ycombinator.com
 
@@ -175,17 +175,9 @@ Views:
 	 2023-07-18 00:00:00 total: 1 unique: 1
 	 2023-07-21 00:00:00 total: 1 unique: 1
 	Referrers:
-		Count: 3 Unique: 3 Url: github.com
-		Count: 2 Unique: 2 Url: Google
+		Count: 2 Unique: 2 Url: github.com
 		Count: 1 Unique: 1 Url: news.ycombinator.com
-
-repo: gittools views: total: 6 unique:  1
-Views:
-	 2023-07-12 00:00:00 total: 2 unique: 1
-	 2023-07-14 00:00:00 total: 3 unique: 1
-	 2023-07-16 00:00:00 total: 1 unique: 1
-	Referrers:
-		Count: 4 Unique: 1 Url: github.com
+		Count: 1 Unique: 1 Url: Google
 
 repo: follow-kube-logs views: total: 5 unique:  1
 Views:
@@ -193,37 +185,45 @@ Views:
 	Referrers:
 		Count: 3 Unique: 1 Url: github.com
 
+repo: gittools views: total: 4 unique:  1
+Views:
+	 2023-07-14 00:00:00 total: 3 unique: 1
+	 2023-07-16 00:00:00 total: 1 unique: 1
+	Referrers:
+		Count: 4 Unique: 1 Url: github.com
+
 repo: download-artifacts views: total: 3 unique:  1
 Views:
 	 2023-07-24 00:00:00 total: 3 unique: 1
+
+repo: ls-annotations views: total: 3 unique:  3
+Views:
+	 2023-07-21 00:00:00 total: 2 unique: 2
+	 2023-07-26 00:00:00 total: 1 unique: 1
+
+repo: zipit views: total: 3 unique:  3
+Views:
+	 2023-07-17 00:00:00 total: 1 unique: 1
+	 2023-07-26 00:00:00 total: 2 unique: 2
+	Referrers:
+		Count: 1 Unique: 1 Url: Google
 
 repo: jscriptparse views: total: 2 unique:  2
 Views:
 	 2023-07-15 00:00:00 total: 1 unique: 1
 	 2023-07-19 00:00:00 total: 1 unique: 1
 
-repo: ls-annotations views: total: 2 unique:  2
-Views:
-	 2023-07-21 00:00:00 total: 2 unique: 2
-
 repo: pythonimportplayground views: total: 2 unique:  2
 Views:
 	 2023-07-13 00:00:00 total: 1 unique: 1
 	 2023-07-20 00:00:00 total: 1 unique: 1
 	Referrers:
-		Count: 2 Unique: 2 Url: Google
+		Count: 1 Unique: 1 Url: Google
 
 repo: vimcrypt views: total: 2 unique:  2
 Views:
 	 2023-07-17 00:00:00 total: 1 unique: 1
 	 2023-07-23 00:00:00 total: 1 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: Google
-
-repo: zipit views: total: 2 unique:  2
-Views:
-	 2023-07-12 00:00:00 total: 1 unique: 1
-	 2023-07-17 00:00:00 total: 1 unique: 1
 	Referrers:
 		Count: 1 Unique: 1 Url: Google
 
@@ -246,8 +246,6 @@ Views:
 repo: gitblame views: total: 1 unique:  1
 Views:
 	 2023-07-13 00:00:00 total: 1 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: github.com
 
 repo: printb views: total: 1 unique:  1
 Views:
@@ -287,4 +285,4 @@ repo: teach-your-children-well views: total: 0 unique:  0
 
 
 ***
-Total views: 383
+Total views: 386
