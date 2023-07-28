@@ -1,19 +1,19 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Thu Jul 27 00:43:32 UTC 2023
+Fri Jul 28 00:43:43 UTC 2023
 
 <pre>
 
  _________________________________________
-/ This was the most unkindest cut of all. \
+/ He hath eaten me out of house and home. \
 |                                         |
-\ -- William Shakespeare, "Julius Caesar" /
+\ -- William Shakespeare, "Henry IV"      /
  -----------------------------------------
         \   ^__^
-         \  (!!)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :( ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: -34 '(from -100..100) state: 'bad' eye: !! tongue: :(
+nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
