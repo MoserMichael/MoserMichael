@@ -1,19 +1,21 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Fri Jul 28 00:43:43 UTC 2023
+Sat Jul 29 00:44:46 UTC 2023
 
 <pre>
 
- _________________________________________
-/ He hath eaten me out of house and home. \
-|                                         |
-\ -- William Shakespeare, "Henry IV"      /
- -----------------------------------------
+ _______________________________________
+/ Sometimes I wonder if I'm in my right \
+| mind. Then it passes off and I'm as   |
+| intelligent as ever.                  |
+|                                       |
+\ -- Samuel Beckett, "Endgame"          /
+ ---------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (oo)\_______
             (__)\       )\/\
-             -- ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 46 '(from -100..100) state: 'good' eye: oo tongue: :)
 
 </pre>
 
