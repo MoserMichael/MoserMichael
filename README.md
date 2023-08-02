@@ -1,17 +1,19 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Tue Aug  1 00:51:35 UTC 2023
+Wed Aug  2 00:46:03 UTC 2023
 
 <pre>
 
- _______________________________________
-< Are you sure the back door is locked? >
- ---------------------------------------
+ ____________________________________
+/ You're currently going through a   \
+| difficult transition period called |
+\ "Life."                            /
+ ------------------------------------
         \   ^__^
-         \  (oo)\_______
+         \  (!!)\_______
             (__)\       )\/\
-             :) ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 32 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: -36 '(from -100..100) state: 'bad' eye: !! tongue: :(
 
 </pre>
 
