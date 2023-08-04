@@ -1,35 +1,21 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Thu Aug  3 00:45:48 UTC 2023
+Fri Aug  4 00:46:03 UTC 2023
 
 <pre>
 
- ________________________________________
-/ Q: How many elephants can you fit in a \
-| VW Bug? A: Four. Two in the front, two |
-| in the back.                           |
-|                                        |
-| Q: How can you tell if an elephant is  |
-| in your refrigerator? A: There's a     |
-| footprint in the mayo.                 |
-|                                        |
-| Q: How can you tell if two elephants   |
-| are in your refrigerator? A: There's   |
-| two footprints in the mayo.            |
-|                                        |
-| Q: How can you tell if three elephants |
-| are in your refrigerator? A: The door  |
-| won't shut.                            |
-|                                        |
-| Q: How can you tell if four elephants  |
-| are in your refrigerator? A: There's a |
-\ VW Bug in your driveway.               /
- ----------------------------------------
+ _______________________________________
+/ The lunatic, the lover, and the poet, \
+| Are of imagination all compact...     |
+|                                       |
+| -- Wm. Shakespeare, "A Midsummer      |
+\ Night's Dream"                        /
+ ---------------------------------------
         \   ^__^
-         \  (oo)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :) ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: 54 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: 15 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
