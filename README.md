@@ -1,23 +1,21 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sun Aug  6 00:41:53 UTC 2023
+Mon Aug  7 00:45:57 UTC 2023
 
 <pre>
 
- _________________________________________
-/  You will remember, Watson, how the     \
-| dreadful business of the Abernetty      |
-| family was first brought to my notice   |
-| by the depth which the parsley had sunk |
-| into the butter upon a hot day.         |
-|                                         |
-\ -- Sherlock Holmes                      /
- -----------------------------------------
+ _______________________________________
+/ Grief can take care of itself; but to \
+| get the full value of a joy you must  |
+| have somebody to divide it with.      |
+|                                       |
+\ -- Mark Twain                         /
+ ---------------------------------------
         \   ^__^
-         \  (!!)\_______
+         \  (OO)\_______
             (__)\       )\/\
-             :( ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: -44 '(from -100..100) state: 'bad' eye: !! tongue: :(
+nltk score: 85 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
