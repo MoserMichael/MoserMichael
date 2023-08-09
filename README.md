@@ -1,18 +1,12 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Tue Aug  8 00:44:37 UTC 2023
+Wed Aug  9 00:46:00 UTC 2023
 
 <pre>
 
- ______________________________________
-/ April 1                              \
-|                                      |
-| This is the day upon which we are    |
-| reminded of what we are on the other |
-| three hundred and sixty-four.        |
-|                                      |
-| -- Mark Twain, "Pudd'nhead Wilson's  |
-\ Calendar"                            /
- --------------------------------------
+ ________________________________________
+/ Q: Why did the WASP cross the road? A: \
+\ To get to the middle.                  /
+ ----------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
