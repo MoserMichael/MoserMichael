@@ -1,18 +1,20 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Wed Aug  9 00:46:00 UTC 2023
+Thu Aug 10 00:47:30 UTC 2023
 
 <pre>
 
- ________________________________________
-/ Q: Why did the WASP cross the road? A: \
-\ To get to the middle.                  /
- ----------------------------------------
+ _________________________________________
+/ Clothes make the man. Naked people have \
+| little or no influence on society.      |
+|                                         |
+\ -- Mark Twain                           /
+ -----------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
              -- ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: -23 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
