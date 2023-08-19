@@ -14,22 +14,20 @@ Views:
 	 2023-08-16 00:00:00 total: 12 unique: 1
 	 2023-08-17 00:00:00 total: 40 unique: 2
 	Referrers:
-		Count: 117 Unique: 3 Url: Google
+		Count: 157 Unique: 5 Url: Google
 
-repo: cstuff views: total: 84 unique:  6
+repo: cstuff views: total: 66 unique:  5
 Views:
-	 2023-08-04 00:00:00 total: 18 unique: 1
 	 2023-08-08 00:00:00 total: 32 unique: 3
 	 2023-08-14 00:00:00 total: 12 unique: 1
 	 2023-08-16 00:00:00 total: 16 unique: 1
 	 2023-08-17 00:00:00 total: 6 unique: 1
 	Referrers:
-		Count: 30 Unique: 2 Url: mosermichael.github.io
+		Count: 36 Unique: 3 Url: mosermichael.github.io
 		Count: 3 Unique: 1 Url: github.com
 
-repo: pyasmtool views: total: 76 unique:  28
+repo: pyasmtool views: total: 63 unique:  26
 Views:
-	 2023-08-04 00:00:00 total: 13 unique: 2
 	 2023-08-05 00:00:00 total: 2 unique: 1
 	 2023-08-06 00:00:00 total: 6 unique: 3
 	 2023-08-07 00:00:00 total: 3 unique: 2
@@ -43,14 +41,13 @@ Views:
 	 2023-08-15 00:00:00 total: 2 unique: 1
 	 2023-08-17 00:00:00 total: 7 unique: 3
 	Referrers:
-		Count: 27 Unique: 6 Url: Google
-		Count: 4 Unique: 4 Url: github.com
+		Count: 29 Unique: 7 Url: Google
+		Count: 7 Unique: 5 Url: github.com
 		Count: 2 Unique: 1 Url: pypi.org
 		Count: 2 Unique: 1 Url: b.hatena.ne.jp
 
-repo: python-obj-system views: total: 38 unique:  10
+repo: python-obj-system views: total: 34 unique:  8
 Views:
-	 2023-08-04 00:00:00 total: 4 unique: 2
 	 2023-08-05 00:00:00 total: 2 unique: 1
 	 2023-08-07 00:00:00 total: 5 unique: 3
 	 2023-08-08 00:00:00 total: 20 unique: 2
@@ -70,9 +67,8 @@ Views:
 		Count: 21 Unique: 2 Url: github.com
 		Count: 5 Unique: 2 Url: Google
 
-repo: my-notes views: total: 20 unique:  5
+repo: my-notes views: total: 18 unique:  5
 Views:
-	 2023-08-04 00:00:00 total: 2 unique: 1
 	 2023-08-07 00:00:00 total: 4 unique: 1
 	 2023-08-08 00:00:00 total: 3 unique: 2
 	 2023-08-09 00:00:00 total: 2 unique: 1
@@ -100,26 +96,10 @@ Views:
 	 2023-08-12 00:00:00 total: 4 unique: 1
 	 2023-08-13 00:00:00 total: 2 unique: 1
 	 2023-08-16 00:00:00 total: 2 unique: 1
-	Referrers:
-		Count: 2 Unique: 1 Url: Google
 
 repo: cppcombinator views: total: 13 unique:  1
 Views:
 	 2023-08-05 00:00:00 total: 13 unique: 1
-
-repo: s9k views: total: 11 unique:  9
-Views:
-	 2023-08-04 00:00:00 total: 2 unique: 1
-	 2023-08-05 00:00:00 total: 2 unique: 2
-	 2023-08-07 00:00:00 total: 1 unique: 1
-	 2023-08-08 00:00:00 total: 1 unique: 1
-	 2023-08-11 00:00:00 total: 1 unique: 1
-	 2023-08-15 00:00:00 total: 1 unique: 1
-	 2023-08-16 00:00:00 total: 2 unique: 2
-	 2023-08-17 00:00:00 total: 1 unique: 1
-	Referrers:
-		Count: 7 Unique: 6 Url: Google
-		Count: 1 Unique: 1 Url: github.com
 
 repo: flagged-hn views: total: 9 unique:  7
 Views:
@@ -136,6 +116,18 @@ Views:
 	Referrers:
 		Count: 9 Unique: 1 Url: libhunt.com
 
+repo: s9k views: total: 9 unique:  8
+Views:
+	 2023-08-05 00:00:00 total: 2 unique: 2
+	 2023-08-07 00:00:00 total: 1 unique: 1
+	 2023-08-08 00:00:00 total: 1 unique: 1
+	 2023-08-11 00:00:00 total: 1 unique: 1
+	 2023-08-15 00:00:00 total: 1 unique: 1
+	 2023-08-16 00:00:00 total: 2 unique: 2
+	 2023-08-17 00:00:00 total: 1 unique: 1
+	Referrers:
+		Count: 6 Unique: 5 Url: Google
+
 repo: duckduckbang views: total: 5 unique:  3
 Views:
 	 2023-08-06 00:00:00 total: 1 unique: 1
@@ -143,13 +135,6 @@ Views:
 	 2023-08-15 00:00:00 total: 1 unique: 1
 	Referrers:
 		Count: 1 Unique: 1 Url: DuckDuckGo
-
-repo: kwchecker views: total: 2 unique:  2
-Views:
-	 2023-08-04 00:00:00 total: 1 unique: 1
-	 2023-08-10 00:00:00 total: 1 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: Google
 
 repo: roget-thesaurus-parser views: total: 2 unique:  2
 Views:
@@ -174,10 +159,18 @@ Views:
 repo: bloxroutehomework views: total: 1 unique:  1
 Views:
 	 2023-08-17 00:00:00 total: 1 unique: 1
+	Referrers:
+		Count: 1 Unique: 1 Url: github.com
 
 repo: follow-kube-logs views: total: 1 unique:  1
 Views:
 	 2023-08-16 00:00:00 total: 1 unique: 1
+	Referrers:
+		Count: 1 Unique: 1 Url: Google
+
+repo: kwchecker views: total: 1 unique:  1
+Views:
+	 2023-08-10 00:00:00 total: 1 unique: 1
 	Referrers:
 		Count: 1 Unique: 1 Url: Google
 
@@ -245,4 +238,4 @@ repo: visual-python-strace views: total: 0 unique:  0
 
 
 ***
-Total views: 517
+Total views: 477

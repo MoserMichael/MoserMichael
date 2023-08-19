@@ -1,17 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Fri Aug 18 00:36:44 UTC 2023
+Sat Aug 19 00:35:15 UTC 2023
 
 <pre>
 
- ___________________________________
-< You will be surrounded by luxury. >
- -----------------------------------
+ _____________________________________
+/ You display the wonderful traits of \
+\ charm and courtesy.                 /
+ -------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (OO)\_______
             (__)\       )\/\
-             -- ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 84 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
