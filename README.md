@@ -1,18 +1,26 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sat Aug 19 00:35:15 UTC 2023
+Sun Aug 20 00:38:51 UTC 2023
 
 <pre>
 
- _____________________________________
-/ You display the wonderful traits of \
-\ charm and courtesy.                 /
- -------------------------------------
+ _________________________________________
+/ "I wonder", he said to himself, "what's \
+| in a book while it's closed. Oh, I know |
+| it's full of letters printed on paper,  |
+| but all the same, something must be     |
+| happening, because as soon as I open    |
+| it, there's a whole story with people I |
+| don't know yet and all kinds of         |
+| adventures and battles."                |
+|                                         |
+\ -- Bastian B. Bux                       /
+ -----------------------------------------
         \   ^__^
-         \  (OO)\_______
+         \  (oo)\_______
             (__)\       )\/\
              :) ||----w |
                 ||     ||
-nltk score: 84 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: 48 '(from -100..100) state: 'good' eye: oo tongue: :)
 
 </pre>
 
