@@ -1,19 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Tue Aug 22 00:37:36 UTC 2023
+Wed Aug 23 00:37:06 UTC 2023
 
 <pre>
 
- _____________________________________
-/ You're growing out of some of your  \
-| problems, but there are others that |
-\ you're growing into.                /
- -------------------------------------
+ ______________________________________
+/ You'd like to do it instantaneously, \
+\ but that's too slow.                 /
+ --------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
              -- ||----w |
                 ||     ||
-nltk score: 14 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 19 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
