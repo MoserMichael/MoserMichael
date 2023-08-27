@@ -1,24 +1,23 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sat Aug 26 00:36:10 UTC 2023
+Sun Aug 27 00:39:59 UTC 2023
 
 <pre>
 
  _________________________________________
-/ Whoever has lived long enough to find   \
-| out what life is, knows how deep a debt |
-| of gratitude we owe to Adam, the first  |
-| great benefactor of our race. He        |
-| brought death into the world.           |
+/ "I understand this is your first dead   \
+| client," Sabian was saying. The         |
+| absurdity of the statement made me want |
+| to laugh but they don't call me Deadpan |
+| Allie and lie.                          |
 |                                         |
-| -- Mark Twain, "Pudd'nhead Wilson's     |
-\ Calendar"                               /
+\ -- Pat Cadigan, "Mindplayers"           /
  -----------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
              -- ||----w |
                 ||     ||
-nltk score: 25 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: -5 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
@@ -124,9 +123,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 561 </th></tr>
 </table>
 <br>
-old_date:  2023-07-20 00:49:36.645381 now: 2023-08-26 00:36:25.387092
-pyasmtool stars changed from: 309 to: 310
-jscriptparse stars changed from: 0 to: 5
     </pre>
   </td>
 </table>
