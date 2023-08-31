@@ -1,25 +1,20 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Wed Aug 30 00:37:55 UTC 2023
+Thu Aug 31 00:38:09 UTC 2023
 
 <pre>
 
- _________________________________________
-/ Q: What's the difference between the    \
-| 1950's and the 1980's? A: In the 80's,  |
-| a man walks into a drugstore and states |
-| loudly, "I'd                            |
-|                                         |
-| like some condoms," and then, leaning   |
-| over the counter, whispers,             |
-|                                         |
-\ "and some cigarettes."                  /
- -----------------------------------------
+ ________________________________________
+/ Q: What looks like a cat, flies like a \
+| bat, brays like a donkey, and          |
+|                                        |
+\ plays like a monkey? A: Nothing.       /
+ ----------------------------------------
         \   ^__^
-         \  (oo)\_______
+         \  (OO)\_______
             (__)\       )\/\
              :) ||----w |
                 ||     ||
-nltk score: 36 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: 88 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
@@ -125,8 +120,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 562 </th></tr>
 </table>
 <br>
-old_date:  2023-08-26 00:36:25.387346 now: 2023-08-30 00:38:11.342941
-pyasmtool stars changed from: 310 to: 311
     </pre>
   </td>
 </table>
