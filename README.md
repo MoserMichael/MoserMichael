@@ -1,12 +1,12 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Mon Sep  4 00:38:45 UTC 2023
+Tue Sep  5 00:37:23 UTC 2023
 
 <pre>
 
- _____________________________________
-/ You'll never be the man your mother \
-\ was!                                /
- -------------------------------------
+ _________________________________________
+/ You will step on the night soil of many \
+\ countries.                              /
+ -----------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
