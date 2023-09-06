@@ -1,18 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Tue Sep  5 00:37:23 UTC 2023
+Wed Sep  6 00:38:14 UTC 2023
 
 <pre>
 
- _________________________________________
-/ You will step on the night soil of many \
-\ countries.                              /
- -----------------------------------------
+ ________________________________________
+/ Tonight you will pay the wages of sin; \
+\ Don't forget to leave a tip.           /
+ ----------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (!!)\_______
             (__)\       )\/\
-             -- ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: -49 '(from -100..100) state: 'bad' eye: !! tongue: :(
 
 </pre>
 
