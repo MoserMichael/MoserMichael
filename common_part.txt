@@ -39,14 +39,6 @@
     <td>
         <a href="https://github.com/MoserMichael/MoserMichael/blob/master/TRAFFIC_REPORT.md">Traffic Report</a>; <a href="https://github.com/MoserMichael/MoserMichael/blob/master/USER_STARRED.md">Repositories starred by user</a>
 </tr>
-<tr>
-    <td>
-         What-i-say:   
-    </td>
-    <td>
-        <a href="https://news.ycombinator.com/user?id=MichaelMoser123">Hacker News<a>; <a href="https://www.reddit.com/user/michaemoser">Reddit</a>; <a href="https://stackoverflow.com/users/3034482/michaelmoser">stack overflow</a>
-    </td>
-</tr>
 </table>
 
 My stuff here:
