@@ -1,19 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Thu Sep  7 00:37:43 UTC 2023
+Fri Sep  8 00:38:00 UTC 2023
 
 <pre>
 
- _______________________________________
-/ Q: What do you have when you have a   \
-| lawyer buried up to his neck in sand? |
-\ A: Not enough sand.                   /
- ---------------------------------------
+ _____________________________________
+/ You will be awarded the Nobel Peace \
+\ Prize... posthumously.              /
+ -------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (OO)\_______
             (__)\       )\/\
-             -- ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 74 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
@@ -54,14 +53,6 @@ nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
     </td>
     <td>
         <a href="https://github.com/MoserMichael/MoserMichael/blob/master/TRAFFIC_REPORT.md">Traffic Report</a>; <a href="https://github.com/MoserMichael/MoserMichael/blob/master/USER_STARRED.md">Repositories starred by user</a>
-</tr>
-<tr>
-    <td>
-         What-i-say:   
-    </td>
-    <td>
-        <a href="https://news.ycombinator.com/user?id=MichaelMoser123">Hacker News<a>; <a href="https://www.reddit.com/user/michaemoser">Reddit</a>; <a href="https://stackoverflow.com/users/3034482/michaelmoser">stack overflow</a>
-    </td>
 </tr>
 </table>
 
