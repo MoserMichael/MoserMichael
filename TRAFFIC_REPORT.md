@@ -37,7 +37,7 @@ Views:
 		Count: 3 Unique: 2 Url: Google
 		Count: 3 Unique: 2 Url: github.com
 
-repo: s9k views: total: 27 unique:  13
+repo: s9k views: total: 28 unique:  14
 Views:
 	 2023-08-28 00:00:00 total: 1 unique: 1
 	 2023-08-29 00:00:00 total: 2 unique: 2
@@ -49,8 +49,9 @@ Views:
 	 2023-09-06 00:00:00 total: 1 unique: 1
 	 2023-09-07 00:00:00 total: 1 unique: 1
 	 2023-09-08 00:00:00 total: 11 unique: 1
+	 2023-09-09 00:00:00 total: 1 unique: 1
 	Referrers:
-		Count: 11 Unique: 8 Url: Google
+		Count: 22 Unique: 9 Url: Google
 		Count: 2 Unique: 2 Url: github.com
 
 repo: MoserMichael views: total: 23 unique:  2
@@ -66,16 +67,6 @@ Views:
 	Referrers:
 		Count: 3 Unique: 1 Url: github.com
 
-repo: python-obj-system views: total: 19 unique:  7
-Views:
-	 2023-08-26 00:00:00 total: 2 unique: 1
-	 2023-08-30 00:00:00 total: 7 unique: 2
-	 2023-08-31 00:00:00 total: 6 unique: 2
-	 2023-09-02 00:00:00 total: 3 unique: 1
-	 2023-09-04 00:00:00 total: 1 unique: 1
-	Referrers:
-		Count: 6 Unique: 4 Url: github.com
-
 repo: pyasmtool views: total: 18 unique:  7
 Views:
 	 2023-08-27 00:00:00 total: 2 unique: 1
@@ -85,9 +76,18 @@ Views:
 	 2023-09-05 00:00:00 total: 6 unique: 2
 	 2023-09-06 00:00:00 total: 2 unique: 1
 	Referrers:
-		Count: 8 Unique: 3 Url: news.ycombinator.com
+		Count: 6 Unique: 2 Url: news.ycombinator.com
 		Count: 4 Unique: 2 Url: Google
 		Count: 2 Unique: 1 Url: github.com
+
+repo: python-obj-system views: total: 17 unique:  6
+Views:
+	 2023-08-30 00:00:00 total: 7 unique: 2
+	 2023-08-31 00:00:00 total: 6 unique: 2
+	 2023-09-02 00:00:00 total: 3 unique: 1
+	 2023-09-04 00:00:00 total: 1 unique: 1
+	Referrers:
+		Count: 6 Unique: 4 Url: github.com
 
 repo: gitblame views: total: 16 unique:  3
 Views:
@@ -113,21 +113,21 @@ Views:
 	 2023-09-05 00:00:00 total: 1 unique: 1
 	 2023-09-08 00:00:00 total: 1 unique: 1
 	Referrers:
-		Count: 11 Unique: 4 Url: github.com
+		Count: 12 Unique: 4 Url: github.com
 		Count: 1 Unique: 1 Url: Google
 
 repo: pygamewrap views: total: 8 unique:  2
 Views:
 	 2023-08-27 00:00:00 total: 3 unique: 1
 	 2023-09-07 00:00:00 total: 5 unique: 1
-	Referrers:
-		Count: 3 Unique: 1 Url: Google
 
 repo: visual-python-strace views: total: 6 unique:  3
 Views:
 	 2023-08-31 00:00:00 total: 1 unique: 1
 	 2023-09-07 00:00:00 total: 1 unique: 1
 	 2023-09-08 00:00:00 total: 4 unique: 1
+	Referrers:
+		Count: 4 Unique: 1 Url: pypi.org
 
 repo: cppcombinator views: total: 4 unique:  4
 Views:
@@ -180,7 +180,7 @@ Views:
 	 2023-09-04 00:00:00 total: 1 unique: 1
 	 2023-09-06 00:00:00 total: 1 unique: 1
 	Referrers:
-		Count: 3 Unique: 3 Url: Google
+		Count: 2 Unique: 2 Url: Google
 
 repo: zipit views: total: 3 unique:  3
 Views:
@@ -261,4 +261,4 @@ repo: teach-your-children-well views: total: 0 unique:  0
 
 
 ***
-Total views: 305
+Total views: 304

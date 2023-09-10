@@ -1,17 +1,19 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sat Sep  9 00:36:40 UTC 2023
+Sun Sep 10 00:40:35 UTC 2023
 
 <pre>
 
  _________________________________________
-< Day of inquiry. You will be subpoenaed. >
+/ You will pay for your sins. If you have \
+| already paid, please disregard this     |
+\ message.                                /
  -----------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (!!)\_______
             (__)\       )\/\
-             -- ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: -49 '(from -100..100) state: 'bad' eye: !! tongue: :(
 
 </pre>
 
@@ -109,9 +111,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 560 </th></tr>
 </table>
 <br>
-old_date:  2023-08-30 00:38:11.343176 now: 2023-09-09 00:36:53.698781
-duckduckbang stars changed from: 36 to: 35
-cppcombinator stars changed from: 23 to: 22
     </pre>
   </td>
 </table>
