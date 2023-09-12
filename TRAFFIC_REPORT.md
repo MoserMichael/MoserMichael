@@ -15,19 +15,6 @@ Views:
 	Referrers:
 		Count: 3 Unique: 1 Url: github.com
 
-repo: cstuff views: total: 42 unique:  9
-Views:
-	 2023-08-28 00:00:00 total: 1 unique: 1
-	 2023-08-30 00:00:00 total: 1 unique: 1
-	 2023-09-02 00:00:00 total: 32 unique: 2
-	 2023-09-04 00:00:00 total: 1 unique: 1
-	 2023-09-07 00:00:00 total: 3 unique: 2
-	 2023-09-08 00:00:00 total: 1 unique: 1
-	 2023-09-10 00:00:00 total: 3 unique: 1
-	Referrers:
-		Count: 3 Unique: 2 Url: Google
-		Count: 3 Unique: 2 Url: github.com
-
 repo: jpa-enc-converter views: total: 42 unique:  4
 Views:
 	 2023-09-03 00:00:00 total: 39 unique: 1
@@ -37,9 +24,21 @@ Views:
 	Referrers:
 		Count: 42 Unique: 4 Url: Google
 
-repo: s9k views: total: 28 unique:  14
+repo: cstuff views: total: 41 unique:  8
 Views:
-	 2023-08-28 00:00:00 total: 1 unique: 1
+	 2023-08-30 00:00:00 total: 1 unique: 1
+	 2023-09-02 00:00:00 total: 32 unique: 2
+	 2023-09-04 00:00:00 total: 1 unique: 1
+	 2023-09-07 00:00:00 total: 3 unique: 2
+	 2023-09-08 00:00:00 total: 1 unique: 1
+	 2023-09-10 00:00:00 total: 3 unique: 1
+	Referrers:
+		Count: 3 Unique: 2 Url: Google
+		Count: 3 Unique: 2 Url: github.com
+		Count: 3 Unique: 1 Url: mosermichael.github.io
+
+repo: s9k views: total: 27 unique:  13
+Views:
 	 2023-08-29 00:00:00 total: 2 unique: 2
 	 2023-08-30 00:00:00 total: 1 unique: 1
 	 2023-08-31 00:00:00 total: 5 unique: 2
@@ -54,9 +53,8 @@ Views:
 		Count: 23 Unique: 10 Url: Google
 		Count: 1 Unique: 1 Url: github.com
 
-repo: MoserMichael views: total: 25 unique:  3
+repo: MoserMichael views: total: 23 unique:  3
 Views:
-	 2023-08-28 00:00:00 total: 2 unique: 1
 	 2023-08-30 00:00:00 total: 3 unique: 1
 	 2023-08-31 00:00:00 total: 3 unique: 1
 	 2023-09-01 00:00:00 total: 2 unique: 1
@@ -66,7 +64,7 @@ Views:
 	 2023-09-08 00:00:00 total: 2 unique: 1
 	 2023-09-10 00:00:00 total: 2 unique: 1
 	Referrers:
-		Count: 3 Unique: 1 Url: github.com
+		Count: 5 Unique: 2 Url: github.com
 
 repo: python-obj-system views: total: 17 unique:  6
 Views:
@@ -92,11 +90,11 @@ Views:
 
 repo: pyasmtool views: total: 16 unique:  6
 Views:
-	 2023-08-28 00:00:00 total: 2 unique: 1
 	 2023-08-29 00:00:00 total: 2 unique: 1
 	 2023-08-31 00:00:00 total: 4 unique: 1
 	 2023-09-05 00:00:00 total: 6 unique: 2
 	 2023-09-06 00:00:00 total: 2 unique: 1
+	 2023-09-11 00:00:00 total: 2 unique: 1
 	Referrers:
 		Count: 6 Unique: 2 Url: news.ycombinator.com
 		Count: 4 Unique: 2 Url: Google
@@ -113,8 +111,19 @@ Views:
 	 2023-09-05 00:00:00 total: 1 unique: 1
 	 2023-09-08 00:00:00 total: 1 unique: 1
 	Referrers:
-		Count: 12 Unique: 4 Url: github.com
+		Count: 11 Unique: 3 Url: github.com
 		Count: 1 Unique: 1 Url: Google
+
+repo: cppcombinator views: total: 7 unique:  6
+Views:
+	 2023-08-29 00:00:00 total: 1 unique: 1
+	 2023-09-01 00:00:00 total: 1 unique: 1
+	 2023-09-02 00:00:00 total: 1 unique: 1
+	 2023-09-05 00:00:00 total: 1 unique: 1
+	 2023-09-10 00:00:00 total: 1 unique: 1
+	 2023-09-11 00:00:00 total: 2 unique: 2
+	Referrers:
+		Count: 1 Unique: 1 Url: github.com
 
 repo: visual-python-strace views: total: 6 unique:  3
 Views:
@@ -124,29 +133,9 @@ Views:
 	Referrers:
 		Count: 4 Unique: 1 Url: pypi.org
 
-repo: cppcombinator views: total: 5 unique:  4
-Views:
-	 2023-08-29 00:00:00 total: 1 unique: 1
-	 2023-09-01 00:00:00 total: 1 unique: 1
-	 2023-09-02 00:00:00 total: 1 unique: 1
-	 2023-09-05 00:00:00 total: 1 unique: 1
-	 2023-09-10 00:00:00 total: 1 unique: 1
-	Referrers:
-		Count: 2 Unique: 2 Url: github.com
-
 repo: pygamewrap views: total: 5 unique:  1
 Views:
 	 2023-09-07 00:00:00 total: 5 unique: 1
-
-repo: vimcrypt2 views: total: 4 unique:  4
-Views:
-	 2023-08-28 00:00:00 total: 1 unique: 1
-	 2023-09-04 00:00:00 total: 1 unique: 1
-	 2023-09-05 00:00:00 total: 1 unique: 1
-	 2023-09-06 00:00:00 total: 1 unique: 1
-	Referrers:
-		Count: 2 Unique: 2 Url: Google
-		Count: 1 Unique: 1 Url: DuckDuckGo
 
 repo: duckduckbang views: total: 3 unique:  3
 Views:
@@ -173,6 +162,15 @@ Views:
 	Referrers:
 		Count: 3 Unique: 1 Url: Google
 
+repo: vimcrypt2 views: total: 3 unique:  3
+Views:
+	 2023-09-04 00:00:00 total: 1 unique: 1
+	 2023-09-05 00:00:00 total: 1 unique: 1
+	 2023-09-06 00:00:00 total: 1 unique: 1
+	Referrers:
+		Count: 2 Unique: 2 Url: Google
+		Count: 1 Unique: 1 Url: DuckDuckGo
+
 repo: flagged-hn views: total: 2 unique:  1
 Views:
 	 2023-09-07 00:00:00 total: 2 unique: 1
@@ -191,17 +189,6 @@ Views:
 	Referrers:
 		Count: 2 Unique: 2 Url: Google
 
-repo: zipit views: total: 2 unique:  2
-Views:
-	 2023-08-29 00:00:00 total: 1 unique: 1
-	 2023-09-08 00:00:00 total: 1 unique: 1
-	Referrers:
-		Count: 2 Unique: 2 Url: Google
-
-repo: follow-kube-logs views: total: 1 unique:  1
-Views:
-	 2023-08-28 00:00:00 total: 1 unique: 1
-
 repo: githubapitools views: total: 1 unique:  1
 Views:
 	 2023-09-04 00:00:00 total: 1 unique: 1
@@ -211,8 +198,16 @@ Views:
 repo: ls-annotations views: total: 1 unique:  1
 Views:
 	 2023-08-29 00:00:00 total: 1 unique: 1
+
+repo: pprintex views: total: 1 unique:  1
+Views:
+	 2023-09-11 00:00:00 total: 1 unique: 1
+
+repo: zipit views: total: 1 unique:  1
+Views:
+	 2023-09-08 00:00:00 total: 1 unique: 1
 	Referrers:
-		Count: 1 Unique: 1 Url: news.ycombinator.com
+		Count: 1 Unique: 1 Url: Google
 
 repo: bloxroutehomework views: total: 0 unique:  0
 
@@ -221,6 +216,8 @@ repo: devgoodies views: total: 0 unique:  0
 repo: docker-force-attach views: total: 0 unique:  0
 
 repo: download-artifacts views: total: 0 unique:  0
+
+repo: follow-kube-logs views: total: 0 unique:  0
 
 repo: github_pr_comments views: total: 0 unique:  0
 
@@ -238,8 +235,6 @@ repo: microsofthomework views: total: 0 unique:  0
 
 repo: opinionated-fortune-cow views: total: 0 unique:  0
 
-repo: pprintex views: total: 0 unique:  0
-
 repo: printb views: total: 0 unique:  0
 
 repo: pythoncourse views: total: 0 unique:  0
@@ -254,4 +249,4 @@ repo: teach-your-children-well views: total: 0 unique:  0
 
 
 ***
-Total views: 300
+Total views: 296
