@@ -1,21 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Tue Sep 12 00:36:56 UTC 2023
+Wed Sep 13 00:38:37 UTC 2023
 
 <pre>
 
- ________________________________________
-/ ... A solemn, unsmiling, sanctimonious \
-| old iceberg who looked like he was     |
-| waiting for a vacancy in the Trinity.  |
-|                                        |
-\ -- Mark Twain                          /
- ----------------------------------------
+ _____________________________________
+/ You have a deep appreciation of the \
+\ arts and music.                     /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
              :) ||----w |
                 ||     ||
-nltk score: 30 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: 51 '(from -100..100) state: 'good' eye: oo tongue: :)
 
 </pre>
 
