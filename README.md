@@ -1,18 +1,21 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Wed Sep 13 00:38:37 UTC 2023
+Thu Sep 14 00:38:05 UTC 2023
 
 <pre>
 
- _____________________________________
-/ You have a deep appreciation of the \
-\ arts and music.                     /
- -------------------------------------
+ ________________________________________
+/ You may my glories and my state        \
+| dispose, But not my griefs; still am I |
+| king of those.                         |
+|                                        |
+\ -- William Shakespeare, "Richard II"   /
+ ----------------------------------------
         \   ^__^
-         \  (oo)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :) ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: 51 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: 26 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
