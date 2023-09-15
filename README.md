@@ -1,21 +1,19 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Thu Sep 14 00:38:05 UTC 2023
+Fri Sep 15 00:38:33 UTC 2023
 
 <pre>
 
- ________________________________________
-/ You may my glories and my state        \
-| dispose, But not my griefs; still am I |
-| king of those.                         |
-|                                        |
-\ -- William Shakespeare, "Richard II"   /
- ----------------------------------------
+ _______________________________________
+/ If you think last Tuesday was a drag, \
+| wait till you see what happens        |
+\ tomorrow!                             /
+ ---------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
              -- ||----w |
                 ||     ||
-nltk score: 26 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: -29 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
