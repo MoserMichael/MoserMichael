@@ -17,7 +17,7 @@ Views:
 	 2023-09-13 00:00:00 total: 1 unique: 1
 	 2023-09-14 00:00:00 total: 1 unique: 1
 	Referrers:
-		Count: 100 Unique: 7 Url: Google
+		Count: 101 Unique: 8 Url: Google
 
 repo: my-notes views: total: 45 unique:  2
 Views:
@@ -36,8 +36,8 @@ Views:
 	 2023-09-10 00:00:00 total: 3 unique: 1
 	Referrers:
 		Count: 3 Unique: 2 Url: Google
-		Count: 3 Unique: 2 Url: github.com
 		Count: 3 Unique: 1 Url: mosermichael.github.io
+		Count: 1 Unique: 1 Url: github.com
 
 repo: pyasmtool views: total: 26 unique:  8
 Views:
@@ -52,9 +52,8 @@ Views:
 		Count: 6 Unique: 1 Url: github.com
 		Count: 2 Unique: 1 Url: dev.to
 
-repo: s9k views: total: 23 unique:  12
+repo: s9k views: total: 25 unique:  13
 Views:
-	 2023-09-01 00:00:00 total: 1 unique: 1
 	 2023-09-02 00:00:00 total: 3 unique: 2
 	 2023-09-05 00:00:00 total: 1 unique: 1
 	 2023-09-06 00:00:00 total: 1 unique: 1
@@ -63,12 +62,12 @@ Views:
 	 2023-09-09 00:00:00 total: 1 unique: 1
 	 2023-09-12 00:00:00 total: 3 unique: 3
 	 2023-09-14 00:00:00 total: 1 unique: 1
+	 2023-09-15 00:00:00 total: 3 unique: 2
 	Referrers:
 		Count: 21 Unique: 10 Url: Google
 
-repo: MoserMichael views: total: 19 unique:  3
+repo: MoserMichael views: total: 17 unique:  3
 Views:
-	 2023-09-01 00:00:00 total: 2 unique: 1
 	 2023-09-02 00:00:00 total: 8 unique: 2
 	 2023-09-05 00:00:00 total: 2 unique: 1
 	 2023-09-07 00:00:00 total: 1 unique: 1
@@ -78,16 +77,15 @@ Views:
 	Referrers:
 		Count: 2 Unique: 1 Url: github.com
 
-repo: dockerdashphp views: total: 18 unique:  4
+repo: dockerdashphp views: total: 16 unique:  3
 Views:
-	 2023-09-01 00:00:00 total: 2 unique: 2
 	 2023-09-03 00:00:00 total: 1 unique: 1
 	 2023-09-04 00:00:00 total: 2 unique: 2
 	 2023-09-05 00:00:00 total: 1 unique: 1
 	 2023-09-08 00:00:00 total: 1 unique: 1
 	 2023-09-14 00:00:00 total: 11 unique: 1
 	Referrers:
-		Count: 4 Unique: 1 Url: github.com
+		Count: 15 Unique: 2 Url: github.com
 		Count: 1 Unique: 1 Url: Google
 
 repo: gitblame views: total: 16 unique:  3
@@ -95,16 +93,6 @@ Views:
 	 2023-09-07 00:00:00 total: 16 unique: 3
 	Referrers:
 		Count: 16 Unique: 3 Url: Bing
-
-repo: cppcombinator views: total: 6 unique:  5
-Views:
-	 2023-09-01 00:00:00 total: 1 unique: 1
-	 2023-09-02 00:00:00 total: 1 unique: 1
-	 2023-09-05 00:00:00 total: 1 unique: 1
-	 2023-09-10 00:00:00 total: 1 unique: 1
-	 2023-09-11 00:00:00 total: 2 unique: 2
-	Referrers:
-		Count: 2 Unique: 2 Url: github.com
 
 repo: myenv views: total: 6 unique:  4
 Views:
@@ -117,6 +105,15 @@ Views:
 		Count: 2 Unique: 2 Url: Google
 		Count: 1 Unique: 1 Url: Bing
 
+repo: cppcombinator views: total: 5 unique:  5
+Views:
+	 2023-09-02 00:00:00 total: 1 unique: 1
+	 2023-09-05 00:00:00 total: 1 unique: 1
+	 2023-09-10 00:00:00 total: 1 unique: 1
+	 2023-09-11 00:00:00 total: 2 unique: 2
+	Referrers:
+		Count: 2 Unique: 2 Url: github.com
+
 repo: pygamewrap views: total: 5 unique:  1
 Views:
 	 2023-09-07 00:00:00 total: 5 unique: 1
@@ -127,7 +124,7 @@ Views:
 	 2023-09-04 00:00:00 total: 1 unique: 1
 	 2023-09-12 00:00:00 total: 1 unique: 1
 	Referrers:
-		Count: 5 Unique: 3 Url: github.com
+		Count: 2 Unique: 2 Url: github.com
 
 repo: visual-python-strace views: total: 5 unique:  2
 Views:
@@ -136,15 +133,15 @@ Views:
 	Referrers:
 		Count: 4 Unique: 1 Url: pypi.org
 
-repo: duckduckbang views: total: 3 unique:  3
+repo: duckduckbang views: total: 4 unique:  4
 Views:
 	 2023-09-02 00:00:00 total: 1 unique: 1
 	 2023-09-04 00:00:00 total: 1 unique: 1
 	 2023-09-05 00:00:00 total: 1 unique: 1
+	 2023-09-15 00:00:00 total: 1 unique: 1
 	Referrers:
 		Count: 1 Unique: 1 Url: Google
 		Count: 1 Unique: 1 Url: github.com
-		Count: 1 Unique: 1 Url: DuckDuckGo
 
 repo: follow-kube-logs views: total: 3 unique:  3
 Views:
@@ -187,6 +184,13 @@ Views:
 	Referrers:
 		Count: 2 Unique: 1 Url: mosermichael.github.io
 
+repo: zipit views: total: 2 unique:  2
+Views:
+	 2023-09-08 00:00:00 total: 1 unique: 1
+	 2023-09-15 00:00:00 total: 1 unique: 1
+	Referrers:
+		Count: 2 Unique: 2 Url: Google
+
 repo: githubapitools views: total: 1 unique:  1
 Views:
 	 2023-09-04 00:00:00 total: 1 unique: 1
@@ -214,12 +218,6 @@ Views:
 	 2023-09-11 00:00:00 total: 1 unique: 1
 	Referrers:
 		Count: 1 Unique: 1 Url: github.com
-
-repo: zipit views: total: 1 unique:  1
-Views:
-	 2023-09-08 00:00:00 total: 1 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: Google
 
 repo: bloxroutehomework views: total: 0 unique:  0
 
@@ -257,4 +255,4 @@ repo: teach-your-children-well views: total: 0 unique:  0
 
 
 ***
-Total views: 340
+Total views: 339
