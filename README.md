@@ -1,23 +1,20 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sat Sep 16 00:37:17 UTC 2023
+Sun Sep 17 00:40:58 UTC 2023
 
 <pre>
 
- _________________________________________
-/ Q: How many bureaucrats does it take to \
-| screw in a light bulb? A: Two. One to   |
-| assure everyone that everything         |
-| possible is being                       |
-|                                         |
-| done while the other screws the bulb    |
-\ into the water faucet.                  /
- -----------------------------------------
+ ________________________________________
+/ Never laugh at live dragons.           \
+|                                        |
+| -- Bilbo Baggins [J.R.R. Tolkien, "The |
+\ Hobbit"]                               /
+ ----------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (!!)\_______
             (__)\       )\/\
-             -- ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: -0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: -44 '(from -100..100) state: 'bad' eye: !! tongue: :(
 
 </pre>
 
@@ -115,8 +112,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 559 </th></tr>
 </table>
 <br>
-old_date:  2023-09-09 00:36:53.698967 now: 2023-09-16 00:37:29.842743
-pyasmtool stars changed from: 311 to: 310
     </pre>
   </td>
 </table>
