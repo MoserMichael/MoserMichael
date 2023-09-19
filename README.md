@@ -1,18 +1,31 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Mon Sep 18 00:38:48 UTC 2023
+Tue Sep 19 00:39:08 UTC 2023
 
 <pre>
 
- ________________________________________
-/ Q: Why did the WASP cross the road? A: \
-\ To get to the middle.                  /
- ----------------------------------------
+ _________________________________________
+/ Q: How many gradual (sorry, that's      \
+| supposed to be "graduate") students     |
+|                                         |
+| does it take to screw in a light bulb?  |
+| A: "I'm afraid we don't know, but make  |
+| my stipend tax-free, give my            |
+|                                         |
+| advisor a $30,000 grant of the          |
+| taxpayer's money, and I'm sure he       |
+|                                         |
+| can tell me how to do the gruntwork for |
+| him so he can take the                  |
+|                                         |
+| credit for answering this incredibly    |
+\ vital question."                        /
+ -----------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (OO)\_______
             (__)\       )\/\
-             -- ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 91 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
