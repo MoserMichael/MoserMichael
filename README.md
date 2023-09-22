@@ -1,73 +1,22 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Thu Sep 21 00:38:16 UTC 2023
+Fri Sep 22 00:38:56 UTC 2023
 
 <pre>
 
  _________________________________________
-/ Q: How many lawyers does it take to     \
-| change a light bulb? A: Whereas the     |
-| party of the first part, also known as  |
-| "Lawyer", and the party of the second   |
-| part, also known as "Light Bulb", do    |
-| hereby and forthwith agree to a         |
-| transaction wherein the party of the    |
-| second part shall be removed from the   |
-| current position as a result of failure |
-| to perform previously agreed upon       |
-| duties, i.e., the lighting,             |
-| elucidation, and otherwise illumination |
-| of the area ranging from the front      |
-| (north) door, through the entryway,     |
-| terminating at an area just inside the  |
-| primary living area, demarcated by the  |
-| beginning of the carpet, any spillover  |
-| illumination being at the option of the |
-| party of the second part and not        |
-| required by the aforementioned          |
-| agreement between the parties.          |
+/ Q: How many Bell Labs Vice Presidents   \
+| does it take to change a light bulb? A: |
+| That's proprietary information. Answer  |
+| available from AT&T on payment          |
 |                                         |
-| The aforementioned removal transaction  |
-| shall include, but not be limited to,   |
-| the following. The party of the first   |
-| part shall, with or without elevation   |
-| at his option, by means of a chair,     |
-| stepstool, ladder or any other means of |
-| elevation, grasp the party of the       |
-| second part and rotate the party of the |
-| second part in a counter-clockwise      |
-| direction, this point being tendered    |
-| non-negotiable. Upon reaching a point   |
-| where the party of the second part      |
-| becomes fully detached from the         |
-| receptacle, the party of the first part |
-| shall have the option of disposing of   |
-| the party of the second part in a       |
-| manner consistent with all relevant and |
-| applicable local, state and federal     |
-| statutes. Once separation and disposal  |
-| have been achieved, the party of the    |
-| first part shall have the option of     |
-| beginning installation. Aforesaid       |
-| installation shall occur in a manner    |
-| consistent with the reverse of the      |
-| procedures described in step one of     |
-| this self-same document, being careful  |
-| to note that the rotation should occur  |
-| in a clockwise direction, this point    |
-| also being non-negotiable. The above    |
-| described steps may be performed, at    |
-| the option of the party of the first    |
-| part, by any or all agents authorized   |
-| by him, the objective being to produce  |
-| the most possible revenue for the       |
-\ Partnership.                            /
+\ of license fee (binary only).           /
  -----------------------------------------
         \   ^__^
-         \  (OO)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :) ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: 99 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
