@@ -1,13 +1,12 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Wed Sep 27 00:39:15 UTC 2023
+Thu Sep 28 00:38:54 UTC 2023
 
 <pre>
 
- ____________________________________
-/ Every cloud engenders not a storm. \
-|                                    |
-\ -- William Shakespeare, "Henry VI" /
- ------------------------------------
+ _________________________________________
+/ And do you think (fop that I am) that I \
+\ could be the Scarlet Pumpernickel?      /
+ -----------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
