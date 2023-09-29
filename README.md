@@ -1,18 +1,20 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Thu Sep 28 00:38:54 UTC 2023
+Fri Sep 29 00:39:06 UTC 2023
 
 <pre>
 
- _________________________________________
-/ And do you think (fop that I am) that I \
-\ could be the Scarlet Pumpernickel?      /
- -----------------------------------------
+ ____________________________________
+/ An honest tale speeds best being   \
+| plainly told.                      |
+|                                    |
+\ -- William Shakespeare, "Henry VI" /
+ ------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (OO)\_______
             (__)\       )\/\
-             -- ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 82 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
