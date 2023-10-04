@@ -1,22 +1,23 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Tue Oct  3 00:39:45 UTC 2023
+Wed Oct  4 00:39:19 UTC 2023
 
 <pre>
 
- ________________________________________
-/ A classic is something that everyone   \
-| wants to have read and nobody wants to |
-| read.                                  |
-|                                        |
-| -- Mark Twain, "The Disappearance of   |
-\ Literature"                            /
- ----------------------------------------
+ _________________________________
+/ AWAKE! FEAR! FIRE! FOES! AWAKE! \
+|                                 |
+| FEAR! FIRE! FOES!               |
+|                                 |
+| AWAKE! AWAKE!                   |
+|                                 |
+\ -- J. R. R. Tolkien             /
+ ---------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (~~)\_______
             (__)\       )\/\
-             -- ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: -95 '(from -100..100) state: 'very bad' eye: ~~ tongue: :(
 
 </pre>
 
