@@ -1,23 +1,17 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Wed Oct  4 00:39:19 UTC 2023
+Thu Oct  5 00:39:13 UTC 2023
 
 <pre>
 
- _________________________________
-/ AWAKE! FEAR! FIRE! FOES! AWAKE! \
-|                                 |
-| FEAR! FIRE! FOES!               |
-|                                 |
-| AWAKE! AWAKE!                   |
-|                                 |
-\ -- J. R. R. Tolkien             /
- ---------------------------------
+ _________________________________________
+< Day of inquiry. You will be subpoenaed. >
+ -----------------------------------------
         \   ^__^
-         \  (~~)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :( ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: -95 '(from -100..100) state: 'very bad' eye: ~~ tongue: :(
+nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
