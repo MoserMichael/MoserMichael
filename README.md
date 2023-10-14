@@ -1,18 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Fri Oct 13 00:40:06 UTC 2023
+Sat Oct 14 00:37:59 UTC 2023
 
 <pre>
 
- _____________________________________
-/ What happened last night can happen \
-\ again.                              /
- -------------------------------------
+ _________________________________________
+/ Your boss climbed the corporate ladder, \
+\ wrong by wrong.                         /
+ -----------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (~~)\_______
             (__)\       )\/\
-             -- ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: -74 '(from -100..100) state: 'very bad' eye: ~~ tongue: :(
 
 </pre>
 

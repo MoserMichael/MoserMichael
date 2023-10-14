@@ -14,25 +14,25 @@ Views:
 	Referrers:
 		Count: 133 Unique: 2 Url: Google
 
-repo: my-notes views: total: 86 unique:  3
+repo: s9k views: total: 82 unique:  14
 Views:
-	 2023-09-29 00:00:00 total: 24 unique: 2
-	 2023-09-30 00:00:00 total: 15 unique: 1
-	 2023-10-02 00:00:00 total: 8 unique: 2
-	 2023-10-03 00:00:00 total: 3 unique: 1
+	 2023-10-01 00:00:00 total: 40 unique: 1
+	 2023-10-02 00:00:00 total: 11 unique: 2
+	 2023-10-03 00:00:00 total: 1 unique: 1
+	 2023-10-04 00:00:00 total: 1 unique: 1
 	 2023-10-05 00:00:00 total: 2 unique: 1
-	 2023-10-06 00:00:00 total: 16 unique: 1
-	 2023-10-07 00:00:00 total: 2 unique: 1
-	 2023-10-10 00:00:00 total: 2 unique: 1
-	 2023-10-11 00:00:00 total: 3 unique: 1
-	 2023-10-12 00:00:00 total: 11 unique: 1
+	 2023-10-06 00:00:00 total: 16 unique: 4
+	 2023-10-10 00:00:00 total: 6 unique: 3
+	 2023-10-12 00:00:00 total: 4 unique: 2
+	 2023-10-13 00:00:00 total: 1 unique: 1
 	Referrers:
-		Count: 5 Unique: 1 Url: github.com
+		Count: 62 Unique: 10 Url: Google
+		Count: 2 Unique: 2 Url: github.com
+		Count: 1 Unique: 1 Url: youtube.com
 
-repo: pyasmtool views: total: 82 unique:  25
+repo: pyasmtool views: total: 78 unique:  27
 Views:
-	 2023-09-29 00:00:00 total: 3 unique: 2
-	 2023-09-30 00:00:00 total: 20 unique: 2
+	 2023-09-30 00:00:00 total: 4 unique: 1
 	 2023-10-01 00:00:00 total: 5 unique: 2
 	 2023-10-02 00:00:00 total: 2 unique: 1
 	 2023-10-04 00:00:00 total: 7 unique: 1
@@ -42,40 +42,45 @@ Views:
 	 2023-10-09 00:00:00 total: 6 unique: 3
 	 2023-10-11 00:00:00 total: 4 unique: 2
 	 2023-10-12 00:00:00 total: 4 unique: 2
+	 2023-10-13 00:00:00 total: 15 unique: 6
 	Referrers:
-		Count: 43 Unique: 8 Url: Google
+		Count: 29 Unique: 8 Url: Google
 		Count: 14 Unique: 6 Url: github.com
-		Count: 4 Unique: 2 Url: news.ycombinator.com
+		Count: 6 Unique: 2 Url: news.ycombinator.com
 
-repo: s9k views: total: 82 unique:  14
+repo: my-notes views: total: 69 unique:  2
 Views:
-	 2023-09-29 00:00:00 total: 1 unique: 1
-	 2023-10-01 00:00:00 total: 40 unique: 1
-	 2023-10-02 00:00:00 total: 11 unique: 2
-	 2023-10-03 00:00:00 total: 1 unique: 1
-	 2023-10-04 00:00:00 total: 1 unique: 1
+	 2023-09-30 00:00:00 total: 15 unique: 1
+	 2023-10-02 00:00:00 total: 8 unique: 2
+	 2023-10-03 00:00:00 total: 3 unique: 1
 	 2023-10-05 00:00:00 total: 2 unique: 1
-	 2023-10-06 00:00:00 total: 16 unique: 4
-	 2023-10-10 00:00:00 total: 6 unique: 3
-	 2023-10-12 00:00:00 total: 4 unique: 2
+	 2023-10-06 00:00:00 total: 16 unique: 1
+	 2023-10-07 00:00:00 total: 2 unique: 1
+	 2023-10-10 00:00:00 total: 2 unique: 1
+	 2023-10-11 00:00:00 total: 3 unique: 1
+	 2023-10-12 00:00:00 total: 11 unique: 1
+	 2023-10-13 00:00:00 total: 7 unique: 1
 	Referrers:
-		Count: 59 Unique: 9 Url: Google
-		Count: 1 Unique: 1 Url: youtube.com
-		Count: 1 Unique: 1 Url: github.com
+		Count: 5 Unique: 1 Url: github.com
 
 repo: cppcombinator views: total: 18 unique:  5
 Views:
-	 2023-09-29 00:00:00 total: 1 unique: 1
 	 2023-10-02 00:00:00 total: 1 unique: 1
 	 2023-10-06 00:00:00 total: 15 unique: 2
 	 2023-10-08 00:00:00 total: 1 unique: 1
+	 2023-10-13 00:00:00 total: 1 unique: 1
 	Referrers:
 		Count: 14 Unique: 1 Url: Google
 		Count: 3 Unique: 3 Url: github.com
 
-repo: MoserMichael views: total: 18 unique:  2
+repo: ls-annotations views: total: 17 unique:  1
 Views:
-	 2023-09-29 00:00:00 total: 2 unique: 1
+	 2023-10-03 00:00:00 total: 17 unique: 1
+	Referrers:
+		Count: 17 Unique: 1 Url: github.com
+
+repo: MoserMichael views: total: 16 unique:  2
+Views:
 	 2023-10-01 00:00:00 total: 1 unique: 1
 	 2023-10-02 00:00:00 total: 2 unique: 1
 	 2023-10-03 00:00:00 total: 2 unique: 1
@@ -85,22 +90,6 @@ Views:
 	Referrers:
 		Count: 6 Unique: 2 Url: github.com
 
-repo: ls-annotations views: total: 17 unique:  1
-Views:
-	 2023-10-03 00:00:00 total: 17 unique: 1
-	Referrers:
-		Count: 17 Unique: 1 Url: github.com
-
-repo: python-obj-system views: total: 16 unique:  7
-Views:
-	 2023-09-29 00:00:00 total: 4 unique: 2
-	 2023-10-01 00:00:00 total: 5 unique: 3
-	 2023-10-04 00:00:00 total: 5 unique: 1
-	 2023-10-07 00:00:00 total: 2 unique: 1
-	Referrers:
-		Count: 10 Unique: 4 Url: github.com
-		Count: 2 Unique: 1 Url: Google
-
 repo: jscriptparse views: total: 13 unique:  2
 Views:
 	 2023-10-04 00:00:00 total: 2 unique: 1
@@ -109,14 +98,27 @@ Views:
 		Count: 2 Unique: 1 Url: Google
 		Count: 1 Unique: 1 Url: github.com
 
-repo: follow-kube-logs views: total: 10 unique:  4
+repo: python-obj-system views: total: 12 unique:  5
 Views:
-	 2023-09-29 00:00:00 total: 1 unique: 1
+	 2023-10-01 00:00:00 total: 5 unique: 3
+	 2023-10-04 00:00:00 total: 5 unique: 1
+	 2023-10-07 00:00:00 total: 2 unique: 1
+	Referrers:
+		Count: 10 Unique: 4 Url: github.com
+		Count: 2 Unique: 1 Url: Google
+
+repo: follow-kube-logs views: total: 9 unique:  3
+Views:
 	 2023-10-03 00:00:00 total: 1 unique: 1
 	 2023-10-06 00:00:00 total: 5 unique: 1
 	 2023-10-11 00:00:00 total: 3 unique: 1
 	Referrers:
 		Count: 7 Unique: 3 Url: Google
+
+repo: cstuff views: total: 8 unique:  2
+Views:
+	 2023-10-03 00:00:00 total: 6 unique: 1
+	 2023-10-13 00:00:00 total: 2 unique: 1
 
 repo: gitblame views: total: 7 unique:  2
 Views:
@@ -133,10 +135,6 @@ Views:
 	Referrers:
 		Count: 6 Unique: 1 Url: Google
 
-repo: cstuff views: total: 6 unique:  1
-Views:
-	 2023-10-03 00:00:00 total: 6 unique: 1
-
 repo: duckduckbang views: total: 6 unique:  6
 Views:
 	 2023-10-02 00:00:00 total: 1 unique: 1
@@ -145,7 +143,8 @@ Views:
 	 2023-10-07 00:00:00 total: 1 unique: 1
 	 2023-10-12 00:00:00 total: 2 unique: 2
 	Referrers:
-		Count: 2 Unique: 2 Url: github.com
+		Count: 3 Unique: 3 Url: github.com
+		Count: 1 Unique: 1 Url: gist.github.com
 		Count: 1 Unique: 1 Url: news.ycombinator.com
 
 repo: kind-helper views: total: 5 unique:  1
@@ -153,12 +152,6 @@ Views:
 	 2023-10-07 00:00:00 total: 5 unique: 1
 	Referrers:
 		Count: 5 Unique: 1 Url: github.com
-
-repo: vimcrypt2 views: total: 5 unique:  2
-Views:
-	 2023-09-29 00:00:00 total: 1 unique: 1
-	 2023-10-02 00:00:00 total: 3 unique: 1
-	 2023-10-03 00:00:00 total: 1 unique: 1
 
 repo: subb views: total: 4 unique:  2
 Views:
@@ -168,12 +161,17 @@ Views:
 		Count: 3 Unique: 1 Url: news.ycombinator.com
 		Count: 1 Unique: 1 Url: yandex.com
 
+repo: vimcrypt2 views: total: 4 unique:  1
+Views:
+	 2023-10-02 00:00:00 total: 3 unique: 1
+	 2023-10-03 00:00:00 total: 1 unique: 1
+
 repo: flagged-hn views: total: 2 unique:  2
 Views:
 	 2023-10-09 00:00:00 total: 1 unique: 1
 	 2023-10-12 00:00:00 total: 1 unique: 1
 	Referrers:
-		Count: 1 Unique: 1 Url: news.ycombinator.com
+		Count: 2 Unique: 2 Url: news.ycombinator.com
 
 repo: pprintex views: total: 2 unique:  2
 Views:
@@ -182,16 +180,15 @@ Views:
 	Referrers:
 		Count: 1 Unique: 1 Url: github.com
 
-repo: pygamewrap views: total: 2 unique:  2
-Views:
-	 2023-09-29 00:00:00 total: 1 unique: 1
-	 2023-10-05 00:00:00 total: 1 unique: 1
-
 repo: dockerdashphp views: total: 1 unique:  1
 Views:
 	 2023-10-05 00:00:00 total: 1 unique: 1
 	Referrers:
 		Count: 1 Unique: 1 Url: github.com
+
+repo: pygamewrap views: total: 1 unique:  1
+Views:
+	 2023-10-05 00:00:00 total: 1 unique: 1
 
 repo: roget-thesaurus-parser views: total: 1 unique:  1
 Views:
@@ -251,4 +248,4 @@ repo: vimcrypt views: total: 0 unique:  0
 
 
 ***
-Total views: 525
+Total views: 497
