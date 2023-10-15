@@ -1,18 +1,23 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sat Oct 14 00:37:59 UTC 2023
+Sun Oct 15 00:42:02 UTC 2023
 
 <pre>
 
  _________________________________________
-/ Your boss climbed the corporate ladder, \
-\ wrong by wrong.                         /
+/ When I reflect upon the number of       \
+| disagreeable people who I know who have |
+| gone to a better world, I am moved to   |
+| lead a different life.                  |
+|                                         |
+| -- Mark Twain, "Pudd'nhead Wilson's     |
+\ Calendar"                               /
  -----------------------------------------
         \   ^__^
-         \  (~~)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :( ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: -74 '(from -100..100) state: 'very bad' eye: ~~ tongue: :(
+nltk score: 13 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
