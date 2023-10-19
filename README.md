@@ -1,21 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Wed Oct 18 00:39:13 UTC 2023
+Thu Oct 19 00:38:58 UTC 2023
 
 <pre>
 
- ________________________________________
-/ Its name is Public Opinion. It is held \
-| in reverence. It settles everything.   |
-| Some think it is the voice of God.     |
-|                                        |
-\ -- Mark Twain                          /
- ----------------------------------------
+ _______________________________________
+/ Good news. Ten weeks from Friday will \
+\ be a pretty good day.                 /
+ ---------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (OO)\_______
             (__)\       )\/\
-             -- ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: 27 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 84 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
@@ -113,8 +110,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 561 </th></tr>
 </table>
 <br>
-old_date:  2023-10-02 00:39:33.413591 now: 2023-10-18 00:39:26.768493
-vimcrypt2 stars changed from: 1 to: 2
     </pre>
   </td>
 </table>
