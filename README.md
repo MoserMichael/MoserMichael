@@ -1,22 +1,19 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Fri Oct 20 00:39:10 UTC 2023
+Sat Oct 21 00:37:57 UTC 2023
 
 <pre>
 
- _______________________________________
-/ One of the most striking differences  \
-| between a cat and a lie is that a cat |
-| has only nine lives.                  |
-|                                       |
-| -- Mark Twain, "Pudd'nhead Wilson's   |
-\ Calendar"                             /
- ---------------------------------------
+ ______________________________________
+/ Having nothing, nothing can he lose. \
+|                                      |
+\ -- William Shakespeare, "Henry VI"   /
+ --------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (oo)\_______
             (__)\       )\/\
-             -- ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 31 '(from -100..100) state: 'good' eye: oo tongue: :)
 
 </pre>
 
@@ -70,7 +67,7 @@ My stuff here:
 <table><tr><th align='left'>Name</th><th align='left'>Stars</th><th align='left'>Language</th><th align='left'>description</th></tr>
 <tr><td><a href="https://github.com/MoserMichael/pyasmtool">pyasmtool</a></td><td>311</td><td>Python</td><td>Explores the python bytecode, provides some tools to access it for fun and profit.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/python-obj-system">python-obj-system</a></td><td>62</td><td>Python</td><td>Tutorials on advanced python topics, and literate programming framework to write them (see README.md)</td></tr>
-<tr><td><a href="https://github.com/MoserMichael/duckduckbang">duckduckbang</a></td><td>35</td><td>Python</td><td>Meta search page that utilises duckduckgo !bang query operators.</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/duckduckbang">duckduckbang</a></td><td>36</td><td>Python</td><td>Meta search page that utilises duckduckgo !bang query operators.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/kind-helper">kind-helper</a></td><td>23</td><td>Python</td><td>Simplifies the creation of practical kubernetes test clusters with the kind utility.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/cppcombinator">cppcombinator</a></td><td>22</td><td>C++</td><td>parser  combinator and AST generator in c++17</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/jq-illustrated">jq-illustrated</a></td><td>21</td><td>Shell</td><td>illustrated tutorial of jq (and the scripts that create it)</td></tr>
@@ -111,9 +108,11 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/vimcrypt">vimcrypt</a></td><td>0</td><td>Vim script</td><td>my vim plugin for encrypting/decryting text files with openssl</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/visual-python-strace">visual-python-strace</a></td><td>0</td><td>Python</td><td>show a very long stack trace with variable values.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/zipit">zipit</a></td><td>0</td><td>C++</td><td>c++ library for the equivalent of python/haskell zip function</td></tr>
-<tr><th>Total stars:</th><th colspan='2' align='left'> 561 </th></tr>
+<tr><th>Total stars:</th><th colspan='2' align='left'> 562 </th></tr>
 </table>
 <br>
+old_date:  2023-10-18 00:39:26.768699 now: 2023-10-21 00:38:15.802006
+duckduckbang stars changed from: 35 to: 36
     </pre>
   </td>
 </table>
