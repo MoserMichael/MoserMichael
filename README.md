@@ -1,19 +1,19 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sat Oct 21 00:37:57 UTC 2023
+Sun Oct 22 00:42:04 UTC 2023
 
 <pre>
 
- ______________________________________
-/ Having nothing, nothing can he lose. \
-|                                      |
-\ -- William Shakespeare, "Henry VI"   /
- --------------------------------------
+ _______________________________________
+/ Q: Why did the programmer call his    \
+| mother long distance? A: Because that |
+\ was her name.                         /
+ ---------------------------------------
         \   ^__^
-         \  (oo)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :) ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: 31 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
@@ -111,8 +111,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 562 </th></tr>
 </table>
 <br>
-old_date:  2023-10-18 00:39:26.768699 now: 2023-10-21 00:38:15.802006
-duckduckbang stars changed from: 35 to: 36
     </pre>
   </td>
 </table>
