@@ -22,22 +22,13 @@ Views:
 	 2023-10-21 00:00:00 total: 2 unique: 1
 	 2023-10-22 00:00:00 total: 15 unique: 4
 	Referrers:
-		Count: 47 Unique: 19 Url: Google
+		Count: 45 Unique: 18 Url: Google
 		Count: 23 Unique: 9 Url: github.com
 		Count: 12 Unique: 3 Url: news.ycombinator.com
 		Count: 4 Unique: 2 Url: mail.google.com
 
-repo: jpa-enc-converter views: total: 107 unique:  3
-Views:
-	 2023-10-10 00:00:00 total: 103 unique: 1
-	 2023-10-16 00:00:00 total: 3 unique: 1
-	 2023-10-17 00:00:00 total: 1 unique: 1
-	Referrers:
-		Count: 4 Unique: 2 Url: Google
-
 repo: my-notes views: total: 107 unique:  2
 Views:
-	 2023-10-10 00:00:00 total: 2 unique: 1
 	 2023-10-11 00:00:00 total: 3 unique: 1
 	 2023-10-12 00:00:00 total: 11 unique: 1
 	 2023-10-13 00:00:00 total: 7 unique: 1
@@ -51,8 +42,9 @@ Views:
 	 2023-10-21 00:00:00 total: 2 unique: 1
 	 2023-10-22 00:00:00 total: 11 unique: 1
 	 2023-10-23 00:00:00 total: 31 unique: 2
+	 2023-10-24 00:00:00 total: 2 unique: 1
 	Referrers:
-		Count: 12 Unique: 1 Url: github.com
+		Count: 9 Unique: 1 Url: github.com
 		Count: 2 Unique: 1 Url: leetcode.com
 
 repo: grpc-spring-boot-starter-utils views: total: 40 unique:  7
@@ -62,27 +54,16 @@ Views:
 	Referrers:
 		Count: 36 Unique: 6 Url: github.com
 
-repo: python-obj-system views: total: 21 unique:  2
+repo: python-obj-system views: total: 25 unique:  3
 Views:
 	 2023-10-22 00:00:00 total: 2 unique: 1
 	 2023-10-23 00:00:00 total: 19 unique: 1
+	 2023-10-24 00:00:00 total: 4 unique: 1
 	Referrers:
+		Count: 19 Unique: 1 Url: github.com
 		Count: 2 Unique: 1 Url: Google
 
-repo: s9k views: total: 18 unique:  11
-Views:
-	 2023-10-10 00:00:00 total: 6 unique: 3
-	 2023-10-12 00:00:00 total: 4 unique: 2
-	 2023-10-13 00:00:00 total: 1 unique: 1
-	 2023-10-16 00:00:00 total: 3 unique: 2
-	 2023-10-17 00:00:00 total: 2 unique: 1
-	 2023-10-18 00:00:00 total: 1 unique: 1
-	 2023-10-23 00:00:00 total: 1 unique: 1
-	Referrers:
-		Count: 8 Unique: 4 Url: Google
-		Count: 3 Unique: 3 Url: github.com
-
-repo: cppcombinator views: total: 15 unique:  8
+repo: cppcombinator views: total: 17 unique:  8
 Views:
 	 2023-10-13 00:00:00 total: 1 unique: 1
 	 2023-10-15 00:00:00 total: 1 unique: 1
@@ -91,9 +72,22 @@ Views:
 	 2023-10-19 00:00:00 total: 1 unique: 1
 	 2023-10-21 00:00:00 total: 2 unique: 1
 	 2023-10-23 00:00:00 total: 2 unique: 2
+	 2023-10-24 00:00:00 total: 2 unique: 1
 	Referrers:
-		Count: 11 Unique: 4 Url: github.com
+		Count: 13 Unique: 6 Url: github.com
 		Count: 2 Unique: 2 Url: reddit.com
+
+repo: s9k views: total: 12 unique:  8
+Views:
+	 2023-10-12 00:00:00 total: 4 unique: 2
+	 2023-10-13 00:00:00 total: 1 unique: 1
+	 2023-10-16 00:00:00 total: 3 unique: 2
+	 2023-10-17 00:00:00 total: 2 unique: 1
+	 2023-10-18 00:00:00 total: 1 unique: 1
+	 2023-10-23 00:00:00 total: 1 unique: 1
+	Referrers:
+		Count: 9 Unique: 5 Url: Google
+		Count: 3 Unique: 3 Url: github.com
 
 repo: MoserMichael views: total: 11 unique:  1
 Views:
@@ -103,25 +97,22 @@ Views:
 	Referrers:
 		Count: 3 Unique: 1 Url: github.com
 
-repo: pythonimportplayground views: total: 6 unique:  1
+repo: duckduckbang views: total: 8 unique:  6
 Views:
-	 2023-10-10 00:00:00 total: 6 unique: 1
+	 2023-10-12 00:00:00 total: 2 unique: 2
+	 2023-10-17 00:00:00 total: 2 unique: 2
+	 2023-10-22 00:00:00 total: 1 unique: 1
+	 2023-10-24 00:00:00 total: 3 unique: 1
+	Referrers:
+		Count: 1 Unique: 1 Url: fmhy.pages.dev
+		Count: 1 Unique: 1 Url: github.com
+		Count: 1 Unique: 1 Url: gist.github.com
 
 repo: zipit views: total: 6 unique:  1
 Views:
 	 2023-10-15 00:00:00 total: 6 unique: 1
 	Referrers:
 		Count: 6 Unique: 1 Url: Google
-
-repo: duckduckbang views: total: 5 unique:  5
-Views:
-	 2023-10-12 00:00:00 total: 2 unique: 2
-	 2023-10-17 00:00:00 total: 2 unique: 2
-	 2023-10-22 00:00:00 total: 1 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: fmhy.pages.dev
-		Count: 1 Unique: 1 Url: github.com
-		Count: 1 Unique: 1 Url: gist.github.com
 
 repo: rzgrep views: total: 5 unique:  3
 Views:
@@ -152,7 +143,21 @@ Views:
 	 2023-10-11 00:00:00 total: 3 unique: 1
 	 2023-10-14 00:00:00 total: 1 unique: 1
 	Referrers:
+		Count: 1 Unique: 1 Url: Google
+
+repo: jpa-enc-converter views: total: 4 unique:  2
+Views:
+	 2023-10-16 00:00:00 total: 3 unique: 1
+	 2023-10-17 00:00:00 total: 1 unique: 1
+	Referrers:
 		Count: 4 Unique: 2 Url: Google
+
+repo: roget-thesaurus-parser views: total: 4 unique:  1
+Views:
+	 2023-10-23 00:00:00 total: 1 unique: 1
+	 2023-10-24 00:00:00 total: 3 unique: 1
+	Referrers:
+		Count: 1 Unique: 1 Url: results.looksmart.com
 
 repo: vimcrypt2 views: total: 4 unique:  3
 Views:
@@ -180,25 +185,26 @@ Views:
 		Count: 1 Unique: 1 Url: Google
 		Count: 1 Unique: 1 Url: cn.bing.com
 
+repo: vimcrypt views: total: 2 unique:  2
+Views:
+	 2023-10-22 00:00:00 total: 1 unique: 1
+	 2023-10-24 00:00:00 total: 1 unique: 1
+	Referrers:
+		Count: 1 Unique: 1 Url: DuckDuckGo
+
 repo: kwchecker views: total: 1 unique:  1
 Views:
 	 2023-10-19 00:00:00 total: 1 unique: 1
 	Referrers:
 		Count: 1 Unique: 1 Url: Google
 
+repo: myenv views: total: 1 unique:  1
+Views:
+	 2023-10-24 00:00:00 total: 1 unique: 1
+
 repo: pygamewrap views: total: 1 unique:  1
 Views:
 	 2023-10-16 00:00:00 total: 1 unique: 1
-
-repo: roget-thesaurus-parser views: total: 1 unique:  1
-Views:
-	 2023-10-23 00:00:00 total: 1 unique: 1
-
-repo: vimcrypt views: total: 1 unique:  1
-Views:
-	 2023-10-22 00:00:00 total: 1 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: DuckDuckGo
 
 repo: bloxroutehomework views: total: 0 unique:  0
 
@@ -228,8 +234,6 @@ repo: ls-annotations views: total: 0 unique:  0
 
 repo: microsofthomework views: total: 0 unique:  0
 
-repo: myenv views: total: 0 unique:  0
-
 repo: opinionated-fortune-cow views: total: 0 unique:  0
 
 repo: pprintex views: total: 0 unique:  0
@@ -238,10 +242,12 @@ repo: printb views: total: 0 unique:  0
 
 repo: pythoncourse views: total: 0 unique:  0
 
+repo: pythonimportplayground views: total: 0 unique:  0
+
 repo: subb views: total: 0 unique:  0
 
 repo: teach-your-children-well views: total: 0 unique:  0
 
 
 ***
-Total views: 474
+Total views: 373
