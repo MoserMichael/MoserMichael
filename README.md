@@ -1,18 +1,22 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Fri Oct 27 00:38:24 UTC 2023
+Sat Oct 28 00:37:26 UTC 2023
 
 <pre>
 
- _______________________________________
-/ You will visit the Dung Pits of Glive \
-\ soon.                                 /
- ---------------------------------------
+ _________________________________________
+/ O, it is excellent To have a giant's    \
+| strength; but it is tyrannous To use it |
+| like a giant.                           |
+|                                         |
+| -- Shakespeare, "Measure for Measure",  |
+\ II, 2                                   /
+ -----------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (OO)\_______
             (__)\       )\/\
-             -- ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 77 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
