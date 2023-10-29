@@ -1,22 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sat Oct 28 00:37:26 UTC 2023
+Sun Oct 29 00:41:57 UTC 2023
 
 <pre>
 
- _________________________________________
-/ O, it is excellent To have a giant's    \
-| strength; but it is tyrannous To use it |
-| like a giant.                           |
-|                                         |
-| -- Shakespeare, "Measure for Measure",  |
-\ II, 2                                   /
- -----------------------------------------
+ _______________________________________
+/ Don't you wish you had more energy... \
+\ or less ambition?                     /
+ ---------------------------------------
         \   ^__^
-         \  (OO)\_______
+         \  (!!)\_______
             (__)\       )\/\
-             :) ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 77 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: -31 '(from -100..100) state: 'bad' eye: !! tongue: :(
 
 </pre>
 
@@ -78,10 +74,10 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/cstuff">cstuff</a></td><td>12</td><td>C</td><td>My C projects</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/rzgrep">rzgrep</a></td><td>7</td><td>Go</td><td>grep utility that searches through zip,jar,ear,tgz,bz2 in any form of nesting; it can also decompile class files</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/ls-annotations">ls-annotations</a></td><td>6</td><td>Java</td><td>Show all declarations with java annotations by decompiling byte code.</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/pythonimportplayground">pythonimportplayground</a></td><td>6</td><td>Python</td><td>the readme file explains python packages, with examples.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/roget-thesaurus-parser">roget-thesaurus-parser</a></td><td>6</td><td>Python</td><td>parses Roget's thesaurus and provide API for querying related words</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/jscriptparse">jscriptparse</a></td><td>5</td><td>JavaScript</td><td>pyx scripting language & REPL/Shell ; prs - javascript module for parser combinators</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/pygamewrap">pygamewrap</a></td><td>5</td><td>Python</td><td>A small wrapper toolkit that simplifies development with the pygame library (hopefully)</td></tr>
-<tr><td><a href="https://github.com/MoserMichael/pythonimportplayground">pythonimportplayground</a></td><td>5</td><td>Python</td><td>the readme file explains python packages, with examples.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/myenv">myenv</a></td><td>4</td><td>Shell</td><td>my work environment (so i don't have to search for it ;-)</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/opinionated-fortune-cow">opinionated-fortune-cow</a></td><td>4</td><td>Shell</td><td>fortune | cow pipe that runs sentiment analysis on the fortune cookie, in order to determine the mood and expression of the cow</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/flagged-hn">flagged-hn</a></td><td>3</td><td>Python</td><td>crawl hn and build a page containing flagged stories only.</td></tr>
@@ -111,9 +107,11 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/vimcrypt">vimcrypt</a></td><td>0</td><td>Vim script</td><td>my vim plugin for encrypting/decryting text files with openssl</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/visual-python-strace">visual-python-strace</a></td><td>0</td><td>Python</td><td>show a very long stack trace with variable values.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/zipit">zipit</a></td><td>0</td><td>C++</td><td>c++ library for the equivalent of python/haskell zip function</td></tr>
-<tr><th>Total stars:</th><th colspan='2' align='left'> 563 </th></tr>
+<tr><th>Total stars:</th><th colspan='2' align='left'> 564 </th></tr>
 </table>
 <br>
+old_date:  2023-10-24 00:39:20.289764 now: 2023-10-29 00:42:14.534481
+pythonimportplayground stars changed from: 5 to: 6
     </pre>
   </td>
 </table>
