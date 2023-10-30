@@ -1,18 +1,24 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sun Oct 29 00:41:57 UTC 2023
+Mon Oct 30 00:39:30 UTC 2023
 
 <pre>
 
- _______________________________________
-/ Don't you wish you had more energy... \
-\ or less ambition?                     /
- ---------------------------------------
+ _________________________________________
+/ Swerve me? The path to my fixed purpose \
+| is laid with iron rails, whereon my     |
+| soul is grooved to run. Over unsounded  |
+| gorges, through the rifled hearts of    |
+| mountains, under torrents' beds,        |
+| unerringly I rush!                      |
+|                                         |
+\ -- Captain Ahab, "Moby Dick"            /
+ -----------------------------------------
         \   ^__^
-         \  (!!)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :( ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: -31 '(from -100..100) state: 'bad' eye: !! tongue: :(
+nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
@@ -110,8 +116,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 564 </th></tr>
 </table>
 <br>
-old_date:  2023-10-24 00:39:20.289764 now: 2023-10-29 00:42:14.534481
-pythonimportplayground stars changed from: 5 to: 6
     </pre>
   </td>
 </table>
