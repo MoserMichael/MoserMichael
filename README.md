@@ -1,18 +1,15 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Mon Oct 30 00:39:30 UTC 2023
+Tue Oct 31 00:39:34 UTC 2023
 
 <pre>
 
- _________________________________________
-/ Swerve me? The path to my fixed purpose \
-| is laid with iron rails, whereon my     |
-| soul is grooved to run. Over unsounded  |
-| gorges, through the rifled hearts of    |
-| mountains, under torrents' beds,        |
-| unerringly I rush!                      |
-|                                         |
-\ -- Captain Ahab, "Moby Dick"            /
- -----------------------------------------
+ _______________________________________
+/ Noise proves nothing. Often a hen who \
+| has merely laid an egg cackles as if  |
+| she laid an asteroid.                 |
+|                                       |
+\ -- Mark Twain                         /
+ ---------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
