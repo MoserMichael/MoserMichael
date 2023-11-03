@@ -1,18 +1,19 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Thu Nov  2 00:39:18 UTC 2023
+Fri Nov  3 00:39:24 UTC 2023
 
 <pre>
 
- ________________________________________
-/ You are sick, twisted and perverted. I \
-\ like that in a person.                 /
- ----------------------------------------
+ ______________________________________
+/ Q: How can you tell when a Burroughs \
+| salesman is lying? A: When his lips  |
+\ move.                                /
+ --------------------------------------
         \   ^__^
-         \  (~~)\_______
+         \  (!!)\_______
             (__)\       )\/\
              :( ||----w |
                 ||     ||
-nltk score: -65 '(from -100..100) state: 'very bad' eye: ~~ tongue: :(
+nltk score: -53 '(from -100..100) state: 'bad' eye: !! tongue: :(
 
 </pre>
 
