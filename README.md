@@ -1,19 +1,21 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Fri Nov  3 00:39:24 UTC 2023
+Fri Nov  3 07:11:28 UTC 2023
 
 <pre>
 
- ______________________________________
-/ Q: How can you tell when a Burroughs \
-| salesman is lying? A: When his lips  |
-\ move.                                /
- --------------------------------------
+ ________________________________________
+/ Q: Why do the police always travel in  \
+| threes? A: One to do the reading, one  |
+| to do the writing, and the other keeps |
+|                                        |
+\ an eye on the two intellectuals.       /
+ ----------------------------------------
         \   ^__^
-         \  (!!)\_______
+         \  (oo)\_______
             (__)\       )\/\
-             :( ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: -53 '(from -100..100) state: 'bad' eye: !! tongue: :(
+nltk score: 38 '(from -100..100) state: 'good' eye: oo tongue: :)
 
 </pre>
 
@@ -28,20 +30,20 @@ nltk score: -53 '(from -100..100) state: 'bad' eye: !! tongue: :(
 </tr>
 <tr>
     <td>
-        Linked-in:  
-    </td>
-    <td>
-        <a href="https://www.linkedin.com/in/michael-moser-32211b1/">link to profile</a>
-    <td>
-</tr>
-<tr>
-    <td>
         Blog:       
     </td>
     <td>
         <a href="https://github.com/MoserMichael/my-notes/blob/master/dev-gotchas.md">link to blog</a>
     <td>
+</tr>
 <tr>
+    <td>
+        Other:  
+    </td>
+    <td>
+        <a href="https://www.linkedin.com/in/michael-moser-32211b1/">linked-in profile</a> &nbsp; <a href="https://leetcode.com/michaelmo123/">leetcode profile</a>
+    <td>
+</tr>
 <tr> <td> Contact:    
     </td>
     <td>
