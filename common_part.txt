@@ -12,20 +12,20 @@
 </tr>
 <tr>
     <td>
-        Linked-in:  
-    </td>
-    <td>
-        <a href="https://www.linkedin.com/in/michael-moser-32211b1/">link to profile</a>
-    <td>
-</tr>
-<tr>
-    <td>
         Blog:       
     </td>
     <td>
         <a href="https://github.com/MoserMichael/my-notes/blob/master/dev-gotchas.md">link to blog</a>
     <td>
+</tr>
 <tr>
+    <td>
+        Other:  
+    </td>
+    <td>
+        <a href="https://www.linkedin.com/in/michael-moser-32211b1/">linked-in profile</a> &nbsp; <a href="https://leetcode.com/michaelmo123/">leetcode profile</a>
+    <td>
+</tr>
 <tr> <td> Contact:    
     </td>
     <td>
