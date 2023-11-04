@@ -1,21 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Fri Nov  3 07:11:28 UTC 2023
+Sat Nov  4 00:38:25 UTC 2023
 
 <pre>
 
- ________________________________________
-/ Q: Why do the police always travel in  \
-| threes? A: One to do the reading, one  |
-| to do the writing, and the other keeps |
-|                                        |
-\ an eye on the two intellectuals.       /
- ----------------------------------------
+ ____________________________________
+/ You will be a winner today. Pick a \
+\ fight with a four-year-old.        /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
              :) ||----w |
                 ||     ||
-nltk score: 38 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: 30 '(from -100..100) state: 'good' eye: oo tongue: :)
 
 </pre>
 
