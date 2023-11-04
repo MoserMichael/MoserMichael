@@ -14,7 +14,7 @@ Views:
 	 2023-10-30 00:00:00 total: 49 unique: 2
 	 2023-11-03 00:00:00 total: 49 unique: 1
 	Referrers:
-		Count: 59 Unique: 4 Url: Google
+		Count: 61 Unique: 5 Url: Google
 
 repo: my-notes views: total: 70 unique:  2
 Views:
@@ -28,8 +28,10 @@ Views:
 	 2023-10-29 00:00:00 total: 2 unique: 1
 	 2023-10-30 00:00:00 total: 6 unique: 1
 	 2023-11-03 00:00:00 total: 4 unique: 1
+	Referrers:
+		Count: 2 Unique: 1 Url: leetcode.com
 
-repo: pyasmtool views: total: 62 unique:  14
+repo: pyasmtool views: total: 64 unique:  15
 Views:
 	 2023-10-21 00:00:00 total: 2 unique: 1
 	 2023-10-22 00:00:00 total: 15 unique: 4
@@ -40,6 +42,7 @@ Views:
 	 2023-11-01 00:00:00 total: 6 unique: 2
 	 2023-11-02 00:00:00 total: 23 unique: 2
 	 2023-11-03 00:00:00 total: 4 unique: 1
+	 2023-11-04 00:00:00 total: 2 unique: 1
 	Referrers:
 		Count: 20 Unique: 3 Url: github.com
 		Count: 6 Unique: 3 Url: Google
@@ -126,6 +129,7 @@ Views:
 		Count: 4 Unique: 2 Url: Google
 		Count: 3 Unique: 1 Url: github.com
 		Count: 1 Unique: 1 Url: fmhy.pages.dev
+		Count: 1 Unique: 1 Url: news.ycombinator.com
 
 repo: vimcrypt2 views: total: 6 unique:  5
 Views:
@@ -153,7 +157,7 @@ Views:
 	 2023-10-28 00:00:00 total: 1 unique: 1
 	 2023-11-03 00:00:00 total: 1 unique: 1
 	Referrers:
-		Count: 4 Unique: 1 Url: Google
+		Count: 5 Unique: 2 Url: Google
 
 repo: roget-thesaurus-parser views: total: 4 unique:  1
 Views:
@@ -255,4 +259,4 @@ repo: teach-your-children-well views: total: 0 unique:  0
 
 
 ***
-Total views: 428
+Total views: 430
