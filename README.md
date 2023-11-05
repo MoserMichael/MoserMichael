@@ -1,18 +1,19 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sat Nov  4 06:39:40 UTC 2023
+Sun Nov  5 00:42:46 UTC 2023
 
 <pre>
 
  _____________________________________
-/ You will be awarded the Nobel Peace \
-\ Prize... posthumously.              /
+/ For courage mounteth with occasion. \
+|                                     |
+\ -- William Shakespeare, "King John" /
  -------------------------------------
         \   ^__^
-         \  (OO)\_______
+         \  (oo)\_______
             (__)\       )\/\
              :) ||----w |
                 ||     ||
-nltk score: 74 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: 49 '(from -100..100) state: 'good' eye: oo tongue: :)
 
 </pre>
 
