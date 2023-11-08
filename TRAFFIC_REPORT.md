@@ -15,9 +15,9 @@ Views:
 	 2023-11-03 00:00:00 total: 49 unique: 1
 	 2023-11-06 00:00:00 total: 1 unique: 1
 	Referrers:
-		Count: 61 Unique: 5 Url: Google
+		Count: 62 Unique: 6 Url: Google
 
-repo: pyasmtool views: total: 82 unique:  15
+repo: pyasmtool views: total: 92 unique:  20
 Views:
 	 2023-10-28 00:00:00 total: 4 unique: 2
 	 2023-10-29 00:00:00 total: 2 unique: 1
@@ -29,11 +29,13 @@ Views:
 	 2023-11-04 00:00:00 total: 8 unique: 3
 	 2023-11-05 00:00:00 total: 16 unique: 1
 	 2023-11-06 00:00:00 total: 13 unique: 3
+	 2023-11-07 00:00:00 total: 10 unique: 5
 	Referrers:
-		Count: 22 Unique: 4 Url: Google
+		Count: 33 Unique: 6 Url: Google
 		Count: 9 Unique: 1 Url: github.com
 		Count: 6 Unique: 3 Url: news.ycombinator.com
 		Count: 6 Unique: 1 Url: Bing
+		Count: 2 Unique: 1 Url: com.google.android.gm
 
 repo: MoserMichael views: total: 33 unique:  2
 Views:
@@ -42,20 +44,6 @@ Views:
 	 2023-11-04 00:00:00 total: 4 unique: 1
 	 2023-11-05 00:00:00 total: 1 unique: 1
 	 2023-11-06 00:00:00 total: 2 unique: 1
-
-repo: my-notes views: total: 29 unique:  1
-Views:
-	 2023-10-24 00:00:00 total: 2 unique: 1
-	 2023-10-25 00:00:00 total: 6 unique: 1
-	 2023-10-27 00:00:00 total: 4 unique: 1
-	 2023-10-28 00:00:00 total: 2 unique: 1
-	 2023-10-29 00:00:00 total: 2 unique: 1
-	 2023-10-30 00:00:00 total: 6 unique: 1
-	 2023-11-03 00:00:00 total: 4 unique: 1
-	 2023-11-05 00:00:00 total: 3 unique: 1
-	Referrers:
-		Count: 3 Unique: 1 Url: github.com
-		Count: 2 Unique: 1 Url: leetcode.com
 
 repo: s9k views: total: 28 unique:  13
 Views:
@@ -67,12 +55,25 @@ Views:
 	 2023-11-02 00:00:00 total: 9 unique: 3
 	 2023-11-06 00:00:00 total: 2 unique: 2
 	Referrers:
-		Count: 16 Unique: 9 Url: Google
+		Count: 17 Unique: 10 Url: Google
 		Count: 1 Unique: 1 Url: github.com
 
-repo: python-obj-system views: total: 22 unique:  9
+repo: my-notes views: total: 25 unique:  2
 Views:
-	 2023-10-24 00:00:00 total: 4 unique: 1
+	 2023-10-25 00:00:00 total: 2 unique: 1
+	 2023-10-27 00:00:00 total: 4 unique: 1
+	 2023-10-28 00:00:00 total: 2 unique: 1
+	 2023-10-29 00:00:00 total: 2 unique: 1
+	 2023-10-30 00:00:00 total: 6 unique: 1
+	 2023-11-03 00:00:00 total: 4 unique: 1
+	 2023-11-05 00:00:00 total: 3 unique: 1
+	 2023-11-07 00:00:00 total: 2 unique: 1
+	Referrers:
+		Count: 3 Unique: 1 Url: github.com
+		Count: 2 Unique: 1 Url: leetcode.com
+
+repo: python-obj-system views: total: 18 unique:  8
+Views:
 	 2023-10-25 00:00:00 total: 2 unique: 1
 	 2023-10-29 00:00:00 total: 2 unique: 1
 	 2023-10-30 00:00:00 total: 2 unique: 1
@@ -80,7 +81,7 @@ Views:
 	 2023-11-05 00:00:00 total: 7 unique: 3
 	 2023-11-06 00:00:00 total: 3 unique: 1
 	Referrers:
-		Count: 6 Unique: 2 Url: news.ycombinator.com
+		Count: 9 Unique: 3 Url: news.ycombinator.com
 		Count: 4 Unique: 2 Url: Google
 		Count: 3 Unique: 2 Url: github.com
 
@@ -92,7 +93,7 @@ Views:
 	 2023-11-06 00:00:00 total: 1 unique: 1
 	Referrers:
 		Count: 12 Unique: 2 Url: yandex.ru
-		Count: 1 Unique: 1 Url: Google
+		Count: 2 Unique: 2 Url: Google
 
 repo: visual-python-strace views: total: 13 unique:  2
 Views:
@@ -112,9 +113,8 @@ Views:
 	Referrers:
 		Count: 3 Unique: 1 Url: DuckDuckGo
 
-repo: duckduckbang views: total: 10 unique:  6
+repo: duckduckbang views: total: 7 unique:  5
 Views:
-	 2023-10-24 00:00:00 total: 3 unique: 1
 	 2023-10-30 00:00:00 total: 4 unique: 2
 	 2023-11-02 00:00:00 total: 1 unique: 1
 	 2023-11-03 00:00:00 total: 1 unique: 1
@@ -122,24 +122,16 @@ Views:
 	Referrers:
 		Count: 4 Unique: 2 Url: Google
 		Count: 1 Unique: 1 Url: fmhy.pages.dev
+		Count: 1 Unique: 1 Url: github.com
 		Count: 1 Unique: 1 Url: news.ycombinator.com
 
-repo: cppcombinator views: total: 7 unique:  4
+repo: cppcombinator views: total: 5 unique:  4
 Views:
-	 2023-10-24 00:00:00 total: 2 unique: 1
 	 2023-10-25 00:00:00 total: 3 unique: 2
 	 2023-10-27 00:00:00 total: 1 unique: 1
 	 2023-10-29 00:00:00 total: 1 unique: 1
 	Referrers:
-		Count: 4 Unique: 3 Url: github.com
-
-repo: myenv views: total: 5 unique:  3
-Views:
-	 2023-10-24 00:00:00 total: 1 unique: 1
-	 2023-10-25 00:00:00 total: 1 unique: 1
-	 2023-11-02 00:00:00 total: 3 unique: 1
-	Referrers:
-		Count: 4 Unique: 2 Url: Google
+		Count: 2 Unique: 2 Url: github.com
 
 repo: vimcrypt2 views: total: 5 unique:  4
 Views:
@@ -157,7 +149,7 @@ Views:
 	 2023-10-28 00:00:00 total: 1 unique: 1
 	 2023-11-03 00:00:00 total: 1 unique: 1
 	Referrers:
-		Count: 5 Unique: 2 Url: Google
+		Count: 3 Unique: 2 Url: Google
 
 repo: ls-annotations views: total: 4 unique:  4
 Views:
@@ -166,15 +158,19 @@ Views:
 	 2023-11-06 00:00:00 total: 1 unique: 1
 	Referrers:
 		Count: 3 Unique: 3 Url: news.ycombinator.com
+		Count: 1 Unique: 1 Url: Google
 
-repo: roget-thesaurus-parser views: total: 3 unique:  1
+repo: myenv views: total: 4 unique:  2
 Views:
-	 2023-10-24 00:00:00 total: 3 unique: 1
+	 2023-10-25 00:00:00 total: 1 unique: 1
+	 2023-11-02 00:00:00 total: 3 unique: 1
+	Referrers:
+		Count: 3 Unique: 1 Url: Google
 
-repo: vimcrypt views: total: 2 unique:  2
+repo: gitblame views: total: 2 unique:  2
 Views:
-	 2023-10-24 00:00:00 total: 1 unique: 1
-	 2023-10-30 00:00:00 total: 1 unique: 1
+	 2023-10-26 00:00:00 total: 1 unique: 1
+	 2023-11-07 00:00:00 total: 1 unique: 1
 	Referrers:
 		Count: 1 Unique: 1 Url: Google
 
@@ -196,12 +192,6 @@ Views:
 	Referrers:
 		Count: 1 Unique: 1 Url: Google
 
-repo: gitblame views: total: 1 unique:  1
-Views:
-	 2023-10-26 00:00:00 total: 1 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: Google
-
 repo: kind-helper views: total: 1 unique:  1
 Views:
 	 2023-10-29 00:00:00 total: 1 unique: 1
@@ -217,6 +207,18 @@ Views:
 repo: pygamewrap views: total: 1 unique:  1
 Views:
 	 2023-11-06 00:00:00 total: 1 unique: 1
+	Referrers:
+		Count: 1 Unique: 1 Url: Google
+
+repo: roget-thesaurus-parser views: total: 1 unique:  1
+Views:
+	 2023-11-07 00:00:00 total: 1 unique: 1
+
+repo: vimcrypt views: total: 1 unique:  1
+Views:
+	 2023-10-30 00:00:00 total: 1 unique: 1
+	Referrers:
+		Count: 1 Unique: 1 Url: Google
 
 repo: bloxroutehomework views: total: 0 unique:  0
 
@@ -256,4 +258,4 @@ repo: teach-your-children-well views: total: 0 unique:  0
 
 
 ***
-Total views: 400
+Total views: 394
