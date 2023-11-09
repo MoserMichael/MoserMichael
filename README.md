@@ -1,17 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Wed Nov  8 00:39:16 UTC 2023
+Thu Nov  9 00:39:28 UTC 2023
 
 <pre>
 
  ________________________________________
-< Stay away from hurricanes for a while. >
+/ You prefer the company of the opposite \
+\ sex, but are well liked by your own.   /
  ----------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (OO)\_______
             (__)\       )\/\
-             -- ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 75 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
