@@ -1,16 +1,14 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sat Nov 11 00:39:07 UTC 2023
+Sun Nov 12 00:42:55 UTC 2023
 
 <pre>
 
- _________________________________________
-/ Q: How many Bell Labs Vice Presidents   \
-| does it take to change a light bulb? A: |
-| That's proprietary information. Answer  |
-| available from AT&T on payment          |
-|                                         |
-\ of license fee (binary only).           /
- -----------------------------------------
+ ______________________________________
+/ You have an unusual magnetic         \
+| personality. Don't walk too close to |
+| metal objects which are not fastened |
+\ down.                                /
+ --------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
@@ -114,8 +112,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 563 </th></tr>
 </table>
 <br>
-old_date:  2023-10-29 00:42:14.534688 now: 2023-11-11 00:39:21.297840
-python-obj-system stars changed from: 62 to: 61
     </pre>
   </td>
 </table>
