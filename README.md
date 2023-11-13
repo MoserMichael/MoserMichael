@@ -1,20 +1,24 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sun Nov 12 00:42:55 UTC 2023
+Mon Nov 13 00:41:06 UTC 2023
 
 <pre>
 
- ______________________________________
-/ You have an unusual magnetic         \
-| personality. Don't walk too close to |
-| metal objects which are not fastened |
-\ down.                                /
- --------------------------------------
+ _________________________________________
+/ Q: How do you shoot a blue elephant? A: \
+| With a blue-elephant gun.               |
+|                                         |
+| Q: How do you shoot a pink elephant? A: |
+| Twist its trunk until it turns blue,    |
+| then shoot it with                      |
+|                                         |
+\ a blue-elephant gun.                    /
+ -----------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (~~)\_______
             (__)\       )\/\
-             -- ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: -88 '(from -100..100) state: 'very bad' eye: ~~ tongue: :(
 
 </pre>
 
