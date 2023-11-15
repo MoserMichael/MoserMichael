@@ -1,32 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Tue Nov 14 00:39:45 UTC 2023
+Wed Nov 15 00:40:31 UTC 2023
 
 <pre>
 
- _________________________________________
-/ Q: How many IBM types does it take to   \
-| change a light bulb? A: Fifteen. One to |
-| do it, and fourteen to write document   |
-| number                                  |
-|                                         |
-| GC7500439-0001, Multitasking            |
-| Incandescent Source System Facility,    |
-|                                         |
-| of which 10% of the pages state only    |
-| "This page intentionally                |
-|                                         |
-| left blank", and 20% of the definitions |
-| are of the form "A:.....                |
-|                                         |
-| consists of sequences of non-blank      |
-\ characters separated by blanks".        /
- -----------------------------------------
+ ________________________________________
+/ You are sick, twisted and perverted. I \
+\ like that in a person.                 /
+ ----------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (~~)\_______
             (__)\       )\/\
-             -- ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 8 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: -65 '(from -100..100) state: 'very bad' eye: ~~ tongue: :(
 
 </pre>
 
@@ -124,10 +110,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 566 </th></tr>
 </table>
 <br>
-old_date:  2023-11-11 00:39:21.298050 now: 2023-11-14 00:39:55.620563
-pyasmtool stars changed from: 311 to: 312
-python-obj-system stars changed from: 61 to: 62
-ls-annotations stars changed from: 6 to: 7
     </pre>
   </td>
 </table>
