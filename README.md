@@ -1,21 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Wed Nov 22 00:42:43 UTC 2023
+Thu Nov 23 00:40:45 UTC 2023
 
 <pre>
 
- _________________________________________
-/ If one cannot enjoy reading a book over \
-| and over again, there is no use in      |
-| reading it at all.                      |
-|                                         |
-\ -- Oscar Wilde                          /
- -----------------------------------------
+ ________________________________________
+/ You will be Told about it Tomorrow. Go \
+\ Home and Prepare Thyself.              /
+ ----------------------------------------
         \   ^__^
-         \  (!!)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :( ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: -59 '(from -100..100) state: 'bad' eye: !! tongue: :(
+nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
