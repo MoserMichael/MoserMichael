@@ -1,18 +1,20 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sun Nov 26 00:43:52 UTC 2023
+Mon Nov 27 00:41:33 UTC 2023
 
 <pre>
 
- ____________________________________
-/ Excellent time to become a missing \
-\ person.                            /
- ------------------------------------
+ _______________________________________
+/ Q: How many IBM CPU's does it take to \
+| do a logical right shift? A: 33. 1 to |
+| hold the bits and 32 to push the      |
+\ register.                             /
+ ---------------------------------------
         \   ^__^
-         \  (oo)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :) ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: 36 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
@@ -110,8 +112,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 566 </th></tr>
 </table>
 <br>
-old_date:  2023-11-25 00:39:29.930507 now: 2023-11-26 00:44:02.848007
-pyasmtool stars changed from: 311 to: 312
     </pre>
   </td>
 </table>
