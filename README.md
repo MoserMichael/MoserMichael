@@ -1,20 +1,22 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Mon Nov 27 00:41:33 UTC 2023
+Tue Nov 28 00:41:47 UTC 2023
 
 <pre>
 
  _______________________________________
-/ Q: How many IBM CPU's does it take to \
-| do a logical right shift? A: 33. 1 to |
-| hold the bits and 32 to push the      |
-\ register.                             /
+/ So so is good, very good, very        \
+| excellent good: and yet it is not; it |
+| is but so so.                         |
+|                                       |
+| -- William Shakespeare, "As You Like  |
+\ It"                                   /
  ---------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (OO)\_______
             (__)\       )\/\
-             -- ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 81 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
