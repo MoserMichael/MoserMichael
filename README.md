@@ -1,22 +1,17 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Tue Nov 28 00:41:47 UTC 2023
+Wed Nov 29 00:41:38 UTC 2023
 
 <pre>
 
- _______________________________________
-/ So so is good, very good, very        \
-| excellent good: and yet it is not; it |
-| is but so so.                         |
-|                                       |
-| -- William Shakespeare, "As You Like  |
-\ It"                                   /
- ---------------------------------------
+ ______________________________________
+< You will have long and healthy life. >
+ --------------------------------------
         \   ^__^
-         \  (OO)\_______
+         \  (oo)\_______
             (__)\       )\/\
              :) ||----w |
                 ||     ||
-nltk score: 81 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: 40 '(from -100..100) state: 'good' eye: oo tongue: :)
 
 </pre>
 
