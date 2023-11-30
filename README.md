@@ -1,17 +1,29 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Wed Nov 29 00:41:38 UTC 2023
+Thu Nov 30 00:41:30 UTC 2023
 
 <pre>
 
- ______________________________________
-< You will have long and healthy life. >
- --------------------------------------
+ _________________________________________
+/ In the plot, people came to the land;   \
+| the land loved them; they worked and    |
+| struggled and had lots of children.     |
+| There was a Frenchman who talked funny  |
+| and a greenhorn from England who was a  |
+| fancy-pants but when it came to the     |
+| crunch he was all courage. Those novels |
+| would make you retch.                   |
+|                                         |
+| -- Canadian novelist Robertson Davies,  |
+| on the generic Canadian                 |
+|                                         |
+\ novel.                                  /
+ -----------------------------------------
         \   ^__^
-         \  (oo)\_______
+         \  (OO)\_______
             (__)\       )\/\
              :) ||----w |
                 ||     ||
-nltk score: 40 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: 79 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
