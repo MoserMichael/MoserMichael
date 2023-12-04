@@ -1,20 +1,20 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sun Dec  3 00:43:42 UTC 2023
+Mon Dec  4 00:41:54 UTC 2023
 
 <pre>
 
- _______________________________________
-/ Q: What's the difference betweeen USL \
-| and the Graf Zeppelin? A: The Graf    |
-| Zeppelin represented cutting edge     |
-\ technology for its time.              /
- ---------------------------------------
+ ________________________________
+/ All generalizations are false, \
+| including this one.            |
+|                                |
+\ -- Mark Twain                  /
+ --------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
              -- ||----w |
                 ||     ||
-nltk score: -13 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
@@ -112,8 +112,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 567 </th></tr>
 </table>
 <br>
-old_date:  2023-11-26 00:44:02.848161 now: 2023-12-03 00:43:53.265531
-roget-thesaurus-parser stars changed from: 6 to: 7
     </pre>
   </td>
 </table>
