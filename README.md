@@ -1,20 +1,23 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Mon Dec  4 00:41:54 UTC 2023
+Tue Dec  5 00:42:00 UTC 2023
 
 <pre>
 
- ________________________________
-/ All generalizations are false, \
-| including this one.            |
-|                                |
-\ -- Mark Twain                  /
- --------------------------------
+ _________________________________________
+/ Q: How many Oregonians does it take to  \
+| screw in a light bulb? A: Three. One to |
+| screw in the light bulb and two to fend |
+| off all those                           |
+|                                         |
+| Californians trying to share the        |
+\ experience.                             /
+ -----------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
              -- ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 10 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
