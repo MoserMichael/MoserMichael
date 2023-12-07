@@ -1,19 +1,20 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Wed Dec  6 00:41:52 UTC 2023
+Thu Dec  7 00:41:23 UTC 2023
 
 <pre>
 
- __________________________________
-/ Be cheerful while you are alive. \
-|                                  |
-\ -- Phathotep, 24th Century B.C.  /
- ----------------------------------
+ _________________________________________
+/ It is so very hard to be an             \
+| on-your-own-take-care-of-yourself-becau |
+| se-there-is-no-one-else-to-do-it-for-yo |
+\ u grown-up.                             /
+ -----------------------------------------
         \   ^__^
-         \  (OO)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :) ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: 73 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: -24 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
