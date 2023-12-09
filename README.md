@@ -1,19 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Fri Dec  8 00:41:47 UTC 2023
+Sat Dec  9 00:40:41 UTC 2023
 
 <pre>
 
- ______________________________________
-/ Q: How many marketing people does it \
-| take to change a light bulb? A: I'll |
-\ have to get back to you on that.     /
- --------------------------------------
+ _________________________________________
+/ Q: What do you call a blind, deaf-mute, \
+\ quadraplegic Virginian? A: Trustworthy. /
+ -----------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (!!)\_______
             (__)\       )\/\
-             -- ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: -40 '(from -100..100) state: 'bad' eye: !! tongue: :(
 
 </pre>
 
@@ -111,8 +110,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 568 </th></tr>
 </table>
 <br>
-old_date:  2023-12-03 00:43:53.265695 now: 2023-12-08 00:41:57.715522
-pyasmtool stars changed from: 312 to: 313
     </pre>
   </td>
 </table>
