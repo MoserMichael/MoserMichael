@@ -1,18 +1,21 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sat Dec  9 00:40:41 UTC 2023
+Sun Dec 10 00:44:28 UTC 2023
 
 <pre>
 
- _________________________________________
-/ Q: What do you call a blind, deaf-mute, \
-\ quadraplegic Virginian? A: Trustworthy. /
- -----------------------------------------
+ _______________________________________
+/ Grief can take care of itself; but to \
+| get the full value of a joy you must  |
+| have somebody to divide it with.      |
+|                                       |
+\ -- Mark Twain                         /
+ ---------------------------------------
         \   ^__^
-         \  (!!)\_______
+         \  (OO)\_______
             (__)\       )\/\
-             :( ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: -40 '(from -100..100) state: 'bad' eye: !! tongue: :(
+nltk score: 85 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
@@ -81,8 +84,8 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/myenv">myenv</a></td><td>4</td><td>Shell</td><td>my work environment (so i don't have to search for it ;-)</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/opinionated-fortune-cow">opinionated-fortune-cow</a></td><td>4</td><td>Shell</td><td>fortune | cow pipe that runs sentiment analysis on the fortune cookie, in order to determine the mood and expression of the cow</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/flagged-hn">flagged-hn</a></td><td>3</td><td>Python</td><td>crawl hn and build a page containing flagged stories only.</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/pprintex">pprintex</a></td><td>3</td><td>Python</td><td>python pretty printer, unlinke pprint it prints out all object field values.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/MoserMichael">MoserMichael</a></td><td>2</td><td>Shell</td><td>some blurb about the owner and his stuff. A script generates README.md, that appears on the public profile. The script is run periodically by github action. (see ABOUT.md)</td></tr>
-<tr><td><a href="https://github.com/MoserMichael/pprintex">pprintex</a></td><td>2</td><td>Python</td><td>python pretty printer, unlinke pprint it prints out all object field values.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/pythoncourse">pythoncourse</a></td><td>2</td><td>Python</td><td>my notes on teaching the python programming language.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/subb">subb</a></td><td>2</td><td>Python</td><td>a wrapper module for python subprocess</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/vimcrypt2">vimcrypt2</a></td><td>2</td><td>Vim Script</td><td>Advanced vim plugin to encrypt files with openssl</td></tr>
@@ -107,9 +110,11 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/vimcrypt">vimcrypt</a></td><td>0</td><td>Vim script</td><td>my vim plugin for encrypting/decryting text files with openssl</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/visual-python-strace">visual-python-strace</a></td><td>0</td><td>Python</td><td>show a very long stack trace with variable values.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/zipit">zipit</a></td><td>0</td><td>C++</td><td>c++ library for the equivalent of python/haskell zip function</td></tr>
-<tr><th>Total stars:</th><th colspan='2' align='left'> 568 </th></tr>
+<tr><th>Total stars:</th><th colspan='2' align='left'> 569 </th></tr>
 </table>
 <br>
+old_date:  2023-12-08 00:41:57.715678 now: 2023-12-10 00:44:39.177460
+pprintex stars changed from: 2 to: 3
     </pre>
   </td>
 </table>
