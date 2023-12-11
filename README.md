@@ -1,21 +1,19 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sun Dec 10 00:44:28 UTC 2023
+Mon Dec 11 00:42:22 UTC 2023
 
 <pre>
 
- _______________________________________
-/ Grief can take care of itself; but to \
-| get the full value of a joy you must  |
-| have somebody to divide it with.      |
-|                                       |
-\ -- Mark Twain                         /
- ---------------------------------------
+ ___________________________
+/ Too much is just enough.  \
+|                           |
+\ -- Mark Twain, on whiskey /
+ ---------------------------
         \   ^__^
-         \  (OO)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :) ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: 85 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
@@ -113,8 +111,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 569 </th></tr>
 </table>
 <br>
-old_date:  2023-12-08 00:41:57.715678 now: 2023-12-10 00:44:39.177460
-pprintex stars changed from: 2 to: 3
     </pre>
   </td>
 </table>
