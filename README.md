@@ -1,13 +1,12 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Mon Dec 11 00:42:22 UTC 2023
+Tue Dec 12 00:42:04 UTC 2023
 
 <pre>
 
- ___________________________
-/ Too much is just enough.  \
-|                           |
-\ -- Mark Twain, on whiskey /
- ---------------------------
+ _________________________________________
+/ You're working under a slight handicap. \
+\ You happen to be human.                 /
+ -----------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
