@@ -1,18 +1,19 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Tue Dec 12 00:42:04 UTC 2023
+Wed Dec 13 00:41:22 UTC 2023
 
 <pre>
 
- _________________________________________
-/ You're working under a slight handicap. \
-\ You happen to be human.                 /
- -----------------------------------------
+ _______________________________________
+/ You can create your own opportunities \
+| this week. Blackmail a senior         |
+\ executive.                            /
+ ---------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (oo)\_______
             (__)\       )\/\
-             -- ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 57 '(from -100..100) state: 'good' eye: oo tongue: :)
 
 </pre>
 
