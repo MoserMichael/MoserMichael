@@ -1,17 +1,28 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Thu Dec 14 00:40:53 UTC 2023
+Fri Dec 15 00:42:07 UTC 2023
 
 <pre>
 
- ______________________________
-< There is a fly on your nose. >
- ------------------------------
+ _________________________________________
+/ The lovely woman-child Kaa was          \
+| mercilessly chained to the cruel post   |
+| of the warrior-chief Beast, with his    |
+| barbarian tribe now stacking wood at    |
+| her nubile feet, when the strong clear  |
+| voice of the poetic and heroic          |
+| Handsomas roared, 'Flick your Bic,      |
+| crisp that chick, and you'll feel my    |
+| steel through your last meal!'          |
+|                                         |
+| -- Winning sentence, 1984 Bulwer-Lytton |
+\ bad fiction contest.                    /
+ -----------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (OO)\_______
             (__)\       )\/\
-             -- ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 87 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
