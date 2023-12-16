@@ -1,28 +1,19 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Fri Dec 15 00:42:07 UTC 2023
+Sat Dec 16 00:40:58 UTC 2023
 
 <pre>
 
- _________________________________________
-/ The lovely woman-child Kaa was          \
-| mercilessly chained to the cruel post   |
-| of the warrior-chief Beast, with his    |
-| barbarian tribe now stacking wood at    |
-| her nubile feet, when the strong clear  |
-| voice of the poetic and heroic          |
-| Handsomas roared, 'Flick your Bic,      |
-| crisp that chick, and you'll feel my    |
-| steel through your last meal!'          |
-|                                         |
-| -- Winning sentence, 1984 Bulwer-Lytton |
-\ bad fiction contest.                    /
- -----------------------------------------
+ _____________________________________
+/ You never know how many friends you \
+| have until you rent a house on the  |
+\ beach.                              /
+ -------------------------------------
         \   ^__^
-         \  (OO)\_______
+         \  (oo)\_______
             (__)\       )\/\
              :) ||----w |
                 ||     ||
-nltk score: 87 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: 48 '(from -100..100) state: 'good' eye: oo tongue: :)
 
 </pre>
 
