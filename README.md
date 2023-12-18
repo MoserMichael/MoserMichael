@@ -1,12 +1,15 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sun Dec 17 00:44:43 UTC 2023
+Mon Dec 18 00:42:27 UTC 2023
 
 <pre>
 
  _______________________________________
-/ Q: How many IBM 370's does it take to \
-| execute a job? A: Four, three to hold |
-\ it down, and one to rip its head off. /
+/ Perilous to all of us are the devices \
+| of an art deeper than we ourselves    |
+| possess.                              |
+|                                       |
+| -- Gandalf the Grey [J.R.R. Tolkien,  |
+\ "Lord of the Rings"]                  /
  ---------------------------------------
         \   ^__^
          \  (..)\_______
