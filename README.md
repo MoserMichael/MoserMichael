@@ -1,22 +1,19 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Mon Dec 18 00:42:27 UTC 2023
+Tue Dec 19 00:41:24 UTC 2023
 
 <pre>
 
- _______________________________________
-/ Perilous to all of us are the devices \
-| of an art deeper than we ourselves    |
-| possess.                              |
-|                                       |
-| -- Gandalf the Grey [J.R.R. Tolkien,  |
-\ "Lord of the Rings"]                  /
- ---------------------------------------
+ ________________________________________
+/ If you learn one useless thing every   \
+| day, in a single year you'll learn 365 |
+\ useless things.                        /
+ ----------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (~~)\_______
             (__)\       )\/\
-             -- ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: -68 '(from -100..100) state: 'very bad' eye: ~~ tongue: :(
 
 </pre>
 
