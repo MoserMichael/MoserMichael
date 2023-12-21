@@ -9,7 +9,6 @@ Traffic report for user Michael Moser
 
 repo: pyasmtool views: total: 97 unique:  33
 Views:
-	 2023-12-06 00:00:00 total: 4 unique: 2
 	 2023-12-07 00:00:00 total: 9 unique: 4
 	 2023-12-08 00:00:00 total: 4 unique: 2
 	 2023-12-09 00:00:00 total: 8 unique: 2
@@ -23,15 +22,15 @@ Views:
 	 2023-12-17 00:00:00 total: 7 unique: 3
 	 2023-12-18 00:00:00 total: 6 unique: 3
 	 2023-12-19 00:00:00 total: 5 unique: 2
+	 2023-12-20 00:00:00 total: 4 unique: 3
 	Referrers:
-		Count: 32 Unique: 12 Url: Google
-		Count: 14 Unique: 6 Url: github.com
+		Count: 28 Unique: 10 Url: Google
+		Count: 13 Unique: 6 Url: github.com
+		Count: 12 Unique: 3 Url: Bing
 		Count: 11 Unique: 3 Url: news.ycombinator.com
-		Count: 8 Unique: 2 Url: Bing
 
-repo: python-obj-system views: total: 48 unique:  10
+repo: python-obj-system views: total: 35 unique:  9
 Views:
-	 2023-12-06 00:00:00 total: 13 unique: 1
 	 2023-12-08 00:00:00 total: 2 unique: 1
 	 2023-12-11 00:00:00 total: 12 unique: 2
 	 2023-12-12 00:00:00 total: 14 unique: 3
@@ -39,7 +38,7 @@ Views:
 	 2023-12-16 00:00:00 total: 3 unique: 1
 	 2023-12-19 00:00:00 total: 2 unique: 1
 	Referrers:
-		Count: 25 Unique: 7 Url: github.com
+		Count: 27 Unique: 8 Url: github.com
 		Count: 2 Unique: 1 Url: news.ycombinator.com
 
 repo: my-notes views: total: 31 unique:  2
@@ -52,16 +51,8 @@ Views:
 	Referrers:
 		Count: 16 Unique: 2 Url: github.com
 
-repo: roget-thesaurus-parser views: total: 23 unique:  2
+repo: s9k views: total: 21 unique:  15
 Views:
-	 2023-12-06 00:00:00 total: 22 unique: 1
-	 2023-12-17 00:00:00 total: 1 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: Google
-
-repo: s9k views: total: 18 unique:  15
-Views:
-	 2023-12-06 00:00:00 total: 5 unique: 2
 	 2023-12-07 00:00:00 total: 3 unique: 3
 	 2023-12-10 00:00:00 total: 1 unique: 1
 	 2023-12-11 00:00:00 total: 1 unique: 1
@@ -70,8 +61,9 @@ Views:
 	 2023-12-14 00:00:00 total: 1 unique: 1
 	 2023-12-18 00:00:00 total: 3 unique: 3
 	 2023-12-19 00:00:00 total: 2 unique: 2
+	 2023-12-20 00:00:00 total: 8 unique: 2
 	Referrers:
-		Count: 8 Unique: 8 Url: Google
+		Count: 7 Unique: 7 Url: Google
 		Count: 1 Unique: 1 Url: github.com
 
 repo: cppcombinator views: total: 15 unique:  4
@@ -81,7 +73,7 @@ Views:
 	 2023-12-17 00:00:00 total: 12 unique: 1
 	 2023-12-18 00:00:00 total: 1 unique: 1
 	Referrers:
-		Count: 13 Unique: 2 Url: reddit.com
+		Count: 12 Unique: 1 Url: reddit.com
 		Count: 1 Unique: 1 Url: github.com
 
 repo: cstuff views: total: 13 unique:  5
@@ -91,8 +83,8 @@ Views:
 	 2023-12-15 00:00:00 total: 1 unique: 1
 	 2023-12-16 00:00:00 total: 6 unique: 1
 	Referrers:
-		Count: 4 Unique: 2 Url: mosermichael.github.io
 		Count: 3 Unique: 2 Url: github.com
+		Count: 2 Unique: 1 Url: mosermichael.github.io
 
 repo: myenv views: total: 10 unique:  2
 Views:
@@ -105,8 +97,6 @@ repo: pprintex views: total: 10 unique:  2
 Views:
 	 2023-12-07 00:00:00 total: 6 unique: 1
 	 2023-12-09 00:00:00 total: 4 unique: 1
-	Referrers:
-		Count: 6 Unique: 1 Url: Google
 
 repo: MoserMichael views: total: 8 unique:  1
 Views:
@@ -123,9 +113,12 @@ Views:
 		Count: 5 Unique: 1 Url: github.com
 		Count: 1 Unique: 1 Url: Google
 
-repo: zipit views: total: 6 unique:  3
+repo: rzgrep views: total: 5 unique:  1
 Views:
-	 2023-12-06 00:00:00 total: 1 unique: 1
+	 2023-12-20 00:00:00 total: 5 unique: 1
+
+repo: zipit views: total: 5 unique:  3
+Views:
 	 2023-12-08 00:00:00 total: 2 unique: 2
 	 2023-12-12 00:00:00 total: 1 unique: 1
 	 2023-12-18 00:00:00 total: 2 unique: 2
@@ -138,16 +131,8 @@ Views:
 	 2023-12-17 00:00:00 total: 1 unique: 1
 	 2023-12-18 00:00:00 total: 1 unique: 1
 	 2023-12-19 00:00:00 total: 1 unique: 1
-
-repo: vimcrypt2 views: total: 4 unique:  4
-Views:
-	 2023-12-06 00:00:00 total: 1 unique: 1
-	 2023-12-07 00:00:00 total: 1 unique: 1
-	 2023-12-09 00:00:00 total: 1 unique: 1
-	 2023-12-11 00:00:00 total: 1 unique: 1
 	Referrers:
 		Count: 1 Unique: 1 Url: Google
-		Count: 1 Unique: 1 Url: github.com
 
 repo: dockerdashphp views: total: 3 unique:  3
 Views:
@@ -170,7 +155,15 @@ Views:
 	 2023-12-11 00:00:00 total: 1 unique: 1
 	 2023-12-19 00:00:00 total: 1 unique: 1
 	Referrers:
-		Count: 2 Unique: 2 Url: Google
+		Count: 3 Unique: 3 Url: Google
+
+repo: vimcrypt2 views: total: 3 unique:  3
+Views:
+	 2023-12-07 00:00:00 total: 1 unique: 1
+	 2023-12-09 00:00:00 total: 1 unique: 1
+	 2023-12-11 00:00:00 total: 1 unique: 1
+	Referrers:
+		Count: 1 Unique: 1 Url: Google
 
 repo: duckduckbang views: total: 2 unique:  1
 Views:
@@ -183,14 +176,7 @@ Views:
 	 2023-12-07 00:00:00 total: 1 unique: 1
 	 2023-12-11 00:00:00 total: 1 unique: 1
 	Referrers:
-		Count: 2 Unique: 2 Url: news.ycombinator.com
-
-repo: gitblame views: total: 2 unique:  2
-Views:
-	 2023-12-06 00:00:00 total: 1 unique: 1
-	 2023-12-09 00:00:00 total: 1 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: search.brave.com
+		Count: 1 Unique: 1 Url: news.ycombinator.com
 
 repo: subb views: total: 2 unique:  1
 Views:
@@ -201,6 +187,12 @@ Views:
 	 2023-12-18 00:00:00 total: 1 unique: 1
 	Referrers:
 		Count: 1 Unique: 1 Url: Google
+
+repo: gitblame views: total: 1 unique:  1
+Views:
+	 2023-12-09 00:00:00 total: 1 unique: 1
+	Referrers:
+		Count: 1 Unique: 1 Url: search.brave.com
 
 repo: jq-illustrated views: total: 1 unique:  1
 Views:
@@ -217,6 +209,12 @@ Views:
 	 2023-12-11 00:00:00 total: 1 unique: 1
 	Referrers:
 		Count: 1 Unique: 1 Url: github.com
+
+repo: roget-thesaurus-parser views: total: 1 unique:  1
+Views:
+	 2023-12-17 00:00:00 total: 1 unique: 1
+	Referrers:
+		Count: 1 Unique: 1 Url: Google
 
 repo: bloxroutehomework views: total: 0 unique:  0
 
@@ -250,10 +248,8 @@ repo: printb views: total: 0 unique:  0
 
 repo: pythonimportplayground views: total: 0 unique:  0
 
-repo: rzgrep views: total: 0 unique:  0
-
 repo: teach-your-children-well views: total: 0 unique:  0
 
 
 ***
-Total views: 314
+Total views: 284
