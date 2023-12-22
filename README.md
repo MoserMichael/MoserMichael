@@ -1,18 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Thu Dec 21 00:40:40 UTC 2023
+Fri Dec 22 00:40:38 UTC 2023
 
 <pre>
 
- _____________________________________
-/ Future looks spotty. You will spill \
-\ soup in late evening.               /
- -------------------------------------
+ _______________________________________
+/ Your mode of life will be changed for \
+\ the better because of good news soon. /
+ ---------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (OO)\_______
             (__)\       )\/\
-             -- ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 70 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
@@ -110,8 +110,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 570 </th></tr>
 </table>
 <br>
-old_date:  2023-12-10 00:44:39.177620 now: 2023-12-21 00:40:51.170348
-pyasmtool stars changed from: 313 to: 314
     </pre>
   </td>
 </table>
