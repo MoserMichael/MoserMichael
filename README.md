@@ -1,12 +1,11 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Mon Dec 25 00:42:17 UTC 2023
+Tue Dec 26 00:40:05 UTC 2023
 
 <pre>
 
- ______________________________________
-/ You are only young once, but you can \
-\ stay immature indefinitely.          /
- --------------------------------------
+ ____________________________________
+< Don't read everything you believe. >
+ ------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
