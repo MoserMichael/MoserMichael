@@ -1,18 +1,58 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Thu Dec 28 00:39:39 UTC 2023
+Fri Dec 29 00:33:32 UTC 2023
 
 <pre>
 
- ________________________________
-/ You may get an opportunity for \
-\ advancement today. Watch it!   /
- --------------------------------
+ _________________________________________
+/ We were young and our happiness dazzled \
+| us with its strength. But there was     |
+| also a terrible betrayal that lay       |
+| within me like a Merle Haggard song at  |
+| a French restaurant. [...]              |
+|                                         |
+| I could not tell the girl about the     |
+| woman of the tollway, of her milk white |
+| BMW and her Jordache smile. There had   |
+| been a fight. I had punched her         |
+| boyfriend, who fought the mechanical    |
+| bulls. Everyone told him, "You ride the |
+| bull, senor. You do not fight it." But  |
+| he was lean and tough like a bad        |
+| rib-eye and he fought the bull. And     |
+| then he fought me. And when we finished |
+| there were no winners, just men doing   |
+| what men must do. [...]                 |
+|                                         |
+| "Stop the car," the girl said.          |
+|                                         |
+| There was a look of terrible sadness in |
+| her eyes. She knew about the woman of   |
+| the tollway. I knew not how. I started  |
+| to speak, but she raised an arm and     |
+| spoke with a quiet and peace I will     |
+| never forget.                           |
+|                                         |
+| "I do not ask for whom's the tollway    |
+| belle," she said, "the tollway belle's  |
+| for thee."                              |
+|                                         |
+| The next morning our youth was a        |
+| memory, and our happiness was a lie.    |
+| Life is like a bad margarita with good  |
+| tequila, I thought as I poured whiskey  |
+| onto my granola and faced a new day.    |
+|                                         |
+| -- Peter Applebome, International       |
+| Imitation Hemingway                     |
+|                                         |
+\ Competition                             /
+ -----------------------------------------
         \   ^__^
-         \  (oo)\_______
+         \  (~~)\_______
             (__)\       )\/\
-             :) ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 48 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: -93 '(from -100..100) state: 'very bad' eye: ~~ tongue: :(
 
 </pre>
 
@@ -110,9 +150,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 569 </th></tr>
 </table>
 <br>
-old_date:  2023-12-27 00:40:11.320013 now: 2023-12-28 00:39:49.515100
-pyasmtool stars changed from: 314 to: 313
-duckduckbang stars changed from: 35 to: 36
     </pre>
   </td>
 </table>
