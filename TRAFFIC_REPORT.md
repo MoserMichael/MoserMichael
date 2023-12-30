@@ -17,11 +17,10 @@ Views:
 	 2023-12-26 00:00:00 total: 14 unique: 2
 	 2023-12-28 00:00:00 total: 2 unique: 1
 	Referrers:
-		Count: 13 Unique: 1 Url: github.com
+		Count: 1 Unique: 1 Url: github.com
 
-repo: pyasmtool views: total: 59 unique:  21
+repo: pyasmtool views: total: 48 unique:  19
 Views:
-	 2023-12-15 00:00:00 total: 13 unique: 4
 	 2023-12-16 00:00:00 total: 14 unique: 5
 	 2023-12-17 00:00:00 total: 7 unique: 3
 	 2023-12-18 00:00:00 total: 6 unique: 3
@@ -31,15 +30,16 @@ Views:
 	 2023-12-25 00:00:00 total: 4 unique: 2
 	 2023-12-26 00:00:00 total: 2 unique: 1
 	 2023-12-27 00:00:00 total: 2 unique: 1
+	 2023-12-29 00:00:00 total: 2 unique: 1
 	Referrers:
-		Count: 15 Unique: 5 Url: Google
-		Count: 8 Unique: 5 Url: github.com
 		Count: 8 Unique: 2 Url: news.ycombinator.com
+		Count: 7 Unique: 4 Url: github.com
+		Count: 6 Unique: 3 Url: Google
 		Count: 4 Unique: 1 Url: Bing
 		Count: 2 Unique: 1 Url: colab.research.google.com
 		Count: 2 Unique: 1 Url: DuckDuckGo
 
-repo: s9k views: total: 31 unique:  16
+repo: s9k views: total: 35 unique:  19
 Views:
 	 2023-12-18 00:00:00 total: 3 unique: 3
 	 2023-12-19 00:00:00 total: 2 unique: 2
@@ -50,8 +50,21 @@ Views:
 	 2023-12-26 00:00:00 total: 3 unique: 3
 	 2023-12-27 00:00:00 total: 6 unique: 1
 	 2023-12-28 00:00:00 total: 2 unique: 1
+	 2023-12-29 00:00:00 total: 4 unique: 3
 	Referrers:
-		Count: 19 Unique: 9 Url: Google
+		Count: 21 Unique: 10 Url: Google
+
+repo: pygamewrap views: total: 30 unique:  6
+Views:
+	 2023-12-16 00:00:00 total: 1 unique: 1
+	 2023-12-17 00:00:00 total: 1 unique: 1
+	 2023-12-18 00:00:00 total: 1 unique: 1
+	 2023-12-19 00:00:00 total: 1 unique: 1
+	 2023-12-23 00:00:00 total: 6 unique: 1
+	 2023-12-29 00:00:00 total: 20 unique: 2
+	Referrers:
+		Count: 6 Unique: 1 Url: yandex.ru
+		Count: 1 Unique: 1 Url: Google
 
 repo: rzgrep views: total: 26 unique:  3
 Views:
@@ -59,8 +72,8 @@ Views:
 	 2023-12-26 00:00:00 total: 1 unique: 1
 	 2023-12-28 00:00:00 total: 20 unique: 1
 	Referrers:
+		Count: 21 Unique: 2 Url: github.com
 		Count: 5 Unique: 1 Url: linuxlinks.com
-		Count: 1 Unique: 1 Url: github.com
 
 repo: roget-thesaurus-parser views: total: 25 unique:  2
 Views:
@@ -72,36 +85,35 @@ Views:
 
 repo: python-obj-system views: total: 22 unique:  6
 Views:
-	 2023-12-15 00:00:00 total: 2 unique: 1
 	 2023-12-16 00:00:00 total: 3 unique: 1
 	 2023-12-19 00:00:00 total: 2 unique: 1
 	 2023-12-21 00:00:00 total: 1 unique: 1
 	 2023-12-22 00:00:00 total: 6 unique: 1
 	 2023-12-24 00:00:00 total: 8 unique: 1
+	 2023-12-29 00:00:00 total: 2 unique: 1
 	Referrers:
 		Count: 15 Unique: 3 Url: news.ycombinator.com
-		Count: 5 Unique: 2 Url: github.com
+		Count: 2 Unique: 1 Url: github.com
 
-repo: cppcombinator views: total: 17 unique:  6
+repo: cppcombinator views: total: 18 unique:  7
 Views:
 	 2023-12-17 00:00:00 total: 12 unique: 1
 	 2023-12-18 00:00:00 total: 1 unique: 1
 	 2023-12-21 00:00:00 total: 1 unique: 1
 	 2023-12-23 00:00:00 total: 2 unique: 2
 	 2023-12-27 00:00:00 total: 1 unique: 1
+	 2023-12-29 00:00:00 total: 1 unique: 1
 	Referrers:
 		Count: 13 Unique: 2 Url: reddit.com
 		Count: 3 Unique: 3 Url: github.com
 
-repo: cstuff views: total: 11 unique:  3
+repo: cstuff views: total: 10 unique:  2
 Views:
-	 2023-12-15 00:00:00 total: 1 unique: 1
 	 2023-12-16 00:00:00 total: 6 unique: 1
 	 2023-12-22 00:00:00 total: 2 unique: 1
 	 2023-12-25 00:00:00 total: 2 unique: 1
 	Referrers:
 		Count: 4 Unique: 1 Url: mosermichael.github.io
-		Count: 1 Unique: 1 Url: github.com
 
 repo: kind-helper views: total: 10 unique:  6
 Views:
@@ -112,17 +124,6 @@ Views:
 	 2023-12-26 00:00:00 total: 3 unique: 1
 	Referrers:
 		Count: 3 Unique: 1 Url: github.com
-		Count: 1 Unique: 1 Url: Google
-
-repo: pygamewrap views: total: 10 unique:  4
-Views:
-	 2023-12-16 00:00:00 total: 1 unique: 1
-	 2023-12-17 00:00:00 total: 1 unique: 1
-	 2023-12-18 00:00:00 total: 1 unique: 1
-	 2023-12-19 00:00:00 total: 1 unique: 1
-	 2023-12-23 00:00:00 total: 6 unique: 1
-	Referrers:
-		Count: 6 Unique: 1 Url: yandex.ru
 		Count: 1 Unique: 1 Url: Google
 
 repo: MoserMichael views: total: 8 unique:  1
@@ -142,6 +143,11 @@ Views:
 	 2023-12-26 00:00:00 total: 1 unique: 1
 	Referrers:
 		Count: 7 Unique: 2 Url: Google
+
+repo: myenv views: total: 7 unique:  3
+Views:
+	 2023-12-27 00:00:00 total: 1 unique: 1
+	 2023-12-29 00:00:00 total: 6 unique: 2
 
 repo: follow-kube-logs views: total: 5 unique:  3
 Views:
@@ -181,8 +187,6 @@ Views:
 repo: dockerdashphp views: total: 1 unique:  1
 Views:
 	 2023-12-16 00:00:00 total: 1 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: Google
 
 repo: flagged-hn views: total: 1 unique:  1
 Views:
@@ -193,6 +197,8 @@ Views:
 repo: gitblame views: total: 1 unique:  1
 Views:
 	 2023-12-28 00:00:00 total: 1 unique: 1
+	Referrers:
+		Count: 1 Unique: 1 Url: DuckDuckGo
 
 repo: kwchecker views: total: 1 unique:  1
 Views:
@@ -200,13 +206,11 @@ Views:
 	Referrers:
 		Count: 1 Unique: 1 Url: Google
 
-repo: myenv views: total: 1 unique:  1
-Views:
-	 2023-12-27 00:00:00 total: 1 unique: 1
-
 repo: opinionated-fortune-cow views: total: 1 unique:  1
 Views:
 	 2023-12-28 00:00:00 total: 1 unique: 1
+	Referrers:
+		Count: 1 Unique: 1 Url: news.ycombinator.com
 
 repo: printb views: total: 1 unique:  1
 Views:
@@ -264,4 +268,4 @@ repo: teach-your-children-well views: total: 0 unique:  0
 
 
 ***
-Total views: 328
+Total views: 347
