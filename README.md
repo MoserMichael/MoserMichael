@@ -1,12 +1,14 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Mon Jan  1 00:45:44 UTC 2024
+Tue Jan  2 00:40:12 UTC 2024
 
 <pre>
 
- ________________________________________
-/ You will obey or molten silver will be \
-\ poured into your ears.                 /
- ----------------------------------------
+ ________________________________
+/ She is not refined. She is not \
+| unrefined. She keeps a parrot. |
+|                                |
+\ -- Mark Twain                  /
+ --------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
