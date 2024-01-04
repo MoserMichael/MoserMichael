@@ -1,14 +1,12 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Wed Jan  3 00:41:17 UTC 2024
+Thu Jan  4 00:41:43 UTC 2024
 
 <pre>
 
- ________________________________
-/ All generalizations are false, \
-| including this one.            |
-|                                |
-\ -- Mark Twain                  /
- --------------------------------
+ _________________________________________
+/ Are you ever going to do the dishes? Or \
+\ will you change your major to biology?  /
+ -----------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
@@ -112,8 +110,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 568 </th></tr>
 </table>
 <br>
-old_date:  2023-12-28 00:39:49.515267 now: 2024-01-03 00:41:28.031897
-pyasmtool stars changed from: 313 to: 312
     </pre>
   </td>
 </table>
