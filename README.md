@@ -1,18 +1,20 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Fri Jan  5 00:41:41 UTC 2024
+Sat Jan  6 00:40:40 UTC 2024
 
 <pre>
 
- ___________________________________
-/ Try to get all of your posthumous \
-\ medals in advance.                /
- -----------------------------------
+ ________________________________________
+/ A long-forgotten loved one will appear \
+| soon.                                  |
+|                                        |
+\ Buy the negatives at any price.        /
+ ----------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (OO)\_______
             (__)\       )\/\
-             -- ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 60 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
@@ -110,8 +112,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 569 </th></tr>
 </table>
 <br>
-old_date:  2024-01-03 00:41:28.032065 now: 2024-01-05 00:41:51.351670
-pyasmtool stars changed from: 312 to: 313
     </pre>
   </td>
 </table>
