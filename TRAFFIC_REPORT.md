@@ -21,7 +21,7 @@ Views:
 	Referrers:
 		Count: 19 Unique: 3 Url: github.com
 
-repo: pyasmtool views: total: 65 unique:  26
+repo: pyasmtool views: total: 69 unique:  28
 Views:
 	 2023-12-25 00:00:00 total: 4 unique: 2
 	 2023-12-26 00:00:00 total: 2 unique: 1
@@ -33,8 +33,9 @@ Views:
 	 2024-01-03 00:00:00 total: 25 unique: 7
 	 2024-01-04 00:00:00 total: 2 unique: 1
 	 2024-01-05 00:00:00 total: 6 unique: 3
+	 2024-01-07 00:00:00 total: 4 unique: 2
 	Referrers:
-		Count: 19 Unique: 7 Url: Google
+		Count: 15 Unique: 5 Url: Google
 		Count: 14 Unique: 6 Url: news.ycombinator.com
 		Count: 12 Unique: 2 Url: DuckDuckGo
 		Count: 4 Unique: 3 Url: github.com
@@ -49,11 +50,10 @@ Views:
 	 2024-01-05 00:00:00 total: 2 unique: 1
 	 2024-01-06 00:00:00 total: 2 unique: 1
 	Referrers:
-		Count: 44 Unique: 3 Url: Google
+		Count: 46 Unique: 3 Url: Google
 
-repo: python-obj-system views: total: 37 unique:  12
+repo: python-obj-system views: total: 29 unique:  11
 Views:
-	 2023-12-24 00:00:00 total: 8 unique: 1
 	 2023-12-29 00:00:00 total: 2 unique: 1
 	 2023-12-30 00:00:00 total: 2 unique: 1
 	 2024-01-03 00:00:00 total: 5 unique: 2
@@ -61,8 +61,8 @@ Views:
 	 2024-01-05 00:00:00 total: 7 unique: 3
 	 2024-01-06 00:00:00 total: 11 unique: 4
 	Referrers:
-		Count: 7 Unique: 3 Url: github.com
-		Count: 4 Unique: 2 Url: news.ycombinator.com
+		Count: 14 Unique: 5 Url: github.com
+		Count: 6 Unique: 3 Url: news.ycombinator.com
 		Count: 2 Unique: 1 Url: gist.github.com
 
 repo: MoserMichael views: total: 28 unique:  3
@@ -80,7 +80,7 @@ Views:
 	 2023-12-29 00:00:00 total: 20 unique: 2
 	 2024-01-06 00:00:00 total: 7 unique: 2
 	Referrers:
-		Count: 20 Unique: 2 Url: Google
+		Count: 27 Unique: 4 Url: Google
 
 repo: rzgrep views: total: 21 unique:  2
 Views:
@@ -101,7 +101,7 @@ Views:
 	 2024-01-03 00:00:00 total: 1 unique: 1
 	 2024-01-05 00:00:00 total: 1 unique: 1
 	Referrers:
-		Count: 19 Unique: 12 Url: Google
+		Count: 18 Unique: 11 Url: Google
 
 repo: cppcombinator views: total: 16 unique:  4
 Views:
@@ -111,8 +111,21 @@ Views:
 	 2024-01-02 00:00:00 total: 13 unique: 1
 	Referrers:
 		Count: 14 Unique: 2 Url: github.com
-		Count: 1 Unique: 1 Url: reddit.com
 		Count: 1 Unique: 1 Url: Google
+		Count: 1 Unique: 1 Url: reddit.com
+
+repo: myenv views: total: 15 unique:  9
+Views:
+	 2023-12-27 00:00:00 total: 1 unique: 1
+	 2023-12-29 00:00:00 total: 6 unique: 2
+	 2023-12-31 00:00:00 total: 3 unique: 1
+	 2024-01-01 00:00:00 total: 1 unique: 1
+	 2024-01-04 00:00:00 total: 1 unique: 1
+	 2024-01-05 00:00:00 total: 1 unique: 1
+	 2024-01-06 00:00:00 total: 1 unique: 1
+	 2024-01-07 00:00:00 total: 1 unique: 1
+	Referrers:
+		Count: 5 Unique: 1 Url: Google
 
 repo: cstuff views: total: 14 unique:  4
 Views:
@@ -122,20 +135,8 @@ Views:
 	 2024-01-03 00:00:00 total: 6 unique: 1
 	 2024-01-04 00:00:00 total: 2 unique: 1
 	Referrers:
-		Count: 12 Unique: 2 Url: mosermichael.github.io
+		Count: 10 Unique: 1 Url: mosermichael.github.io
 		Count: 2 Unique: 2 Url: github.com
-
-repo: myenv views: total: 14 unique:  8
-Views:
-	 2023-12-27 00:00:00 total: 1 unique: 1
-	 2023-12-29 00:00:00 total: 6 unique: 2
-	 2023-12-31 00:00:00 total: 3 unique: 1
-	 2024-01-01 00:00:00 total: 1 unique: 1
-	 2024-01-04 00:00:00 total: 1 unique: 1
-	 2024-01-05 00:00:00 total: 1 unique: 1
-	 2024-01-06 00:00:00 total: 1 unique: 1
-	Referrers:
-		Count: 5 Unique: 1 Url: Google
 
 repo: vimcrypt2 views: total: 9 unique:  5
 Views:
@@ -164,7 +165,8 @@ Views:
 	 2024-01-02 00:00:00 total: 1 unique: 1
 	 2024-01-06 00:00:00 total: 4 unique: 1
 	Referrers:
-		Count: 2 Unique: 2 Url: news.ycombinator.com
+		Count: 3 Unique: 3 Url: news.ycombinator.com
+		Count: 3 Unique: 1 Url: Google
 
 repo: roget-thesaurus-parser views: total: 5 unique:  3
 Views:
@@ -174,14 +176,21 @@ Views:
 		Count: 3 Unique: 3 Url: Google
 		Count: 2 Unique: 1 Url: test.pypi.org
 
-repo: zipit views: total: 5 unique:  2
+repo: zipit views: total: 4 unique:  2
 Views:
-	 2023-12-24 00:00:00 total: 1 unique: 1
 	 2023-12-25 00:00:00 total: 2 unique: 1
 	 2023-12-26 00:00:00 total: 1 unique: 1
 	 2024-01-05 00:00:00 total: 1 unique: 1
 	Referrers:
-		Count: 4 Unique: 2 Url: Google
+		Count: 2 Unique: 2 Url: Google
+
+repo: duckduckbang views: total: 3 unique:  3
+Views:
+	 2023-12-27 00:00:00 total: 1 unique: 1
+	 2024-01-04 00:00:00 total: 1 unique: 1
+	 2024-01-07 00:00:00 total: 1 unique: 1
+	Referrers:
+		Count: 1 Unique: 1 Url: Google
 
 repo: jscriptparse views: total: 3 unique:  2
 Views:
@@ -199,6 +208,8 @@ Views:
 repo: pythoncourse views: total: 3 unique:  1
 Views:
 	 2024-01-06 00:00:00 total: 3 unique: 1
+	Referrers:
+		Count: 3 Unique: 1 Url: Google
 
 repo: pythonimportplayground views: total: 3 unique:  1
 Views:
@@ -214,14 +225,14 @@ Views:
 	 2024-01-02 00:00:00 total: 1 unique: 1
 	 2024-01-06 00:00:00 total: 1 unique: 1
 	Referrers:
-		Count: 1 Unique: 1 Url: Google
+		Count: 2 Unique: 2 Url: Google
 
-repo: duckduckbang views: total: 2 unique:  2
+repo: gitblame views: total: 2 unique:  2
 Views:
-	 2023-12-27 00:00:00 total: 1 unique: 1
-	 2024-01-04 00:00:00 total: 1 unique: 1
+	 2023-12-28 00:00:00 total: 1 unique: 1
+	 2024-01-07 00:00:00 total: 1 unique: 1
 	Referrers:
-		Count: 1 Unique: 1 Url: Google
+		Count: 1 Unique: 1 Url: DuckDuckGo
 
 repo: ls-annotations views: total: 2 unique:  1
 Views:
@@ -229,15 +240,13 @@ Views:
 	Referrers:
 		Count: 2 Unique: 1 Url: github.com
 
+repo: devgoodies views: total: 1 unique:  1
+Views:
+	 2024-01-07 00:00:00 total: 1 unique: 1
+
 repo: follow-kube-logs views: total: 1 unique:  1
 Views:
 	 2023-12-31 00:00:00 total: 1 unique: 1
-
-repo: gitblame views: total: 1 unique:  1
-Views:
-	 2023-12-28 00:00:00 total: 1 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: DuckDuckGo
 
 repo: opinionated-fortune-cow views: total: 1 unique:  1
 Views:
@@ -254,8 +263,6 @@ Views:
 	 2024-01-04 00:00:00 total: 1 unique: 1
 
 repo: bloxroutehomework views: total: 0 unique:  0
-
-repo: devgoodies views: total: 0 unique:  0
 
 repo: download-artifacts views: total: 0 unique:  0
 
@@ -283,4 +290,4 @@ repo: teach-your-children-well views: total: 0 unique:  0
 
 
 ***
-Total views: 445
+Total views: 444
