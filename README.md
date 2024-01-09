@@ -1,12 +1,11 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Mon Jan  8 00:42:30 UTC 2024
+Tue Jan  9 00:42:10 UTC 2024
 
 <pre>
 
- ____________________________________
-/ You will pioneer the first Martian \
-\ colony.                            /
- ------------------------------------
+ _____________________
+< You should go home. >
+ ---------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
