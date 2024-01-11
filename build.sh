@@ -14,8 +14,8 @@ TRAFFIC_REPORT_FILE=/repo/TRAFFIC_REPORT.md
 STARRED_REPOS_FILE=/repo/USER_STARRED.md
 
 # *** make README file ***
-
-echo "[About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: " >${README_FILE}
+echo "<b>Looking for work, consuling or full time. Relocation is an option</b> [my cv](mm-cv-present.pdf)" >${README_FILE}
+#echo "[About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: " >>${README_FILE}
 
 date >>${README_FILE}
 echo "" >>${README_FILE}
