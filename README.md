@@ -1,22 +1,20 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Thu Jan 11 00:42:27 UTC 2024
+Fri Jan 12 00:42:39 UTC 2024
 
 <pre>
 
- ________________________________________
-/ This is the first age that's paid much \
-| attention to the future, which is a    |
-| little ironic since we may not have    |
-| one.                                   |
-|                                        |
-\ -- Arthur Clarke                       /
- ----------------------------------------
+ ______________________________________
+/ Every why hath a wherefore.          \
+|                                      |
+| -- William Shakespeare, "A Comedy of |
+\ Errors"                              /
+ --------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
              -- ||----w |
                 ||     ||
-nltk score: -5 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
@@ -114,8 +112,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 570 </th></tr>
 </table>
 <br>
-old_date:  2024-01-05 00:41:51.351834 now: 2024-01-11 00:42:38.539835
-cppcombinator stars changed from: 22 to: 23
     </pre>
   </td>
 </table>
