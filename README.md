@@ -1,20 +1,18 @@
-[About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Fri Jan 12 00:42:39 UTC 2024
+<b>Looking for work, consuling or full time. Relocation is an option</b> [my cv](mm-cv-present.pdf)
+Fri Jan 12 12:00:51 UTC 2024
 
 <pre>
 
- ______________________________________
-/ Every why hath a wherefore.          \
-|                                      |
-| -- William Shakespeare, "A Comedy of |
-\ Errors"                              /
- --------------------------------------
+ _______________________________________
+/ If you sow your wild oats, hope for a \
+\ crop failure.                         /
+ ---------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
              -- ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: -10 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
