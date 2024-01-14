@@ -1,23 +1,18 @@
-<b>Looking for work, consuling or full time. Relocation is an option</b> [my cv](mm-cv-present.pdf)
-Sun Jan 14 00:45:54 UTC 2024
+<b>Looking for work, full time or consulting. Relocation is an option</b> [my cv](mm-cv-present.pdf)
+Sun Jan 14 12:31:45 UTC 2024
 
 <pre>
 
- _________________________________________
-/ Q: How many bureaucrats does it take to \
-| screw in a light bulb? A: Two. One to   |
-| assure everyone that everything         |
-| possible is being                       |
-|                                         |
-| done while the other screws the bulb    |
-\ into the water faucet.                  /
- -----------------------------------------
+ _____________________________________
+/ You will be the victim of a bizarre \
+\ joke.                               /
+ -------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (!!)\_______
             (__)\       )\/\
-             -- ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: -0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: -30 '(from -100..100) state: 'bad' eye: !! tongue: :(
 
 </pre>
 
@@ -75,7 +70,7 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/cppcombinator">cppcombinator</a></td><td>23</td><td>C++</td><td>parser  combinator and AST generator in c++17</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/kind-helper">kind-helper</a></td><td>23</td><td>Python</td><td>Simplifies the creation of practical kubernetes test clusters with the kind utility.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/jq-illustrated">jq-illustrated</a></td><td>21</td><td>Shell</td><td>illustrated tutorial of jq (and the scripts that create it)</td></tr>
-<tr><td><a href="https://github.com/MoserMichael/s9k">s9k</a></td><td>16</td><td>Python</td><td>dashboard/web app for managing kubernetes clusters, with similar functionality as k9s</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/s9k">s9k</a></td><td>17</td><td>Python</td><td>dashboard/web app for managing kubernetes clusters, with similar functionality as k9s</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/cstuff">cstuff</a></td><td>12</td><td>C</td><td>My C projects</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/ls-annotations">ls-annotations</a></td><td>7</td><td>Java</td><td>Show all declarations with java annotations by decompiling byte code.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/roget-thesaurus-parser">roget-thesaurus-parser</a></td><td>7</td><td>Python</td><td>parses Roget's thesaurus and provide API for querying related words</td></tr>
@@ -112,11 +107,11 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/vimcrypt">vimcrypt</a></td><td>0</td><td>Vim script</td><td>my vim plugin for encrypting/decryting text files with openssl</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/visual-python-strace">visual-python-strace</a></td><td>0</td><td>Python</td><td>show a very long stack trace with variable values.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/zipit">zipit</a></td><td>0</td><td>C++</td><td>c++ library for the equivalent of python/haskell zip function</td></tr>
-<tr><th>Total stars:</th><th colspan='2' align='left'> 569 </th></tr>
+<tr><th>Total stars:</th><th colspan='2' align='left'> 570 </th></tr>
 </table>
 <br>
-old_date:  2024-01-13 00:41:39.301342 now: 2024-01-14 00:46:06.608483
-pyasmtool stars changed from: 312 to: 313
+old_date:  2024-01-14 00:46:06.608643 now: 2024-01-14 12:31:56.220629
+s9k stars changed from: 16 to: 17
     </pre>
   </td>
 </table>
