@@ -1,18 +1,31 @@
 <b>Looking for work, full time or consulting. Relocation is an option</b> [my cv](mm-cv-present.pdf)
-Sun Jan 14 12:31:45 UTC 2024
+Mon Jan 15 00:43:54 UTC 2024
 
 <pre>
 
- _____________________________________
-/ You will be the victim of a bizarre \
-\ joke.                               /
- -------------------------------------
+ ________________________________________
+/ Q: How many hardware engineers does it \
+| take to change a light bulb? A: None.  |
+| We'll fix it in software.              |
+|                                        |
+| Q: How many system programmers does it |
+| take to change a light bulb? A: None.  |
+| The application can work around it.    |
+|                                        |
+| Q: How many software engineers does it |
+| take to change a light bulb? A: None.  |
+| We'll document it in the manual.       |
+|                                        |
+| Q: How many tech writers does it take  |
+| to change a light bulb? A: None. The   |
+\ user can figure it out.                /
+ ----------------------------------------
         \   ^__^
-         \  (!!)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :( ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: -30 '(from -100..100) state: 'bad' eye: !! tongue: :(
+nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
@@ -110,8 +123,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 570 </th></tr>
 </table>
 <br>
-old_date:  2024-01-14 00:46:06.608643 now: 2024-01-14 12:31:56.220629
-s9k stars changed from: 16 to: 17
     </pre>
   </td>
 </table>

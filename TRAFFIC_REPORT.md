@@ -18,7 +18,7 @@ Views:
 	Referrers:
 		Count: 72 Unique: 4 Url: Google
 
-repo: pyasmtool views: total: 83 unique:  30
+repo: pyasmtool views: total: 85 unique:  31
 Views:
 	 2024-01-01 00:00:00 total: 6 unique: 3
 	 2024-01-03 00:00:00 total: 25 unique: 7
@@ -29,15 +29,16 @@ Views:
 	 2024-01-10 00:00:00 total: 14 unique: 2
 	 2024-01-12 00:00:00 total: 11 unique: 5
 	 2024-01-13 00:00:00 total: 10 unique: 5
+	 2024-01-14 00:00:00 total: 2 unique: 1
 	Referrers:
-		Count: 27 Unique: 9 Url: Google
+		Count: 23 Unique: 7 Url: Google
 		Count: 12 Unique: 2 Url: DuckDuckGo
-		Count: 10 Unique: 5 Url: news.ycombinator.com
+		Count: 8 Unique: 4 Url: news.ycombinator.com
 		Count: 6 Unique: 1 Url: Bing
 		Count: 2 Unique: 2 Url: github.com
 		Count: 2 Unique: 1 Url: com.google.android.gm
 
-repo: my-notes views: total: 65 unique:  7
+repo: my-notes views: total: 71 unique:  7
 Views:
 	 2024-01-02 00:00:00 total: 12 unique: 1
 	 2024-01-03 00:00:00 total: 2 unique: 1
@@ -47,6 +48,7 @@ Views:
 	 2024-01-09 00:00:00 total: 4 unique: 2
 	 2024-01-10 00:00:00 total: 3 unique: 1
 	 2024-01-11 00:00:00 total: 19 unique: 1
+	 2024-01-14 00:00:00 total: 6 unique: 1
 	Referrers:
 		Count: 33 Unique: 3 Url: github.com
 
@@ -65,22 +67,23 @@ Views:
 		Count: 4 Unique: 2 Url: news.ycombinator.com
 		Count: 2 Unique: 1 Url: gist.github.com
 
+repo: MoserMichael views: total: 31 unique:  3
+Views:
+	 2024-01-01 00:00:00 total: 4 unique: 1
+	 2024-01-02 00:00:00 total: 2 unique: 1
+	 2024-01-03 00:00:00 total: 10 unique: 1
+	 2024-01-12 00:00:00 total: 7 unique: 1
+	 2024-01-14 00:00:00 total: 8 unique: 1
+	Referrers:
+		Count: 10 Unique: 1 Url: l.facebook.com
+		Count: 2 Unique: 1 Url: github.com
+
 repo: kind-helper views: total: 23 unique:  2
 Views:
 	 2024-01-08 00:00:00 total: 1 unique: 1
 	 2024-01-12 00:00:00 total: 1 unique: 1
 	 2024-01-13 00:00:00 total: 5 unique: 1
 	 2024-01-14 00:00:00 total: 16 unique: 1
-
-repo: MoserMichael views: total: 23 unique:  3
-Views:
-	 2024-01-01 00:00:00 total: 4 unique: 1
-	 2024-01-02 00:00:00 total: 2 unique: 1
-	 2024-01-03 00:00:00 total: 10 unique: 1
-	 2024-01-12 00:00:00 total: 7 unique: 1
-	Referrers:
-		Count: 10 Unique: 1 Url: l.facebook.com
-		Count: 2 Unique: 1 Url: github.com
 
 repo: cppcombinator views: total: 17 unique:  5
 Views:
@@ -89,7 +92,7 @@ Views:
 	 2024-01-08 00:00:00 total: 1 unique: 1
 	 2024-01-10 00:00:00 total: 2 unique: 2
 	Referrers:
-		Count: 17 Unique: 5 Url: github.com
+		Count: 16 Unique: 4 Url: github.com
 
 repo: cstuff views: total: 14 unique:  4
 Views:
@@ -100,9 +103,9 @@ Views:
 	 2024-01-11 00:00:00 total: 2 unique: 1
 	Referrers:
 		Count: 10 Unique: 1 Url: mosermichael.github.io
-		Count: 4 Unique: 3 Url: github.com
+		Count: 3 Unique: 2 Url: github.com
 
-repo: s9k views: total: 13 unique:  11
+repo: s9k views: total: 14 unique:  11
 Views:
 	 2024-01-01 00:00:00 total: 2 unique: 2
 	 2024-01-03 00:00:00 total: 1 unique: 1
@@ -111,9 +114,9 @@ Views:
 	 2024-01-09 00:00:00 total: 1 unique: 1
 	 2024-01-10 00:00:00 total: 3 unique: 2
 	 2024-01-11 00:00:00 total: 1 unique: 1
-	 2024-01-14 00:00:00 total: 3 unique: 2
+	 2024-01-14 00:00:00 total: 4 unique: 2
 	Referrers:
-		Count: 10 Unique: 9 Url: Google
+		Count: 8 Unique: 7 Url: Google
 
 repo: roget-thesaurus-parser views: total: 11 unique:  4
 Views:
@@ -166,6 +169,18 @@ Views:
 		Count: 5 Unique: 5 Url: Google
 		Count: 2 Unique: 1 Url: github.com
 
+repo: myenv views: total: 7 unique:  6
+Views:
+	 2024-01-01 00:00:00 total: 1 unique: 1
+	 2024-01-04 00:00:00 total: 1 unique: 1
+	 2024-01-05 00:00:00 total: 1 unique: 1
+	 2024-01-06 00:00:00 total: 1 unique: 1
+	 2024-01-07 00:00:00 total: 1 unique: 1
+	 2024-01-09 00:00:00 total: 1 unique: 1
+	 2024-01-14 00:00:00 total: 1 unique: 1
+	Referrers:
+		Count: 1 Unique: 1 Url: github.com
+
 repo: flagged-hn views: total: 6 unique:  3
 Views:
 	 2024-01-02 00:00:00 total: 1 unique: 1
@@ -174,17 +189,6 @@ Views:
 	Referrers:
 		Count: 3 Unique: 3 Url: news.ycombinator.com
 		Count: 3 Unique: 1 Url: Google
-
-repo: myenv views: total: 6 unique:  6
-Views:
-	 2024-01-01 00:00:00 total: 1 unique: 1
-	 2024-01-04 00:00:00 total: 1 unique: 1
-	 2024-01-05 00:00:00 total: 1 unique: 1
-	 2024-01-06 00:00:00 total: 1 unique: 1
-	 2024-01-07 00:00:00 total: 1 unique: 1
-	 2024-01-09 00:00:00 total: 1 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: github.com
 
 repo: pythonimportplayground views: total: 5 unique:  2
 Views:
@@ -205,6 +209,13 @@ Views:
 	 2024-01-07 00:00:00 total: 1 unique: 1
 	Referrers:
 		Count: 1 Unique: 1 Url: github.com
+
+repo: gitblame views: total: 2 unique:  2
+Views:
+	 2024-01-07 00:00:00 total: 1 unique: 1
+	 2024-01-14 00:00:00 total: 1 unique: 1
+	Referrers:
+		Count: 1 Unique: 1 Url: vim.org
 
 repo: visual-python-strace views: total: 2 unique:  2
 Views:
@@ -230,16 +241,6 @@ repo: docker-force-attach views: total: 1 unique:  1
 Views:
 	 2024-01-03 00:00:00 total: 1 unique: 1
 
-repo: follow-kube-logs views: total: 1 unique:  1
-Views:
-	 2023-12-31 00:00:00 total: 1 unique: 1
-
-repo: gitblame views: total: 1 unique:  1
-Views:
-	 2024-01-07 00:00:00 total: 1 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: vim.org
-
 repo: subb views: total: 1 unique:  1
 Views:
 	 2024-01-02 00:00:00 total: 1 unique: 1
@@ -249,6 +250,8 @@ Views:
 repo: bloxroutehomework views: total: 0 unique:  0
 
 repo: download-artifacts views: total: 0 unique:  0
+
+repo: follow-kube-logs views: total: 0 unique:  0
 
 repo: githubapitools views: total: 0 unique:  0
 
@@ -282,4 +285,4 @@ repo: vimcrypt views: total: 0 unique:  0
 
 
 ***
-Total views: 444
+Total views: 462
