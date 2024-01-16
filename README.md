@@ -1,31 +1,17 @@
 <b>Looking for work, full time or consulting. Relocation is an option</b> [my cv](mm-cv-present.pdf)
-Mon Jan 15 00:43:54 UTC 2024
+Tue Jan 16 00:42:00 UTC 2024
 
 <pre>
 
- ________________________________________
-/ Q: How many hardware engineers does it \
-| take to change a light bulb? A: None.  |
-| We'll fix it in software.              |
-|                                        |
-| Q: How many system programmers does it |
-| take to change a light bulb? A: None.  |
-| The application can work around it.    |
-|                                        |
-| Q: How many software engineers does it |
-| take to change a light bulb? A: None.  |
-| We'll document it in the manual.       |
-|                                        |
-| Q: How many tech writers does it take  |
-| to change a light bulb? A: None. The   |
-\ user can figure it out.                /
- ----------------------------------------
+ __________________________________
+< Make a wish, it might come true. >
+ ----------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (OO)\_______
             (__)\       )\/\
-             -- ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 67 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
