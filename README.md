@@ -1,17 +1,18 @@
 <b>Looking for work, full time or consulting. Relocation is an option</b> [my cv](mm-cv-present.pdf)
-Wed Jan 17 00:42:33 UTC 2024
+Thu Jan 18 00:41:44 UTC 2024
 
 <pre>
 
- _______________________________
-< Keep it short for pithy sake. >
- -------------------------------
+ ______________________________________
+/ You will hear good news from one you \
+\ thought unfriendly to you.           /
+ --------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
              -- ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 10 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
