@@ -1,18 +1,18 @@
 <b>Looking for work, full time or consulting. Relocation is an option</b> [my cv](mm-cv-present.pdf)
-Fri Jan 19 00:42:28 UTC 2024
+Sat Jan 20 00:41:36 UTC 2024
 
 <pre>
 
- ______________________________________
-/ You teach best what you most need to \
-\ learn.                               /
- --------------------------------------
+ ________________________________________
+/ Tuesday After Lunch is the cosmic time \
+\ of the week.                           /
+ ----------------------------------------
         \   ^__^
-         \  (OO)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :) ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: 64 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
