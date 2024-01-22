@@ -1,18 +1,20 @@
 <b>Looking for work, full time or consulting. Relocation is an option</b> [my cv](mm-cv-present.pdf)
-Sun Jan 21 00:45:58 UTC 2024
+Mon Jan 22 00:44:04 UTC 2024
 
 <pre>
 
- _________________________________________
-/ A gift of a flower will soon be made to \
-\ you.                                    /
- -----------------------------------------
+ _______________________________________
+/ Q: What do monsters eat? A: Things.   \
+|                                       |
+| Q: What do monsters drink? A: Coke.   |
+\ (Because Things go better with Coke.) /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
              :) ||----w |
                 ||     ||
-nltk score: 44 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: 50 '(from -100..100) state: 'good' eye: oo tongue: :)
 
 </pre>
 
