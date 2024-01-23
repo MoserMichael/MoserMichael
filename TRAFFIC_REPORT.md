@@ -117,7 +117,7 @@ repo: jq-illustrated views: total: 15 unique:  1
 Views:
 	 2024-01-18 00:00:00 total: 15 unique: 1
 
-repo: dockerdashphp views: total: 12 unique:  8
+repo: dockerdashphp views: total: 14 unique:  10
 Views:
 	 2024-01-10 00:00:00 total: 3 unique: 3
 	 2024-01-11 00:00:00 total: 1 unique: 1
@@ -126,6 +126,7 @@ Views:
 	 2024-01-18 00:00:00 total: 1 unique: 1
 	 2024-01-19 00:00:00 total: 1 unique: 1
 	 2024-01-20 00:00:00 total: 3 unique: 3
+	 2024-01-23 00:00:00 total: 2 unique: 2
 	Referrers:
 		Count: 5 Unique: 5 Url: Google
 		Count: 4 Unique: 2 Url: github.com
@@ -155,7 +156,7 @@ Views:
 	 2024-01-19 00:00:00 total: 1 unique: 1
 	 2024-01-22 00:00:00 total: 2 unique: 1
 	Referrers:
-		Count: 3 Unique: 2 Url: github.com
+		Count: 5 Unique: 3 Url: github.com
 		Count: 2 Unique: 1 Url: mosermichael.github.io
 
 repo: cppcombinator views: total: 6 unique:  6
@@ -174,31 +175,17 @@ Views:
 	 2024-01-17 00:00:00 total: 1 unique: 1
 	 2024-01-22 00:00:00 total: 4 unique: 1
 	Referrers:
-		Count: 1 Unique: 1 Url: Google
+		Count: 5 Unique: 2 Url: Google
 
-repo: vimcrypt2 views: total: 5 unique:  3
-Views:
-	 2024-01-09 00:00:00 total: 3 unique: 1
-	 2024-01-15 00:00:00 total: 1 unique: 1
-	 2024-01-19 00:00:00 total: 1 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: Google
-		Count: 1 Unique: 1 Url: DuckDuckGo
-
-repo: visual-python-strace views: total: 4 unique:  4
+repo: visual-python-strace views: total: 5 unique:  5
 Views:
 	 2024-01-10 00:00:00 total: 1 unique: 1
 	 2024-01-17 00:00:00 total: 1 unique: 1
 	 2024-01-19 00:00:00 total: 1 unique: 1
 	 2024-01-22 00:00:00 total: 1 unique: 1
+	 2024-01-23 00:00:00 total: 1 unique: 1
 	Referrers:
-		Count: 3 Unique: 3 Url: Google
-
-repo: myenv views: total: 3 unique:  2
-Views:
-	 2024-01-09 00:00:00 total: 1 unique: 1
-	 2024-01-14 00:00:00 total: 1 unique: 1
-	 2024-01-20 00:00:00 total: 1 unique: 1
+		Count: 4 Unique: 4 Url: Google
 
 repo: pythonimportplayground views: total: 3 unique:  3
 Views:
@@ -214,7 +201,7 @@ Views:
 	 2024-01-20 00:00:00 total: 1 unique: 1
 	 2024-01-22 00:00:00 total: 1 unique: 1
 	Referrers:
-		Count: 2 Unique: 2 Url: Google
+		Count: 3 Unique: 3 Url: Google
 
 repo: duckduckbang views: total: 2 unique:  2
 Views:
@@ -231,12 +218,32 @@ Views:
 		Count: 1 Unique: 1 Url: Google
 		Count: 1 Unique: 1 Url: news.ycombinator.com
 
+repo: gitblame views: total: 2 unique:  2
+Views:
+	 2024-01-14 00:00:00 total: 1 unique: 1
+	 2024-01-23 00:00:00 total: 1 unique: 1
+	Referrers:
+		Count: 1 Unique: 1 Url: DuckDuckGo
+
+repo: myenv views: total: 2 unique:  2
+Views:
+	 2024-01-14 00:00:00 total: 1 unique: 1
+	 2024-01-20 00:00:00 total: 1 unique: 1
+
 repo: pygamewrap views: total: 2 unique:  2
 Views:
 	 2024-01-12 00:00:00 total: 1 unique: 1
 	 2024-01-19 00:00:00 total: 1 unique: 1
 	Referrers:
 		Count: 2 Unique: 2 Url: Google
+
+repo: vimcrypt2 views: total: 2 unique:  2
+Views:
+	 2024-01-15 00:00:00 total: 1 unique: 1
+	 2024-01-19 00:00:00 total: 1 unique: 1
+	Referrers:
+		Count: 1 Unique: 1 Url: Google
+		Count: 1 Unique: 1 Url: DuckDuckGo
 
 repo: bloxroutehomework views: total: 1 unique:  1
 Views:
@@ -250,17 +257,15 @@ Views:
 	Referrers:
 		Count: 1 Unique: 1 Url: github.com
 
-repo: gitblame views: total: 1 unique:  1
-Views:
-	 2024-01-14 00:00:00 total: 1 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: DuckDuckGo
-
 repo: opinionated-fortune-cow views: total: 1 unique:  1
 Views:
 	 2024-01-17 00:00:00 total: 1 unique: 1
 	Referrers:
 		Count: 1 Unique: 1 Url: github.com
+
+repo: printb views: total: 1 unique:  1
+Views:
+	 2024-01-23 00:00:00 total: 1 unique: 1
 
 repo: pythoncourse views: total: 1 unique:  1
 Views:
@@ -294,12 +299,10 @@ repo: microsofthomework views: total: 0 unique:  0
 
 repo: pprintex views: total: 0 unique:  0
 
-repo: printb views: total: 0 unique:  0
-
 repo: subb views: total: 0 unique:  0
 
 repo: teach-your-children-well views: total: 0 unique:  0
 
 
 ***
-Total views: 576
+Total views: 577

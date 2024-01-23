@@ -1,25 +1,19 @@
 <b>Looking for work, full time or consulting. Relocation is an option</b> [my cv](mm-cv-present.pdf)
-Tue Jan 23 00:42:55 UTC 2024
+Tue Jan 23 09:50:05 UTC 2024
 
 <pre>
 
- _________________________________________
-/ Q: What's the difference between the    \
-| 1950's and the 1980's? A: In the 80's,  |
-| a man walks into a drugstore and states |
-| loudly, "I'd                            |
-|                                         |
-| like some condoms," and then, leaning   |
-| over the counter, whispers,             |
-|                                         |
-\ "and some cigarettes."                  /
- -----------------------------------------
+ ____________________________________
+/ Every cloud engenders not a storm. \
+|                                    |
+\ -- William Shakespeare, "Henry VI" /
+ ------------------------------------
         \   ^__^
-         \  (oo)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :) ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: 36 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
@@ -117,8 +111,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 569 </th></tr>
 </table>
 <br>
-old_date:  2024-01-14 12:31:56.220789 now: 2024-01-23 00:43:06.275892
-pyasmtool stars changed from: 313 to: 312
     </pre>
   </td>
 </table>
