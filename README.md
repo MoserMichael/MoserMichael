@@ -1,13 +1,12 @@
 <b>Looking for work, full time or consulting. Relocation is an option</b> [my cv](mm-cv-present.pdf)
-Tue Jan 23 09:50:05 UTC 2024
+Wed Jan 24 00:43:05 UTC 2024
 
 <pre>
 
- ____________________________________
-/ Every cloud engenders not a storm. \
-|                                    |
-\ -- William Shakespeare, "Henry VI" /
- ------------------------------------
+ ___________________________________
+/ Try to get all of your posthumous \
+\ medals in advance.                /
+ -----------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
