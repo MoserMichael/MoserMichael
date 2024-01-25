@@ -1,12 +1,14 @@
 <b>Looking for work, full time or consulting. Relocation is an option</b> [my cv](mm-cv-present.pdf)
-Wed Jan 24 00:43:05 UTC 2024
+Thu Jan 25 00:42:47 UTC 2024
 
 <pre>
 
- ___________________________________
-/ Try to get all of your posthumous \
-\ medals in advance.                /
- -----------------------------------
+ ______________________________________
+/ You have an unusual magnetic         \
+| personality. Don't walk too close to |
+| metal objects which are not fastened |
+\ down.                                /
+ --------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
@@ -64,7 +66,7 @@ My stuff here:
         <pre>
 
 <table><tr><th align='left'>Name</th><th align='left'>Stars</th><th align='left'>Language</th><th align='left'>description</th></tr>
-<tr><td><a href="https://github.com/MoserMichael/pyasmtool">pyasmtool</a></td><td>312</td><td>Python</td><td>Explores the python bytecode, provides some tools to access it for fun and profit.</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/pyasmtool">pyasmtool</a></td><td>313</td><td>Python</td><td>Explores the python bytecode, provides some tools to access it for fun and profit.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/python-obj-system">python-obj-system</a></td><td>62</td><td>Python</td><td>Tutorials on advanced python topics, and literate programming framework to write them (see README.md)</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/duckduckbang">duckduckbang</a></td><td>36</td><td>Python</td><td>Meta search page that utilises duckduckgo !bang query operators.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/cppcombinator">cppcombinator</a></td><td>23</td><td>C++</td><td>parser  combinator and AST generator in c++17</td></tr>
@@ -86,6 +88,7 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/subb">subb</a></td><td>2</td><td>Python</td><td>a wrapper module for python subprocess</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/vimcrypt2">vimcrypt2</a></td><td>2</td><td>Vim Script</td><td>Advanced vim plugin to encrypt files with openssl</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/docker-force-attach">docker-force-attach</a></td><td>1</td><td>Shell</td><td>script to attach shell to running docker container - even if there is no shell in the image</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/dockerdashphp">dockerdashphp</a></td><td>1</td><td>JavaScript</td><td>dashboard/web application for working with docker</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/gitblame">gitblame</a></td><td>1</td><td>Vim Script</td><td>minimal vim plugin for working with git; with a focus on git blame and git grep commands</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/gittools">gittools</a></td><td>1</td><td>Python</td><td>get some sense out of the git log for a given repository.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/k8explain">k8explain</a></td><td>1</td><td>Go</td><td>golang exercise: produce a table of kubernetes api resources where each row is linked to an explanation</td></tr>
@@ -93,7 +96,6 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/teach-your-children-well">teach-your-children-well</a></td><td>1</td><td>Python</td><td>Telling stories in simple English, so that I have something to tell to my kids during the summer vacation</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/bloxroutehomework">bloxroutehomework</a></td><td>0</td><td>C++</td><td>assignment for bloxroute interview</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/devgoodies">devgoodies</a></td><td>0</td><td>Vim script</td><td>Vim plugin - useful commands for editing code.</td></tr>
-<tr><td><a href="https://github.com/MoserMichael/dockerdashphp">dockerdashphp</a></td><td>0</td><td>JavaScript</td><td>dashboard/web application for working with docker</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/download-artifacts">download-artifacts</a></td><td>0</td><td>Shell</td><td>bash script for downloading the artifacts of the latest release for a given github repo of a given user.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/follow-kube-logs">follow-kube-logs</a></td><td>0</td><td>Python</td><td>tail the log of all containers in all pods of a kubernetes deployment/replicaset/statefull set, for a limited time period. Interactive script: the user presses enter to stop logging.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/githubapitools">githubapitools</a></td><td>0</td><td>Python</td><td>tools that make use of the python github api, for fun and profit.</td></tr>
@@ -107,9 +109,12 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/vimcrypt">vimcrypt</a></td><td>0</td><td>Vim script</td><td>my vim plugin for encrypting/decryting text files with openssl</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/visual-python-strace">visual-python-strace</a></td><td>0</td><td>Python</td><td>show a very long stack trace with variable values.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/zipit">zipit</a></td><td>0</td><td>C++</td><td>c++ library for the equivalent of python/haskell zip function</td></tr>
-<tr><th>Total stars:</th><th colspan='2' align='left'> 569 </th></tr>
+<tr><th>Total stars:</th><th colspan='2' align='left'> 571 </th></tr>
 </table>
 <br>
+old_date:  2024-01-23 00:43:06.276060 now: 2024-01-25 00:42:59.493035
+pyasmtool stars changed from: 312 to: 313
+dockerdashphp stars changed from: 0 to: 1
     </pre>
   </td>
 </table>
