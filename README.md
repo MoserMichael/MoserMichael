@@ -1,18 +1,20 @@
 <b>Looking for work, full time or consulting. Relocation is an option</b> [my cv](mm-cv-present.pdf)
-Fri Jan 26 00:39:47 UTC 2024
+Sat Jan 27 00:39:20 UTC 2024
 
 <pre>
 
- ___________________________________
-/ Your nature demands love and your \
-\ happiness depends on it.          /
- -----------------------------------
+ ______________________________________
+/ Q: How many Marxists does it take to \
+| screw in a light bulb? A: None: The  |
+| light bulb contains the seeds of its |
+\ own revolution.                      /
+ --------------------------------------
         \   ^__^
-         \  (OO)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :) ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: 83 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: -10 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
@@ -110,8 +112,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 572 </th></tr>
 </table>
 <br>
-old_date:  2024-01-25 00:42:59.493198 now: 2024-01-26 00:39:58.568108
-pyasmtool stars changed from: 313 to: 314
     </pre>
   </td>
 </table>
