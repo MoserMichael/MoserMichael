@@ -1,20 +1,21 @@
 <b>Looking for work, full time or consulting. Relocation is an option</b> [my cv](mm-cv-present.pdf)
-Sun Jan 28 00:42:04 UTC 2024
+Mon Jan 29 00:39:40 UTC 2024
 
 <pre>
 
- ________________________________________
-/ Q: How many college football players   \
-| does it take to screw in a light bulb? |
-| A: Only one, but he gets three credits |
-\ for it.                                /
- ----------------------------------------
+ _____________________________________
+/ The naked truth of it is, I have no \
+| shirt.                              |
+|                                     |
+| -- William Shakespeare, "Love's     |
+\ Labour's Lost"                      /
+ -------------------------------------
         \   ^__^
-         \  (oo)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :) ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: 47 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: 3 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
