@@ -1,21 +1,18 @@
 <b>Looking for work, full time or consulting. Relocation is an option</b> [my cv](mm-cv-present.pdf)
-Mon Jan 29 00:39:40 UTC 2024
+Tue Jan 30 00:39:26 UTC 2024
 
 <pre>
 
  _____________________________________
-/ The naked truth of it is, I have no \
-| shirt.                              |
-|                                     |
-| -- William Shakespeare, "Love's     |
-\ Labour's Lost"                      /
+/ Your talents will be recognized and \
+\ suitably rewarded.                  /
  -------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (OO)\_______
             (__)\       )\/\
-             -- ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: 3 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 74 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
