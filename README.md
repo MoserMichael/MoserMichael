@@ -1,19 +1,25 @@
 <b>Looking for work, full time or consulting. Relocation is an option</b> [my cv](mm-cv-present.pdf)
-Wed Jan 31 00:39:42 UTC 2024
+Thu Feb  1 00:41:22 UTC 2024
 
 <pre>
 
- _________________________________________
-/ Next Friday will not be your lucky day. \
-| As a matter of fact, you don't have a   |
-\ lucky day this year.                    /
- -----------------------------------------
+ ________________________________________
+/ Steady movement is more important than \
+| speed, much of the time. So long as    |
+| there is a regular progression of      |
+| stimuli to get your mental hooks into, |
+| there is room for lateral movement.    |
+| Once this begins, its rate is a matter |
+| of discretion.                         |
+|                                        |
+\ -- Corwin, Prince of Amber             /
+ ----------------------------------------
         \   ^__^
-         \  (!!)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :( ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: -55 '(from -100..100) state: 'bad' eye: !! tongue: :(
+nltk score: 29 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
@@ -111,8 +117,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 571 </th></tr>
 </table>
 <br>
-old_date:  2024-01-26 00:39:58.568270 now: 2024-01-31 00:39:54.287320
-pyasmtool stars changed from: 314 to: 313
     </pre>
   </td>
 </table>
