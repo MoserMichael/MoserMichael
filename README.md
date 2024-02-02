@@ -1,25 +1,19 @@
 <b>Looking for work, full time or consulting. Relocation is an option</b> [my cv](mm-cv-present.pdf)
-Thu Feb  1 00:41:22 UTC 2024
+Fri Feb  2 00:39:31 UTC 2024
 
 <pre>
 
  ________________________________________
-/ Steady movement is more important than \
-| speed, much of the time. So long as    |
-| there is a regular progression of      |
-| stimuli to get your mental hooks into, |
-| there is room for lateral movement.    |
-| Once this begins, its rate is a matter |
-| of discretion.                         |
-|                                        |
-\ -- Corwin, Prince of Amber             /
+/ If you learn one useless thing every   \
+| day, in a single year you'll learn 365 |
+\ useless things.                        /
  ----------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (~~)\_______
             (__)\       )\/\
-             -- ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 29 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: -68 '(from -100..100) state: 'very bad' eye: ~~ tongue: :(
 
 </pre>
 
