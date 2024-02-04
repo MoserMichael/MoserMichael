@@ -1,19 +1,20 @@
 <b>Looking for work, full time or consulting. Relocation is an option</b> [my cv](mm-cv-present.pdf)
-Sat Feb  3 00:39:07 UTC 2024
+Sun Feb  4 00:42:33 UTC 2024
 
 <pre>
 
- _________________________________________
-/ You are scrupulously honest, frank, and \
-| straightforward. Therefore you have few |
-\ friends.                                /
- -----------------------------------------
+ ________________________________________
+/ Never laugh at live dragons.           \
+|                                        |
+| -- Bilbo Baggins [J.R.R. Tolkien, "The |
+\ Hobbit"]                               /
+ ----------------------------------------
         \   ^__^
-         \  (OO)\_______
+         \  (!!)\_______
             (__)\       )\/\
-             :) ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 75 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: -44 '(from -100..100) state: 'bad' eye: !! tongue: :(
 
 </pre>
 
