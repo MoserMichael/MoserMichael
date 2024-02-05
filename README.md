@@ -1,20 +1,17 @@
 <b>Looking for work, full time or consulting. Relocation is an option</b> [my cv](mm-cv-present.pdf)
-Sun Feb  4 00:42:33 UTC 2024
+Mon Feb  5 00:40:28 UTC 2024
 
 <pre>
 
- ________________________________________
-/ Never laugh at live dragons.           \
-|                                        |
-| -- Bilbo Baggins [J.R.R. Tolkien, "The |
-\ Hobbit"]                               /
- ----------------------------------------
+ _____________________________
+< You will never know hunger. >
+ -----------------------------
         \   ^__^
-         \  (!!)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :( ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: -44 '(from -100..100) state: 'bad' eye: !! tongue: :(
+nltk score: 19 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
