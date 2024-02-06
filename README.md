@@ -1,17 +1,17 @@
 <b>Looking for work, full time or consulting. Relocation is an option</b> [my cv](mm-cv-present.pdf)
-Mon Feb  5 00:40:28 UTC 2024
+Tue Feb  6 00:39:05 UTC 2024
 
 <pre>
 
- _____________________________
-< You will never know hunger. >
- -----------------------------
+ _____________________________________
+< Your step will soil many countries. >
+ -------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
              -- ||----w |
                 ||     ||
-nltk score: 19 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
