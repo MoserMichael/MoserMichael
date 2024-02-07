@@ -1,17 +1,19 @@
 <b>Looking for work, full time or consulting. Relocation is an option</b> [my cv](mm-cv-present.pdf)
-Wed Feb  7 00:37:33 UTC 2024
+Wed Feb  7 03:10:05 UTC 2024
 
 <pre>
 
- __________________________________
-< You will pass away very quickly. >
- ----------------------------------
+ _______________________________________
+/ Q: What's tiny and yellow and very,   \
+| very, dangerous? A: A canary with the |
+\ super-user password.                  /
+ ---------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (!!)\_______
             (__)\       )\/\
-             -- ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: -57 '(from -100..100) state: 'bad' eye: !! tongue: :(
 
 </pre>
 
