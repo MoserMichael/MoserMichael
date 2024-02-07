@@ -1,11 +1,11 @@
 <b>Looking for work, full time or consulting. Relocation is an option</b> [my cv](mm-cv-present.pdf)
-Tue Feb  6 00:39:05 UTC 2024
+Wed Feb  7 00:37:33 UTC 2024
 
 <pre>
 
- _____________________________________
-< Your step will soil many countries. >
- -------------------------------------
+ __________________________________
+< You will pass away very quickly. >
+ ----------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
