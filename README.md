@@ -1,18 +1,24 @@
 <b>Looking for work, full time or consulting. Relocation is an option</b> [my cv](mm-cv-present.pdf)
-Thu Feb  8 00:39:20 UTC 2024
+Fri Feb  9 00:38:19 UTC 2024
 
 <pre>
 
- _______________________________________
-/ Q: How do you save a drowning lawyer? \
-\ A: Throw him a rock.                  /
- ---------------------------------------
+ _________________________________________
+/ Gratitude and treachery are merely the  \
+| two extremities of the same procession. |
+| You have seen all of it that is worth   |
+| staying for when the band and the gaudy |
+| officials have gone by.                 |
+|                                         |
+| -- Mark Twain, "Pudd'nhead Wilson's     |
+\ Calendar"                               /
+ -----------------------------------------
         \   ^__^
-         \  (oo)\_______
+         \  (OO)\_______
             (__)\       )\/\
              :) ||----w |
                 ||     ||
-nltk score: 49 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: 64 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
