@@ -1,18 +1,19 @@
 <b>Looking for work, full time or consulting. Relocation is an option</b> [my cv](mm-cv-present.pdf)
-Sun Feb 11 00:42:46 UTC 2024
+Mon Feb 12 00:39:57 UTC 2024
 
 <pre>
 
- _________________________________________
-/ If your life was a horse, you'd have to \
-\ shoot it.                               /
- -----------------------------------------
+ ________________________________________
+/ Q: Why do mountain climbers rope       \
+| themselves together? A: To prevent the |
+\ sensible ones from going home.         /
+ ----------------------------------------
         \   ^__^
-         \  (!!)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :( ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: -34 '(from -100..100) state: 'bad' eye: !! tongue: :(
+nltk score: 3 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
@@ -110,8 +111,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 573 </th></tr>
 </table>
 <br>
-old_date:  2024-02-10 00:38:20.768059 now: 2024-02-11 00:42:56.753850
-duckduckbang stars changed from: 36 to: 37
     </pre>
   </td>
 </table>
