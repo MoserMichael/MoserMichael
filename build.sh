@@ -15,7 +15,7 @@ STARRED_REPOS_FILE=/repo/USER_STARRED.md
 
 # *** make README file ***
 #echo "<b>Looking for work, full time or consulting. Relocation is an option</b> [my cv](mm-cv-present.pdf)" >${README_FILE}
-echo "[About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: " >>${README_FILE}
+echo "[About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: " >${README_FILE}
 
 date >>${README_FILE}
 echo "" >>${README_FILE}
