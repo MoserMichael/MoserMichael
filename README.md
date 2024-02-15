@@ -1,20 +1,17 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Wed Feb 14 04:10:38 UTC 2024
+Thu Feb 15 00:39:36 UTC 2024
 
 <pre>
 
- _______________________________________
-/ I dote on his very absence.           \
-|                                       |
-| -- William Shakespeare, "The Merchant |
-\ of Venice"                            /
- ---------------------------------------
+ ________________________________________
+< You have taken yourself too seriously. >
+ ----------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
              -- ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: -18 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
