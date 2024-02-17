@@ -1,15 +1,13 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Fri Feb 16 00:38:45 UTC 2024
+Sat Feb 17 00:38:42 UTC 2024
 
 <pre>
 
  _________________________________________
-/ Q: How many Zen masters does it take to \
-| screw in a light bulb? A: None. The     |
-| Universe spins the bulb, and the Zen    |
-| master stays out                        |
+/ By trying we can easily learn to endure \
+| adversity. Another man's, I mean.       |
 |                                         |
-\ of the way.                             /
+\ -- Mark Twain                           /
  -----------------------------------------
         \   ^__^
          \  (..)\_______
