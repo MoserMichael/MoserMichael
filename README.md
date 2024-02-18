@@ -1,20 +1,20 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sat Feb 17 00:38:42 UTC 2024
+Sun Feb 18 00:42:09 UTC 2024
 
 <pre>
 
- _________________________________________
-/ By trying we can easily learn to endure \
-| adversity. Another man's, I mean.       |
-|                                         |
-\ -- Mark Twain                           /
- -----------------------------------------
+ ________________________________________
+/ A long-forgotten loved one will appear \
+| soon.                                  |
+|                                        |
+\ Buy the negatives at any price.        /
+ ----------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (OO)\_______
             (__)\       )\/\
-             -- ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: -10 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 60 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
@@ -94,16 +94,15 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/k8explain">k8explain</a></td><td>1</td><td>Go</td><td>golang exercise: produce a table of kubernetes api resources where each row is linked to an explanation</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/MoserMichael">MoserMichael</a></td><td>1</td><td>Shell</td><td>some blurb about the owner and his stuff. A script generates README.md, that appears on the public profile. The script is run periodically by github action. (see ABOUT.md)</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/teach-your-children-well">teach-your-children-well</a></td><td>1</td><td>Python</td><td>Telling stories in simple English, so that I have something to tell to my kids during the summer vacation</td></tr>
-<tr><td><a href="https://github.com/MoserMichael/bloxroutehomework">bloxroutehomework</a></td><td>0</td><td>C++</td><td>assignment for bloxroute interview</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/devgoodies">devgoodies</a></td><td>0</td><td>Vim script</td><td>Vim plugin - useful commands for editing code.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/download-artifacts">download-artifacts</a></td><td>0</td><td>Shell</td><td>bash script for downloading the artifacts of the latest release for a given github repo of a given user.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/follow-kube-logs">follow-kube-logs</a></td><td>0</td><td>Python</td><td>tail the log of all containers in all pods of a kubernetes deployment/replicaset/statefull set, for a limited time period. Interactive script: the user presses enter to stop logging.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/githubapitools">githubapitools</a></td><td>0</td><td>Python</td><td>tools that make use of the python github api, for fun and profit.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/github_pr_comments">github_pr_comments</a></td><td>0</td><td>Python</td><td>script that notifies if any of your PR's received  new/modified/deleted comment.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/grpc-spring-boot-starter-utils">grpc-spring-boot-starter-utils</a></td><td>0</td><td>Java</td><td>grpc ServerInterceptor for logging of grpc request/response with exception handling, used with grpc-spring-boot-starter</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/jobinterviewhomework">jobinterviewhomework</a></td><td>0</td><td>C++</td><td>log of job interview assignments</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/jpa-enc-converter">jpa-enc-converter</a></td><td>0</td><td>Java</td><td>Example of handling the encryption/decryption of data at rest in an SQL table, by means of spring JPA/AttributeConverter</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/kwchecker">kwchecker</a></td><td>0</td><td>Python</td><td>Declarative verifier and sanitizer for python kwargs parameters.</td></tr>
-<tr><td><a href="https://github.com/MoserMichael/microsofthomework">microsofthomework</a></td><td>0</td><td>C++</td><td>Homework assignment at a Microsoft job interview</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/my-notes">my-notes</a></td><td>0</td><td>Python</td><td>Keeping notes while learning stuff (so they don't get lost) These notes are best viewed in vim - meaning in a fixed font with text wrapping)</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/printb">printb</a></td><td>0</td><td>Python</td><td>Adds bidi aware 'print' and 'input' functions.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/vimcrypt">vimcrypt</a></td><td>0</td><td>Vim script</td><td>my vim plugin for encrypting/decryting text files with openssl</td></tr>
@@ -112,6 +111,8 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 573 </th></tr>
 </table>
 <br>
+old_date:  2024-02-11 00:42:56.754007 now: 2024-02-18 00:42:20.225041
+jobinterviewhomework new project. stars: 0
     </pre>
   </td>
 </table>
