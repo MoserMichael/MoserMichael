@@ -1,20 +1,22 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sun Feb 18 00:42:09 UTC 2024
+Mon Feb 19 00:40:18 UTC 2024
 
 <pre>
 
  ________________________________________
-/ A long-forgotten loved one will appear \
-| soon.                                  |
+/ I don't know half of you half as well  \
+| as I should like; and I like less than |
+| half of you half as well as you        |
+| deserve.                               |
 |                                        |
-\ Buy the negatives at any price.        /
+\ -- J. R. R. Tolkien                    /
  ----------------------------------------
         \   ^__^
          \  (OO)\_______
             (__)\       )\/\
              :) ||----w |
                 ||     ||
-nltk score: 60 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: 80 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
@@ -111,8 +113,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 573 </th></tr>
 </table>
 <br>
-old_date:  2024-02-11 00:42:56.754007 now: 2024-02-18 00:42:20.225041
-jobinterviewhomework new project. stars: 0
     </pre>
   </td>
 </table>
