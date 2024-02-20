@@ -1,22 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Mon Feb 19 00:40:18 UTC 2024
+Tue Feb 20 00:38:37 UTC 2024
 
 <pre>
 
- ________________________________________
-/ I don't know half of you half as well  \
-| as I should like; and I like less than |
-| half of you half as well as you        |
-| deserve.                               |
-|                                        |
-\ -- J. R. R. Tolkien                    /
- ----------------------------------------
+ _______________________________________
+/ If you sow your wild oats, hope for a \
+\ crop failure.                         /
+ ---------------------------------------
         \   ^__^
-         \  (OO)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :) ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: 80 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: -10 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
