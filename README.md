@@ -1,12 +1,14 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sat Mar  2 00:38:17 UTC 2024
+Sun Mar  3 00:41:37 UTC 2024
 
 <pre>
 
- _______________________________________
-/ You shall be rewarded for a dastardly \
-\ deed.                                 /
- ---------------------------------------
+ ______________________________________
+/ Things past redress and now with me  \
+| past care.                           |
+|                                      |
+\ -- William Shakespeare, "Richard II" /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\

@@ -9,7 +9,6 @@ Traffic report for user Michael Moser
 
 repo: pyasmtool views: total: 94 unique:  24
 Views:
-	 2024-02-17 00:00:00 total: 2 unique: 1
 	 2024-02-19 00:00:00 total: 8 unique: 3
 	 2024-02-20 00:00:00 total: 10 unique: 4
 	 2024-02-22 00:00:00 total: 2 unique: 1
@@ -21,15 +20,15 @@ Views:
 	 2024-02-28 00:00:00 total: 3 unique: 1
 	 2024-02-29 00:00:00 total: 8 unique: 3
 	 2024-03-01 00:00:00 total: 6 unique: 2
+	 2024-03-02 00:00:00 total: 2 unique: 1
 	Referrers:
+		Count: 28 Unique: 7 Url: github.com
 		Count: 28 Unique: 6 Url: Google
-		Count: 24 Unique: 6 Url: github.com
-		Count: 20 Unique: 5 Url: news.ycombinator.com
+		Count: 22 Unique: 6 Url: news.ycombinator.com
 		Count: 2 Unique: 1 Url: DuckDuckGo
 
-repo: MoserMichael views: total: 47 unique:  2
+repo: MoserMichael views: total: 43 unique:  2
 Views:
-	 2024-02-17 00:00:00 total: 4 unique: 1
 	 2024-02-19 00:00:00 total: 4 unique: 1
 	 2024-02-20 00:00:00 total: 2 unique: 1
 	 2024-02-22 00:00:00 total: 2 unique: 1
@@ -39,23 +38,24 @@ Views:
 	Referrers:
 		Count: 21 Unique: 2 Url: github.com
 
-repo: roget-thesaurus-parser views: total: 39 unique:  11
+repo: roget-thesaurus-parser views: total: 33 unique:  11
 Views:
-	 2024-02-17 00:00:00 total: 9 unique: 1
 	 2024-02-19 00:00:00 total: 3 unique: 1
 	 2024-02-21 00:00:00 total: 24 unique: 6
 	 2024-02-24 00:00:00 total: 2 unique: 2
 	 2024-03-01 00:00:00 total: 1 unique: 1
+	 2024-03-02 00:00:00 total: 3 unique: 1
 	Referrers:
 		Count: 26 Unique: 8 Url: Google
 		Count: 1 Unique: 1 Url: Bing
+		Count: 1 Unique: 1 Url: DuckDuckGo
 
-repo: cstuff views: total: 26 unique:  7
+repo: cstuff views: total: 30 unique:  7
 Views:
-	 2024-02-17 00:00:00 total: 5 unique: 1
 	 2024-02-25 00:00:00 total: 2 unique: 1
 	 2024-02-28 00:00:00 total: 18 unique: 4
 	 2024-02-29 00:00:00 total: 1 unique: 1
+	 2024-03-02 00:00:00 total: 9 unique: 1
 	Referrers:
 		Count: 4 Unique: 4 Url: github.com
 
@@ -73,7 +73,7 @@ Views:
 	 2024-02-27 00:00:00 total: 1 unique: 1
 	 2024-02-29 00:00:00 total: 1 unique: 1
 	Referrers:
-		Count: 20 Unique: 6 Url: github.com
+		Count: 4 Unique: 4 Url: github.com
 
 repo: python-obj-system views: total: 17 unique:  8
 Views:
@@ -85,7 +85,7 @@ Views:
 	 2024-02-29 00:00:00 total: 3 unique: 1
 	 2024-03-01 00:00:00 total: 2 unique: 1
 	Referrers:
-		Count: 7 Unique: 4 Url: github.com
+		Count: 9 Unique: 5 Url: github.com
 		Count: 3 Unique: 1 Url: gist.github.com
 		Count: 3 Unique: 1 Url: news.ycombinator.com
 		Count: 2 Unique: 1 Url: Google
@@ -102,9 +102,8 @@ Views:
 		Count: 2 Unique: 2 Url: Google
 		Count: 1 Unique: 1 Url: news.ycombinator.com
 
-repo: s9k views: total: 17 unique:  10
+repo: s9k views: total: 15 unique:  9
 Views:
-	 2024-02-17 00:00:00 total: 2 unique: 1
 	 2024-02-19 00:00:00 total: 2 unique: 1
 	 2024-02-20 00:00:00 total: 1 unique: 1
 	 2024-02-22 00:00:00 total: 7 unique: 3
@@ -112,16 +111,9 @@ Views:
 	 2024-02-28 00:00:00 total: 1 unique: 1
 	 2024-03-01 00:00:00 total: 3 unique: 2
 	Referrers:
-		Count: 8 Unique: 6 Url: Google
+		Count: 11 Unique: 8 Url: Google
 		Count: 2 Unique: 1 Url: web.skype.com
 		Count: 2 Unique: 1 Url: github.com
-
-repo: duckduckbang views: total: 8 unique:  4
-Views:
-	 2024-02-17 00:00:00 total: 1 unique: 1
-	 2024-02-18 00:00:00 total: 1 unique: 1
-	 2024-02-21 00:00:00 total: 5 unique: 1
-	 2024-02-22 00:00:00 total: 1 unique: 1
 
 repo: myenv views: total: 8 unique:  4
 Views:
@@ -130,16 +122,14 @@ Views:
 	 2024-02-24 00:00:00 total: 1 unique: 1
 	 2024-02-28 00:00:00 total: 5 unique: 1
 	Referrers:
-		Count: 7 Unique: 3 Url: Google
+		Count: 6 Unique: 2 Url: Google
 		Count: 1 Unique: 1 Url: github.com
 
-repo: jobinterviewhomework views: total: 7 unique:  1
+repo: duckduckbang views: total: 7 unique:  3
 Views:
-	 2024-02-17 00:00:00 total: 5 unique: 1
 	 2024-02-18 00:00:00 total: 1 unique: 1
+	 2024-02-21 00:00:00 total: 5 unique: 1
 	 2024-02-22 00:00:00 total: 1 unique: 1
-	Referrers:
-		Count: 2 Unique: 1 Url: github.com
 
 repo: pprintex views: total: 6 unique:  1
 Views:
@@ -172,7 +162,7 @@ Views:
 	 2024-02-28 00:00:00 total: 1 unique: 1
 	 2024-03-01 00:00:00 total: 1 unique: 1
 	Referrers:
-		Count: 2 Unique: 2 Url: Google
+		Count: 3 Unique: 3 Url: Google
 		Count: 1 Unique: 1 Url: pypi.org
 
 repo: flagged-hn views: total: 4 unique:  4
@@ -197,8 +187,8 @@ Views:
 	 2024-02-27 00:00:00 total: 1 unique: 1
 	 2024-03-01 00:00:00 total: 1 unique: 1
 	Referrers:
+		Count: 2 Unique: 2 Url: DuckDuckGo
 		Count: 1 Unique: 1 Url: Google
-		Count: 1 Unique: 1 Url: DuckDuckGo
 
 repo: ls-annotations views: total: 3 unique:  2
 Views:
@@ -219,6 +209,17 @@ Views:
 repo: gittools views: total: 2 unique:  1
 Views:
 	 2024-02-25 00:00:00 total: 2 unique: 1
+
+repo: jobinterviewhomework views: total: 2 unique:  1
+Views:
+	 2024-02-18 00:00:00 total: 1 unique: 1
+	 2024-02-22 00:00:00 total: 1 unique: 1
+	Referrers:
+		Count: 1 Unique: 1 Url: github.com
+
+repo: teach-your-children-well views: total: 2 unique:  1
+Views:
+	 2024-03-02 00:00:00 total: 2 unique: 1
 
 repo: vimcrypt views: total: 2 unique:  2
 Views:
@@ -248,8 +249,6 @@ Views:
 repo: printb views: total: 1 unique:  1
 Views:
 	 2024-02-18 00:00:00 total: 1 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: Google
 
 repo: pythoncourse views: total: 1 unique:  1
 Views:
@@ -285,8 +284,6 @@ repo: opinionated-fortune-cow views: total: 0 unique:  0
 
 repo: rzgrep views: total: 0 unique:  0
 
-repo: teach-your-children-well views: total: 0 unique:  0
-
 
 ***
-Total views: 374
+Total views: 362
