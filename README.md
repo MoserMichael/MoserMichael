@@ -1,17 +1,20 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Tue Mar  5 00:39:09 UTC 2024
+Wed Mar  6 00:39:32 UTC 2024
 
 <pre>
 
- ___________________________________
-< You will triumph over your enemy. >
- -----------------------------------
+ ____________________________________
+/ Lord, what fools these mortals be! \
+|                                    |
+| -- William Shakespeare, "A         |
+\ Midsummer-Night's Dream"           /
+ ------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (!!)\_______
             (__)\       )\/\
-             -- ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: -10 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: -54 '(from -100..100) state: 'bad' eye: !! tongue: :(
 
 </pre>
 
