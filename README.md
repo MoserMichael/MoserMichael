@@ -1,18 +1,23 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Thu Mar  7 00:32:18 UTC 2024
+Fri Mar  8 00:39:08 UTC 2024
 
 <pre>
 
  _________________________________________
-/ You will be recognized and honored as a \
-\ community leader.                       /
+/ "I understand this is your first dead   \
+| client," Sabian was saying. The         |
+| absurdity of the statement made me want |
+| to laugh but they don't call me Deadpan |
+| Allie and lie.                          |
+|                                         |
+\ -- Pat Cadigan, "Mindplayers"           /
  -----------------------------------------
         \   ^__^
-         \  (oo)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :) ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: 59 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: -5 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
