@@ -1,18 +1,20 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sun Mar 17 00:42:29 UTC 2024
+Mon Mar 18 00:40:42 UTC 2024
 
 <pre>
 
- ______________________________________
-/ Q: What do you call a boomerang that \
-\ doesn't come back? A: A stick.       /
- --------------------------------------
+ _________________________________________
+/ FORTUNE PROVIDES QUESTIONS FOR THE      \
+| GREAT ANSWERS: #21 A: Dr. Livingston I. |
+| Presume. Q: What's Dr. Presume's full   |
+\ name?                                   /
+ -----------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (OO)\_______
             (__)\       )\/\
-             -- ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 62 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
@@ -64,7 +66,7 @@ My stuff here:
         <pre>
 
 <table><tr><th align='left'>Name</th><th align='left'>Stars</th><th align='left'>Language</th><th align='left'>description</th></tr>
-<tr><td><a href="https://github.com/MoserMichael/pyasmtool">pyasmtool</a></td><td>315</td><td>Python</td><td>Explores the python bytecode, provides some tools to access it for fun and profit.</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/pyasmtool">pyasmtool</a></td><td>316</td><td>Python</td><td>Explores the python bytecode, provides some tools to access it for fun and profit.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/python-obj-system">python-obj-system</a></td><td>62</td><td>Python</td><td>Tutorials on advanced python topics, and literate programming framework to write them (see README.md)</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/duckduckbang">duckduckbang</a></td><td>37</td><td>Python</td><td>Meta search page that utilises duckduckgo !bang query operators.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/cppcombinator">cppcombinator</a></td><td>23</td><td>C++</td><td>parser  combinator and AST generator in c++17</td></tr>
@@ -106,9 +108,11 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/vimcrypt">vimcrypt</a></td><td>0</td><td>Vim script</td><td>my vim plugin for encrypting/decryting text files with openssl</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/visual-python-strace">visual-python-strace</a></td><td>0</td><td>Python</td><td>show a very long stack trace with variable values.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/zipit">zipit</a></td><td>0</td><td>C++</td><td>c++ library for the equivalent of python/haskell zip function</td></tr>
-<tr><th>Total stars:</th><th colspan='2' align='left'> 575 </th></tr>
+<tr><th>Total stars:</th><th colspan='2' align='left'> 576 </th></tr>
 </table>
 <br>
+old_date:  2024-03-15 00:39:57.104536 now: 2024-03-18 00:40:52.883252
+pyasmtool stars changed from: 315 to: 316
     </pre>
   </td>
 </table>
