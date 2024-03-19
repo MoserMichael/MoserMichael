@@ -1,20 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Mon Mar 18 00:40:42 UTC 2024
+Tue Mar 19 00:39:10 UTC 2024
 
 <pre>
 
- _________________________________________
-/ FORTUNE PROVIDES QUESTIONS FOR THE      \
-| GREAT ANSWERS: #21 A: Dr. Livingston I. |
-| Presume. Q: What's Dr. Presume's full   |
-\ name?                                   /
- -----------------------------------------
+ _____________________________________
+/ You have been selected for a secret \
+\ mission.                            /
+ -------------------------------------
         \   ^__^
-         \  (OO)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :) ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: 62 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
@@ -111,8 +109,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 576 </th></tr>
 </table>
 <br>
-old_date:  2024-03-15 00:39:57.104536 now: 2024-03-18 00:40:52.883252
-pyasmtool stars changed from: 315 to: 316
     </pre>
   </td>
 </table>
