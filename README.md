@@ -1,20 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Mon Mar 25 00:41:10 UTC 2024
+Tue Mar 26 00:39:36 UTC 2024
 
 <pre>
 
- _______________________________________
-/ As flies to wanton boys are we to the \
-| gods; they kill us for their sport.   |
-|                                       |
-\ -- Shakespeare, "King Lear"           /
- ---------------------------------------
+ ___________________________________
+/ You will gain money by an immoral \
+\ action.                           /
+ -----------------------------------
         \   ^__^
-         \  (~~)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :( ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: -69 '(from -100..100) state: 'very bad' eye: ~~ tongue: :(
+nltk score: 10 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
