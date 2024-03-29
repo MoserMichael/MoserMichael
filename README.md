@@ -1,18 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Thu Mar 28 00:40:08 UTC 2024
+Fri Mar 29 00:39:23 UTC 2024
 
 <pre>
 
- ________________________________________
-/ You own a dog, but you can only feed a \
-\ cat.                                   /
- ----------------------------------------
+ ______________________________________
+/ You have an unusual understanding of \
+\ the problems of human relationships. /
+ --------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (!!)\_______
             (__)\       )\/\
-             -- ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: -40 '(from -100..100) state: 'bad' eye: !! tongue: :(
 
 </pre>
 
@@ -109,8 +109,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 577 </th></tr>
 </table>
 <br>
-old_date:  2024-03-18 00:40:52.883408 now: 2024-03-28 00:40:18.851190
-duckduckbang stars changed from: 37 to: 38
     </pre>
   </td>
 </table>
