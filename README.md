@@ -1,18 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sat Mar 30 00:38:31 UTC 2024
+Sun Mar 31 00:44:00 UTC 2024
 
 <pre>
 
  ______________________________________
-/ You have an unusual equipment for    \
-\ success. Be sure to use it properly. /
+/ A tall, dark stranger will have more \
+\ fun than you.                        /
  --------------------------------------
         \   ^__^
-         \  (OO)\_______
+         \  (oo)\_______
             (__)\       )\/\
              :) ||----w |
                 ||     ||
-nltk score: 72 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: 56 '(from -100..100) state: 'good' eye: oo tongue: :)
 
 </pre>
 
@@ -109,8 +109,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 578 </th></tr>
 </table>
 <br>
-old_date:  2024-03-28 00:40:18.851347 now: 2024-03-30 00:38:42.482237
-pyasmtool stars changed from: 316 to: 317
     </pre>
   </td>
 </table>
