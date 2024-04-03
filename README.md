@@ -1,19 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Tue Apr  2 00:41:18 UTC 2024
+Wed Apr  3 00:39:18 UTC 2024
 
 <pre>
 
- _____________________________________
-/ You never know how many friends you \
-| have until you rent a house on the  |
-\ beach.                              /
- -------------------------------------
+ ________________________________________
+/ You will be married within a year, and \
+\ divorced within two.                   /
+ ----------------------------------------
         \   ^__^
-         \  (oo)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :) ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: 48 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
