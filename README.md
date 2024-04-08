@@ -1,20 +1,43 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sun Apr  7 00:44:09 UTC 2024
+Mon Apr  8 00:41:20 UTC 2024
 
 <pre>
 
- _____________________________________
-/ It's a very *__UN*lucky week in which \
-| to be took dead.                    |
-|                                     |
-\ -- Churchy La Femme                 /
- -------------------------------------
+ _________________________________________
+/ His followers called him Mahasamatman   \
+| and said he was a god. He preferred to  |
+| drop the Maha- and the -atman, however, |
+| and called himself Sam. He never        |
+| claimed to be a god. But then, he never |
+| claimed not to be a god. Circum-        |
+| stances being what they were, neither   |
+| admission could be of any benefit.      |
+| Silence, though, could. It was in the   |
+| days of the rains that their prayers    |
+| went up, not from the fingering of      |
+| knotted prayer cords or the spinning of |
+| prayer wheels, but from the great       |
+| pray-machine in the monastery of Ratri, |
+| goddess of the Night. The               |
+| high-frequency prayers were directed    |
+| upward through the atmosphere and out   |
+| beyond it, passing into that golden     |
+| cloud called the Bridge of the Gods,    |
+| which circles the entire world, is seen |
+| as a bronze rainbow at night and is the |
+| place where the red sun becomes orange  |
+| at midday. Some of the monks doubted    |
+| the orthodoxy of this prayer            |
+| technique...                            |
+|                                         |
+\ -- Roger Zelazny, "Lord of Light"       /
+ -----------------------------------------
         \   ^__^
-         \  (~~)\_______
+         \  (OO)\_______
             (__)\       )\/\
-             :( ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: -65 '(from -100..100) state: 'very bad' eye: ~~ tongue: :(
+nltk score: 90 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
