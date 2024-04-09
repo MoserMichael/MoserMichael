@@ -1,43 +1,22 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Mon Apr  8 00:41:20 UTC 2024
+Tue Apr  9 00:40:23 UTC 2024
 
 <pre>
 
- _________________________________________
-/ His followers called him Mahasamatman   \
-| and said he was a god. He preferred to  |
-| drop the Maha- and the -atman, however, |
-| and called himself Sam. He never        |
-| claimed to be a god. But then, he never |
-| claimed not to be a god. Circum-        |
-| stances being what they were, neither   |
-| admission could be of any benefit.      |
-| Silence, though, could. It was in the   |
-| days of the rains that their prayers    |
-| went up, not from the fingering of      |
-| knotted prayer cords or the spinning of |
-| prayer wheels, but from the great       |
-| pray-machine in the monastery of Ratri, |
-| goddess of the Night. The               |
-| high-frequency prayers were directed    |
-| upward through the atmosphere and out   |
-| beyond it, passing into that golden     |
-| cloud called the Bridge of the Gods,    |
-| which circles the entire world, is seen |
-| as a bronze rainbow at night and is the |
-| place where the red sun becomes orange  |
-| at midday. Some of the monks doubted    |
-| the orthodoxy of this prayer            |
-| technique...                            |
-|                                         |
-\ -- Roger Zelazny, "Lord of Light"       /
- -----------------------------------------
+ ________________________________________
+/ Your manuscript is both good and       \
+| original, but the part that is good is |
+| not original and the part that is      |
+| original is not good.                  |
+|                                        |
+\ -- Samuel Johnson                      /
+ ----------------------------------------
         \   ^__^
          \  (OO)\_______
             (__)\       )\/\
              :) ||----w |
                 ||     ||
-nltk score: 90 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: 95 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
@@ -89,7 +68,7 @@ My stuff here:
         <pre>
 
 <table><tr><th align='left'>Name</th><th align='left'>Stars</th><th align='left'>Language</th><th align='left'>description</th></tr>
-<tr><td><a href="https://github.com/MoserMichael/pyasmtool">pyasmtool</a></td><td>317</td><td>Python</td><td>Explores the python bytecode, provides some tools to access it for fun and profit.</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/pyasmtool">pyasmtool</a></td><td>315</td><td>Python</td><td>Explores the python bytecode, provides some tools to access it for fun and profit.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/python-obj-system">python-obj-system</a></td><td>62</td><td>Python</td><td>Tutorials on advanced python topics, and literate programming framework to write them (see README.md)</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/duckduckbang">duckduckbang</a></td><td>38</td><td>Python</td><td>Meta search page that utilises duckduckgo !bang query operators.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/cppcombinator">cppcombinator</a></td><td>23</td><td>C++</td><td>parser  combinator and AST generator in c++17</td></tr>
@@ -131,9 +110,11 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/vimcrypt">vimcrypt</a></td><td>0</td><td>Vim script</td><td>my vim plugin for encrypting/decryting text files with openssl</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/visual-python-strace">visual-python-strace</a></td><td>0</td><td>Python</td><td>show a very long stack trace with variable values.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/zipit">zipit</a></td><td>0</td><td>C++</td><td>c++ library for the equivalent of python/haskell zip function</td></tr>
-<tr><th>Total stars:</th><th colspan='2' align='left'> 578 </th></tr>
+<tr><th>Total stars:</th><th colspan='2' align='left'> 576 </th></tr>
 </table>
 <br>
+old_date:  2024-03-30 00:38:42.482441 now: 2024-04-09 00:40:34.218431
+pyasmtool stars changed from: 317 to: 315
     </pre>
   </td>
 </table>
