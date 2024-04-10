@@ -1,22 +1,17 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Tue Apr  9 00:40:23 UTC 2024
+Wed Apr 10 00:39:55 UTC 2024
 
 <pre>
 
- ________________________________________
-/ Your manuscript is both good and       \
-| original, but the part that is good is |
-| not original and the part that is      |
-| original is not good.                  |
-|                                        |
-\ -- Samuel Johnson                      /
- ----------------------------------------
+ _________________________
+< You now have Asian Flu. >
+ -------------------------
         \   ^__^
-         \  (OO)\_______
+         \  (!!)\_______
             (__)\       )\/\
-             :) ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 95 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: -38 '(from -100..100) state: 'bad' eye: !! tongue: :(
 
 </pre>
 
@@ -113,8 +108,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 576 </th></tr>
 </table>
 <br>
-old_date:  2024-03-30 00:38:42.482441 now: 2024-04-09 00:40:34.218431
-pyasmtool stars changed from: 317 to: 315
     </pre>
   </td>
 </table>
