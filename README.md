@@ -1,18 +1,17 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Thu Apr 11 00:40:37 UTC 2024
+Fri Apr 12 00:40:41 UTC 2024
 
 <pre>
 
- ______________________________________
-/ Your life would be very empty if you \
-\ had nothing to regret.               /
- --------------------------------------
+ _______________________________________
+< Be careful! UGLY strikes 9 out of 10! >
+ ---------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (~~)\_______
             (__)\       )\/\
-             -- ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 6 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: -70 '(from -100..100) state: 'very bad' eye: ~~ tongue: :(
 
 </pre>
 
@@ -109,8 +108,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 575 </th></tr>
 </table>
 <br>
-old_date:  2024-04-09 00:40:34.218594 now: 2024-04-11 00:40:48.162896
-pyasmtool stars changed from: 315 to: 314
     </pre>
   </td>
 </table>
