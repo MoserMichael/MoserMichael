@@ -1,17 +1,20 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Fri Apr 12 00:40:41 UTC 2024
+Sat Apr 13 00:34:15 UTC 2024
 
 <pre>
 
- _______________________________________
-< Be careful! UGLY strikes 9 out of 10! >
- ---------------------------------------
+ ____________________________________
+/ An honest tale speeds best being   \
+| plainly told.                      |
+|                                    |
+\ -- William Shakespeare, "Henry VI" /
+ ------------------------------------
         \   ^__^
-         \  (~~)\_______
+         \  (OO)\_______
             (__)\       )\/\
-             :( ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: -70 '(from -100..100) state: 'very bad' eye: ~~ tongue: :(
+nltk score: 82 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
