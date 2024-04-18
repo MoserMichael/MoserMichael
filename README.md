@@ -1,17 +1,21 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Wed Apr 17 00:40:58 UTC 2024
+Thu Apr 18 00:39:47 UTC 2024
 
 <pre>
 
- ___________________________
-< You have no real enemies. >
- ---------------------------
+ ________________________________________
+/ What good is an obscenity trial except \
+| to popularize literature?              |
+|                                        |
+| -- Nero Wolfe, "The League of          |
+\ Frightened Men"                        /
+ ----------------------------------------
         \   ^__^
-         \  (~~)\_______
+         \  (OO)\_______
             (__)\       )\/\
-             :( ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: -66 '(from -100..100) state: 'very bad' eye: ~~ tongue: :(
+nltk score: 64 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
@@ -108,8 +112,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 577 </th></tr>
 </table>
 <br>
-old_date:  2024-04-11 00:40:48.163054 now: 2024-04-17 00:41:09.960716
-pyasmtool stars changed from: 314 to: 316
     </pre>
   </td>
 </table>
