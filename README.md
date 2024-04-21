@@ -1,18 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sat Apr 20 00:40:57 UTC 2024
+Sun Apr 21 00:43:50 UTC 2024
 
 <pre>
 
- _______________________________________
-/ You will be aided greatly by a person \
-\ whom you thought to be unimportant.   /
- ---------------------------------------
+ ____________________________________
+/ You have many friends and very few \
+\ living enemies.                    /
+ ------------------------------------
         \   ^__^
-         \  (!!)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :( ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: -32 '(from -100..100) state: 'bad' eye: !! tongue: :(
+nltk score: -9 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
