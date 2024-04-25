@@ -1,17 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Tue Apr 23 00:40:55 UTC 2024
+Thu Apr 25 00:43:22 UTC 2024
 
 <pre>
 
- _________________
-< You love peace. >
- -----------------
+ ______________________________________
+/ You will remember something that you \
+\ should not have forgotten.           /
+ --------------------------------------
         \   ^__^
-         \  (OO)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :) ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: 83 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: 17 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
@@ -108,8 +109,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 579 </th></tr>
 </table>
 <br>
-old_date:  2024-04-17 00:41:09.960889 now: 2024-04-23 00:41:05.948889
-pyasmtool stars changed from: 316 to: 318
     </pre>
   </td>
 </table>
