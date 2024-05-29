@@ -54,6 +54,11 @@ git clone https://github.com/MoserMichael/githubapitools
 
 pushd githubapitools
 ls -al
+
+python -m venv myvenv
+
+source myvenv/bin/activate
+
 pip3 install -r requirements.txt
 if [[ -f ../repo/starcounter.hex ]]; then
     ../repo/hex2bin.py -i ../repo/starcounter.hex -o starcounter.data 
