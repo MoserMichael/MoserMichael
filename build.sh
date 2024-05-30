@@ -55,7 +55,7 @@ git clone https://github.com/MoserMichael/githubapitools
 pushd githubapitools
 ls -al
 
-python -m venv myvenv
+python3 -m venv myvenv
 
 source myvenv/bin/activate
 
