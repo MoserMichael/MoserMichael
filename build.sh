@@ -59,6 +59,8 @@ python3 -m venv myvenv
 
 source myvenv/bin/activate
 
+pip3 install --upgrade setuptools wheel
+
 pip3 install -r requirements.txt
 if [[ -f ../repo/starcounter.hex ]]; then
     ../repo/hex2bin.py -i ../repo/starcounter.hex -o starcounter.data 
