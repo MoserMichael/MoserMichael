@@ -59,6 +59,8 @@ python3 -m venv myvenv
 
 source myvenv/bin/activate
 
+apt install libffi-dev
+
 pip3 install --upgrade setuptools wheel
 
 pip3 install -r requirements.txt
