@@ -1,14 +1,11 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Fri Jun  7 13:18:26 UTC 2024
+Sat Jun  8 00:43:48 UTC 2024
 
 <pre>
 
- _______________________________________
-/ I dote on his very absence.           \
-|                                       |
-| -- William Shakespeare, "The Merchant |
-\ of Venice"                            /
- ---------------------------------------
+ _________________________________________
+< Day of inquiry. You will be subpoenaed. >
+ -----------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
@@ -111,12 +108,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 584 </th></tr>
 </table>
 <br>
-old_date:  2024-04-23 00:41:05.949053 now: 2024-06-07 13:18:42.100080
-pyasmtool stars changed from: 318 to: 319
-duckduckbang stars changed from: 38 to: 39
-cppcombinator stars changed from: 23 to: 24
-s9k stars changed from: 17 to: 18
-gitblame stars changed from: 1 to: 2
     </pre>
   </td>
 </table>
