@@ -1,12 +1,11 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Fri Jun 14 00:44:31 UTC 2024
+Sat Jun 15 00:43:35 UTC 2024
 
 <pre>
 
- _______________________________________
-/ Today is the last day of your life so \
-\ far.                                  /
- ---------------------------------------
+ _______________________________
+< Keep it short for pithy sake. >
+ -------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
