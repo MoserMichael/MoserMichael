@@ -1,18 +1,19 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sun Jun 23 00:47:49 UTC 2024
+Mon Jun 24 00:45:42 UTC 2024
 
 <pre>
 
- _________________________________________
-/ Give your very best today. Heaven knows \
-\ it's little enough.                     /
- -----------------------------------------
+ _______________________________________
+/ You should emulate your heros, but    \
+| don't carry it too far. Especially if |
+\ they are dead.                        /
+ ---------------------------------------
         \   ^__^
-         \  (OO)\_______
+         \  (~~)\_______
             (__)\       )\/\
-             :) ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 84 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: -74 '(from -100..100) state: 'very bad' eye: ~~ tongue: :(
 
 </pre>
 
