@@ -1,23 +1,26 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Tue Jun 25 00:44:01 UTC 2024
+Wed Jun 26 00:43:52 UTC 2024
 
 <pre>
 
  _________________________________________
-/ All I know is what the words know, and  \
-| dead things, and that makes a handsome  |
-| little sum, with a beginning and a      |
-| middle and an end, as in the well-built |
-| phrase and the long sonata of the dead. |
+/ We should be careful to get out of an   \
+| experience only the wisdom that is in   |
+| it - and stay there, lest we be like    |
+| the cat that sits down on a hot         |
+| stove-lid. She will never sit down on a |
+| hot stove-lid again - and that is well; |
+| but also she will never sit down on a   |
+| cold one any more.                      |
 |                                         |
-\ -- Samuel Beckett                       /
+\ -- Mark Twain                           /
  -----------------------------------------
         \   ^__^
-         \  (~~)\_______
+         \  (oo)\_______
             (__)\       )\/\
-             :( ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: -75 '(from -100..100) state: 'very bad' eye: ~~ tongue: :(
+nltk score: 59 '(from -100..100) state: 'good' eye: oo tongue: :)
 
 </pre>
 
