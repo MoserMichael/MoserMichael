@@ -1,26 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Wed Jun 26 00:43:52 UTC 2024
+Thu Jun 27 00:44:32 UTC 2024
 
 <pre>
 
- _________________________________________
-/ We should be careful to get out of an   \
-| experience only the wisdom that is in   |
-| it - and stay there, lest we be like    |
-| the cat that sits down on a hot         |
-| stove-lid. She will never sit down on a |
-| hot stove-lid again - and that is well; |
-| but also she will never sit down on a   |
-| cold one any more.                      |
-|                                         |
-\ -- Mark Twain                           /
- -----------------------------------------
+ _____________________________________
+/ Don't relax! It's only your tension \
+\ that's holding you together.        /
+ -------------------------------------
         \   ^__^
-         \  (oo)\_______
+         \  (~~)\_______
             (__)\       )\/\
-             :) ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 59 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: -61 '(from -100..100) state: 'very bad' eye: ~~ tongue: :(
 
 </pre>
 
