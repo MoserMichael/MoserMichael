@@ -1,20 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Wed Jul  3 00:44:34 UTC 2024
+Thu Jul  4 00:44:51 UTC 2024
 
 <pre>
 
- ____________________________________
-/ He is now rising from affluence to \
-| poverty.                           |
-|                                    |
-\ -- Mark Twain                      /
- ------------------------------------
+ _______________________________________
+/ You feel a whole lot more like you do \
+\ now than you did when you used to.    /
+ ---------------------------------------
         \   ^__^
-         \  (!!)\_______
+         \  (oo)\_______
             (__)\       )\/\
-             :( ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: -51 '(from -100..100) state: 'bad' eye: !! tongue: :(
+nltk score: 42 '(from -100..100) state: 'good' eye: oo tongue: :)
 
 </pre>
 
@@ -111,8 +109,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 585 </th></tr>
 </table>
 <br>
-old_date:  2024-06-07 13:18:42.100218 now: 2024-07-03 00:44:50.693937
-pyasmtool stars changed from: 319 to: 320
     </pre>
   </td>
 </table>
