@@ -1,17 +1,19 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sun Jul  7 00:50:14 UTC 2024
+Mon Jul  8 00:46:49 UTC 2024
 
 <pre>
 
- ______________________________
-< You are standing on my toes. >
- ------------------------------
+ ______________________________________
+/ You're definitely on their list. The \
+| question to ask next is what list it |
+\ is.                                  /
+ --------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (oo)\_______
             (__)\       )\/\
-             -- ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 40 '(from -100..100) state: 'good' eye: oo tongue: :)
 
 </pre>
 
@@ -108,8 +110,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 586 </th></tr>
 </table>
 <br>
-old_date:  2024-07-03 00:44:50.694073 now: 2024-07-07 00:50:29.777348
-python-obj-system stars changed from: 62 to: 63
     </pre>
   </td>
 </table>
