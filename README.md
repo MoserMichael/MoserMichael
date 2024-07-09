@@ -1,19 +1,22 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Mon Jul  8 00:46:49 UTC 2024
+Tue Jul  9 00:45:04 UTC 2024
 
 <pre>
 
- ______________________________________
-/ You're definitely on their list. The \
-| question to ask next is what list it |
-\ is.                                  /
- --------------------------------------
+ _________________________________________
+/ There is no hunting like the hunting of \
+| man, and those who have hunted armed    |
+| men long enough and liked it, never     |
+| care for anything else thereafter.      |
+|                                         |
+\ -- Ernest Hemingway                     /
+ -----------------------------------------
         \   ^__^
-         \  (oo)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :) ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: 40 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: 12 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
