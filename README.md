@@ -1,22 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Tue Jul  9 00:45:04 UTC 2024
+Wed Jul 10 00:46:00 UTC 2024
 
 <pre>
 
- _________________________________________
-/ There is no hunting like the hunting of \
-| man, and those who have hunted armed    |
-| men long enough and liked it, never     |
-| care for anything else thereafter.      |
-|                                         |
-\ -- Ernest Hemingway                     /
- -----------------------------------------
+ _____________________________________
+/ Beware of a tall black man with one \
+\ blond shoe.                         /
+ -------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
              -- ||----w |
                 ||     ||
-nltk score: 12 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
