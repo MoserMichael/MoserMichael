@@ -1,18 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Wed Jul 10 00:46:00 UTC 2024
+Thu Jul 11 00:45:57 UTC 2024
 
 <pre>
 
- _____________________________________
-/ Beware of a tall black man with one \
-\ blond shoe.                         /
- -------------------------------------
+ _______________________________________
+/ You get along very well with everyone \
+\ except animals and people.            /
+ ---------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (oo)\_______
             (__)\       )\/\
-             -- ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 34 '(from -100..100) state: 'good' eye: oo tongue: :)
 
 </pre>
 
