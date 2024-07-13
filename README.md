@@ -1,18 +1,19 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Fri Jul 12 00:44:50 UTC 2024
+Sat Jul 13 00:45:49 UTC 2024
 
 <pre>
 
- ________________________________________
-/ Q: Why was Stonehenge abandoned? A: It \
-\ wasn't IBM compatible.                 /
- ----------------------------------------
+ _________________________________________
+/ How apt the poor are to be proud.       \
+|                                         |
+\ -- William Shakespeare, "Twelfth-Night" /
+ -----------------------------------------
         \   ^__^
-         \  (!!)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :( ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: -46 '(from -100..100) state: 'bad' eye: !! tongue: :(
+nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
@@ -109,8 +110,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 587 </th></tr>
 </table>
 <br>
-old_date:  2024-07-07 00:50:29.777484 now: 2024-07-12 00:45:05.193533
-pythoncourse stars changed from: 2 to: 3
     </pre>
   </td>
 </table>
