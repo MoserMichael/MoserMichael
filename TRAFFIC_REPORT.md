@@ -13,11 +13,10 @@ Views:
 	 2024-07-08 00:00:00+00:00 total: 66 unique: 2
 	 2024-07-12 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
-		Count: 80 Unique: 3 Url: Google
+		Count: 81 Unique: 4 Url: Google
 
-repo: pyasmtool views: total: 62 unique:  17
+repo: pyasmtool views: total: 60 unique:  16
 Views:
-	 2024-06-29 00:00:00+00:00 total: 2 unique: 1
 	 2024-06-30 00:00:00+00:00 total: 7 unique: 1
 	 2024-07-01 00:00:00+00:00 total: 2 unique: 1
 	 2024-07-02 00:00:00+00:00 total: 6 unique: 2
@@ -29,9 +28,9 @@ Views:
 	 2024-07-10 00:00:00+00:00 total: 9 unique: 4
 	 2024-07-12 00:00:00+00:00 total: 4 unique: 1
 	Referrers:
-		Count: 17 Unique: 3 Url: news.ycombinator.com
-		Count: 9 Unique: 3 Url: github.com
+		Count: 21 Unique: 4 Url: news.ycombinator.com
 		Count: 6 Unique: 2 Url: Google
+		Count: 4 Unique: 2 Url: github.com
 		Count: 2 Unique: 1 Url: linkedin.com
 		Count: 2 Unique: 1 Url: keep.google.com
 
@@ -55,7 +54,7 @@ Views:
 	 2024-07-08 00:00:00+00:00 total: 1 unique: 1
 	 2024-07-09 00:00:00+00:00 total: 2 unique: 1
 	Referrers:
-		Count: 13 Unique: 6 Url: github.com
+		Count: 11 Unique: 5 Url: github.com
 		Count: 8 Unique: 3 Url: news.ycombinator.com
 		Count: 4 Unique: 1 Url: gist.github.com
 		Count: 2 Unique: 1 Url: Google
@@ -90,19 +89,12 @@ Views:
 repo: jobinterviewhomework views: total: 12 unique:  1
 Views:
 	 2024-06-30 00:00:00+00:00 total: 12 unique: 1
-	Referrers:
-		Count: 12 Unique: 1 Url: github.com
 
-repo: my-notes views: total: 8 unique:  3
-Views:
-	 2024-06-29 00:00:00+00:00 total: 3 unique: 1
-	 2024-07-02 00:00:00+00:00 total: 3 unique: 1
-	 2024-07-12 00:00:00+00:00 total: 2 unique: 1
-
-repo: duckduckbang views: total: 7 unique:  2
+repo: duckduckbang views: total: 10 unique:  3
 Views:
 	 2024-06-30 00:00:00+00:00 total: 6 unique: 1
 	 2024-07-12 00:00:00+00:00 total: 1 unique: 1
+	 2024-07-13 00:00:00+00:00 total: 3 unique: 1
 
 repo: MoserMichael views: total: 6 unique:  2
 Views:
@@ -114,6 +106,11 @@ Views:
 	 2024-07-01 00:00:00+00:00 total: 6 unique: 1
 	Referrers:
 		Count: 6 Unique: 1 Url: Google
+
+repo: my-notes views: total: 5 unique:  2
+Views:
+	 2024-07-02 00:00:00+00:00 total: 3 unique: 1
+	 2024-07-12 00:00:00+00:00 total: 2 unique: 1
 
 repo: dockerdashphp views: total: 4 unique:  3
 Views:
@@ -208,10 +205,6 @@ Views:
 	Referrers:
 		Count: 1 Unique: 1 Url: Google
 
-repo: docker-force-attach views: total: 1 unique:  1
-Views:
-	 2024-06-29 00:00:00+00:00 total: 1 unique: 1
-
 repo: gitblame views: total: 1 unique:  1
 Views:
 	 2024-07-01 00:00:00+00:00 total: 1 unique: 1
@@ -219,8 +212,6 @@ Views:
 repo: jscriptparse views: total: 1 unique:  1
 Views:
 	 2024-06-30 00:00:00+00:00 total: 1 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: github.com
 
 repo: k8explain views: total: 1 unique:  1
 Views:
@@ -231,8 +222,6 @@ Views:
 repo: pythonimportplayground views: total: 1 unique:  1
 Views:
 	 2024-06-30 00:00:00+00:00 total: 1 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: Google
 
 repo: rzgrep views: total: 1 unique:  1
 Views:
@@ -252,6 +241,8 @@ Views:
 
 repo: devgoodies views: total: 0 unique:  0
 
+repo: docker-force-attach views: total: 0 unique:  0
+
 repo: githubapitools views: total: 0 unique:  0
 
 repo: gittools views: total: 0 unique:  0
@@ -268,4 +259,4 @@ repo: teach-your-children-well views: total: 0 unique:  0
 
 
 ***
-Total views: 345
+Total views: 342
