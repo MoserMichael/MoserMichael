@@ -1,18 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Tue Jul 16 00:46:23 UTC 2024
+Wed Jul 17 00:46:25 UTC 2024
 
 <pre>
 
- _____________________________________
-/ You're a card which will have to be \
-\ dealt with.                         /
- -------------------------------------
+ _______________________________________
+/ You seek to shield those you love and \
+\ you like the role of the provider.    /
+ ---------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (OO)\_______
             (__)\       )\/\
-             -- ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 77 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
