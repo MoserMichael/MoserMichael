@@ -13,7 +13,7 @@ Views:
 	 2024-07-08 00:00:00+00:00 total: 66 unique: 2
 	 2024-07-12 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
-		Count: 81 Unique: 4 Url: Google
+		Count: 67 Unique: 3 Url: Google
 
 repo: cstuff views: total: 75 unique:  5
 Views:
@@ -23,9 +23,8 @@ Views:
 	Referrers:
 		Count: 2 Unique: 1 Url: Google
 
-repo: pyasmtool views: total: 49 unique:  14
+repo: pyasmtool views: total: 46 unique:  13
 Views:
-	 2024-07-03 00:00:00+00:00 total: 5 unique: 3
 	 2024-07-04 00:00:00+00:00 total: 5 unique: 1
 	 2024-07-05 00:00:00+00:00 total: 6 unique: 1
 	 2024-07-08 00:00:00+00:00 total: 2 unique: 1
@@ -34,9 +33,10 @@ Views:
 	 2024-07-12 00:00:00+00:00 total: 4 unique: 1
 	 2024-07-14 00:00:00+00:00 total: 2 unique: 1
 	 2024-07-15 00:00:00+00:00 total: 2 unique: 1
+	 2024-07-17 00:00:00+00:00 total: 2 unique: 1
 	Referrers:
 		Count: 20 Unique: 4 Url: news.ycombinator.com
-		Count: 6 Unique: 2 Url: Google
+		Count: 4 Unique: 1 Url: Google
 		Count: 3 Unique: 1 Url: github.com
 		Count: 2 Unique: 1 Url: linkedin.com
 		Count: 2 Unique: 1 Url: keep.google.com
@@ -46,7 +46,7 @@ Views:
 	 2024-07-05 00:00:00+00:00 total: 14 unique: 1
 	 2024-07-16 00:00:00+00:00 total: 23 unique: 1
 	Referrers:
-		Count: 14 Unique: 1 Url: github.com
+		Count: 37 Unique: 2 Url: github.com
 
 repo: roget-thesaurus-parser views: total: 37 unique:  4
 Views:
@@ -57,7 +57,7 @@ Views:
 		Count: 12 Unique: 3 Url: Google
 		Count: 2 Unique: 1 Url: pypi.org
 
-repo: python-obj-system views: total: 32 unique:  9
+repo: python-obj-system views: total: 34 unique:  11
 Views:
 	 2024-07-04 00:00:00+00:00 total: 6 unique: 2
 	 2024-07-05 00:00:00+00:00 total: 5 unique: 1
@@ -65,22 +65,33 @@ Views:
 	 2024-07-08 00:00:00+00:00 total: 1 unique: 1
 	 2024-07-09 00:00:00+00:00 total: 2 unique: 1
 	 2024-07-16 00:00:00+00:00 total: 13 unique: 2
+	 2024-07-17 00:00:00+00:00 total: 2 unique: 2
 	Referrers:
-		Count: 8 Unique: 3 Url: github.com
+		Count: 14 Unique: 3 Url: github.com
 		Count: 6 Unique: 2 Url: news.ycombinator.com
-		Count: 4 Unique: 1 Url: gist.github.com
 
-repo: s9k views: total: 17 unique:  13
+repo: kind-helper views: total: 19 unique:  5
 Views:
-	 2024-07-03 00:00:00+00:00 total: 2 unique: 2
+	 2024-07-05 00:00:00+00:00 total: 1 unique: 1
+	 2024-07-06 00:00:00+00:00 total: 1 unique: 1
+	 2024-07-08 00:00:00+00:00 total: 1 unique: 1
+	 2024-07-15 00:00:00+00:00 total: 1 unique: 1
+	 2024-07-17 00:00:00+00:00 total: 15 unique: 1
+	Referrers:
+		Count: 1 Unique: 1 Url: Google
+		Count: 1 Unique: 1 Url: github.com
+
+repo: s9k views: total: 16 unique:  12
+Views:
 	 2024-07-04 00:00:00+00:00 total: 4 unique: 2
 	 2024-07-09 00:00:00+00:00 total: 4 unique: 3
 	 2024-07-10 00:00:00+00:00 total: 3 unique: 3
 	 2024-07-14 00:00:00+00:00 total: 3 unique: 2
 	 2024-07-16 00:00:00+00:00 total: 1 unique: 1
+	 2024-07-17 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
-		Count: 9 Unique: 7 Url: Google
-		Count: 3 Unique: 2 Url: github.com
+		Count: 7 Unique: 7 Url: Google
+		Count: 2 Unique: 1 Url: github.com
 		Count: 1 Unique: 1 Url: youtube.com
 		Count: 1 Unique: 1 Url: news.ycombinator.com
 
@@ -90,7 +101,6 @@ Views:
 	 2024-07-07 00:00:00+00:00 total: 5 unique: 1
 	 2024-07-12 00:00:00+00:00 total: 2 unique: 1
 	Referrers:
-		Count: 7 Unique: 1 Url: mosermichael.github.io
 		Count: 2 Unique: 1 Url: github.com
 
 repo: my-notes views: total: 12 unique:  4
@@ -105,16 +115,6 @@ repo: duckduckbang views: total: 4 unique:  2
 Views:
 	 2024-07-12 00:00:00+00:00 total: 1 unique: 1
 	 2024-07-13 00:00:00+00:00 total: 3 unique: 1
-
-repo: kind-helper views: total: 4 unique:  4
-Views:
-	 2024-07-05 00:00:00+00:00 total: 1 unique: 1
-	 2024-07-06 00:00:00+00:00 total: 1 unique: 1
-	 2024-07-08 00:00:00+00:00 total: 1 unique: 1
-	 2024-07-15 00:00:00+00:00 total: 1 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: Google
-		Count: 1 Unique: 1 Url: github.com
 
 repo: myenv views: total: 4 unique:  2
 Views:
@@ -145,11 +145,11 @@ Views:
 		Count: 2 Unique: 1 Url: github.com
 		Count: 1 Unique: 1 Url: Google
 
-repo: follow-kube-logs views: total: 3 unique:  3
+repo: zipit views: total: 3 unique:  3
 Views:
-	 2024-07-03 00:00:00+00:00 total: 1 unique: 1
+	 2024-07-04 00:00:00+00:00 total: 1 unique: 1
 	 2024-07-05 00:00:00+00:00 total: 1 unique: 1
-	 2024-07-16 00:00:00+00:00 total: 1 unique: 1
+	 2024-07-17 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
 		Count: 1 Unique: 1 Url: Google
 
@@ -157,9 +157,12 @@ repo: download-artifacts views: total: 2 unique:  1
 Views:
 	 2024-07-12 00:00:00+00:00 total: 2 unique: 1
 
-repo: github_pr_comments views: total: 2 unique:  1
+repo: follow-kube-logs views: total: 2 unique:  2
 Views:
-	 2024-07-03 00:00:00+00:00 total: 2 unique: 1
+	 2024-07-05 00:00:00+00:00 total: 1 unique: 1
+	 2024-07-16 00:00:00+00:00 total: 1 unique: 1
+	Referrers:
+		Count: 2 Unique: 2 Url: Google
 
 repo: kwchecker views: total: 2 unique:  2
 Views:
@@ -177,6 +180,7 @@ Views:
 	 2024-07-16 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
 		Count: 1 Unique: 1 Url: Google
+		Count: 1 Unique: 1 Url: github.com
 
 repo: vimcrypt views: total: 2 unique:  2
 Views:
@@ -190,22 +194,15 @@ Views:
 	 2024-07-09 00:00:00+00:00 total: 1 unique: 1
 	 2024-07-16 00:00:00+00:00 total: 1 unique: 1
 
-repo: zipit views: total: 2 unique:  2
-Views:
-	 2024-07-04 00:00:00+00:00 total: 1 unique: 1
-	 2024-07-05 00:00:00+00:00 total: 1 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: Google
-
 repo: flagged-hn views: total: 1 unique:  1
 Views:
 	 2024-07-08 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
 		Count: 1 Unique: 1 Url: news.ycombinator.com
 
-repo: k8explain views: total: 1 unique:  1
+repo: ls-annotations views: total: 1 unique:  1
 Views:
-	 2024-07-03 00:00:00+00:00 total: 1 unique: 1
+	 2024-07-17 00:00:00+00:00 total: 1 unique: 1
 
 repo: devgoodies views: total: 0 unique:  0
 
@@ -215,13 +212,15 @@ repo: gitblame views: total: 0 unique:  0
 
 repo: githubapitools views: total: 0 unique:  0
 
+repo: github_pr_comments views: total: 0 unique:  0
+
 repo: gittools views: total: 0 unique:  0
 
 repo: jobinterviewhomework views: total: 0 unique:  0
 
 repo: jscriptparse views: total: 0 unique:  0
 
-repo: ls-annotations views: total: 0 unique:  0
+repo: k8explain views: total: 0 unique:  0
 
 repo: MoserMichael views: total: 0 unique:  0
 
@@ -241,4 +240,4 @@ repo: vimcrypt2 views: total: 0 unique:  0
 
 
 ***
-Total views: 407
+Total views: 418
