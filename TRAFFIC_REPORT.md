@@ -22,9 +22,17 @@ Views:
 	Referrers:
 		Count: 67 Unique: 3 Url: Google
 
-repo: pyasmtool views: total: 41 unique:  12
+repo: roget-thesaurus-parser views: total: 37 unique:  4
 Views:
-	 2024-07-05 00:00:00+00:00 total: 6 unique: 1
+	 2024-07-06 00:00:00+00:00 total: 10 unique: 2
+	 2024-07-07 00:00:00+00:00 total: 25 unique: 2
+	 2024-07-08 00:00:00+00:00 total: 2 unique: 1
+	Referrers:
+		Count: 4 Unique: 2 Url: Google
+		Count: 2 Unique: 1 Url: pypi.org
+
+repo: pyasmtool views: total: 36 unique:  12
+Views:
 	 2024-07-08 00:00:00+00:00 total: 2 unique: 1
 	 2024-07-09 00:00:00+00:00 total: 14 unique: 2
 	 2024-07-10 00:00:00+00:00 total: 9 unique: 4
@@ -32,23 +40,14 @@ Views:
 	 2024-07-14 00:00:00+00:00 total: 2 unique: 1
 	 2024-07-15 00:00:00+00:00 total: 2 unique: 1
 	 2024-07-17 00:00:00+00:00 total: 2 unique: 1
+	 2024-07-19 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
 		Count: 22 Unique: 5 Url: news.ycombinator.com
 		Count: 3 Unique: 1 Url: github.com
 		Count: 2 Unique: 1 Url: keep.google.com
 
-repo: roget-thesaurus-parser views: total: 37 unique:  4
+repo: python-obj-system views: total: 25 unique:  9
 Views:
-	 2024-07-06 00:00:00+00:00 total: 10 unique: 2
-	 2024-07-07 00:00:00+00:00 total: 25 unique: 2
-	 2024-07-08 00:00:00+00:00 total: 2 unique: 1
-	Referrers:
-		Count: 12 Unique: 3 Url: Google
-		Count: 2 Unique: 1 Url: pypi.org
-
-repo: python-obj-system views: total: 30 unique:  10
-Views:
-	 2024-07-05 00:00:00+00:00 total: 5 unique: 1
 	 2024-07-06 00:00:00+00:00 total: 5 unique: 2
 	 2024-07-08 00:00:00+00:00 total: 1 unique: 1
 	 2024-07-09 00:00:00+00:00 total: 2 unique: 1
@@ -56,9 +55,9 @@ Views:
 	 2024-07-17 00:00:00+00:00 total: 2 unique: 2
 	 2024-07-18 00:00:00+00:00 total: 2 unique: 1
 	Referrers:
-		Count: 9 Unique: 2 Url: github.com
-		Count: 6 Unique: 2 Url: news.ycombinator.com
+		Count: 8 Unique: 1 Url: github.com
 		Count: 2 Unique: 1 Url: gist.github.com
+		Count: 2 Unique: 1 Url: news.ycombinator.com
 
 repo: grpc-spring-boot-starter-utils views: total: 23 unique:  1
 Views:
@@ -76,12 +75,13 @@ Views:
 		Count: 15 Unique: 1 Url: github.com
 		Count: 1 Unique: 1 Url: Google
 
-repo: my-notes views: total: 14 unique:  5
+repo: my-notes views: total: 16 unique:  6
 Views:
 	 2024-07-12 00:00:00+00:00 total: 2 unique: 1
 	 2024-07-15 00:00:00+00:00 total: 7 unique: 2
 	 2024-07-16 00:00:00+00:00 total: 3 unique: 1
 	 2024-07-18 00:00:00+00:00 total: 2 unique: 1
+	 2024-07-19 00:00:00+00:00 total: 2 unique: 1
 	Referrers:
 		Count: 2 Unique: 1 Url: Google
 
@@ -94,7 +94,7 @@ Views:
 	 2024-07-17 00:00:00+00:00 total: 1 unique: 1
 	 2024-07-18 00:00:00+00:00 total: 2 unique: 2
 	Referrers:
-		Count: 8 Unique: 8 Url: Google
+		Count: 10 Unique: 10 Url: Google
 		Count: 2 Unique: 1 Url: github.com
 		Count: 1 Unique: 1 Url: youtube.com
 		Count: 1 Unique: 1 Url: news.ycombinator.com
@@ -141,23 +141,23 @@ Views:
 		Count: 2 Unique: 1 Url: github.com
 		Count: 1 Unique: 1 Url: Google
 
-repo: follow-kube-logs views: total: 3 unique:  3
+repo: kwchecker views: total: 3 unique:  3
 Views:
-	 2024-07-05 00:00:00+00:00 total: 1 unique: 1
-	 2024-07-16 00:00:00+00:00 total: 1 unique: 1
-	 2024-07-18 00:00:00+00:00 total: 1 unique: 1
+	 2024-07-11 00:00:00+00:00 total: 2 unique: 2
+	 2024-07-19 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
-		Count: 1 Unique: 1 Url: Google
+		Count: 2 Unique: 2 Url: Google
 
 repo: download-artifacts views: total: 2 unique:  1
 Views:
 	 2024-07-12 00:00:00+00:00 total: 2 unique: 1
 
-repo: kwchecker views: total: 2 unique:  2
+repo: follow-kube-logs views: total: 2 unique:  2
 Views:
-	 2024-07-11 00:00:00+00:00 total: 2 unique: 2
+	 2024-07-16 00:00:00+00:00 total: 1 unique: 1
+	 2024-07-18 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
-		Count: 2 Unique: 2 Url: Google
+		Count: 1 Unique: 1 Url: Google
 
 repo: pprintex views: total: 2 unique:  2
 Views:
@@ -241,4 +241,4 @@ repo: vimcrypt2 views: total: 0 unique:  0
 
 
 ***
-Total views: 364
+Total views: 356
