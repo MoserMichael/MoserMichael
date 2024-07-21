@@ -1,26 +1,20 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sat Jul 20 00:44:36 UTC 2024
+Sun Jul 21 00:50:59 UTC 2024
 
 <pre>
 
- _________________________________________
-/ "I wonder", he said to himself, "what's \
-| in a book while it's closed. Oh, I know |
-| it's full of letters printed on paper,  |
-| but all the same, something must be     |
-| happening, because as soon as I open    |
-| it, there's a whole story with people I |
-| don't know yet and all kinds of         |
-| adventures and battles."                |
-|                                         |
-\ -- Bastian B. Bux                       /
- -----------------------------------------
+ ____________________________________
+/ Tempt not a desperate man.         \
+|                                    |
+| -- William Shakespeare, "Romeo and |
+\ Juliet"                            /
+ ------------------------------------
         \   ^__^
-         \  (oo)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :) ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: 48 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: 24 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
