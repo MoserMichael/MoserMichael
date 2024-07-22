@@ -1,20 +1,19 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sun Jul 21 00:50:59 UTC 2024
+Mon Jul 22 00:48:10 UTC 2024
 
 <pre>
 
- ____________________________________
-/ Tempt not a desperate man.         \
-|                                    |
-| -- William Shakespeare, "Romeo and |
-\ Juliet"                            /
- ------------------------------------
+ _______________________________________
+/ You are destined to become the        \
+| commandant of the fighting men of the |
+\ department of transportation.         /
+ ---------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (!!)\_______
             (__)\       )\/\
-             -- ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 24 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: -36 '(from -100..100) state: 'bad' eye: !! tongue: :(
 
 </pre>
 
