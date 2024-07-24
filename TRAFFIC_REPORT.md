@@ -13,37 +13,36 @@ Views:
 	 2024-07-16 00:00:00+00:00 total: 72 unique: 3
 	 2024-07-22 00:00:00+00:00 total: 5 unique: 2
 	Referrers:
-		Count: 2 Unique: 1 Url: Google
+		Count: 4 Unique: 2 Url: mosermichael.github.io
 
-repo: pyasmtool views: total: 34 unique:  11
+repo: python-obj-system views: total: 77 unique:  44
 Views:
-	 2024-07-09 00:00:00+00:00 total: 14 unique: 2
+	 2024-07-16 00:00:00+00:00 total: 13 unique: 2
+	 2024-07-17 00:00:00+00:00 total: 2 unique: 2
+	 2024-07-18 00:00:00+00:00 total: 2 unique: 1
+	 2024-07-23 00:00:00+00:00 total: 60 unique: 39
+	Referrers:
+		Count: 8 Unique: 1 Url: github.com
+		Count: 2 Unique: 1 Url: gist.github.com
+
+repo: pyasmtool views: total: 25 unique:  11
+Views:
 	 2024-07-10 00:00:00+00:00 total: 9 unique: 4
 	 2024-07-12 00:00:00+00:00 total: 4 unique: 1
 	 2024-07-14 00:00:00+00:00 total: 2 unique: 1
 	 2024-07-15 00:00:00+00:00 total: 2 unique: 1
 	 2024-07-17 00:00:00+00:00 total: 2 unique: 1
 	 2024-07-19 00:00:00+00:00 total: 1 unique: 1
+	 2024-07-23 00:00:00+00:00 total: 5 unique: 2
 	Referrers:
-		Count: 10 Unique: 4 Url: news.ycombinator.com
-		Count: 4 Unique: 2 Url: github.com
-		Count: 2 Unique: 1 Url: keep.google.com
+		Count: 8 Unique: 3 Url: news.ycombinator.com
+		Count: 1 Unique: 1 Url: github.com
 
 repo: grpc-spring-boot-starter-utils views: total: 23 unique:  1
 Views:
 	 2024-07-16 00:00:00+00:00 total: 23 unique: 1
 	Referrers:
 		Count: 23 Unique: 1 Url: github.com
-
-repo: python-obj-system views: total: 19 unique:  6
-Views:
-	 2024-07-09 00:00:00+00:00 total: 2 unique: 1
-	 2024-07-16 00:00:00+00:00 total: 13 unique: 2
-	 2024-07-17 00:00:00+00:00 total: 2 unique: 2
-	 2024-07-18 00:00:00+00:00 total: 2 unique: 1
-	Referrers:
-		Count: 8 Unique: 1 Url: github.com
-		Count: 2 Unique: 1 Url: gist.github.com
 
 repo: my-notes views: total: 18 unique:  7
 Views:
@@ -69,11 +68,10 @@ Views:
 	 2024-07-20 00:00:00+00:00 total: 1 unique: 1
 	 2024-07-22 00:00:00+00:00 total: 13 unique: 1
 	Referrers:
-		Count: 1 Unique: 1 Url: Google
+		Count: 14 Unique: 2 Url: Google
 
-repo: s9k views: total: 15 unique:  13
+repo: s9k views: total: 11 unique:  10
 Views:
-	 2024-07-09 00:00:00+00:00 total: 4 unique: 3
 	 2024-07-10 00:00:00+00:00 total: 3 unique: 3
 	 2024-07-14 00:00:00+00:00 total: 3 unique: 2
 	 2024-07-16 00:00:00+00:00 total: 1 unique: 1
@@ -81,7 +79,7 @@ Views:
 	 2024-07-18 00:00:00+00:00 total: 2 unique: 2
 	 2024-07-22 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
-		Count: 7 Unique: 7 Url: Google
+		Count: 5 Unique: 5 Url: Google
 		Count: 2 Unique: 1 Url: github.com
 		Count: 1 Unique: 1 Url: news.ycombinator.com
 
@@ -91,14 +89,6 @@ Views:
 	 2024-07-13 00:00:00+00:00 total: 3 unique: 1
 	 2024-07-21 00:00:00+00:00 total: 1 unique: 1
 
-repo: myenv views: total: 5 unique:  3
-Views:
-	 2024-07-09 00:00:00+00:00 total: 1 unique: 1
-	 2024-07-11 00:00:00+00:00 total: 3 unique: 1
-	 2024-07-22 00:00:00+00:00 total: 1 unique: 1
-	Referrers:
-		Count: 3 Unique: 1 Url: github.com
-
 repo: cppcombinator views: total: 4 unique:  4
 Views:
 	 2024-07-14 00:00:00+00:00 total: 1 unique: 1
@@ -107,6 +97,13 @@ Views:
 	 2024-07-18 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
 		Count: 2 Unique: 2 Url: github.com
+
+repo: myenv views: total: 4 unique:  2
+Views:
+	 2024-07-11 00:00:00+00:00 total: 3 unique: 1
+	 2024-07-22 00:00:00+00:00 total: 1 unique: 1
+	Referrers:
+		Count: 3 Unique: 1 Url: github.com
 
 repo: pythoncourse views: total: 4 unique:  1
 Views:
@@ -121,11 +118,16 @@ Views:
 	Referrers:
 		Count: 3 Unique: 3 Url: Google
 
-repo: visual-python-strace views: total: 3 unique:  3
+repo: pprintex views: total: 3 unique:  3
 Views:
-	 2024-07-09 00:00:00+00:00 total: 1 unique: 1
-	 2024-07-16 00:00:00+00:00 total: 1 unique: 1
-	 2024-07-20 00:00:00+00:00 total: 1 unique: 1
+	 2024-07-11 00:00:00+00:00 total: 2 unique: 2
+	 2024-07-23 00:00:00+00:00 total: 1 unique: 1
+
+repo: vimcrypt views: total: 3 unique:  3
+Views:
+	 2024-07-10 00:00:00+00:00 total: 1 unique: 1
+	 2024-07-11 00:00:00+00:00 total: 1 unique: 1
+	 2024-07-23 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
 		Count: 1 Unique: 1 Url: Google
 
@@ -144,23 +146,19 @@ repo: jq-illustrated views: total: 2 unique:  1
 Views:
 	 2024-07-12 00:00:00+00:00 total: 2 unique: 1
 
-repo: pprintex views: total: 2 unique:  2
+repo: pythonimportplayground views: total: 2 unique:  2
 Views:
-	 2024-07-11 00:00:00+00:00 total: 2 unique: 2
+	 2024-07-18 00:00:00+00:00 total: 1 unique: 1
+	 2024-07-23 00:00:00+00:00 total: 1 unique: 1
+	Referrers:
+		Count: 1 Unique: 1 Url: Google
 
-repo: rzgrep views: total: 2 unique:  2
+repo: visual-python-strace views: total: 2 unique:  2
 Views:
-	 2024-07-09 00:00:00+00:00 total: 1 unique: 1
 	 2024-07-16 00:00:00+00:00 total: 1 unique: 1
+	 2024-07-20 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
-		Count: 1 Unique: 1 Url: github.com
-
-repo: vimcrypt views: total: 2 unique:  2
-Views:
-	 2024-07-10 00:00:00+00:00 total: 1 unique: 1
-	 2024-07-11 00:00:00+00:00 total: 1 unique: 1
-	Referrers:
-		Count: 2 Unique: 2 Url: Google
+		Count: 1 Unique: 1 Url: Google
 
 repo: zipit views: total: 2 unique:  2
 Views:
@@ -175,15 +173,15 @@ Views:
 	Referrers:
 		Count: 1 Unique: 1 Url: mx.search.yahoo.com
 
-repo: pythonimportplayground views: total: 1 unique:  1
-Views:
-	 2024-07-18 00:00:00+00:00 total: 1 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: Google
-
 repo: roget-thesaurus-parser views: total: 1 unique:  1
 Views:
 	 2024-07-21 00:00:00+00:00 total: 1 unique: 1
+
+repo: rzgrep views: total: 1 unique:  1
+Views:
+	 2024-07-16 00:00:00+00:00 total: 1 unique: 1
+	Referrers:
+		Count: 1 Unique: 1 Url: github.com
 
 repo: vimcrypt2 views: total: 1 unique:  1
 Views:
@@ -227,4 +225,4 @@ repo: teach-your-children-well views: total: 0 unique:  0
 
 
 ***
-Total views: 261
+Total views: 306
