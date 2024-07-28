@@ -33,7 +33,7 @@ Views:
 	Referrers:
 		Count: 23 Unique: 1 Url: github.com
 
-repo: pyasmtool views: total: 20 unique:  12
+repo: pyasmtool views: total: 22 unique:  13
 Views:
 	 2024-07-14 00:00:00+00:00 total: 2 unique: 1
 	 2024-07-15 00:00:00+00:00 total: 2 unique: 1
@@ -42,6 +42,7 @@ Views:
 	 2024-07-23 00:00:00+00:00 total: 5 unique: 2
 	 2024-07-24 00:00:00+00:00 total: 4 unique: 2
 	 2024-07-26 00:00:00+00:00 total: 4 unique: 4
+	 2024-07-27 00:00:00+00:00 total: 2 unique: 1
 	Referrers:
 		Count: 4 Unique: 2 Url: news.ycombinator.com
 		Count: 1 Unique: 1 Url: github.com
@@ -53,6 +54,7 @@ Views:
 	 2024-07-26 00:00:00+00:00 total: 2 unique: 2
 	Referrers:
 		Count: 15 Unique: 1 Url: github.com
+		Count: 2 Unique: 2 Url: Google
 
 repo: my-notes views: total: 17 unique:  7
 Views:
@@ -77,8 +79,6 @@ Views:
 	 2024-07-25 00:00:00+00:00 total: 2 unique: 1
 	Referrers:
 		Count: 10 Unique: 8 Url: Google
-		Count: 2 Unique: 1 Url: github.com
-		Count: 1 Unique: 1 Url: news.ycombinator.com
 
 repo: cppcombinator views: total: 14 unique:  6
 Views:
@@ -97,11 +97,6 @@ Views:
 	 2024-07-22 00:00:00+00:00 total: 13 unique: 1
 	Referrers:
 		Count: 13 Unique: 1 Url: Google
-
-repo: duckduckbang views: total: 4 unique:  2
-Views:
-	 2024-07-13 00:00:00+00:00 total: 3 unique: 1
-	 2024-07-21 00:00:00+00:00 total: 1 unique: 1
 
 repo: roget-thesaurus-parser views: total: 4 unique:  2
 Views:
@@ -154,6 +149,10 @@ Views:
 repo: devgoodies views: total: 1 unique:  1
 Views:
 	 2024-07-26 00:00:00+00:00 total: 1 unique: 1
+
+repo: duckduckbang views: total: 1 unique:  1
+Views:
+	 2024-07-21 00:00:00+00:00 total: 1 unique: 1
 
 repo: gitblame views: total: 1 unique:  1
 Views:
@@ -237,4 +236,4 @@ repo: subb views: total: 0 unique:  0
 
 
 ***
-Total views: 318
+Total views: 317
