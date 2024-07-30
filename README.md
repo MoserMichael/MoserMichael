@@ -1,24 +1,19 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Mon Jul 29 00:48:13 UTC 2024
+Tue Jul 30 00:46:17 UTC 2024
 
 <pre>
 
  _________________________________________
-/ The holy passion of Friendship is of so \
-| sweet and steady and loyal and enduring |
-| a nature that it will last through a    |
-| whole lifetime, if not asked to lend    |
-| money.                                  |
-|                                         |
-| -- Mark Twain, "Pudd'nhead Wilson's     |
-\ Calendar"                               /
+/ You are scrupulously honest, frank, and \
+| straightforward. Therefore you have few |
+\ friends.                                /
  -----------------------------------------
         \   ^__^
          \  (OO)\_______
             (__)\       )\/\
              :) ||----w |
                 ||     ||
-nltk score: 92 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: 75 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
