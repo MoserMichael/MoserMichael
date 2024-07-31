@@ -1,19 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Tue Jul 30 00:46:17 UTC 2024
+Wed Jul 31 00:38:25 UTC 2024
 
 <pre>
 
- _________________________________________
-/ You are scrupulously honest, frank, and \
-| straightforward. Therefore you have few |
-\ friends.                                /
- -----------------------------------------
+ ____________________________________
+/ You're being followed. Cut out the \
+\ hanky-panky for a few days.        /
+ ------------------------------------
         \   ^__^
-         \  (OO)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :) ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: 75 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: -27 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
