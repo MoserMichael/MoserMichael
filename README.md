@@ -1,12 +1,13 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Thu Aug  1 00:52:06 UTC 2024
+Fri Aug  2 00:46:29 UTC 2024
 
 <pre>
 
- ______________________________________
-/ Q: What's a light-year? A: One-third \
-\ less calories than a regular year.   /
- --------------------------------------
+ _________________________________________
+/ Conscience doth make cowards of us all. \
+|                                         |
+\ -- Shakespeare                          /
+ -----------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
