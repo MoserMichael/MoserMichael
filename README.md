@@ -1,19 +1,17 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Fri Aug  2 00:46:29 UTC 2024
+Sat Aug  3 00:45:36 UTC 2024
 
 <pre>
 
- _________________________________________
-/ Conscience doth make cowards of us all. \
-|                                         |
-\ -- Shakespeare                          /
- -----------------------------------------
+ _________________
+< Stay the curse. >
+ -----------------
         \   ^__^
-         \  (..)\_______
+         \  (!!)\_______
             (__)\       )\/\
-             -- ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: -54 '(from -100..100) state: 'bad' eye: !! tongue: :(
 
 </pre>
 
