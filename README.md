@@ -1,17 +1,54 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sat Aug  3 00:45:36 UTC 2024
+Sun Aug  4 00:51:29 UTC 2024
 
 <pre>
 
- _________________
-< Stay the curse. >
- -----------------
+ _________________________________________
+/ "Speak, thou vast and venerable head,"  \
+| muttered Ahab, "which, though           |
+| ungarnished with a beard, yet here and  |
+| there lookest hoary with mosses; speak, |
+| mighty head, and tell us the secret     |
+| thing that is in thee. Of all divers,   |
+| thou has dived the deepest. That head   |
+| upon which the upper sun now gleams has |
+| moved amid the world's foundations.     |
+| Where unrecorded names and navies rust, |
+| and untold hopes and anchors rot; where |
+| in her murderous hold this frigate      |
+| earth is ballasted with bones of        |
+| millions of the drowned; there, in that |
+| awful water-land, there was thy most    |
+| familiar home. Thou hast been where     |
+| bell or diver never went; has slept by  |
+| many a sailer's side, where sleepless   |
+| mothers would give their lives to lay   |
+| them down. Thou saw'st the locked       |
+| lovers when leaping from their flaming  |
+| ship; heart to heart they sank beneath  |
+| the exulting wave; true to each other,  |
+| when heaven seemed false to them. Thou  |
+| saw'st the murdered mate when tossed by |
+| pirates from the midnight deck; for     |
+| hours he fell into the deeper midnight  |
+| of the insatiate maw; and his murderers |
+| still sailed on unharmed -- while swift |
+| lightnings shivered the neighboring     |
+| ship that would have borne a righteous  |
+| husband to outstretched, longing arms.  |
+| O head! thou has seen enough to split   |
+| the planets and make an infidel of      |
+| Abraham, and not one syllable is        |
+| thine!"                                 |
+|                                         |
+\ -- H. Melville, "Moby Dick"             /
+ -----------------------------------------
         \   ^__^
-         \  (!!)\_______
+         \  (~~)\_______
             (__)\       )\/\
              :( ||----w |
                 ||     ||
-nltk score: -54 '(from -100..100) state: 'bad' eye: !! tongue: :(
+nltk score: -86 '(from -100..100) state: 'very bad' eye: ~~ tongue: :(
 
 </pre>
 
