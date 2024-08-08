@@ -1,73 +1,17 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Wed Aug  7 00:47:30 UTC 2024
+Thu Aug  8 00:47:17 UTC 2024
 
 <pre>
 
  _________________________________________
-/ Q: How many members of the U.S.S.       \
-| Enterprise does it take to change a     |
-|                                         |
-| light bulb? A: Seven. Scotty has to     |
-| report to Captain Kirk that the light   |
-| bulb in                                 |
-|                                         |
-| the Engineering Section is getting dim, |
-| at which point Kirk will send           |
-|                                         |
-| Bones to pronounce the bulb dead        |
-| (although he'll immediately claim       |
-|                                         |
-| that he's a doctor, not an              |
-| electrician). Scotty, after checking    |
-|                                         |
-| around, realizes that they have no more |
-| new light bulbs, and complains          |
-|                                         |
-| that he "canna" see in the dark. Kirk   |
-| will make an emergency stop at          |
-|                                         |
-| the next uncharted planet, Alpha Regula |
-| IV, to procure a light bulb             |
-|                                         |
-| from the natives, who, are friendly,    |
-| but seem to be hiding something.        |
-|                                         |
-| Kirk, Spock, Bones, Yeoman Rand and two |
-| red shirt security officers             |
-|                                         |
-| beam down to the planet, where the two  |
-| security officers are promply           |
-|                                         |
-| killed by the natives, and the rest of  |
-| the landing party is captured.          |
-|                                         |
-| As something begins to develop between  |
-| the Captain and Yeoman Rand,            |
-|                                         |
-| Scotty, back in orbit, is attacked by a |
-| Klingon destroyer and must              |
-|                                         |
-| warp out of orbit. Although badly       |
-| outgunned, he cripples the Klingon      |
-|                                         |
-| and races back to the planet in order   |
-| to rescue Kirk et. al. who have         |
-|                                         |
-| just saved the natives' from an awful   |
-| fate and, as a reward, been             |
-|                                         |
-| given all light bulbs they can carry.   |
-| The new bulb is then inserted           |
-|                                         |
-| and the Enterprise continues on its     |
-\ five year mission.                      /
+< Do something unusual today. Pay a bill. >
  -----------------------------------------
         \   ^__^
-         \  (~~)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :( ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: -82 '(from -100..100) state: 'very bad' eye: ~~ tongue: :(
+nltk score: -10 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
@@ -126,7 +70,7 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/kind-helper">kind-helper</a></td><td>23</td><td>Python</td><td>Simplifies the creation of practical kubernetes test clusters with the kind utility.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/jq-illustrated">jq-illustrated</a></td><td>21</td><td>Shell</td><td>illustrated tutorial of jq (and the scripts that create it)</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/s9k">s9k</a></td><td>18</td><td>Python</td><td>dashboard/web app for managing kubernetes clusters, with similar functionality as k9s</td></tr>
-<tr><td><a href="https://github.com/MoserMichael/cstuff">cstuff</a></td><td>12</td><td>C</td><td>My C projects</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/cstuff">cstuff</a></td><td>13</td><td>C</td><td>My C projects</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/ls-annotations">ls-annotations</a></td><td>7</td><td>Java</td><td>Show all declarations with java annotations by decompiling byte code.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/roget-thesaurus-parser">roget-thesaurus-parser</a></td><td>7</td><td>Python</td><td>parses Roget's thesaurus and provide API for querying related words</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/rzgrep">rzgrep</a></td><td>7</td><td>Go</td><td>grep utility that searches through zip,jar,ear,tgz,bz2 in any form of nesting; it can also decompile class files</td></tr>
@@ -161,9 +105,11 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/vimcrypt">vimcrypt</a></td><td>0</td><td>Vim script</td><td>my vim plugin for encrypting/decryting text files with openssl</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/visual-python-strace">visual-python-strace</a></td><td>0</td><td>Python</td><td>show a very long stack trace with variable values.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/zipit">zipit</a></td><td>0</td><td>C++</td><td>c++ library for the equivalent of python/haskell zip function</td></tr>
-<tr><th>Total stars:</th><th colspan='2' align='left'> 587 </th></tr>
+<tr><th>Total stars:</th><th colspan='2' align='left'> 588 </th></tr>
 </table>
 <br>
+old_date:  2024-07-12 00:45:05.193665 now: 2024-08-08 00:47:34.677556
+cstuff stars changed from: 12 to: 13
     </pre>
   </td>
 </table>
