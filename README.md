@@ -1,22 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Tue Aug 13 00:48:36 UTC 2024
+Wed Aug 14 00:47:32 UTC 2024
 
 <pre>
 
  ________________________________________
-/ Q: Why do people who live near Niagara \
-| Falls have flat foreheads? A: Because  |
-| every morning they wake up thinking    |
-| "What *is* that noise?                 |
-|                                        |
-\ Oh, right, *of course*!                /
+/ You will be honored for contributing   \
+\ your time and skill to a worthy cause. /
  ----------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (OO)\_______
             (__)\       )\/\
-             -- ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 77 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
@@ -113,8 +109,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 587 </th></tr>
 </table>
 <br>
-old_date:  2024-08-08 00:47:34.677689 now: 2024-08-13 00:48:53.284998
-pyasmtool stars changed from: 320 to: 319
     </pre>
   </td>
 </table>
