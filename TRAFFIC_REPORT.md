@@ -22,6 +22,7 @@ Views:
 	 2024-08-08 00:00:00+00:00 total: 57 unique: 33
 	 2024-08-16 00:00:00+00:00 total: 15 unique: 1
 	Referrers:
+		Count: 13 Unique: 1 Url: Google
 		Count: 2 Unique: 1 Url: pypi.org
 
 repo: pygamewrap views: total: 71 unique:  32
@@ -33,9 +34,8 @@ Views:
 	Referrers:
 		Count: 3 Unique: 2 Url: Google
 
-repo: pyasmtool views: total: 58 unique:  34
+repo: pyasmtool views: total: 57 unique:  34
 Views:
-	 2024-08-03 00:00:00+00:00 total: 3 unique: 1
 	 2024-08-05 00:00:00+00:00 total: 8 unique: 3
 	 2024-08-06 00:00:00+00:00 total: 2 unique: 1
 	 2024-08-07 00:00:00+00:00 total: 2 unique: 2
@@ -46,6 +46,7 @@ Views:
 	 2024-08-14 00:00:00+00:00 total: 3 unique: 2
 	 2024-08-15 00:00:00+00:00 total: 6 unique: 2
 	 2024-08-16 00:00:00+00:00 total: 3 unique: 1
+	 2024-08-17 00:00:00+00:00 total: 2 unique: 1
 	Referrers:
 		Count: 12 Unique: 3 Url: news.ycombinator.com
 		Count: 5 Unique: 1 Url: Baidu
@@ -72,13 +73,10 @@ Views:
 	Referrers:
 		Count: 25 Unique: 2 Url: Google
 
-repo: myenv views: total: 20 unique:  11
+repo: rzgrep views: total: 23 unique:  12
 Views:
-	 2024-08-03 00:00:00+00:00 total: 2 unique: 1
-	 2024-08-04 00:00:00+00:00 total: 1 unique: 1
-	 2024-08-11 00:00:00+00:00 total: 1 unique: 1
-	 2024-08-13 00:00:00+00:00 total: 1 unique: 1
-	 2024-08-16 00:00:00+00:00 total: 15 unique: 7
+	 2024-08-11 00:00:00+00:00 total: 15 unique: 8
+	 2024-08-17 00:00:00+00:00 total: 8 unique: 4
 
 repo: flagged-hn views: total: 19 unique:  14
 Views:
@@ -88,9 +86,16 @@ Views:
 	Referrers:
 		Count: 1 Unique: 1 Url: Google
 
-repo: jq-illustrated views: total: 18 unique:  3
+repo: myenv views: total: 19 unique:  11
 Views:
-	 2024-08-03 00:00:00+00:00 total: 2 unique: 1
+	 2024-08-04 00:00:00+00:00 total: 1 unique: 1
+	 2024-08-11 00:00:00+00:00 total: 1 unique: 1
+	 2024-08-13 00:00:00+00:00 total: 1 unique: 1
+	 2024-08-16 00:00:00+00:00 total: 15 unique: 7
+	 2024-08-17 00:00:00+00:00 total: 1 unique: 1
+
+repo: jq-illustrated views: total: 16 unique:  3
+Views:
 	 2024-08-05 00:00:00+00:00 total: 2 unique: 1
 	 2024-08-06 00:00:00+00:00 total: 2 unique: 1
 	 2024-08-11 00:00:00+00:00 total: 2 unique: 1
@@ -111,10 +116,6 @@ Views:
 	Referrers:
 		Count: 2 Unique: 1 Url: Google
 
-repo: rzgrep views: total: 15 unique:  8
-Views:
-	 2024-08-11 00:00:00+00:00 total: 15 unique: 8
-
 repo: python-obj-system views: total: 14 unique:  9
 Views:
 	 2024-08-04 00:00:00+00:00 total: 1 unique: 1
@@ -133,6 +134,17 @@ Views:
 	 2024-08-16 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
 		Count: 10 Unique: 2 Url: Google
+
+repo: cstuff views: total: 11 unique:  5
+Views:
+	 2024-08-07 00:00:00+00:00 total: 5 unique: 1
+	 2024-08-08 00:00:00+00:00 total: 1 unique: 1
+	 2024-08-10 00:00:00+00:00 total: 2 unique: 2
+	 2024-08-13 00:00:00+00:00 total: 2 unique: 1
+	 2024-08-17 00:00:00+00:00 total: 1 unique: 1
+	Referrers:
+		Count: 6 Unique: 1 Url: mosermichael.github.io
+		Count: 2 Unique: 1 Url: Google
 
 repo: vimcrypt2 views: total: 11 unique:  7
 Views:
@@ -155,22 +167,11 @@ Views:
 	 2024-08-16 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
 		Count: 5 Unique: 1 Url: github.com
-		Count: 3 Unique: 1 Url: yandex.ru
+		Count: 4 Unique: 1 Url: yandex.ru
 		Count: 1 Unique: 1 Url: Google
-
-repo: cstuff views: total: 10 unique:  4
-Views:
-	 2024-08-07 00:00:00+00:00 total: 5 unique: 1
-	 2024-08-08 00:00:00+00:00 total: 1 unique: 1
-	 2024-08-10 00:00:00+00:00 total: 2 unique: 2
-	 2024-08-13 00:00:00+00:00 total: 2 unique: 1
-	Referrers:
-		Count: 6 Unique: 1 Url: mosermichael.github.io
-		Count: 2 Unique: 1 Url: Google
 
 repo: s9k views: total: 10 unique:  9
 Views:
-	 2024-08-03 00:00:00+00:00 total: 1 unique: 1
 	 2024-08-04 00:00:00+00:00 total: 1 unique: 1
 	 2024-08-06 00:00:00+00:00 total: 1 unique: 1
 	 2024-08-08 00:00:00+00:00 total: 1 unique: 1
@@ -178,8 +179,9 @@ Views:
 	 2024-08-13 00:00:00+00:00 total: 1 unique: 1
 	 2024-08-14 00:00:00+00:00 total: 2 unique: 2
 	 2024-08-16 00:00:00+00:00 total: 2 unique: 1
+	 2024-08-17 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
-		Count: 5 Unique: 5 Url: Google
+		Count: 4 Unique: 4 Url: Google
 		Count: 1 Unique: 1 Url: github.com
 		Count: 1 Unique: 1 Url: copilot.microsoft.com
 
@@ -196,9 +198,8 @@ Views:
 	Referrers:
 		Count: 6 Unique: 1 Url: github.com
 
-repo: subb views: total: 7 unique:  6
+repo: subb views: total: 6 unique:  5
 Views:
-	 2024-08-03 00:00:00+00:00 total: 1 unique: 1
 	 2024-08-09 00:00:00+00:00 total: 5 unique: 4
 	 2024-08-15 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
@@ -223,20 +224,12 @@ Views:
 repo: dockerdashphp views: total: 3 unique:  2
 Views:
 	 2024-08-16 00:00:00+00:00 total: 3 unique: 2
+	Referrers:
+		Count: 1 Unique: 1 Url: Google
 
 repo: devgoodies views: total: 2 unique:  2
 Views:
 	 2024-08-06 00:00:00+00:00 total: 1 unique: 1
-	 2024-08-16 00:00:00+00:00 total: 1 unique: 1
-
-repo: gitblame views: total: 2 unique:  2
-Views:
-	 2024-08-03 00:00:00+00:00 total: 1 unique: 1
-	 2024-08-12 00:00:00+00:00 total: 1 unique: 1
-
-repo: gittools views: total: 2 unique:  2
-Views:
-	 2024-08-03 00:00:00+00:00 total: 1 unique: 1
 	 2024-08-16 00:00:00+00:00 total: 1 unique: 1
 
 repo: jscriptparse views: total: 2 unique:  2
@@ -248,7 +241,7 @@ Views:
 	 2024-08-09 00:00:00+00:00 total: 1 unique: 1
 	 2024-08-16 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
-		Count: 1 Unique: 1 Url: Google
+		Count: 2 Unique: 2 Url: Google
 
 repo: pprintex views: total: 2 unique:  2
 Views:
@@ -267,7 +260,7 @@ Views:
 	 2024-08-12 00:00:00+00:00 total: 1 unique: 1
 	 2024-08-16 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
-		Count: 1 Unique: 1 Url: Google
+		Count: 2 Unique: 2 Url: Google
 
 repo: download-artifacts views: total: 1 unique:  1
 Views:
@@ -277,7 +270,15 @@ repo: follow-kube-logs views: total: 1 unique:  1
 Views:
 	 2024-08-16 00:00:00+00:00 total: 1 unique: 1
 
+repo: gitblame views: total: 1 unique:  1
+Views:
+	 2024-08-12 00:00:00+00:00 total: 1 unique: 1
+
 repo: github_pr_comments views: total: 1 unique:  1
+Views:
+	 2024-08-16 00:00:00+00:00 total: 1 unique: 1
+
+repo: gittools views: total: 1 unique:  1
 Views:
 	 2024-08-16 00:00:00+00:00 total: 1 unique: 1
 
@@ -311,4 +312,4 @@ repo: pythonimportplayground views: total: 0 unique:  0
 
 
 ***
-Total views: 642
+Total views: 644
