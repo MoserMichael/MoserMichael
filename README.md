@@ -1,19 +1,20 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Mon Aug 19 00:48:19 UTC 2024
+Tue Aug 20 00:46:57 UTC 2024
 
 <pre>
 
- _________________________________________
-/ Q: What do you say to a New Yorker with \
-| a job? A: Big Mac, fries and a Coke,    |
-\ please!                                 /
- -----------------------------------------
+ _______________________________________
+/ Q: What do monsters eat? A: Things.   \
+|                                       |
+| Q: What do monsters drink? A: Coke.   |
+\ (Because Things go better with Coke.) /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
              :) ||----w |
                 ||     ||
-nltk score: 38 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: 50 '(from -100..100) state: 'good' eye: oo tongue: :)
 
 </pre>
 
