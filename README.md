@@ -1,21 +1,22 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Wed Aug 21 00:46:44 UTC 2024
+Thu Aug 22 00:48:44 UTC 2024
 
 <pre>
 
- _____________________________________
-/ Nothing so needs reforming as other \
-| people's habits.                    |
-|                                     |
-| -- Mark Twain, "Pudd'nhead Wilson's |
-\ Calendar"                           /
- -------------------------------------
+ ______________________________________
+/ F.S. Fitzgerald to Hemingway:        \
+|                                      |
+| "Ernest, the rich are different from |
+| us." Hemingway:                      |
+|                                      |
+\ "Yes. They have more money."         /
+ --------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (oo)\_______
             (__)\       )\/\
-             -- ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 56 '(from -100..100) state: 'good' eye: oo tongue: :)
 
 </pre>
 
@@ -112,8 +113,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 586 </th></tr>
 </table>
 <br>
-old_date:  2024-08-13 00:48:53.285134 now: 2024-08-21 00:47:00.439929
-ls-annotations stars changed from: 7 to: 6
     </pre>
   </td>
 </table>
