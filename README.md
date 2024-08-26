@@ -1,39 +1,23 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sun Aug 25 00:52:40 UTC 2024
+Mon Aug 26 00:48:31 UTC 2024
 
 <pre>
 
- _______________________________________
-/ Q: What's the contour integral around \
-| Western Europe? A: Zero, because all  |
-| the Poles are in Eastern Europe!      |
-|                                       |
-| Addendum: Actually, there ARE some    |
-| Poles in Western Europe, but they     |
-|                                       |
-| are removable!                        |
-|                                       |
-| Q: An English mathematician (I forgot |
-| who) was asked by his                 |
-|                                       |
-| very religious colleague: Do you      |
-| believe in one God? A: Yes, up to     |
-| isomorphism!                          |
-|                                       |
-| Q: What is a compact city? A: It's a  |
-| city that can be guarded by finitely  |
-| many near-sighted                     |
-|                                       |
-| policemen!                            |
-|                                       |
-\ -- Peter Lax                          /
- ---------------------------------------
+ _________________________________________
+/ In Marseilles they make half the toilet \
+| soap we consume in America, but the     |
+| Marseillaise only have a vague          |
+| theoretical idea of its use, which they |
+| have obtained from books of travel.     |
+|                                         |
+\ -- Mark Twain                           /
+ -----------------------------------------
         \   ^__^
-         \  (OO)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :) ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: 66 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: -15 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
@@ -130,17 +114,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 596 </th></tr>
 </table>
 <br>
-old_date:  2024-08-21 00:47:00.440054 now: 2024-08-25 00:52:55.048796
-duckduckbang stars changed from: 39 to: 40
-jq-illustrated stars changed from: 21 to: 22
-ls-annotations stars changed from: 6 to: 7
-pygamewrap stars changed from: 5 to: 6
-pprintex stars changed from: 3 to: 4
-gitblame stars changed from: 2 to: 3
-k8explain stars changed from: 1 to: 2
-grpc-spring-boot-starter-utils stars changed from: 0 to: 1
-jobinterviewhomework stars changed from: 0 to: 1
-jpa-enc-converter stars changed from: 0 to: 1
     </pre>
   </td>
 </table>
