@@ -1,18 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sun Sep  1 00:58:46 UTC 2024
+Mon Sep  2 00:51:57 UTC 2024
 
 <pre>
 
- ______________________________________
-/ Artistic ventures highlighted. Rob a \
-\ museum.                              /
- --------------------------------------
+ ____________________________________
+/ You will pioneer the first Martian \
+\ colony.                            /
+ ------------------------------------
         \   ^__^
-         \  (!!)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :( ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: -56 '(from -100..100) state: 'bad' eye: !! tongue: :(
+nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
@@ -109,8 +109,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 597 </th></tr>
 </table>
 <br>
-old_date:  2024-08-25 00:52:55.048965 now: 2024-09-01 00:59:02.875161
-pyasmtool stars changed from: 319 to: 320
     </pre>
   </td>
 </table>
