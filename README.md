@@ -1,19 +1,21 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Fri Sep  6 00:50:29 UTC 2024
+Sat Sep  7 00:49:25 UTC 2024
 
 <pre>
 
- _________________________________________
-/ You are scrupulously honest, frank, and \
-| straightforward. Therefore you have few |
-\ friends.                                /
- -----------------------------------------
+ ___________________________________
+/ "... an experienced, industrious, \
+| ambitious, and often quite often  |
+| picturesque liar."                |
+|                                   |
+\ -- Mark Twain                     /
+ -----------------------------------
         \   ^__^
          \  (OO)\_______
             (__)\       )\/\
              :) ||----w |
                 ||     ||
-nltk score: 75 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: 72 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
