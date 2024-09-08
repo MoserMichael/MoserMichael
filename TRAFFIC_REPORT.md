@@ -15,7 +15,7 @@ Views:
 	 2024-09-04 00:00:00+00:00 total: 24 unique: 2
 	 2024-09-06 00:00:00+00:00 total: 6 unique: 1
 	Referrers:
-		Count: 17 Unique: 1 Url: github.com
+		Count: 23 Unique: 2 Url: github.com
 
 repo: pyasmtool views: total: 60 unique:  22
 Views:
@@ -36,10 +36,11 @@ Views:
 		Count: 8 Unique: 3 Url: Google
 		Count: 4 Unique: 1 Url: DuckDuckGo
 		Count: 2 Unique: 1 Url: blackbox.ai
+		Count: 2 Unique: 1 Url: realpython.com
+		Count: 1 Unique: 1 Url: github.com
 
-repo: my-notes views: total: 57 unique:  42
+repo: my-notes views: total: 55 unique:  41
 Views:
-	 2024-08-24 00:00:00+00:00 total: 2 unique: 2
 	 2024-08-25 00:00:00+00:00 total: 11 unique: 7
 	 2024-08-26 00:00:00+00:00 total: 21 unique: 20
 	 2024-08-27 00:00:00+00:00 total: 10 unique: 8
@@ -48,7 +49,7 @@ Views:
 	 2024-09-04 00:00:00+00:00 total: 2 unique: 1
 	 2024-09-06 00:00:00+00:00 total: 5 unique: 1
 	Referrers:
-		Count: 4 Unique: 1 Url: Google
+		Count: 3 Unique: 1 Url: github.com
 
 repo: jpa-enc-converter views: total: 34 unique:  2
 Views:
@@ -57,9 +58,19 @@ Views:
 	Referrers:
 		Count: 33 Unique: 1 Url: Google
 
+repo: roget-thesaurus-parser views: total: 34 unique:  8
+Views:
+	 2024-09-01 00:00:00+00:00 total: 4 unique: 1
+	 2024-09-03 00:00:00+00:00 total: 2 unique: 2
+	 2024-09-06 00:00:00+00:00 total: 20 unique: 2
+	 2024-09-07 00:00:00+00:00 total: 8 unique: 4
+	Referrers:
+		Count: 20 Unique: 2 Url: Google
+		Count: 4 Unique: 1 Url: github.com
+		Count: 1 Unique: 1 Url: Bing
+
 repo: myenv views: total: 32 unique:  25
 Views:
-	 2024-08-24 00:00:00+00:00 total: 1 unique: 1
 	 2024-08-25 00:00:00+00:00 total: 8 unique: 8
 	 2024-08-26 00:00:00+00:00 total: 3 unique: 3
 	 2024-08-27 00:00:00+00:00 total: 2 unique: 2
@@ -67,20 +78,11 @@ Views:
 	 2024-08-30 00:00:00+00:00 total: 1 unique: 1
 	 2024-09-04 00:00:00+00:00 total: 6 unique: 4
 	 2024-09-05 00:00:00+00:00 total: 6 unique: 3
-	 2024-09-06 00:00:00+00:00 total: 4 unique: 2
+	 2024-09-06 00:00:00+00:00 total: 5 unique: 3
 	Referrers:
 		Count: 1 Unique: 1 Url: Google
 
-repo: roget-thesaurus-parser views: total: 26 unique:  5
-Views:
-	 2024-09-01 00:00:00+00:00 total: 4 unique: 1
-	 2024-09-03 00:00:00+00:00 total: 2 unique: 2
-	 2024-09-06 00:00:00+00:00 total: 20 unique: 2
-	Referrers:
-		Count: 4 Unique: 1 Url: github.com
-		Count: 1 Unique: 1 Url: Google
-
-repo: duckduckbang views: total: 18 unique:  13
+repo: duckduckbang views: total: 19 unique:  14
 Views:
 	 2024-08-27 00:00:00+00:00 total: 1 unique: 1
 	 2024-08-28 00:00:00+00:00 total: 1 unique: 1
@@ -89,8 +91,9 @@ Views:
 	 2024-09-04 00:00:00+00:00 total: 4 unique: 4
 	 2024-09-05 00:00:00+00:00 total: 7 unique: 3
 	 2024-09-06 00:00:00+00:00 total: 1 unique: 1
+	 2024-09-07 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
-		Count: 13 Unique: 9 Url: Google
+		Count: 14 Unique: 10 Url: Google
 
 repo: s9k views: total: 15 unique:  10
 Views:
@@ -104,30 +107,22 @@ Views:
 	 2024-09-04 00:00:00+00:00 total: 1 unique: 1
 	 2024-09-05 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
-		Count: 11 Unique: 8 Url: Google
-		Count: 2 Unique: 1 Url: github.com
-		Count: 1 Unique: 1 Url: youtube.com
-
-repo: ls-annotations views: total: 14 unique:  3
-Views:
-	 2024-08-24 00:00:00+00:00 total: 1 unique: 1
-	 2024-08-25 00:00:00+00:00 total: 2 unique: 1
-	 2024-08-26 00:00:00+00:00 total: 7 unique: 1
-	 2024-08-28 00:00:00+00:00 total: 2 unique: 1
-	 2024-08-31 00:00:00+00:00 total: 2 unique: 1
-	Referrers:
-		Count: 2 Unique: 1 Url: Google
-
-repo: subb views: total: 14 unique:  2
-Views:
-	 2024-08-24 00:00:00+00:00 total: 13 unique: 1
-	 2024-08-30 00:00:00+00:00 total: 1 unique: 1
+		Count: 7 Unique: 7 Url: Google
 
 repo: grpc-spring-boot-starter-utils views: total: 13 unique:  1
 Views:
 	 2024-08-27 00:00:00+00:00 total: 13 unique: 1
 	Referrers:
 		Count: 13 Unique: 1 Url: github.com
+
+repo: ls-annotations views: total: 13 unique:  3
+Views:
+	 2024-08-25 00:00:00+00:00 total: 2 unique: 1
+	 2024-08-26 00:00:00+00:00 total: 7 unique: 1
+	 2024-08-28 00:00:00+00:00 total: 2 unique: 1
+	 2024-08-31 00:00:00+00:00 total: 2 unique: 1
+	Referrers:
+		Count: 1 Unique: 1 Url: Google
 
 repo: cstuff views: total: 9 unique:  4
 Views:
@@ -166,14 +161,12 @@ Views:
 repo: printb views: total: 5 unique:  1
 Views:
 	 2024-08-25 00:00:00+00:00 total: 5 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: Google
 
-repo: python-obj-system views: total: 4 unique:  3
+repo: python-obj-system views: total: 5 unique:  3
 Views:
-	 2024-08-24 00:00:00+00:00 total: 2 unique: 1
 	 2024-08-26 00:00:00+00:00 total: 1 unique: 1
 	 2024-09-03 00:00:00+00:00 total: 1 unique: 1
+	 2024-09-07 00:00:00+00:00 total: 3 unique: 1
 
 repo: docker-force-attach views: total: 3 unique:  1
 Views:
@@ -194,15 +187,26 @@ Views:
 repo: vimcrypt2 views: total: 3 unique:  2
 Views:
 	 2024-09-06 00:00:00+00:00 total: 3 unique: 2
+	Referrers:
+		Count: 3 Unique: 2 Url: Google
 
 repo: gitblame views: total: 2 unique:  2
 Views:
-	 2024-08-24 00:00:00+00:00 total: 1 unique: 1
 	 2024-08-26 00:00:00+00:00 total: 1 unique: 1
+	 2024-09-07 00:00:00+00:00 total: 1 unique: 1
 
 repo: githubapitools views: total: 2 unique:  1
 Views:
 	 2024-08-25 00:00:00+00:00 total: 2 unique: 1
+
+repo: github_pr_comments views: total: 2 unique:  1
+Views:
+	 2024-09-07 00:00:00+00:00 total: 2 unique: 1
+
+repo: teach-your-children-well views: total: 2 unique:  2
+Views:
+	 2024-08-31 00:00:00+00:00 total: 1 unique: 1
+	 2024-09-07 00:00:00+00:00 total: 1 unique: 1
 
 repo: dockerdashphp views: total: 1 unique:  1
 Views:
@@ -252,9 +256,9 @@ Views:
 	Referrers:
 		Count: 1 Unique: 1 Url: github.com
 
-repo: teach-your-children-well views: total: 1 unique:  1
+repo: subb views: total: 1 unique:  1
 Views:
-	 2024-08-31 00:00:00+00:00 total: 1 unique: 1
+	 2024-08-30 00:00:00+00:00 total: 1 unique: 1
 
 repo: zipit views: total: 1 unique:  1
 Views:
@@ -263,8 +267,6 @@ Views:
 repo: devgoodies views: total: 0 unique:  0
 
 repo: download-artifacts views: total: 0 unique:  0
-
-repo: github_pr_comments views: total: 0 unique:  0
 
 repo: jobinterviewhomework views: total: 0 unique:  0
 
@@ -280,4 +282,4 @@ repo: vimcrypt views: total: 0 unique:  0
 
 
 ***
-Total views: 429
+Total views: 426
