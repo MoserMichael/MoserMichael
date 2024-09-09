@@ -1,24 +1,20 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sun Sep  8 00:55:16 UTC 2024
+Mon Sep  9 00:52:55 UTC 2024
 
 <pre>
 
- _______________________________________
-/ October 12, the Discovery.            \
-|                                       |
-| It was wonderful to find America, but |
-| it would have been more wonderful to  |
-| miss it.                              |
-|                                       |
-| -- Mark Twain, "Pudd'nhead Wilson's   |
-\ Calendar"                             /
- ---------------------------------------
+ _________________________________________
+/ The first thing we do, let's kill all   \
+| the lawyers.                            |
+|                                         |
+\ -- Wm. Shakespeare, "Henry VI", Part IV /
+ -----------------------------------------
         \   ^__^
-         \  (OO)\_______
+         \  (~~)\_______
             (__)\       )\/\
-             :) ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 73 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: -69 '(from -100..100) state: 'very bad' eye: ~~ tongue: :(
 
 </pre>
 
