@@ -1,18 +1,31 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Wed Sep 11 00:51:00 UTC 2024
+Thu Sep 12 00:51:03 UTC 2024
 
 <pre>
 
- ______________________________________
-/ A tall, dark stranger will have more \
-\ fun than you.                        /
- --------------------------------------
+ _________________________________________
+/ Q: How many journalists does it take to \
+| screw in a light bulb? A: Three. One to |
+| report it as an inspired government     |
+| program to bring                        |
+|                                         |
+| light to the people, one to report it   |
+| as a diabolical government plot         |
+|                                         |
+| to deprive the poor of darkness, and    |
+| one to win a Pulitzer prize for         |
+|                                         |
+| reporting that Electric Company hired a |
+| light bulb-assassin to break            |
+|                                         |
+\ the bulb in the first place.            /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
              :) ||----w |
                 ||     ||
-nltk score: 56 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: 40 '(from -100..100) state: 'good' eye: oo tongue: :)
 
 </pre>
 
@@ -109,8 +122,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 600 </th></tr>
 </table>
 <br>
-old_date:  2024-09-10 00:51:48.516309 now: 2024-09-11 00:51:17.407557
-s9k stars changed from: 18 to: 19
     </pre>
   </td>
 </table>
