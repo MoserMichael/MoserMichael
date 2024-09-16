@@ -1,24 +1,20 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sun Sep 15 00:56:55 UTC 2024
+Mon Sep 16 00:54:28 UTC 2024
 
 <pre>
 
  _________________________________________
-/ In India, "cold weather" is merely a    \
-| conventional phrase and has come into   |
-| use through the necessity of having     |
-| some way to distinguish between weather |
-| which will melt a brass door-knob and   |
-| weather which will only make it mushy.  |
+/ The human race has one really effective \
+| weapon, and that is laughter.           |
 |                                         |
 \ -- Mark Twain                           /
  -----------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (OO)\_______
             (__)\       )\/\
-             -- ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 63 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
