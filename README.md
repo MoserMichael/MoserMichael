@@ -1,17 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Thu Sep 19 00:51:55 UTC 2024
+Fri Sep 20 00:52:02 UTC 2024
 
 <pre>
 
- _________________________________________
-< Exercise caution in your daily affairs. >
- -----------------------------------------
+ _______________________________________
+/ You get along very well with everyone \
+\ except animals and people.            /
+ ---------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (oo)\_______
             (__)\       )\/\
-             -- ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 34 '(from -100..100) state: 'good' eye: oo tongue: :)
 
 </pre>
 
