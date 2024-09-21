@@ -1,18 +1,20 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Fri Sep 20 00:52:02 UTC 2024
+Sat Sep 21 00:51:01 UTC 2024
 
 <pre>
 
- _______________________________________
-/ You get along very well with everyone \
-\ except animals and people.            /
- ---------------------------------------
+ ________________________________________
+/ It usually takes more than three weeks \
+| to prepare a good impromptu speech.    |
+|                                        |
+\ -- Mark Twain                          /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
              :) ||----w |
                 ||     ||
-nltk score: 34 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: 44 '(from -100..100) state: 'good' eye: oo tongue: :)
 
 </pre>
 
