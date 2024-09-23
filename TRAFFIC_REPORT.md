@@ -9,7 +9,7 @@ Traffic report for user Michael Moser
 
 repo: pyasmtool views: total: 105 unique:  46
 Views:
-	 2024-09-09 00:00:00+00:00 total: 36 unique: 18
+	 2024-09-09 00:00:00+00:00 total: 34 unique: 17
 	 2024-09-10 00:00:00+00:00 total: 13 unique: 5
 	 2024-09-11 00:00:00+00:00 total: 6 unique: 2
 	 2024-09-12 00:00:00+00:00 total: 2 unique: 1
@@ -19,12 +19,12 @@ Views:
 	 2024-09-18 00:00:00+00:00 total: 6 unique: 3
 	 2024-09-20 00:00:00+00:00 total: 7 unique: 3
 	 2024-09-21 00:00:00+00:00 total: 6 unique: 6
+	 2024-09-22 00:00:00+00:00 total: 2 unique: 1
 	Referrers:
-		Count: 41 Unique: 10 Url: Google
-		Count: 5 Unique: 3 Url: github.com
+		Count: 37 Unique: 8 Url: Google
+		Count: 4 Unique: 2 Url: github.com
 		Count: 4 Unique: 1 Url: linkedin.com
 		Count: 2 Unique: 1 Url: Bing
-		Count: 2 Unique: 1 Url: news.ycombinator.com
 
 repo: jpa-enc-converter views: total: 98 unique:  4
 Views:
@@ -67,9 +67,25 @@ Views:
 	 2024-09-19 00:00:00+00:00 total: 16 unique: 16
 	 2024-09-20 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
-		Count: 11 Unique: 4 Url: Google
 		Count: 6 Unique: 1 Url: github.com
+		Count: 3 Unique: 3 Url: Google
 		Count: 2 Unique: 1 Url: pypi.org
+
+repo: duckduckbang views: total: 26 unique:  14
+Views:
+	 2024-09-09 00:00:00+00:00 total: 11 unique: 3
+	 2024-09-10 00:00:00+00:00 total: 3 unique: 2
+	 2024-09-12 00:00:00+00:00 total: 3 unique: 1
+	 2024-09-17 00:00:00+00:00 total: 1 unique: 1
+	 2024-09-19 00:00:00+00:00 total: 3 unique: 3
+	 2024-09-21 00:00:00+00:00 total: 4 unique: 3
+	 2024-09-22 00:00:00+00:00 total: 1 unique: 1
+	Referrers:
+		Count: 2 Unique: 1 Url: fmhy.net
+		Count: 2 Unique: 1 Url: github.com
+		Count: 1 Unique: 1 Url: Google
+		Count: 1 Unique: 1 Url: fmhy.pages.dev
+		Count: 1 Unique: 1 Url: news.ycombinator.com
 
 repo: my-notes views: total: 26 unique:  9
 Views:
@@ -80,21 +96,8 @@ Views:
 	 2024-09-15 00:00:00+00:00 total: 4 unique: 1
 	 2024-09-19 00:00:00+00:00 total: 2 unique: 1
 	Referrers:
-		Count: 10 Unique: 4 Url: Google
-		Count: 9 Unique: 4 Url: github.com
-
-repo: duckduckbang views: total: 25 unique:  13
-Views:
-	 2024-09-09 00:00:00+00:00 total: 11 unique: 3
-	 2024-09-10 00:00:00+00:00 total: 3 unique: 2
-	 2024-09-12 00:00:00+00:00 total: 3 unique: 1
-	 2024-09-17 00:00:00+00:00 total: 1 unique: 1
-	 2024-09-19 00:00:00+00:00 total: 3 unique: 3
-	 2024-09-21 00:00:00+00:00 total: 4 unique: 3
-	Referrers:
-		Count: 5 Unique: 2 Url: github.com
-		Count: 1 Unique: 1 Url: Google
-		Count: 1 Unique: 1 Url: fmhy.pages.dev
+		Count: 8 Unique: 3 Url: Google
+		Count: 5 Unique: 3 Url: github.com
 
 repo: pythonimportplayground views: total: 20 unique:  3
 Views:
@@ -111,8 +114,16 @@ Views:
 	 2024-09-18 00:00:00+00:00 total: 2 unique: 2
 	 2024-09-21 00:00:00+00:00 total: 7 unique: 7
 	Referrers:
-		Count: 3 Unique: 1 Url: github.com
 		Count: 1 Unique: 1 Url: linkedin.com
+
+repo: vimcrypt2 views: total: 12 unique:  7
+Views:
+	 2024-09-09 00:00:00+00:00 total: 6 unique: 1
+	 2024-09-19 00:00:00+00:00 total: 1 unique: 1
+	 2024-09-21 00:00:00+00:00 total: 3 unique: 3
+	 2024-09-22 00:00:00+00:00 total: 2 unique: 2
+	Referrers:
+		Count: 2 Unique: 2 Url: Google
 
 repo: cstuff views: total: 11 unique:  8
 Views:
@@ -122,8 +133,6 @@ Views:
 	 2024-09-16 00:00:00+00:00 total: 1 unique: 1
 	 2024-09-17 00:00:00+00:00 total: 4 unique: 3
 	 2024-09-18 00:00:00+00:00 total: 2 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: github.com
 
 repo: cppcombinator views: total: 10 unique:  6
 Views:
@@ -134,15 +143,6 @@ Views:
 	Referrers:
 		Count: 7 Unique: 3 Url: github.com
 
-repo: vimcrypt2 views: total: 10 unique:  5
-Views:
-	 2024-09-08 00:00:00+00:00 total: 1 unique: 1
-	 2024-09-09 00:00:00+00:00 total: 6 unique: 1
-	 2024-09-19 00:00:00+00:00 total: 1 unique: 1
-	 2024-09-21 00:00:00+00:00 total: 2 unique: 2
-	Referrers:
-		Count: 7 Unique: 2 Url: Google
-
 repo: myenv views: total: 9 unique:  7
 Views:
 	 2024-09-09 00:00:00+00:00 total: 2 unique: 1
@@ -152,6 +152,13 @@ Views:
 	 2024-09-19 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
 		Count: 1 Unique: 1 Url: Google
+
+repo: subb views: total: 9 unique:  3
+Views:
+	 2024-09-16 00:00:00+00:00 total: 7 unique: 1
+	 2024-09-22 00:00:00+00:00 total: 2 unique: 2
+	Referrers:
+		Count: 7 Unique: 1 Url: Google
 
 repo: flagged-hn views: total: 7 unique:  3
 Views:
@@ -166,20 +173,11 @@ Views:
 	 2024-09-14 00:00:00+00:00 total: 4 unique: 1
 	Referrers:
 		Count: 4 Unique: 1 Url: leetcode.com
-		Count: 3 Unique: 1 Url: github.com
-
-repo: subb views: total: 7 unique:  1
-Views:
-	 2024-09-16 00:00:00+00:00 total: 7 unique: 1
-	Referrers:
-		Count: 7 Unique: 1 Url: Google
 
 repo: pythoncourse views: total: 6 unique:  3
 Views:
 	 2024-09-09 00:00:00+00:00 total: 4 unique: 1
 	 2024-09-14 00:00:00+00:00 total: 2 unique: 2
-	Referrers:
-		Count: 4 Unique: 1 Url: github.com
 
 repo: roget-thesaurus-parser views: total: 6 unique:  3
 Views:
@@ -214,11 +212,16 @@ Views:
 	Referrers:
 		Count: 3 Unique: 3 Url: Google
 
+repo: dockerdashphp views: total: 2 unique:  1
+Views:
+	 2024-09-22 00:00:00+00:00 total: 2 unique: 1
+
 repo: ls-annotations views: total: 2 unique:  2
 Views:
 	 2024-09-10 00:00:00+00:00 total: 1 unique: 1
 	 2024-09-21 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
+		Count: 1 Unique: 1 Url: Google
 		Count: 1 Unique: 1 Url: qwant.com
 
 repo: docker-force-attach views: total: 1 unique:  1
@@ -246,8 +249,6 @@ Views:
 repo: rzgrep views: total: 1 unique:  1
 Views:
 	 2024-09-09 00:00:00+00:00 total: 1 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: github.com
 
 repo: visual-python-strace views: total: 1 unique:  1
 Views:
@@ -256,8 +257,6 @@ Views:
 		Count: 1 Unique: 1 Url: pypi.org
 
 repo: devgoodies views: total: 0 unique:  0
-
-repo: dockerdashphp views: total: 0 unique:  0
 
 repo: download-artifacts views: total: 0 unique:  0
 
@@ -285,4 +284,4 @@ repo: zipit views: total: 0 unique:  0
 
 
 ***
-Total views: 535
+Total views: 542

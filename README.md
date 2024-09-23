@@ -1,11 +1,13 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sun Sep 22 00:57:04 UTC 2024
+Mon Sep 23 00:53:50 UTC 2024
 
 <pre>
 
  _________________________________________
-/ Learn to pause -- or nothing worthwhile \
-\ can catch up to you.                    /
+/ But, for my own part, it was Greek to   \
+| me.                                     |
+|                                         |
+\ -- William Shakespeare, "Julius Caesar" /
  -----------------------------------------
         \   ^__^
          \  (..)\_______
