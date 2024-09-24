@@ -1,20 +1,25 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Mon Sep 23 00:53:50 UTC 2024
+Tue Sep 24 00:53:49 UTC 2024
 
 <pre>
 
- _________________________________________
-/ But, for my own part, it was Greek to   \
-| me.                                     |
-|                                         |
-\ -- William Shakespeare, "Julius Caesar" /
- -----------------------------------------
+ ________________________________________
+/ It is easy to find fault, if one has   \
+| that disposition. There was once a man |
+| who, not being able to find any other  |
+| fault with his coal, complained that   |
+| there were too many prehistoric toads  |
+| in it.                                 |
+|                                        |
+| -- Mark Twain, "Pudd'nhead Wilson's    |
+\ Calendar"                              /
+ ----------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (~~)\_______
             (__)\       )\/\
-             -- ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: -64 '(from -100..100) state: 'very bad' eye: ~~ tongue: :(
 
 </pre>
 
