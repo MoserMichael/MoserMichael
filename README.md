@@ -1,19 +1,20 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Thu Sep 26 00:53:06 UTC 2024
+Fri Sep 27 00:53:25 UTC 2024
 
 <pre>
 
- _____________________________________
-/ You never know how many friends you \
-| have until you rent a house on the  |
-\ beach.                              /
- -------------------------------------
+ ________________________________________
+/ The very ink with which all history is \
+| written is merely fluid prejudice.     |
+|                                        |
+\ -- Mark Twain                          /
+ ----------------------------------------
         \   ^__^
-         \  (oo)\_______
+         \  (!!)\_______
             (__)\       )\/\
-             :) ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 48 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: -51 '(from -100..100) state: 'bad' eye: !! tongue: :(
 
 </pre>
 
