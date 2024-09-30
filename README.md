@@ -1,18 +1,17 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sun Sep 29 00:58:07 UTC 2024
+Mon Sep 30 00:55:26 UTC 2024
 
 <pre>
 
- _________________________________________
-/ Write yourself a threatening letter and \
-\ pen a defiant reply.                    /
- -----------------------------------------
+ ____________________________________
+< You will be married within a year. >
+ ------------------------------------
         \   ^__^
-         \  (~~)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :( ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: -65 '(from -100..100) state: 'very bad' eye: ~~ tongue: :(
+nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
@@ -109,8 +108,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 602 </th></tr>
 </table>
 <br>
-old_date:  2024-09-17 00:42:13.722332 now: 2024-09-29 00:58:23.483914
-rzgrep stars changed from: 7 to: 8
     </pre>
   </td>
 </table>
