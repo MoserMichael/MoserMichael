@@ -1,18 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Thu Oct  3 00:53:31 UTC 2024
+Fri Oct  4 00:53:29 UTC 2024
 
 <pre>
 
  _________________________________________
-/ You will always get the greatest        \
-\ recognition for the job you least like. /
+/ Write yourself a threatening letter and \
+\ pen a defiant reply.                    /
  -----------------------------------------
         \   ^__^
-         \  (oo)\_______
+         \  (~~)\_______
             (__)\       )\/\
-             :) ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 47 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: -65 '(from -100..100) state: 'very bad' eye: ~~ tongue: :(
 
 </pre>
 
