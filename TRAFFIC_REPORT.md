@@ -23,15 +23,14 @@ Views:
 	 2024-10-06 00:00:00+00:00 total: 8 unique: 4
 	 2024-10-07 00:00:00+00:00 total: 5 unique: 4
 	Referrers:
-		Count: 19 Unique: 11 Url: Google
+		Count: 16 Unique: 11 Url: Google
 		Count: 5 Unique: 3 Url: news.ycombinator.com
 		Count: 5 Unique: 2 Url: github.com
 		Count: 3 Unique: 1 Url: gemini.google.com
 		Count: 2 Unique: 1 Url: grep.app
-		Count: 2 Unique: 1 Url: link.csdn.net
 		Count: 1 Unique: 1 Url: Bing
 
-repo: kwchecker views: total: 50 unique:  3
+repo: kwchecker views: total: 52 unique:  3
 Views:
 	 2024-09-26 00:00:00+00:00 total: 2 unique: 1
 	 2024-09-27 00:00:00+00:00 total: 2 unique: 1
@@ -45,12 +44,12 @@ Views:
 	 2024-10-05 00:00:00+00:00 total: 3 unique: 1
 	 2024-10-06 00:00:00+00:00 total: 3 unique: 1
 	 2024-10-07 00:00:00+00:00 total: 2 unique: 2
+	 2024-10-08 00:00:00+00:00 total: 2 unique: 1
 	Referrers:
-		Count: 35 Unique: 2 Url: Google
+		Count: 36 Unique: 2 Url: Google
 
-repo: s9k views: total: 36 unique:  10
+repo: s9k views: total: 35 unique:  9
 Views:
-	 2024-09-24 00:00:00+00:00 total: 2 unique: 1
 	 2024-09-25 00:00:00+00:00 total: 1 unique: 1
 	 2024-09-26 00:00:00+00:00 total: 1 unique: 1
 	 2024-09-28 00:00:00+00:00 total: 1 unique: 1
@@ -60,23 +59,23 @@ Views:
 	 2024-10-05 00:00:00+00:00 total: 2 unique: 2
 	 2024-10-06 00:00:00+00:00 total: 1 unique: 1
 	 2024-10-07 00:00:00+00:00 total: 18 unique: 1
+	 2024-10-08 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
-		Count: 12 Unique: 5 Url: Google
-		Count: 2 Unique: 2 Url: github.com
+		Count: 16 Unique: 5 Url: Google
+		Count: 1 Unique: 1 Url: github.com
 		Count: 1 Unique: 1 Url: search.brave.com
 
 repo: duckduckbang views: total: 15 unique:  12
 Views:
-	 2024-09-24 00:00:00+00:00 total: 1 unique: 1
 	 2024-09-25 00:00:00+00:00 total: 1 unique: 1
 	 2024-09-28 00:00:00+00:00 total: 4 unique: 4
 	 2024-09-29 00:00:00+00:00 total: 2 unique: 2
 	 2024-10-02 00:00:00+00:00 total: 2 unique: 2
 	 2024-10-05 00:00:00+00:00 total: 2 unique: 1
 	 2024-10-06 00:00:00+00:00 total: 3 unique: 2
+	 2024-10-08 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
 		Count: 4 Unique: 2 Url: fmhy.pages.dev
-		Count: 1 Unique: 1 Url: news.ycombinator.com
 
 repo: roget-thesaurus-parser views: total: 15 unique:  4
 Views:
@@ -85,15 +84,8 @@ Views:
 	 2024-10-01 00:00:00+00:00 total: 1 unique: 1
 	 2024-10-07 00:00:00+00:00 total: 3 unique: 1
 	Referrers:
-		Count: 6 Unique: 1 Url: Google
+		Count: 7 Unique: 2 Url: Google
 		Count: 4 Unique: 1 Url: pypi.org
-
-repo: jpa-enc-converter views: total: 13 unique:  2
-Views:
-	 2024-09-24 00:00:00+00:00 total: 1 unique: 1
-	 2024-10-04 00:00:00+00:00 total: 12 unique: 1
-	Referrers:
-		Count: 12 Unique: 1 Url: Google
 
 repo: python-obj-system views: total: 13 unique:  9
 Views:
@@ -106,6 +98,25 @@ Views:
 		Count: 2 Unique: 1 Url: github.com
 		Count: 2 Unique: 1 Url: link.csdn.net
 
+repo: jpa-enc-converter views: total: 12 unique:  1
+Views:
+	 2024-10-04 00:00:00+00:00 total: 12 unique: 1
+	Referrers:
+		Count: 12 Unique: 1 Url: Google
+
+repo: vimcrypt2 views: total: 10 unique:  7
+Views:
+	 2024-09-25 00:00:00+00:00 total: 2 unique: 2
+	 2024-09-26 00:00:00+00:00 total: 1 unique: 1
+	 2024-09-30 00:00:00+00:00 total: 4 unique: 1
+	 2024-10-03 00:00:00+00:00 total: 1 unique: 1
+	 2024-10-07 00:00:00+00:00 total: 1 unique: 1
+	 2024-10-08 00:00:00+00:00 total: 1 unique: 1
+	Referrers:
+		Count: 2 Unique: 2 Url: Google
+		Count: 1 Unique: 1 Url: DuckDuckGo
+		Count: 1 Unique: 1 Url: search.brave.com
+
 repo: kind-helper views: total: 9 unique:  8
 Views:
 	 2024-09-30 00:00:00+00:00 total: 2 unique: 2
@@ -113,18 +124,6 @@ Views:
 	 2024-10-02 00:00:00+00:00 total: 2 unique: 1
 	Referrers:
 		Count: 2 Unique: 1 Url: Google
-
-repo: vimcrypt2 views: total: 9 unique:  6
-Views:
-	 2024-09-25 00:00:00+00:00 total: 2 unique: 2
-	 2024-09-26 00:00:00+00:00 total: 1 unique: 1
-	 2024-09-30 00:00:00+00:00 total: 4 unique: 1
-	 2024-10-03 00:00:00+00:00 total: 1 unique: 1
-	 2024-10-07 00:00:00+00:00 total: 1 unique: 1
-	Referrers:
-		Count: 2 Unique: 2 Url: Google
-		Count: 1 Unique: 1 Url: DuckDuckGo
-		Count: 1 Unique: 1 Url: search.brave.com
 
 repo: cstuff views: total: 8 unique:  5
 Views:
@@ -143,13 +142,18 @@ Views:
 	Referrers:
 		Count: 5 Unique: 1 Url: Google
 
+repo: myenv views: total: 5 unique:  5
+Views:
+	 2024-09-25 00:00:00+00:00 total: 1 unique: 1
+	 2024-09-28 00:00:00+00:00 total: 1 unique: 1
+	 2024-10-01 00:00:00+00:00 total: 1 unique: 1
+	 2024-10-08 00:00:00+00:00 total: 2 unique: 2
+
 repo: rzgrep views: total: 5 unique:  4
 Views:
 	 2024-09-25 00:00:00+00:00 total: 2 unique: 1
 	 2024-09-28 00:00:00+00:00 total: 2 unique: 2
 	 2024-10-02 00:00:00+00:00 total: 1 unique: 1
-	Referrers:
-		Count: 2 Unique: 1 Url: github.com
 
 repo: cppcombinator views: total: 4 unique:  3
 Views:
@@ -182,28 +186,14 @@ Views:
 	Referrers:
 		Count: 4 Unique: 1 Url: Google
 
-repo: jq-illustrated views: total: 3 unique:  2
-Views:
-	 2024-09-24 00:00:00+00:00 total: 2 unique: 1
-	 2024-10-02 00:00:00+00:00 total: 1 unique: 1
-
-repo: myenv views: total: 3 unique:  3
-Views:
-	 2024-09-25 00:00:00+00:00 total: 1 unique: 1
-	 2024-09-28 00:00:00+00:00 total: 1 unique: 1
-	 2024-10-01 00:00:00+00:00 total: 1 unique: 1
-
-repo: vimcrypt views: total: 3 unique:  3
-Views:
-	 2024-09-24 00:00:00+00:00 total: 2 unique: 2
-	 2024-10-03 00:00:00+00:00 total: 1 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: search.brave.com
-
 repo: githubapitools views: total: 2 unique:  2
 Views:
 	 2024-09-29 00:00:00+00:00 total: 1 unique: 1
 	 2024-10-01 00:00:00+00:00 total: 1 unique: 1
+
+repo: ls-annotations views: total: 2 unique:  2
+Views:
+	 2024-10-08 00:00:00+00:00 total: 2 unique: 2
 
 repo: my-notes views: total: 2 unique:  2
 Views:
@@ -222,11 +212,13 @@ Views:
 	Referrers:
 		Count: 1 Unique: 1 Url: Google
 
+repo: jq-illustrated views: total: 1 unique:  1
+Views:
+	 2024-10-02 00:00:00+00:00 total: 1 unique: 1
+
 repo: k8explain views: total: 1 unique:  1
 Views:
 	 2024-09-25 00:00:00+00:00 total: 1 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: Google
 
 repo: subb views: total: 1 unique:  1
 Views:
@@ -235,6 +227,12 @@ Views:
 repo: teach-your-children-well views: total: 1 unique:  1
 Views:
 	 2024-09-28 00:00:00+00:00 total: 1 unique: 1
+
+repo: vimcrypt views: total: 1 unique:  1
+Views:
+	 2024-10-03 00:00:00+00:00 total: 1 unique: 1
+	Referrers:
+		Count: 1 Unique: 1 Url: search.brave.com
 
 repo: zipit views: total: 1 unique:  1
 Views:
@@ -260,8 +258,6 @@ repo: jobinterviewhomework views: total: 0 unique:  0
 
 repo: jscriptparse views: total: 0 unique:  0
 
-repo: ls-annotations views: total: 0 unique:  0
-
 repo: opinionated-fortune-cow views: total: 0 unique:  0
 
 repo: pprintex views: total: 0 unique:  0
@@ -272,4 +268,4 @@ repo: pythonimportplayground views: total: 0 unique:  0
 
 
 ***
-Total views: 272
+Total views: 273
