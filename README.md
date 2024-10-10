@@ -1,18 +1,21 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Wed Oct  9 00:53:08 UTC 2024
+Thu Oct 10 00:53:24 UTC 2024
 
 <pre>
 
- _______________________________________
-/ You will be aided greatly by a person \
-\ whom you thought to be unimportant.   /
- ---------------------------------------
+ ________________________________________
+/ You may my glories and my state        \
+| dispose, But not my griefs; still am I |
+| king of those.                         |
+|                                        |
+\ -- William Shakespeare, "Richard II"   /
+ ----------------------------------------
         \   ^__^
-         \  (!!)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :( ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: -32 '(from -100..100) state: 'bad' eye: !! tongue: :(
+nltk score: 26 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
