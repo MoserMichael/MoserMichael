@@ -1,19 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Tue Oct 15 00:54:25 UTC 2024
+Wed Oct 16 00:54:18 UTC 2024
 
 <pre>
 
- _________________________________________
-/ Q: What's the difference between an     \
-| Irish wedding and an Irish wake? A: One |
-\ less drunk.                             /
- -----------------------------------------
+ ___________________________________
+/ You will be called upon to help a \
+\ friend in trouble.                /
+ -----------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (oo)\_______
             (__)\       )\/\
-             -- ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: -27 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 49 '(from -100..100) state: 'good' eye: oo tongue: :)
 
 </pre>
 
@@ -110,8 +109,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 603 </th></tr>
 </table>
 <br>
-old_date:  2024-09-29 00:58:23.484048 now: 2024-10-15 00:54:40.538370
-s9k stars changed from: 19 to: 20
     </pre>
   </td>
 </table>
