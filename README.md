@@ -1,19 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Mon Oct 21 00:55:41 UTC 2024
+Tue Oct 22 00:54:45 UTC 2024
 
 <pre>
 
- _____________________________________
-/ You're growing out of some of your  \
-| problems, but there are others that |
-\ you're growing into.                /
- -------------------------------------
+ _______________________________________
+/ You get along very well with everyone \
+\ except animals and people.            /
+ ---------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (oo)\_______
             (__)\       )\/\
-             -- ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: 14 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 34 '(from -100..100) state: 'good' eye: oo tongue: :)
 
 </pre>
 
