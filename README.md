@@ -1,18 +1,22 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Tue Oct 22 00:54:45 UTC 2024
+Wed Oct 23 00:54:02 UTC 2024
 
 <pre>
 
- _______________________________________
-/ You get along very well with everyone \
-\ except animals and people.            /
- ---------------------------------------
+ ________________________________________
+/ This is the first age that's paid much \
+| attention to the future, which is a    |
+| little ironic since we may not have    |
+| one.                                   |
+|                                        |
+\ -- Arthur Clarke                       /
+ ----------------------------------------
         \   ^__^
-         \  (oo)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :) ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: 34 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: -5 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
