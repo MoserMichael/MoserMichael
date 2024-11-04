@@ -22,7 +22,7 @@ Views:
 	 2024-11-01 00:00:00+00:00 total: 7 unique: 3
 	 2024-11-02 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
-		Count: 15 Unique: 10 Url: Google
+		Count: 13 Unique: 9 Url: Google
 		Count: 5 Unique: 3 Url: news.ycombinator.com
 		Count: 2 Unique: 1 Url: yandex.ru
 		Count: 1 Unique: 1 Url: api.daily.dev
@@ -39,9 +39,8 @@ Views:
 		Count: 3 Unique: 1 Url: mosermichael.github.io
 		Count: 1 Unique: 1 Url: Google
 
-repo: s9k views: total: 15 unique:  11
+repo: s9k views: total: 14 unique:  10
 Views:
-	 2024-10-20 00:00:00+00:00 total: 1 unique: 1
 	 2024-10-21 00:00:00+00:00 total: 1 unique: 1
 	 2024-10-23 00:00:00+00:00 total: 2 unique: 2
 	 2024-10-24 00:00:00+00:00 total: 2 unique: 2
@@ -67,14 +66,13 @@ Views:
 
 repo: duckduckbang views: total: 8 unique:  7
 Views:
-	 2024-10-20 00:00:00+00:00 total: 1 unique: 1
 	 2024-10-21 00:00:00+00:00 total: 1 unique: 1
 	 2024-10-23 00:00:00+00:00 total: 1 unique: 1
 	 2024-10-24 00:00:00+00:00 total: 2 unique: 2
 	 2024-10-26 00:00:00+00:00 total: 2 unique: 1
 	 2024-11-02 00:00:00+00:00 total: 1 unique: 1
+	 2024-11-03 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
-		Count: 1 Unique: 1 Url: fmhy.pages.dev
 		Count: 1 Unique: 1 Url: news.ycombinator.com
 
 repo: pygamewrap views: total: 8 unique:  5
@@ -86,6 +84,16 @@ Views:
 	Referrers:
 		Count: 6 Unique: 3 Url: Google
 
+repo: python-obj-system views: total: 8 unique:  6
+Views:
+	 2024-10-24 00:00:00+00:00 total: 1 unique: 1
+	 2024-10-25 00:00:00+00:00 total: 2 unique: 2
+	 2024-10-26 00:00:00+00:00 total: 1 unique: 1
+	 2024-10-30 00:00:00+00:00 total: 1 unique: 1
+	 2024-11-03 00:00:00+00:00 total: 3 unique: 1
+	Referrers:
+		Count: 1 Unique: 1 Url: github.com
+
 repo: jscriptparse views: total: 7 unique:  7
 Views:
 	 2024-10-23 00:00:00+00:00 total: 1 unique: 1
@@ -94,16 +102,6 @@ Views:
 	 2024-10-26 00:00:00+00:00 total: 1 unique: 1
 	 2024-11-01 00:00:00+00:00 total: 1 unique: 1
 
-repo: python-obj-system views: total: 6 unique:  6
-Views:
-	 2024-10-20 00:00:00+00:00 total: 1 unique: 1
-	 2024-10-24 00:00:00+00:00 total: 1 unique: 1
-	 2024-10-25 00:00:00+00:00 total: 2 unique: 2
-	 2024-10-26 00:00:00+00:00 total: 1 unique: 1
-	 2024-10-30 00:00:00+00:00 total: 1 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: github.com
-
 repo: jq-illustrated views: total: 5 unique:  2
 Views:
 	 2024-10-21 00:00:00+00:00 total: 1 unique: 1
@@ -111,22 +109,34 @@ Views:
 	 2024-10-26 00:00:00+00:00 total: 2 unique: 1
 	 2024-10-30 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
-		Count: 4 Unique: 1 Url: mosermichael.github.io
+		Count: 3 Unique: 1 Url: mosermichael.github.io
 		Count: 1 Unique: 1 Url: github.com
+
+repo: myenv views: total: 5 unique:  5
+Views:
+	 2024-10-22 00:00:00+00:00 total: 1 unique: 1
+	 2024-10-23 00:00:00+00:00 total: 1 unique: 1
+	 2024-10-24 00:00:00+00:00 total: 1 unique: 1
+	 2024-11-03 00:00:00+00:00 total: 2 unique: 2
+
+repo: gitblame views: total: 4 unique:  2
+Views:
+	 2024-10-28 00:00:00+00:00 total: 1 unique: 1
+	 2024-11-03 00:00:00+00:00 total: 3 unique: 1
+	Referrers:
+		Count: 1 Unique: 1 Url: Bing
+
+repo: vimcrypt2 views: total: 4 unique:  4
+Views:
+	 2024-10-21 00:00:00+00:00 total: 1 unique: 1
+	 2024-10-27 00:00:00+00:00 total: 2 unique: 2
+	 2024-11-03 00:00:00+00:00 total: 1 unique: 1
 
 repo: kind-helper views: total: 3 unique:  3
 Views:
 	 2024-10-21 00:00:00+00:00 total: 1 unique: 1
 	 2024-10-22 00:00:00+00:00 total: 1 unique: 1
 	 2024-10-26 00:00:00+00:00 total: 1 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: gemini.google.com
-
-repo: myenv views: total: 3 unique:  3
-Views:
-	 2024-10-22 00:00:00+00:00 total: 1 unique: 1
-	 2024-10-23 00:00:00+00:00 total: 1 unique: 1
-	 2024-10-24 00:00:00+00:00 total: 1 unique: 1
 
 repo: pythonimportplayground views: total: 3 unique:  3
 Views:
@@ -144,11 +154,6 @@ Views:
 	Referrers:
 		Count: 2 Unique: 2 Url: Google
 
-repo: vimcrypt2 views: total: 3 unique:  3
-Views:
-	 2024-10-21 00:00:00+00:00 total: 1 unique: 1
-	 2024-10-27 00:00:00+00:00 total: 2 unique: 2
-
 repo: visual-python-strace views: total: 3 unique:  2
 Views:
 	 2024-10-27 00:00:00+00:00 total: 1 unique: 1
@@ -159,8 +164,6 @@ Views:
 repo: docker-force-attach views: total: 2 unique:  1
 Views:
 	 2024-10-21 00:00:00+00:00 total: 2 unique: 1
-	Referrers:
-		Count: 2 Unique: 1 Url: Google
 
 repo: flagged-hn views: total: 2 unique:  2
 Views:
@@ -189,14 +192,6 @@ Views:
 repo: dockerdashphp views: total: 1 unique:  1
 Views:
 	 2024-10-21 00:00:00+00:00 total: 1 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: github.com
-
-repo: gitblame views: total: 1 unique:  1
-Views:
-	 2024-10-28 00:00:00+00:00 total: 1 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: Bing
 
 repo: jpa-enc-converter views: total: 1 unique:  1
 Views:
@@ -248,4 +243,4 @@ repo: zipit views: total: 0 unique:  0
 
 
 ***
-Total views: 137
+Total views: 144
