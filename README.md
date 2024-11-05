@@ -1,18 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Mon Nov  4 00:55:55 UTC 2024
+Tue Nov  5 00:52:49 UTC 2024
 
 <pre>
 
- _________________________________________
-/ You will always get the greatest        \
-\ recognition for the job you least like. /
- -----------------------------------------
+ _______________________________________
+/ Try to have as good a life as you can \
+\ under the circumstances.              /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
              :) ||----w |
                 ||     ||
-nltk score: 47 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: 44 '(from -100..100) state: 'good' eye: oo tongue: :)
 
 </pre>
 
@@ -109,8 +109,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 606 </th></tr>
 </table>
 <br>
-old_date:  2024-10-31 00:55:03.931126 now: 2024-11-04 00:56:10.658391
-kind-helper stars changed from: 23 to: 24
     </pre>
   </td>
 </table>
