@@ -1,17 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sat Nov  9 00:51:54 UTC 2024
+Sun Nov 10 00:56:42 UTC 2024
 
 <pre>
 
- _____________________________________
-< You will be divorced within a year. >
- -------------------------------------
+ ________________________________________
+/ You are sick, twisted and perverted. I \
+\ like that in a person.                 /
+ ----------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (~~)\_______
             (__)\       )\/\
-             -- ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: -65 '(from -100..100) state: 'very bad' eye: ~~ tongue: :(
 
 </pre>
 
