@@ -1,28 +1,27 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Mon Nov 11 00:54:44 UTC 2024
+Tue Nov 12 00:52:29 UTC 2024
 
 <pre>
 
- _________________________________________
-/  The Priest's grey nimbus in a niche    \
-| where he dressed discreetly. I will not |
-| sleep here tonight. Home also I cannot  |
-| go.                                     |
-|                                         |
-| A voice, sweetened and sustained,       |
-| called to him from the sea. Turning the |
-| curve he waved his hand. A sleek brown  |
-| head, a seal's, far out on the water,   |
-| round. Usurper.                         |
-|                                         |
-\ -- James Joyce, "Ulysses"               /
- -----------------------------------------
+ ________________________________________
+/ Unless hours were cups of sack, and    \
+| minutes capons, and clocks the tongues |
+| of bawds, and dials the signs of       |
+| leaping houses, and the blessed sun    |
+| himself a fair, hot wench in           |
+| flame-colored taffeta, I see no reason |
+| why thou shouldst be so superfluous to |
+| demand the time of the day. I wasted   |
+| time and now doth time waste me.       |
+|                                        |
+\ -- William Shakespeare                 /
+ ----------------------------------------
         \   ^__^
-         \  (oo)\_______
+         \  (!!)\_______
             (__)\       )\/\
-             :) ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 53 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: -41 '(from -100..100) state: 'bad' eye: !! tongue: :(
 
 </pre>
 
@@ -119,8 +118,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 605 </th></tr>
 </table>
 <br>
-old_date:  2024-11-04 00:56:10.658525 now: 2024-11-11 00:55:01.329204
-pyasmtool stars changed from: 322 to: 321
     </pre>
   </td>
 </table>
