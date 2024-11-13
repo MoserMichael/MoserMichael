@@ -1,27 +1,21 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Tue Nov 12 00:52:29 UTC 2024
+Wed Nov 13 00:53:28 UTC 2024
 
 <pre>
 
- ________________________________________
-/ Unless hours were cups of sack, and    \
-| minutes capons, and clocks the tongues |
-| of bawds, and dials the signs of       |
-| leaping houses, and the blessed sun    |
-| himself a fair, hot wench in           |
-| flame-colored taffeta, I see no reason |
-| why thou shouldst be so superfluous to |
-| demand the time of the day. I wasted   |
-| time and now doth time waste me.       |
-|                                        |
-\ -- William Shakespeare                 /
- ----------------------------------------
+ _________________________________________
+/ Q: What do you call a principal female  \
+| opera singer whose high C               |
+|                                         |
+| is lower than those of other principal  |
+\ female opera singers? A: A deep C diva. /
+ -----------------------------------------
         \   ^__^
          \  (!!)\_______
             (__)\       )\/\
              :( ||----w |
                 ||     ||
-nltk score: -41 '(from -100..100) state: 'bad' eye: !! tongue: :(
+nltk score: -30 '(from -100..100) state: 'bad' eye: !! tongue: :(
 
 </pre>
 
