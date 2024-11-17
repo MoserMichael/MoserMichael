@@ -12,9 +12,9 @@ Views:
 	 2024-11-11 00:00:00+00:00 total: 11 unique: 1
 	 2024-11-15 00:00:00+00:00 total: 14 unique: 1
 	Referrers:
-		Count: 11 Unique: 1 Url: Google
+		Count: 25 Unique: 2 Url: Google
 
-repo: s9k views: total: 23 unique:  17
+repo: s9k views: total: 24 unique:  18
 Views:
 	 2024-11-04 00:00:00+00:00 total: 1 unique: 1
 	 2024-11-05 00:00:00+00:00 total: 4 unique: 3
@@ -26,14 +26,15 @@ Views:
 	 2024-11-13 00:00:00+00:00 total: 2 unique: 2
 	 2024-11-14 00:00:00+00:00 total: 3 unique: 2
 	 2024-11-15 00:00:00+00:00 total: 1 unique: 1
+	 2024-11-16 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
 		Count: 20 Unique: 14 Url: Google
+		Count: 1 Unique: 1 Url: ecosia.org
 		Count: 1 Unique: 1 Url: DuckDuckGo
 		Count: 1 Unique: 1 Url: news.ycombinator.com
 
-repo: pyasmtool views: total: 22 unique:  14
+repo: pyasmtool views: total: 23 unique:  15
 Views:
-	 2024-11-02 00:00:00+00:00 total: 1 unique: 1
 	 2024-11-04 00:00:00+00:00 total: 2 unique: 1
 	 2024-11-05 00:00:00+00:00 total: 1 unique: 1
 	 2024-11-06 00:00:00+00:00 total: 2 unique: 2
@@ -44,6 +45,7 @@ Views:
 	 2024-11-12 00:00:00+00:00 total: 1 unique: 1
 	 2024-11-13 00:00:00+00:00 total: 3 unique: 1
 	 2024-11-14 00:00:00+00:00 total: 3 unique: 1
+	 2024-11-16 00:00:00+00:00 total: 2 unique: 2
 	Referrers:
 		Count: 7 Unique: 5 Url: Google
 		Count: 3 Unique: 1 Url: github.com
@@ -63,7 +65,21 @@ Views:
 	 2024-11-14 00:00:00+00:00 total: 3 unique: 3
 	 2024-11-15 00:00:00+00:00 total: 4 unique: 3
 	Referrers:
+		Count: 2 Unique: 1 Url: Google
 		Count: 1 Unique: 1 Url: pypi.org
+
+repo: python-obj-system views: total: 9 unique:  6
+Views:
+	 2024-11-03 00:00:00+00:00 total: 3 unique: 1
+	 2024-11-04 00:00:00+00:00 total: 2 unique: 1
+	 2024-11-07 00:00:00+00:00 total: 1 unique: 1
+	 2024-11-10 00:00:00+00:00 total: 1 unique: 1
+	 2024-11-14 00:00:00+00:00 total: 1 unique: 1
+	 2024-11-16 00:00:00+00:00 total: 1 unique: 1
+	Referrers:
+		Count: 2 Unique: 1 Url: news.ycombinator.com
+		Count: 1 Unique: 1 Url: github.com
+		Count: 1 Unique: 1 Url: gist.github.com
 
 repo: flagged-hn views: total: 8 unique:  4
 Views:
@@ -75,18 +91,6 @@ Views:
 		Count: 5 Unique: 2 Url: news.ycombinator.com
 		Count: 2 Unique: 1 Url: Google
 
-repo: python-obj-system views: total: 8 unique:  5
-Views:
-	 2024-11-03 00:00:00+00:00 total: 3 unique: 1
-	 2024-11-04 00:00:00+00:00 total: 2 unique: 1
-	 2024-11-07 00:00:00+00:00 total: 1 unique: 1
-	 2024-11-10 00:00:00+00:00 total: 1 unique: 1
-	 2024-11-14 00:00:00+00:00 total: 1 unique: 1
-	Referrers:
-		Count: 3 Unique: 2 Url: gist.github.com
-		Count: 2 Unique: 1 Url: news.ycombinator.com
-		Count: 1 Unique: 1 Url: github.com
-
 repo: roget-thesaurus-parser views: total: 7 unique:  3
 Views:
 	 2024-11-07 00:00:00+00:00 total: 1 unique: 1
@@ -95,15 +99,6 @@ Views:
 	Referrers:
 		Count: 6 Unique: 2 Url: pypi.org
 		Count: 1 Unique: 1 Url: github.com
-
-repo: duckduckbang views: total: 6 unique:  5
-Views:
-	 2024-11-02 00:00:00+00:00 total: 1 unique: 1
-	 2024-11-03 00:00:00+00:00 total: 1 unique: 1
-	 2024-11-10 00:00:00+00:00 total: 1 unique: 1
-	 2024-11-12 00:00:00+00:00 total: 3 unique: 2
-	Referrers:
-		Count: 2 Unique: 1 Url: github.com
 
 repo: my-notes views: total: 6 unique:  2
 Views:
@@ -116,22 +111,23 @@ repo: cppcombinator views: total: 5 unique:  2
 Views:
 	 2024-11-07 00:00:00+00:00 total: 1 unique: 1
 	 2024-11-15 00:00:00+00:00 total: 4 unique: 1
+	Referrers:
+		Count: 4 Unique: 1 Url: reddit.com
 
-repo: vimcrypt2 views: total: 5 unique:  4
+repo: duckduckbang views: total: 5 unique:  4
 Views:
 	 2024-11-03 00:00:00+00:00 total: 1 unique: 1
-	 2024-11-05 00:00:00+00:00 total: 1 unique: 1
 	 2024-11-10 00:00:00+00:00 total: 1 unique: 1
-	 2024-11-12 00:00:00+00:00 total: 2 unique: 1
+	 2024-11-12 00:00:00+00:00 total: 3 unique: 2
 	Referrers:
-		Count: 2 Unique: 1 Url: vim.org
-		Count: 1 Unique: 1 Url: Google
+		Count: 2 Unique: 1 Url: github.com
 
-repo: kwchecker views: total: 4 unique:  3
+repo: kwchecker views: total: 5 unique:  4
 Views:
 	 2024-11-05 00:00:00+00:00 total: 1 unique: 1
 	 2024-11-06 00:00:00+00:00 total: 1 unique: 1
 	 2024-11-10 00:00:00+00:00 total: 2 unique: 1
+	 2024-11-16 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
 		Count: 3 Unique: 2 Url: Google
 
@@ -140,14 +136,29 @@ Views:
 	 2024-11-06 00:00:00+00:00 total: 3 unique: 2
 	 2024-11-15 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
-		Count: 1 Unique: 1 Url: Google
+		Count: 2 Unique: 2 Url: Google
 		Count: 1 Unique: 1 Url: Bing
+
+repo: vimcrypt2 views: total: 4 unique:  3
+Views:
+	 2024-11-05 00:00:00+00:00 total: 1 unique: 1
+	 2024-11-10 00:00:00+00:00 total: 1 unique: 1
+	 2024-11-12 00:00:00+00:00 total: 2 unique: 1
+	Referrers:
+		Count: 2 Unique: 1 Url: vim.org
+		Count: 1 Unique: 1 Url: Google
+
+repo: cstuff views: total: 3 unique:  3
+Views:
+	 2024-11-13 00:00:00+00:00 total: 1 unique: 1
+	 2024-11-14 00:00:00+00:00 total: 1 unique: 1
+	 2024-11-16 00:00:00+00:00 total: 1 unique: 1
+	Referrers:
+		Count: 2 Unique: 2 Url: github.com
 
 repo: gitblame views: total: 3 unique:  1
 Views:
 	 2024-11-03 00:00:00+00:00 total: 3 unique: 1
-	Referrers:
-		Count: 3 Unique: 1 Url: Google
 
 repo: myenv views: total: 3 unique:  3
 Views:
@@ -160,13 +171,6 @@ Views:
 	 2024-11-14 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
 		Count: 1 Unique: 1 Url: Google
-
-repo: cstuff views: total: 2 unique:  2
-Views:
-	 2024-11-13 00:00:00+00:00 total: 1 unique: 1
-	 2024-11-14 00:00:00+00:00 total: 1 unique: 1
-	Referrers:
-		Count: 2 Unique: 2 Url: github.com
 
 repo: dockerdashphp views: total: 2 unique:  2
 Views:
@@ -182,6 +186,11 @@ Views:
 	 2024-11-06 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
 		Count: 1 Unique: 1 Url: gemini.google.com
+
+repo: teach-your-children-well views: total: 2 unique:  2
+Views:
+	 2024-11-04 00:00:00+00:00 total: 1 unique: 1
+	 2024-11-16 00:00:00+00:00 total: 1 unique: 1
 
 repo: follow-kube-logs views: total: 1 unique:  1
 Views:
@@ -202,10 +211,6 @@ Views:
 	 2024-11-13 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
 		Count: 1 Unique: 1 Url: Google
-
-repo: teach-your-children-well views: total: 1 unique:  1
-Views:
-	 2024-11-04 00:00:00+00:00 total: 1 unique: 1
 
 repo: vimcrypt views: total: 1 unique:  1
 Views:
@@ -247,4 +252,4 @@ repo: zipit views: total: 0 unique:  0
 
 
 ***
-Total views: 165
+Total views: 169
