@@ -1,21 +1,19 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Mon Nov 18 00:58:12 UTC 2024
+Tue Nov 19 00:56:29 UTC 2024
 
 <pre>
 
  ________________________________________
-/ Q: Why do the police always travel in  \
-| threes? A: One to do the reading, one  |
-| to do the writing, and the other keeps |
-|                                        |
-\ an eye on the two intellectuals.       /
+/ If you learn one useless thing every   \
+| day, in a single year you'll learn 365 |
+\ useless things.                        /
  ----------------------------------------
         \   ^__^
-         \  (oo)\_______
+         \  (~~)\_______
             (__)\       )\/\
-             :) ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 38 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: -68 '(from -100..100) state: 'very bad' eye: ~~ tongue: :(
 
 </pre>
 
