@@ -14,9 +14,8 @@ Views:
 	Referrers:
 		Count: 25 Unique: 2 Url: Google
 
-repo: pyasmtool views: total: 25 unique:  16
+repo: pyasmtool views: total: 24 unique:  15
 Views:
-	 2024-11-05 00:00:00+00:00 total: 1 unique: 1
 	 2024-11-06 00:00:00+00:00 total: 2 unique: 2
 	 2024-11-07 00:00:00+00:00 total: 5 unique: 2
 	 2024-11-08 00:00:00+00:00 total: 2 unique: 2
@@ -28,14 +27,13 @@ Views:
 	 2024-11-16 00:00:00+00:00 total: 2 unique: 2
 	 2024-11-17 00:00:00+00:00 total: 4 unique: 2
 	Referrers:
-		Count: 10 Unique: 7 Url: Google
+		Count: 9 Unique: 6 Url: Google
 		Count: 3 Unique: 1 Url: github.com
 		Count: 3 Unique: 1 Url: search.brave.com
 		Count: 2 Unique: 2 Url: news.ycombinator.com
 
-repo: s9k views: total: 23 unique:  17
+repo: s9k views: total: 21 unique:  16
 Views:
-	 2024-11-05 00:00:00+00:00 total: 4 unique: 3
 	 2024-11-06 00:00:00+00:00 total: 6 unique: 2
 	 2024-11-09 00:00:00+00:00 total: 1 unique: 1
 	 2024-11-10 00:00:00+00:00 total: 1 unique: 1
@@ -45,14 +43,14 @@ Views:
 	 2024-11-14 00:00:00+00:00 total: 3 unique: 2
 	 2024-11-15 00:00:00+00:00 total: 1 unique: 1
 	 2024-11-16 00:00:00+00:00 total: 1 unique: 1
+	 2024-11-19 00:00:00+00:00 total: 2 unique: 2
 	Referrers:
-		Count: 17 Unique: 12 Url: Google
+		Count: 11 Unique: 10 Url: Google
 		Count: 1 Unique: 1 Url: ecosia.org
 		Count: 1 Unique: 1 Url: DuckDuckGo
 
-repo: pygamewrap views: total: 11 unique:  2
+repo: pygamewrap views: total: 10 unique:  1
 Views:
-	 2024-11-05 00:00:00+00:00 total: 1 unique: 1
 	 2024-11-10 00:00:00+00:00 total: 10 unique: 1
 	Referrers:
 		Count: 8 Unique: 1 Url: Bing
@@ -65,7 +63,7 @@ Views:
 	 2024-11-13 00:00:00+00:00 total: 2 unique: 1
 	 2024-11-17 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
-		Count: 6 Unique: 3 Url: news.ycombinator.com
+		Count: 3 Unique: 2 Url: news.ycombinator.com
 		Count: 2 Unique: 1 Url: Google
 
 repo: pprintex views: total: 9 unique:  8
@@ -102,7 +100,11 @@ Views:
 	 2024-11-16 00:00:00+00:00 total: 1 unique: 1
 	 2024-11-18 00:00:00+00:00 total: 3 unique: 2
 	Referrers:
-		Count: 2 Unique: 2 Url: github.com
+		Count: 4 Unique: 4 Url: github.com
+
+repo: grpc-spring-boot-starter-utils views: total: 6 unique:  1
+Views:
+	 2024-11-19 00:00:00+00:00 total: 6 unique: 1
 
 repo: my-notes views: total: 6 unique:  2
 Views:
@@ -122,15 +124,6 @@ Views:
 		Count: 2 Unique: 2 Url: github.com
 		Count: 1 Unique: 1 Url: gist.github.com
 
-repo: kwchecker views: total: 5 unique:  4
-Views:
-	 2024-11-05 00:00:00+00:00 total: 1 unique: 1
-	 2024-11-06 00:00:00+00:00 total: 1 unique: 1
-	 2024-11-10 00:00:00+00:00 total: 2 unique: 1
-	 2024-11-16 00:00:00+00:00 total: 1 unique: 1
-	Referrers:
-		Count: 3 Unique: 2 Url: Google
-
 repo: duckduckbang views: total: 4 unique:  3
 Views:
 	 2024-11-10 00:00:00+00:00 total: 1 unique: 1
@@ -138,21 +131,20 @@ Views:
 	Referrers:
 		Count: 2 Unique: 1 Url: github.com
 
+repo: kwchecker views: total: 4 unique:  3
+Views:
+	 2024-11-06 00:00:00+00:00 total: 1 unique: 1
+	 2024-11-10 00:00:00+00:00 total: 2 unique: 1
+	 2024-11-16 00:00:00+00:00 total: 1 unique: 1
+	Referrers:
+		Count: 2 Unique: 1 Url: Google
+
 repo: ls-annotations views: total: 4 unique:  3
 Views:
 	 2024-11-06 00:00:00+00:00 total: 3 unique: 2
 	 2024-11-15 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
-		Count: 2 Unique: 2 Url: Google
-		Count: 1 Unique: 1 Url: Bing
-
-repo: vimcrypt2 views: total: 4 unique:  3
-Views:
-	 2024-11-05 00:00:00+00:00 total: 1 unique: 1
-	 2024-11-10 00:00:00+00:00 total: 1 unique: 1
-	 2024-11-12 00:00:00+00:00 total: 2 unique: 1
-	Referrers:
-		Count: 2 Unique: 1 Url: vim.org
+		Count: 1 Unique: 1 Url: Google
 
 repo: myenv views: total: 3 unique:  3
 Views:
@@ -164,35 +156,32 @@ repo: pythonimportplayground views: total: 3 unique:  3
 Views:
 	 2024-11-06 00:00:00+00:00 total: 2 unique: 2
 	 2024-11-14 00:00:00+00:00 total: 1 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: Google
 
-repo: dockerdashphp views: total: 2 unique:  2
+repo: vimcrypt2 views: total: 3 unique:  2
 Views:
-	 2024-11-05 00:00:00+00:00 total: 1 unique: 1
-	 2024-11-13 00:00:00+00:00 total: 1 unique: 1
+	 2024-11-10 00:00:00+00:00 total: 1 unique: 1
+	 2024-11-12 00:00:00+00:00 total: 2 unique: 1
 	Referrers:
-		Count: 1 Unique: 1 Url: Google
-
-repo: kind-helper views: total: 2 unique:  2
-Views:
-	 2024-11-05 00:00:00+00:00 total: 1 unique: 1
-	 2024-11-06 00:00:00+00:00 total: 1 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: gemini.google.com
+		Count: 2 Unique: 1 Url: vim.org
 
 repo: vimcrypt views: total: 2 unique:  2
 Views:
 	 2024-11-07 00:00:00+00:00 total: 1 unique: 1
 	 2024-11-18 00:00:00+00:00 total: 1 unique: 1
 
-repo: follow-kube-logs views: total: 1 unique:  1
+repo: dockerdashphp views: total: 1 unique:  1
 Views:
-	 2024-11-05 00:00:00+00:00 total: 1 unique: 1
+	 2024-11-13 00:00:00+00:00 total: 1 unique: 1
+	Referrers:
+		Count: 1 Unique: 1 Url: Google
 
 repo: jscriptparse views: total: 1 unique:  1
 Views:
 	 2024-11-14 00:00:00+00:00 total: 1 unique: 1
+
+repo: kind-helper views: total: 1 unique:  1
+Views:
+	 2024-11-06 00:00:00+00:00 total: 1 unique: 1
 
 repo: pythoncourse views: total: 1 unique:  1
 Views:
@@ -208,15 +197,13 @@ repo: teach-your-children-well views: total: 1 unique:  1
 Views:
 	 2024-11-16 00:00:00+00:00 total: 1 unique: 1
 
-repo: visual-python-strace views: total: 1 unique:  1
-Views:
-	 2024-11-05 00:00:00+00:00 total: 1 unique: 1
-
 repo: devgoodies views: total: 0 unique:  0
 
 repo: docker-force-attach views: total: 0 unique:  0
 
 repo: download-artifacts views: total: 0 unique:  0
+
+repo: follow-kube-logs views: total: 0 unique:  0
 
 repo: gitblame views: total: 0 unique:  0
 
@@ -225,8 +212,6 @@ repo: githubapitools views: total: 0 unique:  0
 repo: github_pr_comments views: total: 0 unique:  0
 
 repo: gittools views: total: 0 unique:  0
-
-repo: grpc-spring-boot-starter-utils views: total: 0 unique:  0
 
 repo: jobinterviewhomework views: total: 0 unique:  0
 
@@ -242,8 +227,10 @@ repo: printb views: total: 0 unique:  0
 
 repo: rzgrep views: total: 0 unique:  0
 
+repo: visual-python-strace views: total: 0 unique:  0
+
 repo: zipit views: total: 0 unique:  0
 
 
 ***
-Total views: 168
+Total views: 164
