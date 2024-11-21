@@ -1,18 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Wed Nov 20 00:56:15 UTC 2024
+Thu Nov 21 00:56:07 UTC 2024
 
 <pre>
 
- ________________________________________
-/ Your boss is a few sandwiches short of \
-\ a picnic.                              /
- ----------------------------------------
+ _________________________________________
+/ Truth will out this morning. (Which may \
+\ really mess things up.)                 /
+ -----------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
              -- ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: -13 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
