@@ -14,10 +14,29 @@ Views:
 	 2024-11-21 00:00:00+00:00 total: 2 unique: 1
 	Referrers:
 		Count: 25 Unique: 2 Url: Google
+		Count: 2 Unique: 1 Url: github.com
 
-repo: pyasmtool views: total: 19 unique:  13
+repo: s9k views: total: 18 unique:  17
 Views:
-	 2024-11-08 00:00:00+00:00 total: 2 unique: 2
+	 2024-11-09 00:00:00+00:00 total: 1 unique: 1
+	 2024-11-10 00:00:00+00:00 total: 1 unique: 1
+	 2024-11-11 00:00:00+00:00 total: 2 unique: 2
+	 2024-11-12 00:00:00+00:00 total: 2 unique: 2
+	 2024-11-13 00:00:00+00:00 total: 2 unique: 2
+	 2024-11-14 00:00:00+00:00 total: 3 unique: 2
+	 2024-11-15 00:00:00+00:00 total: 1 unique: 1
+	 2024-11-16 00:00:00+00:00 total: 1 unique: 1
+	 2024-11-19 00:00:00+00:00 total: 2 unique: 2
+	 2024-11-21 00:00:00+00:00 total: 2 unique: 2
+	 2024-11-22 00:00:00+00:00 total: 1 unique: 1
+	Referrers:
+		Count: 11 Unique: 10 Url: Google
+		Count: 2 Unique: 2 Url: github.com
+		Count: 1 Unique: 1 Url: ecosia.org
+		Count: 1 Unique: 1 Url: DuckDuckGo
+
+repo: pyasmtool views: total: 17 unique:  11
+Views:
 	 2024-11-10 00:00:00+00:00 total: 1 unique: 1
 	 2024-11-11 00:00:00+00:00 total: 1 unique: 1
 	 2024-11-12 00:00:00+00:00 total: 1 unique: 1
@@ -31,23 +50,6 @@ Views:
 		Count: 6 Unique: 4 Url: Google
 		Count: 3 Unique: 1 Url: github.com
 		Count: 2 Unique: 2 Url: news.ycombinator.com
-
-repo: s9k views: total: 17 unique:  16
-Views:
-	 2024-11-09 00:00:00+00:00 total: 1 unique: 1
-	 2024-11-10 00:00:00+00:00 total: 1 unique: 1
-	 2024-11-11 00:00:00+00:00 total: 2 unique: 2
-	 2024-11-12 00:00:00+00:00 total: 2 unique: 2
-	 2024-11-13 00:00:00+00:00 total: 2 unique: 2
-	 2024-11-14 00:00:00+00:00 total: 3 unique: 2
-	 2024-11-15 00:00:00+00:00 total: 1 unique: 1
-	 2024-11-16 00:00:00+00:00 total: 1 unique: 1
-	 2024-11-19 00:00:00+00:00 total: 2 unique: 2
-	 2024-11-21 00:00:00+00:00 total: 2 unique: 2
-	Referrers:
-		Count: 12 Unique: 11 Url: Google
-		Count: 1 Unique: 1 Url: ecosia.org
-		Count: 1 Unique: 1 Url: DuckDuckGo
 
 repo: python-obj-system views: total: 11 unique:  8
 Views:
@@ -94,16 +96,6 @@ Views:
 	Referrers:
 		Count: 2 Unique: 1 Url: github.com
 
-repo: flagged-hn views: total: 6 unique:  4
-Views:
-	 2024-11-08 00:00:00+00:00 total: 2 unique: 1
-	 2024-11-09 00:00:00+00:00 total: 1 unique: 1
-	 2024-11-13 00:00:00+00:00 total: 2 unique: 1
-	 2024-11-17 00:00:00+00:00 total: 1 unique: 1
-	Referrers:
-		Count: 2 Unique: 1 Url: Google
-		Count: 1 Unique: 1 Url: news.ycombinator.com
-
 repo: grpc-spring-boot-starter-utils views: total: 6 unique:  1
 Views:
 	 2024-11-19 00:00:00+00:00 total: 6 unique: 1
@@ -138,7 +130,17 @@ Views:
 	 2024-11-12 00:00:00+00:00 total: 2 unique: 1
 	 2024-11-21 00:00:00+00:00 total: 2 unique: 1
 	Referrers:
-		Count: 2 Unique: 1 Url: vim.org
+		Count: 3 Unique: 2 Url: vim.org
+		Count: 1 Unique: 1 Url: DuckDuckGo
+
+repo: flagged-hn views: total: 4 unique:  3
+Views:
+	 2024-11-09 00:00:00+00:00 total: 1 unique: 1
+	 2024-11-13 00:00:00+00:00 total: 2 unique: 1
+	 2024-11-17 00:00:00+00:00 total: 1 unique: 1
+	Referrers:
+		Count: 2 Unique: 1 Url: Google
+		Count: 1 Unique: 1 Url: news.ycombinator.com
 
 repo: kwchecker views: total: 4 unique:  3
 Views:
@@ -163,6 +165,13 @@ Views:
 	 2024-11-20 00:00:00+00:00 total: 1 unique: 1
 	 2024-11-21 00:00:00+00:00 total: 1 unique: 1
 
+repo: ls-annotations views: total: 2 unique:  2
+Views:
+	 2024-11-15 00:00:00+00:00 total: 1 unique: 1
+	 2024-11-22 00:00:00+00:00 total: 1 unique: 1
+	Referrers:
+		Count: 1 Unique: 1 Url: Google
+
 repo: pythoncourse views: total: 2 unique:  2
 Views:
 	 2024-11-15 00:00:00+00:00 total: 1 unique: 1
@@ -174,15 +183,17 @@ Views:
 	Referrers:
 		Count: 1 Unique: 1 Url: Google
 
+repo: follow-kube-logs views: total: 1 unique:  1
+Views:
+	 2024-11-22 00:00:00+00:00 total: 1 unique: 1
+
 repo: jscriptparse views: total: 1 unique:  1
 Views:
 	 2024-11-14 00:00:00+00:00 total: 1 unique: 1
 
-repo: ls-annotations views: total: 1 unique:  1
+repo: kind-helper views: total: 1 unique:  1
 Views:
-	 2024-11-15 00:00:00+00:00 total: 1 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: Google
+	 2024-11-22 00:00:00+00:00 total: 1 unique: 1
 
 repo: rzgrep views: total: 1 unique:  1
 Views:
@@ -210,8 +221,6 @@ repo: docker-force-attach views: total: 0 unique:  0
 
 repo: download-artifacts views: total: 0 unique:  0
 
-repo: follow-kube-logs views: total: 0 unique:  0
-
 repo: gitblame views: total: 0 unique:  0
 
 repo: githubapitools views: total: 0 unique:  0
@@ -225,8 +234,6 @@ repo: jobinterviewhomework views: total: 0 unique:  0
 repo: jq-illustrated views: total: 0 unique:  0
 
 repo: k8explain views: total: 0 unique:  0
-
-repo: kind-helper views: total: 0 unique:  0
 
 repo: MoserMichael views: total: 0 unique:  0
 
