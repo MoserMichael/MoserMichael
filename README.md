@@ -1,20 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sat Nov 23 00:55:01 UTC 2024
+Sun Nov 24 01:00:31 UTC 2024
 
 <pre>
 
- ________________________________________
-/ FORTUNE PROVIDES QUESTIONS FOR THE     \
-| GREAT ANSWERS: #15 A: The Royal        |
-| Canadian Mounted Police. Q: What was   |
-\ the greatest achievement in taxidermy? /
- ----------------------------------------
+ _______________________________________
+/ You seek to shield those you love and \
+\ you like the role of the provider.    /
+ ---------------------------------------
         \   ^__^
          \  (OO)\_______
             (__)\       )\/\
              :) ||----w |
                 ||     ||
-nltk score: 85 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: 77 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
