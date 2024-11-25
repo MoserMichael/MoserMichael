@@ -13,12 +13,11 @@ Views:
 	 2024-11-15 00:00:00+00:00 total: 14 unique: 1
 	 2024-11-21 00:00:00+00:00 total: 2 unique: 1
 	Referrers:
-		Count: 25 Unique: 2 Url: Google
+		Count: 14 Unique: 1 Url: Google
 		Count: 2 Unique: 1 Url: github.com
 
-repo: pyasmtool views: total: 18 unique:  12
+repo: pyasmtool views: total: 21 unique:  13
 Views:
-	 2024-11-10 00:00:00+00:00 total: 1 unique: 1
 	 2024-11-11 00:00:00+00:00 total: 1 unique: 1
 	 2024-11-12 00:00:00+00:00 total: 1 unique: 1
 	 2024-11-13 00:00:00+00:00 total: 3 unique: 1
@@ -28,6 +27,7 @@ Views:
 	 2024-11-20 00:00:00+00:00 total: 1 unique: 1
 	 2024-11-21 00:00:00+00:00 total: 1 unique: 1
 	 2024-11-23 00:00:00+00:00 total: 1 unique: 1
+	 2024-11-24 00:00:00+00:00 total: 4 unique: 2
 	Referrers:
 		Count: 6 Unique: 4 Url: Google
 		Count: 3 Unique: 1 Url: github.com
@@ -45,14 +45,12 @@ Views:
 	 2024-11-21 00:00:00+00:00 total: 2 unique: 2
 	 2024-11-22 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
-		Count: 11 Unique: 10 Url: Google
+		Count: 10 Unique: 9 Url: Google
 		Count: 2 Unique: 2 Url: github.com
 		Count: 1 Unique: 1 Url: ecosia.org
-		Count: 1 Unique: 1 Url: DuckDuckGo
 
-repo: python-obj-system views: total: 11 unique:  8
+repo: python-obj-system views: total: 10 unique:  7
 Views:
-	 2024-11-10 00:00:00+00:00 total: 1 unique: 1
 	 2024-11-14 00:00:00+00:00 total: 1 unique: 1
 	 2024-11-16 00:00:00+00:00 total: 1 unique: 1
 	 2024-11-17 00:00:00+00:00 total: 2 unique: 2
@@ -61,10 +59,6 @@ Views:
 	Referrers:
 		Count: 4 Unique: 1 Url: news.ycombinator.com
 		Count: 1 Unique: 1 Url: github.com
-
-repo: pygamewrap views: total: 10 unique:  1
-Views:
-	 2024-11-10 00:00:00+00:00 total: 10 unique: 1
 
 repo: pprintex views: total: 8 unique:  7
 Views:
@@ -85,9 +79,8 @@ Views:
 	Referrers:
 		Count: 5 Unique: 5 Url: github.com
 
-repo: duckduckbang views: total: 7 unique:  5
+repo: duckduckbang views: total: 6 unique:  4
 Views:
-	 2024-11-10 00:00:00+00:00 total: 1 unique: 1
 	 2024-11-12 00:00:00+00:00 total: 3 unique: 2
 	 2024-11-21 00:00:00+00:00 total: 2 unique: 1
 	 2024-11-23 00:00:00+00:00 total: 1 unique: 1
@@ -99,11 +92,6 @@ Views:
 	 2024-11-19 00:00:00+00:00 total: 6 unique: 1
 	Referrers:
 		Count: 6 Unique: 1 Url: github.com
-
-repo: my-notes views: total: 6 unique:  2
-Views:
-	 2024-11-10 00:00:00+00:00 total: 5 unique: 1
-	 2024-11-23 00:00:00+00:00 total: 1 unique: 1
 
 repo: roget-thesaurus-parser views: total: 6 unique:  2
 Views:
@@ -120,29 +108,23 @@ Views:
 		Count: 4 Unique: 1 Url: reddit.com
 		Count: 1 Unique: 1 Url: Google
 
-repo: vimcrypt2 views: total: 5 unique:  3
-Views:
-	 2024-11-10 00:00:00+00:00 total: 1 unique: 1
-	 2024-11-12 00:00:00+00:00 total: 2 unique: 1
-	 2024-11-21 00:00:00+00:00 total: 2 unique: 1
-	Referrers:
-		Count: 3 Unique: 2 Url: vim.org
-		Count: 1 Unique: 1 Url: DuckDuckGo
-
-repo: kwchecker views: total: 4 unique:  3
-Views:
-	 2024-11-10 00:00:00+00:00 total: 2 unique: 1
-	 2024-11-16 00:00:00+00:00 total: 1 unique: 1
-	 2024-11-20 00:00:00+00:00 total: 1 unique: 1
-
-repo: myenv views: total: 4 unique:  4
+repo: myenv views: total: 5 unique:  5
 Views:
 	 2024-11-13 00:00:00+00:00 total: 1 unique: 1
 	 2024-11-17 00:00:00+00:00 total: 1 unique: 1
 	 2024-11-18 00:00:00+00:00 total: 1 unique: 1
 	 2024-11-20 00:00:00+00:00 total: 1 unique: 1
+	 2024-11-24 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
 		Count: 1 Unique: 1 Url: Google
+
+repo: vimcrypt2 views: total: 4 unique:  2
+Views:
+	 2024-11-12 00:00:00+00:00 total: 2 unique: 1
+	 2024-11-21 00:00:00+00:00 total: 2 unique: 1
+	Referrers:
+		Count: 3 Unique: 2 Url: vim.org
+		Count: 1 Unique: 1 Url: DuckDuckGo
 
 repo: flagged-hn views: total: 3 unique:  2
 Views:
@@ -157,6 +139,11 @@ Views:
 	 2024-11-14 00:00:00+00:00 total: 1 unique: 1
 	 2024-11-20 00:00:00+00:00 total: 1 unique: 1
 	 2024-11-21 00:00:00+00:00 total: 1 unique: 1
+
+repo: kwchecker views: total: 2 unique:  2
+Views:
+	 2024-11-16 00:00:00+00:00 total: 1 unique: 1
+	 2024-11-20 00:00:00+00:00 total: 1 unique: 1
 
 repo: ls-annotations views: total: 2 unique:  2
 Views:
@@ -189,6 +176,16 @@ Views:
 repo: kind-helper views: total: 1 unique:  1
 Views:
 	 2024-11-22 00:00:00+00:00 total: 1 unique: 1
+
+repo: my-notes views: total: 1 unique:  1
+Views:
+	 2024-11-23 00:00:00+00:00 total: 1 unique: 1
+	Referrers:
+		Count: 1 Unique: 1 Url: Google
+
+repo: pygamewrap views: total: 1 unique:  1
+Views:
+	 2024-11-24 00:00:00+00:00 total: 1 unique: 1
 
 repo: rzgrep views: total: 1 unique:  1
 Views:
@@ -242,4 +239,4 @@ repo: zipit views: total: 0 unique:  0
 
 
 ***
-Total views: 158
+Total views: 143

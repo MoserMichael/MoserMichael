@@ -1,18 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sun Nov 24 01:00:31 UTC 2024
+Mon Nov 25 00:57:53 UTC 2024
 
 <pre>
 
  _______________________________________
-/ You seek to shield those you love and \
-\ you like the role of the provider.    /
+/ You are a bundle of energy, always on \
+\ the go.                               /
  ---------------------------------------
         \   ^__^
-         \  (OO)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :) ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: 77 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: 27 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
