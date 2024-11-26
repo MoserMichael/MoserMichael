@@ -1,18 +1,25 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Mon Nov 25 00:57:53 UTC 2024
+Tue Nov 26 00:57:06 UTC 2024
 
 <pre>
 
- _______________________________________
-/ You are a bundle of energy, always on \
-\ the go.                               /
- ---------------------------------------
+ _________________________________________
+/ Q: What's the difference between the    \
+| 1950's and the 1980's? A: In the 80's,  |
+| a man walks into a drugstore and states |
+| loudly, "I'd                            |
+|                                         |
+| like some condoms," and then, leaning   |
+| over the counter, whispers,             |
+|                                         |
+\ "and some cigarettes."                  /
+ -----------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (oo)\_______
             (__)\       )\/\
-             -- ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: 27 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 36 '(from -100..100) state: 'good' eye: oo tongue: :)
 
 </pre>
 
