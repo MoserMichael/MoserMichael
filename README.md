@@ -1,25 +1,27 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Tue Nov 26 00:57:06 UTC 2024
+Wed Nov 27 00:57:54 UTC 2024
 
 <pre>
 
  _________________________________________
-/ Q: What's the difference between the    \
-| 1950's and the 1980's? A: In the 80's,  |
-| a man walks into a drugstore and states |
-| loudly, "I'd                            |
+/ The camel died quite suddenly on the    \
+| second day, and Selena fretted sullenly |
+| and, buffing her already impeccable     |
+| nails -- not for the first time since   |
+| the journey begain -- pondered snidely  |
+| if this would dissolve into a vignette  |
+| of minor inconveniences like all the    |
+| other holidays spent with Basil.        |
 |                                         |
-| like some condoms," and then, leaning   |
-| over the counter, whispers,             |
-|                                         |
-\ "and some cigarettes."                  /
+| -- Winning sentence, 1983 Bulwer-Lytton |
+\ bad fiction contest.                    /
  -----------------------------------------
         \   ^__^
-         \  (oo)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :) ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: 36 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: 13 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
