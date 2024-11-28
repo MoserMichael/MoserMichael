@@ -1,27 +1,28 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Wed Nov 27 00:57:54 UTC 2024
+Thu Nov 28 00:57:47 UTC 2024
 
 <pre>
 
  _________________________________________
-/ The camel died quite suddenly on the    \
-| second day, and Selena fretted sullenly |
-| and, buffing her already impeccable     |
-| nails -- not for the first time since   |
-| the journey begain -- pondered snidely  |
-| if this would dissolve into a vignette  |
-| of minor inconveniences like all the    |
-| other holidays spent with Basil.        |
+/  The Priest's grey nimbus in a niche    \
+| where he dressed discreetly. I will not |
+| sleep here tonight. Home also I cannot  |
+| go.                                     |
 |                                         |
-| -- Winning sentence, 1983 Bulwer-Lytton |
-\ bad fiction contest.                    /
+| A voice, sweetened and sustained,       |
+| called to him from the sea. Turning the |
+| curve he waved his hand. A sleek brown  |
+| head, a seal's, far out on the water,   |
+| round. Usurper.                         |
+|                                         |
+\ -- James Joyce, "Ulysses"               /
  -----------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (oo)\_______
             (__)\       )\/\
-             -- ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: 13 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 53 '(from -100..100) state: 'good' eye: oo tongue: :)
 
 </pre>
 
