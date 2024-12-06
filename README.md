@@ -1,18 +1,21 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Thu Dec  5 00:59:24 UTC 2024
+Fri Dec  6 00:58:33 UTC 2024
 
 <pre>
 
- ________________________________________
-/ Beauty and harmony are as necessary to \
-\ you as the very breath of life.        /
- ----------------------------------------
+ ___________________________________
+/ "... an experienced, industrious, \
+| ambitious, and often quite often  |
+| picturesque liar."                |
+|                                   |
+\ -- Mark Twain                     /
+ -----------------------------------
         \   ^__^
          \  (OO)\_______
             (__)\       )\/\
              :) ||----w |
                 ||     ||
-nltk score: 76 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: 72 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
