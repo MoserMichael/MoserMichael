@@ -9,7 +9,6 @@ Traffic report for user Michael Moser
 
 repo: pyasmtool views: total: 17 unique:  14
 Views:
-	 2024-11-30 00:00:00+00:00 total: 1 unique: 1
 	 2024-12-01 00:00:00+00:00 total: 2 unique: 1
 	 2024-12-02 00:00:00+00:00 total: 4 unique: 4
 	 2024-12-03 00:00:00+00:00 total: 1 unique: 1
@@ -18,14 +17,13 @@ Views:
 	 2024-12-09 00:00:00+00:00 total: 4 unique: 2
 	 2024-12-10 00:00:00+00:00 total: 1 unique: 1
 	 2024-12-11 00:00:00+00:00 total: 1 unique: 1
+	 2024-12-14 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
-		Count: 2 Unique: 1 Url: yandex.ru
 		Count: 1 Unique: 1 Url: Google
 		Count: 1 Unique: 1 Url: github.com
 
-repo: s9k views: total: 16 unique:  14
+repo: s9k views: total: 14 unique:  12
 Views:
-	 2024-11-30 00:00:00+00:00 total: 2 unique: 2
 	 2024-12-02 00:00:00+00:00 total: 3 unique: 2
 	 2024-12-04 00:00:00+00:00 total: 3 unique: 3
 	 2024-12-07 00:00:00+00:00 total: 1 unique: 1
@@ -34,11 +32,20 @@ Views:
 	 2024-12-11 00:00:00+00:00 total: 1 unique: 1
 	 2024-12-13 00:00:00+00:00 total: 3 unique: 3
 	Referrers:
-		Count: 8 Unique: 6 Url: Google
+		Count: 10 Unique: 8 Url: Google
+		Count: 1 Unique: 1 Url: news.ycombinator.com
 
-repo: cppcombinator views: total: 13 unique:  8
+repo: jpa-enc-converter views: total: 13 unique:  3
 Views:
-	 2024-11-30 00:00:00+00:00 total: 1 unique: 1
+	 2024-12-02 00:00:00+00:00 total: 1 unique: 1
+	 2024-12-07 00:00:00+00:00 total: 9 unique: 1
+	 2024-12-13 00:00:00+00:00 total: 3 unique: 1
+	Referrers:
+		Count: 10 Unique: 2 Url: Google
+		Count: 3 Unique: 1 Url: cn.bing.com
+
+repo: cppcombinator views: total: 12 unique:  7
+Views:
 	 2024-12-02 00:00:00+00:00 total: 3 unique: 1
 	 2024-12-03 00:00:00+00:00 total: 1 unique: 1
 	 2024-12-04 00:00:00+00:00 total: 1 unique: 1
@@ -51,32 +58,15 @@ Views:
 		Count: 2 Unique: 2 Url: reddit.com
 		Count: 1 Unique: 1 Url: yandex.ru
 
-repo: jpa-enc-converter views: total: 13 unique:  3
+repo: pprintex views: total: 9 unique:  7
 Views:
-	 2024-12-02 00:00:00+00:00 total: 1 unique: 1
-	 2024-12-07 00:00:00+00:00 total: 9 unique: 1
-	 2024-12-13 00:00:00+00:00 total: 3 unique: 1
-	Referrers:
-		Count: 10 Unique: 2 Url: Google
-
-repo: pprintex views: total: 10 unique:  8
-Views:
-	 2024-11-30 00:00:00+00:00 total: 1 unique: 1
 	 2024-12-02 00:00:00+00:00 total: 3 unique: 3
 	 2024-12-04 00:00:00+00:00 total: 1 unique: 1
 	 2024-12-08 00:00:00+00:00 total: 3 unique: 1
 	 2024-12-09 00:00:00+00:00 total: 1 unique: 1
 	 2024-12-13 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
-		Count: 4 Unique: 2 Url: Google
-
-repo: roget-thesaurus-parser views: total: 10 unique:  3
-Views:
-	 2024-11-30 00:00:00+00:00 total: 5 unique: 1
-	 2024-12-04 00:00:00+00:00 total: 1 unique: 1
-	 2024-12-05 00:00:00+00:00 total: 4 unique: 1
-	Referrers:
-		Count: 4 Unique: 1 Url: github.com
+		Count: 5 Unique: 3 Url: Google
 
 repo: githubapitools views: total: 7 unique:  2
 Views:
@@ -114,6 +104,14 @@ Views:
 	Referrers:
 		Count: 3 Unique: 3 Url: Google
 
+repo: duckduckbang views: total: 5 unique:  3
+Views:
+	 2024-12-02 00:00:00+00:00 total: 3 unique: 1
+	 2024-12-07 00:00:00+00:00 total: 1 unique: 1
+	 2024-12-14 00:00:00+00:00 total: 1 unique: 1
+	Referrers:
+		Count: 3 Unique: 1 Url: github.com
+
 repo: kwchecker views: total: 5 unique:  4
 Views:
 	 2024-12-01 00:00:00+00:00 total: 2 unique: 1
@@ -128,13 +126,15 @@ Views:
 	 2024-12-05 00:00:00+00:00 total: 1 unique: 1
 	 2024-12-13 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
-		Count: 1 Unique: 1 Url: Google
+		Count: 2 Unique: 2 Url: Google
 
 repo: MoserMichael views: total: 5 unique:  3
 Views:
 	 2024-12-10 00:00:00+00:00 total: 1 unique: 1
 	 2024-12-11 00:00:00+00:00 total: 1 unique: 1
 	 2024-12-13 00:00:00+00:00 total: 3 unique: 1
+	Referrers:
+		Count: 3 Unique: 1 Url: github.com
 
 repo: python-obj-system views: total: 5 unique:  5
 Views:
@@ -145,18 +145,12 @@ Views:
 	Referrers:
 		Count: 2 Unique: 2 Url: github.com
 
-repo: duckduckbang views: total: 4 unique:  2
+repo: roget-thesaurus-parser views: total: 5 unique:  2
 Views:
-	 2024-12-02 00:00:00+00:00 total: 3 unique: 1
-	 2024-12-07 00:00:00+00:00 total: 1 unique: 1
+	 2024-12-04 00:00:00+00:00 total: 1 unique: 1
+	 2024-12-05 00:00:00+00:00 total: 4 unique: 1
 	Referrers:
-		Count: 3 Unique: 1 Url: github.com
-
-repo: kind-helper views: total: 4 unique:  3
-Views:
-	 2024-11-30 00:00:00+00:00 total: 1 unique: 1
-	 2024-12-03 00:00:00+00:00 total: 1 unique: 1
-	 2024-12-13 00:00:00+00:00 total: 2 unique: 1
+		Count: 4 Unique: 1 Url: github.com
 
 repo: my-notes views: total: 4 unique:  3
 Views:
@@ -164,14 +158,6 @@ Views:
 	 2024-12-12 00:00:00+00:00 total: 2 unique: 2
 	Referrers:
 		Count: 2 Unique: 1 Url: github.com
-		Count: 1 Unique: 1 Url: Google
-
-repo: pygamewrap views: total: 4 unique:  3
-Views:
-	 2024-11-30 00:00:00+00:00 total: 2 unique: 1
-	 2024-12-09 00:00:00+00:00 total: 1 unique: 1
-	 2024-12-13 00:00:00+00:00 total: 1 unique: 1
-	Referrers:
 		Count: 1 Unique: 1 Url: Google
 
 repo: pythonimportplayground views: total: 4 unique:  3
@@ -191,9 +177,21 @@ repo: jscriptparse views: total: 3 unique:  3
 Views:
 	 2024-12-02 00:00:00+00:00 total: 3 unique: 3
 
+repo: kind-helper views: total: 3 unique:  2
+Views:
+	 2024-12-03 00:00:00+00:00 total: 1 unique: 1
+	 2024-12-13 00:00:00+00:00 total: 2 unique: 1
+	Referrers:
+		Count: 2 Unique: 1 Url: news.ycombinator.com
+
 repo: printb views: total: 2 unique:  1
 Views:
 	 2024-12-01 00:00:00+00:00 total: 2 unique: 1
+
+repo: pygamewrap views: total: 2 unique:  2
+Views:
+	 2024-12-09 00:00:00+00:00 total: 1 unique: 1
+	 2024-12-13 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
 		Count: 1 Unique: 1 Url: Google
 
@@ -221,10 +219,14 @@ Views:
 repo: dockerdashphp views: total: 1 unique:  1
 Views:
 	 2024-12-13 00:00:00+00:00 total: 1 unique: 1
+	Referrers:
+		Count: 1 Unique: 1 Url: news.ycombinator.com
 
 repo: gitblame views: total: 1 unique:  1
 Views:
 	 2024-12-13 00:00:00+00:00 total: 1 unique: 1
+	Referrers:
+		Count: 1 Unique: 1 Url: Bing
 
 repo: jq-illustrated views: total: 1 unique:  1
 Views:
@@ -266,4 +268,4 @@ repo: teach-your-children-well views: total: 0 unique:  0
 
 
 ***
-Total views: 165
+Total views: 154
