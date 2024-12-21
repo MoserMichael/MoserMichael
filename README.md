@@ -1,12 +1,16 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Fri Dec 20 00:54:28 UTC 2024
+Sat Dec 21 00:53:27 UTC 2024
 
 <pre>
 
- ________________________________________
-/ You will be married within a year, and \
-\ divorced within two.                   /
- ----------------------------------------
+ _______________________________________
+/ Perilous to all of us are the devices \
+| of an art deeper than we ourselves    |
+| possess.                              |
+|                                       |
+| -- Gandalf the Grey [J.R.R. Tolkien,  |
+\ "Lord of the Rings"]                  /
+ ---------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
