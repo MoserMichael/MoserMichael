@@ -9,7 +9,6 @@ Traffic report for user Michael Moser
 
 repo: pyasmtool views: total: 22 unique:  17
 Views:
-	 2024-12-07 00:00:00+00:00 total: 1 unique: 1
 	 2024-12-08 00:00:00+00:00 total: 2 unique: 2
 	 2024-12-09 00:00:00+00:00 total: 4 unique: 2
 	 2024-12-10 00:00:00+00:00 total: 1 unique: 1
@@ -19,27 +18,21 @@ Views:
 	 2024-12-18 00:00:00+00:00 total: 2 unique: 2
 	 2024-12-19 00:00:00+00:00 total: 8 unique: 5
 	 2024-12-20 00:00:00+00:00 total: 1 unique: 1
+	 2024-12-21 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
-		Count: 6 Unique: 3 Url: Google
+		Count: 5 Unique: 2 Url: Google
 		Count: 2 Unique: 2 Url: github.com
 		Count: 1 Unique: 1 Url: news.ycombinator.com
 
-repo: jpa-enc-converter views: total: 12 unique:  2
+repo: s9k views: total: 13 unique:  11
 Views:
-	 2024-12-07 00:00:00+00:00 total: 9 unique: 1
-	 2024-12-13 00:00:00+00:00 total: 3 unique: 1
-	Referrers:
-		Count: 3 Unique: 1 Url: cn.bing.com
-
-repo: s9k views: total: 12 unique:  10
-Views:
-	 2024-12-07 00:00:00+00:00 total: 1 unique: 1
 	 2024-12-08 00:00:00+00:00 total: 1 unique: 1
 	 2024-12-10 00:00:00+00:00 total: 2 unique: 1
 	 2024-12-11 00:00:00+00:00 total: 1 unique: 1
 	 2024-12-13 00:00:00+00:00 total: 3 unique: 3
 	 2024-12-16 00:00:00+00:00 total: 2 unique: 1
 	 2024-12-17 00:00:00+00:00 total: 2 unique: 2
+	 2024-12-21 00:00:00+00:00 total: 2 unique: 2
 	Referrers:
 		Count: 8 Unique: 6 Url: Google
 		Count: 1 Unique: 1 Url: news.ycombinator.com
@@ -54,7 +47,6 @@ Views:
 		Count: 2 Unique: 2 Url: Google
 		Count: 2 Unique: 2 Url: github.com
 		Count: 1 Unique: 1 Url: reddit.com
-		Count: 1 Unique: 1 Url: yandex.ru
 
 repo: jobinterviewhomework views: total: 7 unique:  2
 Views:
@@ -80,17 +72,18 @@ Views:
 	 2024-12-13 00:00:00+00:00 total: 1 unique: 1
 	 2024-12-18 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
-		Count: 5 Unique: 3 Url: Google
+		Count: 2 Unique: 2 Url: Google
 
 repo: duckduckbang views: total: 5 unique:  5
 Views:
-	 2024-12-07 00:00:00+00:00 total: 1 unique: 1
 	 2024-12-14 00:00:00+00:00 total: 1 unique: 1
 	 2024-12-18 00:00:00+00:00 total: 1 unique: 1
 	 2024-12-19 00:00:00+00:00 total: 1 unique: 1
 	 2024-12-20 00:00:00+00:00 total: 1 unique: 1
+	 2024-12-21 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
 		Count: 2 Unique: 2 Url: fmhy.net
+		Count: 1 Unique: 1 Url: yandex.com
 
 repo: githubapitools views: total: 4 unique:  1
 Views:
@@ -115,9 +108,14 @@ Views:
 	Referrers:
 		Count: 3 Unique: 3 Url: Google
 
-repo: myenv views: total: 4 unique:  4
+repo: jpa-enc-converter views: total: 3 unique:  1
 Views:
-	 2024-12-07 00:00:00+00:00 total: 1 unique: 1
+	 2024-12-13 00:00:00+00:00 total: 3 unique: 1
+	Referrers:
+		Count: 3 Unique: 1 Url: cn.bing.com
+
+repo: myenv views: total: 3 unique:  3
+Views:
 	 2024-12-09 00:00:00+00:00 total: 1 unique: 1
 	 2024-12-13 00:00:00+00:00 total: 1 unique: 1
 	 2024-12-17 00:00:00+00:00 total: 1 unique: 1
@@ -130,7 +128,7 @@ Views:
 	 2024-12-13 00:00:00+00:00 total: 1 unique: 1
 	 2024-12-20 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
-		Count: 1 Unique: 1 Url: Google
+		Count: 2 Unique: 2 Url: Google
 
 repo: python-obj-system views: total: 3 unique:  3
 Views:
@@ -138,15 +136,14 @@ Views:
 	 2024-12-09 00:00:00+00:00 total: 1 unique: 1
 	 2024-12-11 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
-		Count: 2 Unique: 2 Url: github.com
+		Count: 1 Unique: 1 Url: github.com
 
-repo: vimcrypt2 views: total: 3 unique:  3
+repo: zipit views: total: 3 unique:  3
 Views:
-	 2024-12-07 00:00:00+00:00 total: 1 unique: 1
-	 2024-12-11 00:00:00+00:00 total: 1 unique: 1
-	 2024-12-12 00:00:00+00:00 total: 1 unique: 1
+	 2024-12-12 00:00:00+00:00 total: 2 unique: 2
+	 2024-12-21 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
-		Count: 1 Unique: 1 Url: Google
+		Count: 2 Unique: 2 Url: Google
 
 repo: dockerdashphp views: total: 2 unique:  2
 Views:
@@ -162,18 +159,19 @@ Views:
 	Referrers:
 		Count: 2 Unique: 1 Url: Google
 
+repo: vimcrypt2 views: total: 2 unique:  2
+Views:
+	 2024-12-11 00:00:00+00:00 total: 1 unique: 1
+	 2024-12-12 00:00:00+00:00 total: 1 unique: 1
+	Referrers:
+		Count: 1 Unique: 1 Url: Google
+
 repo: visual-python-strace views: total: 2 unique:  2
 Views:
 	 2024-12-10 00:00:00+00:00 total: 1 unique: 1
 	 2024-12-12 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
 		Count: 1 Unique: 1 Url: Google
-
-repo: zipit views: total: 2 unique:  2
-Views:
-	 2024-12-12 00:00:00+00:00 total: 2 unique: 2
-	Referrers:
-		Count: 2 Unique: 2 Url: Google
 
 repo: gitblame views: total: 1 unique:  1
 Views:
@@ -255,4 +253,4 @@ repo: teach-your-children-well views: total: 0 unique:  0
 
 
 ***
-Total views: 122
+Total views: 113
