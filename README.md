@@ -1,19 +1,23 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Fri Dec 27 00:54:06 UTC 2024
+Sat Dec 28 00:53:04 UTC 2024
 
 <pre>
 
- ________________________________________
-/ You have a reputation for being        \
-| thoroughly reliable and trustworthy. A |
-\ pity that it's totally undeserved.     /
- ----------------------------------------
+ _________________________________________
+/ Q: How many Oregonians does it take to  \
+| screw in a light bulb? A: Three. One to |
+| screw in the light bulb and two to fend |
+| off all those                           |
+|                                         |
+| Californians trying to share the        |
+\ experience.                             /
+ -----------------------------------------
         \   ^__^
-         \  (oo)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :) ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: 39 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: 10 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
