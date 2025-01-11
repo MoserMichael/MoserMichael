@@ -1,22 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Fri Jan 10 00:56:09 UTC 2025
+Sat Jan 11 00:54:45 UTC 2025
 
 <pre>
 
- _________________________________________
-/ ROMEO: Courage, man; the hurt cannot be \
-| much. MERCUTIO: No, 'tis not so deep as |
-| a well, nor so wide                     |
-|                                         |
-| as a church-door; but 'tis enough,      |
-\ 'twill serve.                           /
- -----------------------------------------
+ _____________________________________
+/ You have the capacity to learn from \
+\ mistakes. You'll learn a lot today. /
+ -------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (!!)\_______
             (__)\       )\/\
-             -- ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: -13 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: -36 '(from -100..100) state: 'bad' eye: !! tongue: :(
 
 </pre>
 
@@ -113,8 +109,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 606 </th></tr>
 </table>
 <br>
-old_date:  2024-11-29 00:58:05.634358 now: 2025-01-10 00:56:26.018987
-pyasmtool stars changed from: 320 to: 321
     </pre>
   </td>
 </table>
