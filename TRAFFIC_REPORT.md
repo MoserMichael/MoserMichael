@@ -24,12 +24,13 @@ Views:
 		Count: 2 Unique: 2 Url: hn.algolia.com
 		Count: 2 Unique: 1 Url: link.csdn.net
 
-repo: cstuff views: total: 19 unique:  5
+repo: cstuff views: total: 20 unique:  6
 Views:
 	 2025-01-04 00:00:00+00:00 total: 14 unique: 1
 	 2025-01-06 00:00:00+00:00 total: 1 unique: 1
 	 2025-01-09 00:00:00+00:00 total: 3 unique: 2
 	 2025-01-10 00:00:00+00:00 total: 1 unique: 1
+	 2025-01-12 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
 		Count: 8 Unique: 1 Url: mosermichael.github.io
 		Count: 3 Unique: 2 Url: github.com
@@ -44,9 +45,10 @@ Views:
 	 2025-01-10 00:00:00+00:00 total: 1 unique: 1
 	 2025-01-11 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
-		Count: 4 Unique: 2 Url: fmhy.net
-		Count: 3 Unique: 2 Url: DuckDuckGo
 		Count: 2 Unique: 1 Url: news.ycombinator.com
+		Count: 1 Unique: 1 Url: fmhy.net
+		Count: 1 Unique: 1 Url: github.com
+		Count: 1 Unique: 1 Url: DuckDuckGo
 
 repo: s9k views: total: 11 unique:  9
 Views:
@@ -79,7 +81,6 @@ Views:
 	 2025-01-07 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
 		Count: 3 Unique: 1 Url: pypi.org
-		Count: 1 Unique: 1 Url: Google
 		Count: 1 Unique: 1 Url: github.com
 
 repo: my-notes views: total: 6 unique:  4
@@ -109,14 +110,23 @@ Views:
 	Referrers:
 		Count: 1 Unique: 1 Url: Google
 
-repo: vimcrypt views: total: 4 unique:  3
+repo: pprintex views: total: 4 unique:  4
 Views:
-	 2024-12-29 00:00:00+00:00 total: 1 unique: 1
-	 2024-12-31 00:00:00+00:00 total: 2 unique: 1
-	 2025-01-08 00:00:00+00:00 total: 1 unique: 1
+	 2025-01-09 00:00:00+00:00 total: 2 unique: 2
+	 2025-01-10 00:00:00+00:00 total: 1 unique: 1
+	 2025-01-12 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
-		Count: 1 Unique: 1 Url: github.com
 		Count: 1 Unique: 1 Url: Google
+		Count: 1 Unique: 1 Url: m.baidu.com
+
+repo: vimcrypt2 views: total: 4 unique:  4
+Views:
+	 2024-12-30 00:00:00+00:00 total: 1 unique: 1
+	 2024-12-31 00:00:00+00:00 total: 1 unique: 1
+	 2025-01-06 00:00:00+00:00 total: 1 unique: 1
+	 2025-01-12 00:00:00+00:00 total: 1 unique: 1
+	Referrers:
+		Count: 1 Unique: 1 Url: DuckDuckGo
 
 repo: gitblame views: total: 3 unique:  3
 Views:
@@ -131,21 +141,25 @@ Views:
 	 2025-01-03 00:00:00+00:00 total: 1 unique: 1
 	 2025-01-09 00:00:00+00:00 total: 2 unique: 1
 
-repo: pprintex views: total: 3 unique:  3
+repo: subb views: total: 3 unique:  2
 Views:
-	 2025-01-09 00:00:00+00:00 total: 2 unique: 2
-	 2025-01-10 00:00:00+00:00 total: 1 unique: 1
+	 2025-01-06 00:00:00+00:00 total: 1 unique: 1
+	 2025-01-12 00:00:00+00:00 total: 2 unique: 1
 	Referrers:
 		Count: 1 Unique: 1 Url: Google
-		Count: 1 Unique: 1 Url: m.baidu.com
 
-repo: vimcrypt2 views: total: 3 unique:  3
+repo: vimcrypt views: total: 3 unique:  2
 Views:
-	 2024-12-30 00:00:00+00:00 total: 1 unique: 1
-	 2024-12-31 00:00:00+00:00 total: 1 unique: 1
-	 2025-01-06 00:00:00+00:00 total: 1 unique: 1
+	 2024-12-31 00:00:00+00:00 total: 2 unique: 1
+	 2025-01-08 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
-		Count: 1 Unique: 1 Url: DuckDuckGo
+		Count: 1 Unique: 1 Url: Google
+		Count: 1 Unique: 1 Url: github.com
+
+repo: pythonimportplayground views: total: 2 unique:  2
+Views:
+	 2025-01-06 00:00:00+00:00 total: 1 unique: 1
+	 2025-01-12 00:00:00+00:00 total: 1 unique: 1
 
 repo: rzgrep views: total: 2 unique:  1
 Views:
@@ -191,21 +205,11 @@ repo: myenv views: total: 1 unique:  1
 Views:
 	 2025-01-05 00:00:00+00:00 total: 1 unique: 1
 
-repo: pythonimportplayground views: total: 1 unique:  1
-Views:
-	 2025-01-06 00:00:00+00:00 total: 1 unique: 1
-
 repo: roget-thesaurus-parser views: total: 1 unique:  1
 Views:
 	 2025-01-04 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
 		Count: 1 Unique: 1 Url: github.com
-
-repo: subb views: total: 1 unique:  1
-Views:
-	 2025-01-06 00:00:00+00:00 total: 1 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: Google
 
 repo: visual-python-strace views: total: 1 unique:  1
 Views:
@@ -247,4 +251,4 @@ repo: teach-your-children-well views: total: 0 unique:  0
 
 
 ***
-Total views: 128
+Total views: 133
