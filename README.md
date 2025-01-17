@@ -1,18 +1,32 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Thu Jan 16 00:52:59 UTC 2025
+Fri Jan 17 00:52:32 UTC 2025
 
 <pre>
 
- ______________________________________
-/ Lady Luck brings added income today. \
-\ Lady friend takes it away tonight.   /
- --------------------------------------
+ _________________________________________
+/ The bone-chilling scream split the warm \
+| summer night in two, the first half     |
+| being before the scream when it was     |
+| fairly balmy and calm and pleasant, the |
+| second half still balmy and quite       |
+| pleasant for those who hadn't heard the |
+| scream at all, but not calm or balmy or |
+| even very nice for those who did hear   |
+| the scream, discounting the little      |
+| period of time during the actual scream |
+| itself when your ears might have been   |
+| hearing it but your brain wasn't        |
+| reacting yet to let you know.           |
+|                                         |
+| -- Winning sentence, 1986 Bulwer-Lytton |
+\ bad fiction contest.                    /
+ -----------------------------------------
         \   ^__^
-         \  (OO)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :) ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: 74 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: 21 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
