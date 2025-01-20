@@ -1,19 +1,22 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sun Jan 19 00:56:53 UTC 2025
+Mon Jan 20 00:53:49 UTC 2025
 
 <pre>
 
  _________________________________________
-/ FORTUNE PROVIDES QUESTIONS FOR THE      \
-| GREAT ANSWERS: #19 A: To be or not to   |
-\ be. Q: What is the square root of 4b^2? /
+/ Q: Why is it that the more accuracy you \
+| demand from an interpolation            |
+|                                         |
+| function, the more expensive it becomes |
+| to compute? A: That's the Law of Spline |
+\ Demand.                                 /
  -----------------------------------------
         \   ^__^
-         \  (OO)\_______
+         \  (!!)\_______
             (__)\       )\/\
-             :) ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 62 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: -37 '(from -100..100) state: 'bad' eye: !! tongue: :(
 
 </pre>
 

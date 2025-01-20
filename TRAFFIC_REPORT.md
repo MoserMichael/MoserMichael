@@ -9,7 +9,6 @@ Traffic report for user Michael Moser
 
 repo: pyasmtool views: total: 28 unique:  13
 Views:
-	 2025-01-05 00:00:00+00:00 total: 1 unique: 1
 	 2025-01-06 00:00:00+00:00 total: 1 unique: 1
 	 2025-01-07 00:00:00+00:00 total: 6 unique: 3
 	 2025-01-08 00:00:00+00:00 total: 2 unique: 1
@@ -18,34 +17,22 @@ Views:
 	 2025-01-13 00:00:00+00:00 total: 1 unique: 1
 	 2025-01-15 00:00:00+00:00 total: 6 unique: 2
 	 2025-01-16 00:00:00+00:00 total: 1 unique: 1
+	 2025-01-19 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
-		Count: 10 Unique: 4 Url: news.ycombinator.com
+		Count: 9 Unique: 3 Url: news.ycombinator.com
 		Count: 5 Unique: 5 Url: Google
 		Count: 2 Unique: 1 Url: link.csdn.net
 		Count: 1 Unique: 1 Url: github.com
 
-repo: pygamewrap views: total: 14 unique:  7
+repo: pygamewrap views: total: 15 unique:  8
 Views:
 	 2025-01-06 00:00:00+00:00 total: 4 unique: 2
 	 2025-01-07 00:00:00+00:00 total: 1 unique: 1
 	 2025-01-15 00:00:00+00:00 total: 1 unique: 1
 	 2025-01-16 00:00:00+00:00 total: 8 unique: 3
+	 2025-01-19 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
-		Count: 3 Unique: 1 Url: pypi.org
 		Count: 1 Unique: 1 Url: Google
-		Count: 1 Unique: 1 Url: github.com
-
-repo: s9k views: total: 10 unique:  9
-Views:
-	 2025-01-05 00:00:00+00:00 total: 1 unique: 1
-	 2025-01-06 00:00:00+00:00 total: 2 unique: 1
-	 2025-01-07 00:00:00+00:00 total: 1 unique: 1
-	 2025-01-09 00:00:00+00:00 total: 2 unique: 2
-	 2025-01-13 00:00:00+00:00 total: 1 unique: 1
-	 2025-01-15 00:00:00+00:00 total: 1 unique: 1
-	 2025-01-16 00:00:00+00:00 total: 2 unique: 2
-	Referrers:
-		Count: 8 Unique: 7 Url: Google
 
 repo: cstuff views: total: 9 unique:  8
 Views:
@@ -58,6 +45,17 @@ Views:
 	Referrers:
 		Count: 5 Unique: 4 Url: github.com
 		Count: 1 Unique: 1 Url: reddit.com
+
+repo: s9k views: total: 9 unique:  8
+Views:
+	 2025-01-06 00:00:00+00:00 total: 2 unique: 1
+	 2025-01-07 00:00:00+00:00 total: 1 unique: 1
+	 2025-01-09 00:00:00+00:00 total: 2 unique: 2
+	 2025-01-13 00:00:00+00:00 total: 1 unique: 1
+	 2025-01-15 00:00:00+00:00 total: 1 unique: 1
+	 2025-01-16 00:00:00+00:00 total: 2 unique: 2
+	Referrers:
+		Count: 6 Unique: 6 Url: Google
 
 repo: pprintex views: total: 8 unique:  8
 Views:
@@ -95,7 +93,7 @@ Views:
 	 2025-01-14 00:00:00+00:00 total: 1 unique: 1
 	 2025-01-15 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
-		Count: 5 Unique: 4 Url: Google
+		Count: 4 Unique: 3 Url: Google
 
 repo: gitblame views: total: 4 unique:  4
 Views:
@@ -113,7 +111,7 @@ Views:
 	 2025-01-12 00:00:00+00:00 total: 1 unique: 1
 	 2025-01-18 00:00:00+00:00 total: 2 unique: 1
 	Referrers:
-		Count: 1 Unique: 1 Url: Google
+		Count: 2 Unique: 2 Url: Google
 
 repo: vimcrypt2 views: total: 4 unique:  4
 Views:
@@ -148,12 +146,6 @@ Views:
 	Referrers:
 		Count: 3 Unique: 2 Url: Google
 
-repo: myenv views: total: 3 unique:  3
-Views:
-	 2025-01-05 00:00:00+00:00 total: 1 unique: 1
-	 2025-01-14 00:00:00+00:00 total: 1 unique: 1
-	 2025-01-17 00:00:00+00:00 total: 1 unique: 1
-
 repo: pythoncourse views: total: 3 unique:  2
 Views:
 	 2025-01-16 00:00:00+00:00 total: 3 unique: 2
@@ -176,6 +168,11 @@ repo: MoserMichael views: total: 2 unique:  1
 Views:
 	 2025-01-16 00:00:00+00:00 total: 1 unique: 1
 	 2025-01-18 00:00:00+00:00 total: 1 unique: 1
+
+repo: myenv views: total: 2 unique:  2
+Views:
+	 2025-01-14 00:00:00+00:00 total: 1 unique: 1
+	 2025-01-17 00:00:00+00:00 total: 1 unique: 1
 
 repo: vimcrypt views: total: 2 unique:  2
 Views:
@@ -200,6 +197,8 @@ Views:
 repo: flagged-hn views: total: 1 unique:  1
 Views:
 	 2025-01-18 00:00:00+00:00 total: 1 unique: 1
+	Referrers:
+		Count: 1 Unique: 1 Url: github.com
 
 repo: jq-illustrated views: total: 1 unique:  1
 Views:
@@ -257,4 +256,4 @@ repo: visual-python-strace views: total: 0 unique:  0
 
 
 ***
-Total views: 127
+Total views: 126
