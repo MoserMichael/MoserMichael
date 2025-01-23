@@ -1,15 +1,15 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Wed Jan 22 00:54:21 UTC 2025
+Thu Jan 23 00:52:57 UTC 2025
 
 <pre>
 
- _________________________________________
-/ Q: Why do ducks have big flat feet? A:  \
-| To stamp out forest fires.              |
-|                                         |
-| Q: Why do elephants have big flat feet? |
-\ A: To stamp out flaming ducks.          /
- -----------------------------------------
+ _______________________________________
+/ You never have to change anything you \
+| got up in the middle of the night to  |
+| write.                                |
+|                                       |
+\ -- Saul Bellow                        /
+ ---------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
