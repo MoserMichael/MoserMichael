@@ -1,19 +1,19 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sun Jan 26 00:54:43 UTC 2025
+Mon Jan 27 00:54:34 UTC 2025
 
 <pre>
 
- _____________________
-/ Big book, big bore. \
-|                     |
-\ -- Callimachus      /
- ---------------------
+ _____________________________________
+/ You're growing out of some of your  \
+| problems, but there are others that |
+\ you're growing into.                /
+ -------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
              -- ||----w |
                 ||     ||
-nltk score: -25 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 14 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
