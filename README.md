@@ -1,22 +1,27 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Wed Jan 29 00:53:08 UTC 2025
+Thu Jan 30 00:52:11 UTC 2025
 
 <pre>
 
- __________________________________
-/ Knock, knock!                    \
-|                                  |
-| Who's there? Sam and Janet.      |
-|                                  |
-| Sam and Janet who? Sam and Janet |
-\ Evening...                       /
- ----------------------------------
+ ________________________________________
+/ Q: How does the Polish Constitution    \
+| differ from the American? A: Under the |
+| Polish Constitution citizens are       |
+| guaranteed freedom of                  |
+|                                        |
+| speech, but under the United States    |
+| constitution they are                  |
+|                                        |
+| guaranteed freedom after speech.       |
+|                                        |
+\ -- being told in Poland, 1987          /
+ ----------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (OO)\_______
             (__)\       )\/\
-             -- ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 92 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
