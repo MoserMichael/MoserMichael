@@ -20,7 +20,6 @@ Views:
 
 repo: pyasmtool views: total: 23 unique:  21
 Views:
-	 2025-01-19 00:00:00+00:00 total: 1 unique: 1
 	 2025-01-20 00:00:00+00:00 total: 2 unique: 2
 	 2025-01-21 00:00:00+00:00 total: 2 unique: 2
 	 2025-01-22 00:00:00+00:00 total: 1 unique: 1
@@ -32,6 +31,7 @@ Views:
 	 2025-01-30 00:00:00+00:00 total: 1 unique: 1
 	 2025-01-31 00:00:00+00:00 total: 2 unique: 2
 	 2025-02-01 00:00:00+00:00 total: 6 unique: 6
+	 2025-02-02 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
 		Count: 6 Unique: 5 Url: news.ycombinator.com
 		Count: 1 Unique: 1 Url: Google
@@ -45,15 +45,15 @@ Views:
 		Count: 1 Unique: 1 Url: out.reddit.com
 		Count: 1 Unique: 1 Url: reddit.com
 
-repo: pygamewrap views: total: 9 unique:  5
+repo: pygamewrap views: total: 9 unique:  4
 Views:
-	 2025-01-19 00:00:00+00:00 total: 1 unique: 1
 	 2025-01-22 00:00:00+00:00 total: 2 unique: 2
 	 2025-01-23 00:00:00+00:00 total: 1 unique: 1
 	 2025-01-25 00:00:00+00:00 total: 1 unique: 1
 	 2025-01-26 00:00:00+00:00 total: 2 unique: 1
 	 2025-01-28 00:00:00+00:00 total: 1 unique: 1
 	 2025-01-29 00:00:00+00:00 total: 1 unique: 1
+	 2025-02-02 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
 		Count: 2 Unique: 2 Url: news.ycombinator.com
 		Count: 1 Unique: 1 Url: Google
@@ -70,6 +70,18 @@ Views:
 		Count: 2 Unique: 2 Url: github.com
 		Count: 2 Unique: 1 Url: gist.github.com
 
+repo: flagged-hn views: total: 7 unique:  6
+Views:
+	 2025-01-20 00:00:00+00:00 total: 1 unique: 1
+	 2025-01-21 00:00:00+00:00 total: 1 unique: 1
+	 2025-01-23 00:00:00+00:00 total: 1 unique: 1
+	 2025-01-31 00:00:00+00:00 total: 1 unique: 1
+	 2025-02-01 00:00:00+00:00 total: 1 unique: 1
+	 2025-02-02 00:00:00+00:00 total: 2 unique: 2
+	Referrers:
+		Count: 3 Unique: 2 Url: news.ycombinator.com
+		Count: 1 Unique: 1 Url: Google
+
 repo: duckduckbang views: total: 6 unique:  5
 Views:
 	 2025-01-24 00:00:00+00:00 total: 1 unique: 1
@@ -81,6 +93,16 @@ Views:
 		Count: 2 Unique: 2 Url: news.ycombinator.com
 		Count: 2 Unique: 1 Url: fmhy.net
 
+repo: gitblame views: total: 6 unique:  4
+Views:
+	 2025-01-25 00:00:00+00:00 total: 1 unique: 1
+	 2025-01-26 00:00:00+00:00 total: 1 unique: 1
+	 2025-01-27 00:00:00+00:00 total: 3 unique: 1
+	 2025-02-02 00:00:00+00:00 total: 1 unique: 1
+	Referrers:
+		Count: 3 Unique: 1 Url: DuckDuckGo
+		Count: 1 Unique: 1 Url: github.com
+
 repo: subb views: total: 6 unique:  4
 Views:
 	 2025-01-22 00:00:00+00:00 total: 3 unique: 1
@@ -88,26 +110,6 @@ Views:
 	 2025-01-31 00:00:00+00:00 total: 2 unique: 2
 	Referrers:
 		Count: 4 Unique: 2 Url: Google
-
-repo: flagged-hn views: total: 5 unique:  4
-Views:
-	 2025-01-20 00:00:00+00:00 total: 1 unique: 1
-	 2025-01-21 00:00:00+00:00 total: 1 unique: 1
-	 2025-01-23 00:00:00+00:00 total: 1 unique: 1
-	 2025-01-31 00:00:00+00:00 total: 1 unique: 1
-	 2025-02-01 00:00:00+00:00 total: 1 unique: 1
-	Referrers:
-		Count: 3 Unique: 3 Url: news.ycombinator.com
-		Count: 1 Unique: 1 Url: Google
-
-repo: gitblame views: total: 5 unique:  3
-Views:
-	 2025-01-25 00:00:00+00:00 total: 1 unique: 1
-	 2025-01-26 00:00:00+00:00 total: 1 unique: 1
-	 2025-01-27 00:00:00+00:00 total: 3 unique: 1
-	Referrers:
-		Count: 3 Unique: 1 Url: DuckDuckGo
-		Count: 1 Unique: 1 Url: github.com
 
 repo: myenv views: total: 5 unique:  5
 Views:
@@ -178,6 +180,7 @@ Views:
 	 2025-02-01 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
 		Count: 1 Unique: 1 Url: Google
+		Count: 1 Unique: 1 Url: github.com
 
 repo: pprintex views: total: 2 unique:  2
 Views:
@@ -221,6 +224,8 @@ Views:
 repo: rzgrep views: total: 1 unique:  1
 Views:
 	 2025-02-01 00:00:00+00:00 total: 1 unique: 1
+	Referrers:
+		Count: 1 Unique: 1 Url: dc-afsin.rsync.link
 
 repo: zipit views: total: 1 unique:  1
 Views:
@@ -256,4 +261,4 @@ repo: visual-python-strace views: total: 0 unique:  0
 
 
 ***
-Total views: 155
+Total views: 158
