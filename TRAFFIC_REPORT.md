@@ -18,10 +18,10 @@ Views:
 	 2025-02-05 00:00:00+00:00 total: 1 unique: 1
 	 2025-02-08 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
-		Count: 33 Unique: 13 Url: Google
+		Count: 34 Unique: 14 Url: Google
 		Count: 1 Unique: 1 Url: github.com
 
-repo: pyasmtool views: total: 26 unique:  21
+repo: pyasmtool views: total: 29 unique:  24
 Views:
 	 2025-01-28 00:00:00+00:00 total: 1 unique: 1
 	 2025-01-29 00:00:00+00:00 total: 3 unique: 2
@@ -33,9 +33,10 @@ Views:
 	 2025-02-06 00:00:00+00:00 total: 1 unique: 1
 	 2025-02-07 00:00:00+00:00 total: 4 unique: 4
 	 2025-02-08 00:00:00+00:00 total: 5 unique: 2
+	 2025-02-09 00:00:00+00:00 total: 3 unique: 3
 	Referrers:
+		Count: 9 Unique: 5 Url: Google
 		Count: 4 Unique: 4 Url: news.ycombinator.com
-		Count: 4 Unique: 3 Url: Google
 		Count: 1 Unique: 1 Url: t.co
 
 repo: flagged-hn views: total: 13 unique:  8
@@ -49,11 +50,10 @@ Views:
 	 2025-02-06 00:00:00+00:00 total: 2 unique: 1
 	 2025-02-08 00:00:00+00:00 total: 2 unique: 1
 	Referrers:
-		Count: 10 Unique: 6 Url: news.ycombinator.com
+		Count: 12 Unique: 7 Url: news.ycombinator.com
 
-repo: pygamewrap views: total: 9 unique:  3
+repo: pygamewrap views: total: 7 unique:  3
 Views:
-	 2025-01-26 00:00:00+00:00 total: 2 unique: 1
 	 2025-01-28 00:00:00+00:00 total: 1 unique: 1
 	 2025-01-29 00:00:00+00:00 total: 1 unique: 1
 	 2025-02-02 00:00:00+00:00 total: 1 unique: 1
@@ -69,34 +69,6 @@ Views:
 	 2025-02-05 00:00:00+00:00 total: 1 unique: 1
 	 2025-02-06 00:00:00+00:00 total: 1 unique: 1
 
-repo: duckduckbang views: total: 5 unique:  4
-Views:
-	 2025-01-26 00:00:00+00:00 total: 1 unique: 1
-	 2025-01-28 00:00:00+00:00 total: 1 unique: 1
-	 2025-01-29 00:00:00+00:00 total: 1 unique: 1
-	 2025-01-31 00:00:00+00:00 total: 2 unique: 1
-	Referrers:
-		Count: 2 Unique: 1 Url: fmhy.net
-
-repo: gitblame views: total: 5 unique:  3
-Views:
-	 2025-01-26 00:00:00+00:00 total: 1 unique: 1
-	 2025-01-27 00:00:00+00:00 total: 3 unique: 1
-	 2025-02-02 00:00:00+00:00 total: 1 unique: 1
-	Referrers:
-		Count: 3 Unique: 1 Url: DuckDuckGo
-		Count: 1 Unique: 1 Url: Google
-
-repo: vimcrypt2 views: total: 5 unique:  5
-Views:
-	 2025-01-26 00:00:00+00:00 total: 1 unique: 1
-	 2025-01-27 00:00:00+00:00 total: 1 unique: 1
-	 2025-01-31 00:00:00+00:00 total: 1 unique: 1
-	 2025-02-05 00:00:00+00:00 total: 1 unique: 1
-	 2025-02-08 00:00:00+00:00 total: 1 unique: 1
-	Referrers:
-		Count: 3 Unique: 3 Url: Google
-
 repo: cstuff views: total: 4 unique:  3
 Views:
 	 2025-01-28 00:00:00+00:00 total: 1 unique: 1
@@ -106,14 +78,37 @@ Views:
 		Count: 3 Unique: 2 Url: mosermichael.github.io
 		Count: 1 Unique: 1 Url: reddit.com
 
+repo: duckduckbang views: total: 4 unique:  3
+Views:
+	 2025-01-28 00:00:00+00:00 total: 1 unique: 1
+	 2025-01-29 00:00:00+00:00 total: 1 unique: 1
+	 2025-01-31 00:00:00+00:00 total: 2 unique: 1
+	Referrers:
+		Count: 2 Unique: 1 Url: fmhy.net
+
+repo: gitblame views: total: 4 unique:  2
+Views:
+	 2025-01-27 00:00:00+00:00 total: 3 unique: 1
+	 2025-02-02 00:00:00+00:00 total: 1 unique: 1
+	Referrers:
+		Count: 1 Unique: 1 Url: Google
+
 repo: python-obj-system views: total: 4 unique:  3
 Views:
 	 2025-01-27 00:00:00+00:00 total: 2 unique: 1
 	 2025-01-29 00:00:00+00:00 total: 1 unique: 1
 	 2025-02-03 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
-		Count: 2 Unique: 1 Url: gist.github.com
 		Count: 1 Unique: 1 Url: github.com
+
+repo: vimcrypt2 views: total: 4 unique:  4
+Views:
+	 2025-01-27 00:00:00+00:00 total: 1 unique: 1
+	 2025-01-31 00:00:00+00:00 total: 1 unique: 1
+	 2025-02-05 00:00:00+00:00 total: 1 unique: 1
+	 2025-02-08 00:00:00+00:00 total: 1 unique: 1
+	Referrers:
+		Count: 3 Unique: 3 Url: Google
 
 repo: jscriptparse views: total: 3 unique:  1
 Views:
@@ -134,11 +129,6 @@ Views:
 	Referrers:
 		Count: 1 Unique: 1 Url: Google
 
-repo: kwchecker views: total: 2 unique:  2
-Views:
-	 2025-01-26 00:00:00+00:00 total: 1 unique: 1
-	 2025-01-28 00:00:00+00:00 total: 1 unique: 1
-
 repo: my-notes views: total: 2 unique:  2
 Views:
 	 2025-01-28 00:00:00+00:00 total: 1 unique: 1
@@ -153,13 +143,6 @@ Views:
 	 2025-02-08 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
 		Count: 1 Unique: 1 Url: dc-afsin.rsync.link
-
-repo: vimcrypt views: total: 2 unique:  2
-Views:
-	 2025-01-26 00:00:00+00:00 total: 1 unique: 1
-	 2025-01-31 00:00:00+00:00 total: 1 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: Google
 
 repo: cppcombinator views: total: 1 unique:  1
 Views:
@@ -192,6 +175,12 @@ Views:
 repo: jq-illustrated views: total: 1 unique:  1
 Views:
 	 2025-02-08 00:00:00+00:00 total: 1 unique: 1
+	Referrers:
+		Count: 1 Unique: 1 Url: krew.sigs.k8s.io
+
+repo: kwchecker views: total: 1 unique:  1
+Views:
+	 2025-01-28 00:00:00+00:00 total: 1 unique: 1
 
 repo: ls-annotations views: total: 1 unique:  1
 Views:
@@ -206,6 +195,12 @@ Views:
 repo: teach-your-children-well views: total: 1 unique:  1
 Views:
 	 2025-02-07 00:00:00+00:00 total: 1 unique: 1
+
+repo: vimcrypt views: total: 1 unique:  1
+Views:
+	 2025-01-31 00:00:00+00:00 total: 1 unique: 1
+	Referrers:
+		Count: 1 Unique: 1 Url: Google
 
 repo: zipit views: total: 1 unique:  1
 Views:
@@ -241,4 +236,4 @@ repo: visual-python-strace views: total: 0 unique:  0
 
 
 ***
-Total views: 144
+Total views: 140
