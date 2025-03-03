@@ -1,36 +1,19 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sun Mar  2 00:59:23 UTC 2025
+Mon Mar  3 00:57:43 UTC 2025
 
 <pre>
 
- _______________________________________
-/ Gone With The Wind LITE(tm)           \
-|                                       |
-| -- by Margaret Mitchell               |
-|                                       |
-| A woman only likes men she can't have |
-| and the South gets trashed.           |
-|                                       |
-| Gift of the Magi LITE(tm)             |
-|                                       |
-| -- by O. Henry                        |
-|                                       |
-| A husband and wife forget to register |
-| their gift preferences.               |
-|                                       |
-| The Old Man and the Sea LITE(tm)      |
-|                                       |
-| -- by Ernest Hemingway                |
-|                                       |
-| An old man goes fishing, but doesn't  |
-\ have much luck.                       /
- ---------------------------------------
+ ________________________________________
+/ You have a reputation for being        \
+| thoroughly reliable and trustworthy. A |
+\ pity that it's totally undeserved.     /
+ ----------------------------------------
         \   ^__^
-         \  (OO)\_______
+         \  (oo)\_______
             (__)\       )\/\
              :) ||----w |
                 ||     ||
-nltk score: 77 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: 39 '(from -100..100) state: 'good' eye: oo tongue: :)
 
 </pre>
 
