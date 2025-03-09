@@ -14,7 +14,7 @@ Views:
 	 2025-03-05 00:00:00+00:00 total: 1 unique: 1
 	 2025-03-07 00:00:00+00:00 total: 30 unique: 4
 	Referrers:
-		Count: 3 Unique: 1 Url: Google
+		Count: 5 Unique: 2 Url: Google
 		Count: 1 Unique: 1 Url: github.com
 
 repo: jpa-enc-converter views: total: 25 unique:  3
@@ -32,7 +32,7 @@ Views:
 	Referrers:
 		Count: 3 Unique: 2 Url: github.com
 
-repo: pyasmtool views: total: 15 unique:  9
+repo: pyasmtool views: total: 17 unique:  11
 Views:
 	 2025-02-23 00:00:00+00:00 total: 1 unique: 1
 	 2025-02-26 00:00:00+00:00 total: 2 unique: 2
@@ -40,20 +40,11 @@ Views:
 	 2025-03-01 00:00:00+00:00 total: 1 unique: 1
 	 2025-03-02 00:00:00+00:00 total: 2 unique: 2
 	 2025-03-03 00:00:00+00:00 total: 2 unique: 2
+	 2025-03-08 00:00:00+00:00 total: 2 unique: 2
 	Referrers:
 		Count: 5 Unique: 1 Url: Google
-		Count: 4 Unique: 2 Url: news.ycombinator.com
+		Count: 3 Unique: 2 Url: news.ycombinator.com
 		Count: 1 Unique: 1 Url: realpython.com
-
-repo: pygamewrap views: total: 13 unique:  5
-Views:
-	 2025-02-22 00:00:00+00:00 total: 1 unique: 1
-	 2025-02-26 00:00:00+00:00 total: 1 unique: 1
-	 2025-02-28 00:00:00+00:00 total: 8 unique: 2
-	 2025-03-01 00:00:00+00:00 total: 1 unique: 1
-	 2025-03-07 00:00:00+00:00 total: 2 unique: 2
-	Referrers:
-		Count: 9 Unique: 3 Url: Google
 
 repo: s9k views: total: 13 unique:  9
 Views:
@@ -68,6 +59,15 @@ Views:
 		Count: 1 Unique: 1 Url: chatgpt.com
 		Count: 1 Unique: 1 Url: github.com
 
+repo: pygamewrap views: total: 12 unique:  5
+Views:
+	 2025-02-26 00:00:00+00:00 total: 1 unique: 1
+	 2025-02-28 00:00:00+00:00 total: 8 unique: 2
+	 2025-03-01 00:00:00+00:00 total: 1 unique: 1
+	 2025-03-07 00:00:00+00:00 total: 2 unique: 2
+	Referrers:
+		Count: 9 Unique: 3 Url: Google
+
 repo: python-obj-system views: total: 11 unique:  6
 Views:
 	 2025-02-28 00:00:00+00:00 total: 1 unique: 1
@@ -77,32 +77,23 @@ Views:
 	Referrers:
 		Count: 5 Unique: 1 Url: news.ycombinator.com
 		Count: 3 Unique: 2 Url: realpython.com
+		Count: 1 Unique: 1 Url: yandex.by
 		Count: 1 Unique: 1 Url: Google
 
-repo: duckduckbang views: total: 9 unique:  7
+repo: duckduckbang views: total: 10 unique:  8
 Views:
 	 2025-02-24 00:00:00+00:00 total: 4 unique: 2
 	 2025-02-28 00:00:00+00:00 total: 1 unique: 1
 	 2025-03-02 00:00:00+00:00 total: 2 unique: 2
 	 2025-03-05 00:00:00+00:00 total: 1 unique: 1
 	 2025-03-06 00:00:00+00:00 total: 1 unique: 1
+	 2025-03-08 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
 		Count: 2 Unique: 1 Url: Google
 		Count: 2 Unique: 1 Url: github.com
 		Count: 1 Unique: 1 Url: fmhy.net
 		Count: 1 Unique: 1 Url: fmhy.pages.dev
 		Count: 1 Unique: 1 Url: DuckDuckGo
-
-repo: my-notes views: total: 9 unique:  4
-Views:
-	 2025-02-22 00:00:00+00:00 total: 4 unique: 1
-	 2025-02-23 00:00:00+00:00 total: 2 unique: 1
-	 2025-02-26 00:00:00+00:00 total: 2 unique: 1
-	 2025-03-04 00:00:00+00:00 total: 1 unique: 1
-	Referrers:
-		Count: 2 Unique: 1 Url: chatgpt.com
-		Count: 2 Unique: 1 Url: github.com
-		Count: 1 Unique: 1 Url: Google
 
 repo: dockerdashphp views: total: 8 unique:  5
 Views:
@@ -111,15 +102,25 @@ Views:
 	Referrers:
 		Count: 3 Unique: 3 Url: Google
 
-repo: vimcrypt2 views: total: 6 unique:  4
+repo: vimcrypt2 views: total: 7 unique:  5
 Views:
 	 2025-02-24 00:00:00+00:00 total: 3 unique: 1
 	 2025-02-27 00:00:00+00:00 total: 1 unique: 1
 	 2025-02-28 00:00:00+00:00 total: 1 unique: 1
 	 2025-03-06 00:00:00+00:00 total: 1 unique: 1
+	 2025-03-08 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
 		Count: 4 Unique: 2 Url: Google
 		Count: 1 Unique: 1 Url: vim.org
+
+repo: my-notes views: total: 5 unique:  3
+Views:
+	 2025-02-23 00:00:00+00:00 total: 2 unique: 1
+	 2025-02-26 00:00:00+00:00 total: 2 unique: 1
+	 2025-03-04 00:00:00+00:00 total: 1 unique: 1
+	Referrers:
+		Count: 2 Unique: 1 Url: github.com
+		Count: 1 Unique: 1 Url: Google
 
 repo: visual-python-strace views: total: 3 unique:  2
 Views:
@@ -142,6 +143,8 @@ repo: myenv views: total: 2 unique:  2
 Views:
 	 2025-02-26 00:00:00+00:00 total: 1 unique: 1
 	 2025-03-07 00:00:00+00:00 total: 1 unique: 1
+	Referrers:
+		Count: 1 Unique: 1 Url: Google
 
 repo: pythonimportplayground views: total: 2 unique:  2
 Views:
@@ -154,8 +157,6 @@ repo: rzgrep views: total: 2 unique:  2
 Views:
 	 2025-02-23 00:00:00+00:00 total: 1 unique: 1
 	 2025-02-28 00:00:00+00:00 total: 1 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: github.com
 
 repo: flagged-hn views: total: 1 unique:  1
 Views:
@@ -247,4 +248,4 @@ repo: teach-your-children-well views: total: 0 unique:  0
 
 
 ***
-Total views: 193
+Total views: 192
