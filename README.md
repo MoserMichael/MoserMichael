@@ -1,29 +1,17 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Mon Mar 10 00:47:25 UTC 2025
+Tue Mar 11 00:57:18 UTC 2025
 
 <pre>
 
- _________________________________________
-/  My dear People.                        \
-|                                         |
-| My dear Bagginses and Boffins, and my   |
-| dear Tooks and Brandybucks, and Grubbs, |
-| and Chubbs, and Burrowses, and          |
-| Hornblowers, and Bolgers, Bracegirdles, |
-| Goodbodies, Brockhouses and Proudfoots. |
-| Also my good Sackville Bagginses that I |
-| welcome back at last to Bag End. Today  |
-| is my one hundred and eleventh          |
-| birthday: I am eleventy-one today!"     |
-|                                         |
-\ -- J. R. R. Tolkien                     /
- -----------------------------------------
+ _______________________________________
+< You will inherit millions of dollars. >
+ ---------------------------------------
         \   ^__^
-         \  (OO)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :) ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: 92 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 

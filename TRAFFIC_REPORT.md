@@ -23,7 +23,7 @@ Views:
 	 2025-02-27 00:00:00+00:00 total: 4 unique: 1
 	 2025-03-06 00:00:00+00:00 total: 14 unique: 1
 	Referrers:
-		Count: 21 Unique: 2 Url: Google
+		Count: 14 Unique: 1 Url: Google
 		Count: 4 Unique: 1 Url: bibliocommons.atlassian.net
 
 repo: cstuff views: total: 20 unique:  2
@@ -42,7 +42,7 @@ Views:
 	 2025-03-08 00:00:00+00:00 total: 2 unique: 2
 	 2025-03-09 00:00:00+00:00 total: 3 unique: 2
 	Referrers:
-		Count: 5 Unique: 1 Url: Google
+		Count: 6 Unique: 2 Url: Google
 		Count: 3 Unique: 2 Url: news.ycombinator.com
 		Count: 1 Unique: 1 Url: realpython.com
 
@@ -65,23 +65,9 @@ Views:
 	 2025-03-04 00:00:00+00:00 total: 1 unique: 1
 	 2025-03-06 00:00:00+00:00 total: 5 unique: 3
 	Referrers:
-		Count: 11 Unique: 7 Url: Google
+		Count: 8 Unique: 6 Url: Google
 		Count: 1 Unique: 1 Url: chatgpt.com
 		Count: 1 Unique: 1 Url: github.com
-
-repo: duckduckbang views: total: 12 unique:  9
-Views:
-	 2025-02-24 00:00:00+00:00 total: 4 unique: 2
-	 2025-02-28 00:00:00+00:00 total: 1 unique: 1
-	 2025-03-02 00:00:00+00:00 total: 2 unique: 2
-	 2025-03-05 00:00:00+00:00 total: 1 unique: 1
-	 2025-03-06 00:00:00+00:00 total: 1 unique: 1
-	 2025-03-08 00:00:00+00:00 total: 1 unique: 1
-	 2025-03-09 00:00:00+00:00 total: 2 unique: 1
-	Referrers:
-		Count: 2 Unique: 2 Url: fmhy.net
-		Count: 1 Unique: 1 Url: fmhy.pages.dev
-		Count: 1 Unique: 1 Url: DuckDuckGo
 
 repo: python-obj-system views: total: 11 unique:  6
 Views:
@@ -102,9 +88,21 @@ Views:
 	Referrers:
 		Count: 3 Unique: 3 Url: Google
 
-repo: vimcrypt2 views: total: 7 unique:  5
+repo: duckduckbang views: total: 8 unique:  7
 Views:
-	 2025-02-24 00:00:00+00:00 total: 3 unique: 1
+	 2025-02-28 00:00:00+00:00 total: 1 unique: 1
+	 2025-03-02 00:00:00+00:00 total: 2 unique: 2
+	 2025-03-05 00:00:00+00:00 total: 1 unique: 1
+	 2025-03-06 00:00:00+00:00 total: 1 unique: 1
+	 2025-03-08 00:00:00+00:00 total: 1 unique: 1
+	 2025-03-09 00:00:00+00:00 total: 2 unique: 1
+	Referrers:
+		Count: 2 Unique: 2 Url: fmhy.net
+		Count: 1 Unique: 1 Url: fmhy.pages.dev
+		Count: 1 Unique: 1 Url: DuckDuckGo
+
+repo: vimcrypt2 views: total: 4 unique:  4
+Views:
 	 2025-02-27 00:00:00+00:00 total: 1 unique: 1
 	 2025-02-28 00:00:00+00:00 total: 1 unique: 1
 	 2025-03-06 00:00:00+00:00 total: 1 unique: 1
@@ -132,7 +130,7 @@ Views:
 	 2025-03-07 00:00:00+00:00 total: 1 unique: 1
 	 2025-03-09 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
-		Count: 1 Unique: 1 Url: Google
+		Count: 2 Unique: 2 Url: Google
 
 repo: visual-python-strace views: total: 3 unique:  2
 Views:
@@ -248,4 +246,4 @@ repo: teach-your-children-well views: total: 0 unique:  0
 
 
 ***
-Total views: 197
+Total views: 190
