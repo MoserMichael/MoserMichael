@@ -1,20 +1,23 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Fri Mar 14 00:56:41 UTC 2025
+Sat Mar 15 00:55:53 UTC 2025
 
 <pre>
 
- ________________________________________
-/ There is no distinctly native American \
-| criminal class except Congress.        |
-|                                        |
-\ -- Mark Twain                          /
- ----------------------------------------
+ _______________________________________
+/ For years a secret shame destroyed my \
+| peace-- I'd not read Eliot, Auden or  |
+| MacNiece. But now I think a thought   |
+| that brings me hope: Neither had      |
+| Chaucer, Shakespeare, Milton, Pope.   |
+|                                       |
+\ -- Justin Richardson.                 /
+ ---------------------------------------
         \   ^__^
-         \  (~~)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :( ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: -68 '(from -100..100) state: 'very bad' eye: ~~ tongue: :(
+nltk score: 18 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
