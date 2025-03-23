@@ -15,18 +15,18 @@ Views:
 	Referrers:
 		Count: 4 Unique: 4 Url: Google
 
-repo: roget-thesaurus-parser views: total: 26 unique:  3
+repo: roget-thesaurus-parser views: total: 28 unique:  4
 Views:
 	 2025-03-13 00:00:00+00:00 total: 5 unique: 2
 	 2025-03-14 00:00:00+00:00 total: 21 unique: 1
+	 2025-03-22 00:00:00+00:00 total: 2 unique: 1
 	Referrers:
 		Count: 21 Unique: 2 Url: Google
 		Count: 4 Unique: 1 Url: chatgpt.com
 
-repo: pyasmtool views: total: 24 unique:  15
+repo: pyasmtool views: total: 21 unique:  13
 Views:
-	 2025-03-08 00:00:00+00:00 total: 2 unique: 2
-	 2025-03-09 00:00:00+00:00 total: 3 unique: 2
+	 2025-03-09 00:00:00+00:00 total: 2 unique: 2
 	 2025-03-12 00:00:00+00:00 total: 5 unique: 3
 	 2025-03-13 00:00:00+00:00 total: 1 unique: 1
 	 2025-03-14 00:00:00+00:00 total: 3 unique: 2
@@ -35,8 +35,8 @@ Views:
 	 2025-03-18 00:00:00+00:00 total: 3 unique: 2
 	 2025-03-21 00:00:00+00:00 total: 4 unique: 1
 	Referrers:
-		Count: 11 Unique: 6 Url: Google
-		Count: 1 Unique: 1 Url: news.ycombinator.com
+		Count: 10 Unique: 5 Url: Google
+		Count: 5 Unique: 2 Url: news.ycombinator.com
 
 repo: flagged-hn views: total: 11 unique:  9
 Views:
@@ -44,7 +44,7 @@ Views:
 	 2025-03-20 00:00:00+00:00 total: 2 unique: 2
 	 2025-03-21 00:00:00+00:00 total: 2 unique: 1
 	Referrers:
-		Count: 5 Unique: 4 Url: news.ycombinator.com
+		Count: 7 Unique: 5 Url: news.ycombinator.com
 		Count: 2 Unique: 2 Url: Google
 
 repo: s9k views: total: 10 unique:  9
@@ -58,37 +58,14 @@ Views:
 	 2025-03-20 00:00:00+00:00 total: 2 unique: 1
 	 2025-03-21 00:00:00+00:00 total: 2 unique: 2
 	Referrers:
-		Count: 8 Unique: 7 Url: Google
+		Count: 9 Unique: 8 Url: Google
 
-repo: duckduckbang views: total: 8 unique:  7
-Views:
-	 2025-03-08 00:00:00+00:00 total: 1 unique: 1
-	 2025-03-09 00:00:00+00:00 total: 2 unique: 1
-	 2025-03-12 00:00:00+00:00 total: 1 unique: 1
-	 2025-03-15 00:00:00+00:00 total: 1 unique: 1
-	 2025-03-16 00:00:00+00:00 total: 1 unique: 1
-	 2025-03-17 00:00:00+00:00 total: 1 unique: 1
-	 2025-03-18 00:00:00+00:00 total: 1 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: Google
-		Count: 1 Unique: 1 Url: fmhy.net
-		Count: 1 Unique: 1 Url: fmhy.pages.dev
-
-repo: myenv views: total: 8 unique:  4
+repo: myenv views: total: 9 unique:  5
 Views:
 	 2025-03-09 00:00:00+00:00 total: 1 unique: 1
 	 2025-03-12 00:00:00+00:00 total: 1 unique: 1
 	 2025-03-17 00:00:00+00:00 total: 6 unique: 2
-	Referrers:
-		Count: 2 Unique: 2 Url: Google
-
-repo: vimcrypt2 views: total: 8 unique:  6
-Views:
-	 2025-03-08 00:00:00+00:00 total: 1 unique: 1
-	 2025-03-11 00:00:00+00:00 total: 1 unique: 1
-	 2025-03-14 00:00:00+00:00 total: 1 unique: 1
-	 2025-03-16 00:00:00+00:00 total: 1 unique: 1
-	 2025-03-21 00:00:00+00:00 total: 4 unique: 2
+	 2025-03-22 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
 		Count: 1 Unique: 1 Url: Google
 
@@ -101,6 +78,28 @@ Views:
 	Referrers:
 		Count: 3 Unique: 2 Url: pypi.org
 		Count: 1 Unique: 1 Url: Google
+
+repo: duckduckbang views: total: 7 unique:  6
+Views:
+	 2025-03-09 00:00:00+00:00 total: 2 unique: 1
+	 2025-03-12 00:00:00+00:00 total: 1 unique: 1
+	 2025-03-15 00:00:00+00:00 total: 1 unique: 1
+	 2025-03-16 00:00:00+00:00 total: 1 unique: 1
+	 2025-03-17 00:00:00+00:00 total: 1 unique: 1
+	 2025-03-18 00:00:00+00:00 total: 1 unique: 1
+	Referrers:
+		Count: 1 Unique: 1 Url: Google
+		Count: 1 Unique: 1 Url: fmhy.net
+		Count: 1 Unique: 1 Url: fmhy.pages.dev
+
+repo: vimcrypt2 views: total: 7 unique:  5
+Views:
+	 2025-03-11 00:00:00+00:00 total: 1 unique: 1
+	 2025-03-14 00:00:00+00:00 total: 1 unique: 1
+	 2025-03-16 00:00:00+00:00 total: 1 unique: 1
+	 2025-03-21 00:00:00+00:00 total: 4 unique: 2
+	Referrers:
+		Count: 5 Unique: 3 Url: Google
 
 repo: grpc-spring-boot-starter-utils views: total: 6 unique:  3
 Views:
@@ -146,6 +145,7 @@ Views:
 	 2025-03-11 00:00:00+00:00 total: 1 unique: 1
 	 2025-03-21 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
+		Count: 1 Unique: 1 Url: pypi.org
 		Count: 1 Unique: 1 Url: Google
 
 repo: cstuff views: total: 2 unique:  1
@@ -248,4 +248,4 @@ repo: teach-your-children-well views: total: 0 unique:  0
 
 
 ***
-Total views: 176
+Total views: 174
