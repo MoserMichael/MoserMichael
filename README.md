@@ -1,18 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sun Mar 23 01:02:03 UTC 2025
+Mon Mar 24 00:59:40 UTC 2025
 
 <pre>
 
- ________________________________________
-/ Increased knowledge will help you now. \
-\ Have mate's phone bugged.              /
- ----------------------------------------
+ ______________________________________
+/ You will live a long, healthy, happy \
+\ life and make bags of money.         /
+ --------------------------------------
         \   ^__^
-         \  (oo)\_______
+         \  (OO)\_______
             (__)\       )\/\
              :) ||----w |
                 ||     ||
-nltk score: 59 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: 75 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
@@ -69,7 +69,7 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/duckduckbang">duckduckbang</a></td><td>39</td><td>Python</td><td>Meta search page that utilises duckduckgo !bang query operators.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/cppcombinator">cppcombinator</a></td><td>24</td><td>C++</td><td>parser  combinator and AST generator in c++17</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/kind-helper">kind-helper</a></td><td>24</td><td>Python</td><td>Simplifies the creation of practical kubernetes test clusters with the kind utility.</td></tr>
-<tr><td><a href="https://github.com/MoserMichael/jq-illustrated">jq-illustrated</a></td><td>22</td><td>Shell</td><td>illustrated tutorial of jq (and the scripts that create it)</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/jq-illustrated">jq-illustrated</a></td><td>21</td><td>Shell</td><td>illustrated tutorial of jq (and the scripts that create it)</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/s9k">s9k</a></td><td>21</td><td>Python</td><td>dashboard/web app for managing kubernetes clusters, with similar functionality as k9s</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/cstuff">cstuff</a></td><td>15</td><td>C</td><td>My C projects</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/ls-annotations">ls-annotations</a></td><td>8</td><td>Java</td><td>Show all declarations with java annotations by decompiling byte code.</td></tr>
@@ -106,11 +106,11 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/vimcrypt">vimcrypt</a></td><td>0</td><td>Vim script</td><td>my vim plugin for encrypting/decryting text files with openssl</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/visual-python-strace">visual-python-strace</a></td><td>0</td><td>Python</td><td>show a very long stack trace with variable values.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/zipit">zipit</a></td><td>0</td><td>C++</td><td>c++ library for the equivalent of python/haskell zip function</td></tr>
-<tr><th>Total stars:</th><th colspan='2' align='left'> 605 </th></tr>
+<tr><th>Total stars:</th><th colspan='2' align='left'> 604 </th></tr>
 </table>
 <br>
-old_date:  2025-01-10 00:56:26.019123 now: 2025-03-23 01:02:19.020169
-duckduckbang stars changed from: 40 to: 39
+old_date:  2025-03-23 01:02:19.020323 now: 2025-03-24 00:59:55.365071
+jq-illustrated stars changed from: 22 to: 21
     </pre>
   </td>
 </table>

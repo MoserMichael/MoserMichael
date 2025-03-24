@@ -21,12 +21,11 @@ Views:
 	 2025-03-14 00:00:00+00:00 total: 21 unique: 1
 	 2025-03-22 00:00:00+00:00 total: 2 unique: 1
 	Referrers:
-		Count: 21 Unique: 2 Url: Google
+		Count: 23 Unique: 3 Url: Google
 		Count: 4 Unique: 1 Url: chatgpt.com
 
-repo: pyasmtool views: total: 21 unique:  13
+repo: pyasmtool views: total: 20 unique:  12
 Views:
-	 2025-03-09 00:00:00+00:00 total: 2 unique: 2
 	 2025-03-12 00:00:00+00:00 total: 5 unique: 3
 	 2025-03-13 00:00:00+00:00 total: 1 unique: 1
 	 2025-03-14 00:00:00+00:00 total: 3 unique: 2
@@ -34,6 +33,7 @@ Views:
 	 2025-03-17 00:00:00+00:00 total: 2 unique: 1
 	 2025-03-18 00:00:00+00:00 total: 3 unique: 2
 	 2025-03-21 00:00:00+00:00 total: 4 unique: 1
+	 2025-03-23 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
 		Count: 10 Unique: 5 Url: Google
 		Count: 5 Unique: 2 Url: news.ycombinator.com
@@ -60,9 +60,8 @@ Views:
 	Referrers:
 		Count: 9 Unique: 8 Url: Google
 
-repo: myenv views: total: 9 unique:  5
+repo: myenv views: total: 8 unique:  4
 Views:
-	 2025-03-09 00:00:00+00:00 total: 1 unique: 1
 	 2025-03-12 00:00:00+00:00 total: 1 unique: 1
 	 2025-03-17 00:00:00+00:00 total: 6 unique: 2
 	 2025-03-22 00:00:00+00:00 total: 1 unique: 1
@@ -78,19 +77,6 @@ Views:
 	Referrers:
 		Count: 3 Unique: 2 Url: pypi.org
 		Count: 1 Unique: 1 Url: Google
-
-repo: duckduckbang views: total: 7 unique:  6
-Views:
-	 2025-03-09 00:00:00+00:00 total: 2 unique: 1
-	 2025-03-12 00:00:00+00:00 total: 1 unique: 1
-	 2025-03-15 00:00:00+00:00 total: 1 unique: 1
-	 2025-03-16 00:00:00+00:00 total: 1 unique: 1
-	 2025-03-17 00:00:00+00:00 total: 1 unique: 1
-	 2025-03-18 00:00:00+00:00 total: 1 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: Google
-		Count: 1 Unique: 1 Url: fmhy.net
-		Count: 1 Unique: 1 Url: fmhy.pages.dev
 
 repo: vimcrypt2 views: total: 7 unique:  5
 Views:
@@ -116,6 +102,18 @@ Views:
 		Count: 2 Unique: 2 Url: github.com
 		Count: 1 Unique: 1 Url: Google
 
+repo: duckduckbang views: total: 5 unique:  5
+Views:
+	 2025-03-12 00:00:00+00:00 total: 1 unique: 1
+	 2025-03-15 00:00:00+00:00 total: 1 unique: 1
+	 2025-03-16 00:00:00+00:00 total: 1 unique: 1
+	 2025-03-17 00:00:00+00:00 total: 1 unique: 1
+	 2025-03-18 00:00:00+00:00 total: 1 unique: 1
+	Referrers:
+		Count: 1 Unique: 1 Url: Google
+		Count: 1 Unique: 1 Url: fmhy.net
+		Count: 1 Unique: 1 Url: fmhy.pages.dev
+
 repo: python-obj-system views: total: 4 unique:  4
 Views:
 	 2025-03-12 00:00:00+00:00 total: 1 unique: 1
@@ -134,20 +132,6 @@ Views:
 	Referrers:
 		Count: 1 Unique: 1 Url: Bing
 
-repo: jscriptparse views: total: 3 unique:  2
-Views:
-	 2025-03-09 00:00:00+00:00 total: 2 unique: 1
-	 2025-03-13 00:00:00+00:00 total: 1 unique: 1
-
-repo: pygamewrap views: total: 3 unique:  3
-Views:
-	 2025-03-09 00:00:00+00:00 total: 1 unique: 1
-	 2025-03-11 00:00:00+00:00 total: 1 unique: 1
-	 2025-03-21 00:00:00+00:00 total: 1 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: pypi.org
-		Count: 1 Unique: 1 Url: Google
-
 repo: cstuff views: total: 2 unique:  1
 Views:
 	 2025-03-17 00:00:00+00:00 total: 2 unique: 1
@@ -159,6 +143,14 @@ Views:
 	 2025-03-17 00:00:00+00:00 total: 2 unique: 1
 	Referrers:
 		Count: 2 Unique: 1 Url: Google
+
+repo: pygamewrap views: total: 2 unique:  2
+Views:
+	 2025-03-11 00:00:00+00:00 total: 1 unique: 1
+	 2025-03-21 00:00:00+00:00 total: 1 unique: 1
+	Referrers:
+		Count: 1 Unique: 1 Url: pypi.org
+		Count: 1 Unique: 1 Url: Google
 
 repo: vimcrypt views: total: 2 unique:  2
 Views:
@@ -191,6 +183,10 @@ Views:
 repo: jq-illustrated views: total: 1 unique:  1
 Views:
 	 2025-03-16 00:00:00+00:00 total: 1 unique: 1
+
+repo: jscriptparse views: total: 1 unique:  1
+Views:
+	 2025-03-13 00:00:00+00:00 total: 1 unique: 1
 
 repo: kind-helper views: total: 1 unique:  1
 Views:
@@ -248,4 +244,4 @@ repo: teach-your-children-well views: total: 0 unique:  0
 
 
 ***
-Total views: 174
+Total views: 167
