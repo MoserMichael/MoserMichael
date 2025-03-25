@@ -1,18 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Mon Mar 24 00:59:40 UTC 2025
+Tue Mar 25 00:58:24 UTC 2025
 
 <pre>
 
- ______________________________________
-/ You will live a long, healthy, happy \
-\ life and make bags of money.         /
- --------------------------------------
+ ________________________________________
+/ You will attract cultured and artistic \
+\ people to your home.                   /
+ ----------------------------------------
         \   ^__^
-         \  (OO)\_______
+         \  (oo)\_______
             (__)\       )\/\
              :) ||----w |
                 ||     ||
-nltk score: 75 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: 36 '(from -100..100) state: 'good' eye: oo tongue: :)
 
 </pre>
 
@@ -109,8 +109,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 604 </th></tr>
 </table>
 <br>
-old_date:  2025-03-23 01:02:19.020323 now: 2025-03-24 00:59:55.365071
-jq-illustrated stars changed from: 22 to: 21
     </pre>
   </td>
 </table>

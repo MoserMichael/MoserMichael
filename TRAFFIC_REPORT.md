@@ -24,7 +24,7 @@ Views:
 		Count: 23 Unique: 3 Url: Google
 		Count: 4 Unique: 1 Url: chatgpt.com
 
-repo: pyasmtool views: total: 20 unique:  12
+repo: pyasmtool views: total: 25 unique:  16
 Views:
 	 2025-03-12 00:00:00+00:00 total: 5 unique: 3
 	 2025-03-13 00:00:00+00:00 total: 1 unique: 1
@@ -34,9 +34,24 @@ Views:
 	 2025-03-18 00:00:00+00:00 total: 3 unique: 2
 	 2025-03-21 00:00:00+00:00 total: 4 unique: 1
 	 2025-03-23 00:00:00+00:00 total: 1 unique: 1
+	 2025-03-24 00:00:00+00:00 total: 5 unique: 4
 	Referrers:
-		Count: 10 Unique: 5 Url: Google
+		Count: 11 Unique: 6 Url: Google
 		Count: 5 Unique: 2 Url: news.ycombinator.com
+
+repo: s9k views: total: 12 unique:  11
+Views:
+	 2025-03-11 00:00:00+00:00 total: 1 unique: 1
+	 2025-03-12 00:00:00+00:00 total: 1 unique: 1
+	 2025-03-14 00:00:00+00:00 total: 1 unique: 1
+	 2025-03-16 00:00:00+00:00 total: 1 unique: 1
+	 2025-03-18 00:00:00+00:00 total: 1 unique: 1
+	 2025-03-19 00:00:00+00:00 total: 1 unique: 1
+	 2025-03-20 00:00:00+00:00 total: 2 unique: 1
+	 2025-03-21 00:00:00+00:00 total: 2 unique: 2
+	 2025-03-24 00:00:00+00:00 total: 2 unique: 2
+	Referrers:
+		Count: 8 Unique: 7 Url: Google
 
 repo: flagged-hn views: total: 11 unique:  9
 Views:
@@ -47,19 +62,6 @@ Views:
 		Count: 7 Unique: 5 Url: news.ycombinator.com
 		Count: 2 Unique: 2 Url: Google
 
-repo: s9k views: total: 10 unique:  9
-Views:
-	 2025-03-11 00:00:00+00:00 total: 1 unique: 1
-	 2025-03-12 00:00:00+00:00 total: 1 unique: 1
-	 2025-03-14 00:00:00+00:00 total: 1 unique: 1
-	 2025-03-16 00:00:00+00:00 total: 1 unique: 1
-	 2025-03-18 00:00:00+00:00 total: 1 unique: 1
-	 2025-03-19 00:00:00+00:00 total: 1 unique: 1
-	 2025-03-20 00:00:00+00:00 total: 2 unique: 1
-	 2025-03-21 00:00:00+00:00 total: 2 unique: 2
-	Referrers:
-		Count: 9 Unique: 8 Url: Google
-
 repo: myenv views: total: 8 unique:  4
 Views:
 	 2025-03-12 00:00:00+00:00 total: 1 unique: 1
@@ -68,22 +70,13 @@ Views:
 	Referrers:
 		Count: 1 Unique: 1 Url: Google
 
-repo: visual-python-strace views: total: 8 unique:  4
-Views:
-	 2025-03-11 00:00:00+00:00 total: 4 unique: 1
-	 2025-03-14 00:00:00+00:00 total: 1 unique: 1
-	 2025-03-17 00:00:00+00:00 total: 2 unique: 1
-	 2025-03-18 00:00:00+00:00 total: 1 unique: 1
-	Referrers:
-		Count: 3 Unique: 2 Url: pypi.org
-		Count: 1 Unique: 1 Url: Google
-
-repo: vimcrypt2 views: total: 7 unique:  5
+repo: vimcrypt2 views: total: 8 unique:  6
 Views:
 	 2025-03-11 00:00:00+00:00 total: 1 unique: 1
 	 2025-03-14 00:00:00+00:00 total: 1 unique: 1
 	 2025-03-16 00:00:00+00:00 total: 1 unique: 1
 	 2025-03-21 00:00:00+00:00 total: 4 unique: 2
+	 2025-03-24 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
 		Count: 5 Unique: 3 Url: Google
 
@@ -91,6 +84,18 @@ repo: grpc-spring-boot-starter-utils views: total: 6 unique:  3
 Views:
 	 2025-03-18 00:00:00+00:00 total: 1 unique: 1
 	 2025-03-19 00:00:00+00:00 total: 5 unique: 2
+
+repo: python-obj-system views: total: 6 unique:  5
+Views:
+	 2025-03-12 00:00:00+00:00 total: 1 unique: 1
+	 2025-03-13 00:00:00+00:00 total: 1 unique: 1
+	 2025-03-15 00:00:00+00:00 total: 1 unique: 1
+	 2025-03-20 00:00:00+00:00 total: 1 unique: 1
+	 2025-03-24 00:00:00+00:00 total: 2 unique: 1
+	Referrers:
+		Count: 1 Unique: 1 Url: Google
+		Count: 1 Unique: 1 Url: gist.github.com
+		Count: 1 Unique: 1 Url: realpython.com
 
 repo: rzgrep views: total: 6 unique:  4
 Views:
@@ -114,16 +119,14 @@ Views:
 		Count: 1 Unique: 1 Url: fmhy.net
 		Count: 1 Unique: 1 Url: fmhy.pages.dev
 
-repo: python-obj-system views: total: 4 unique:  4
+repo: visual-python-strace views: total: 4 unique:  3
 Views:
-	 2025-03-12 00:00:00+00:00 total: 1 unique: 1
-	 2025-03-13 00:00:00+00:00 total: 1 unique: 1
-	 2025-03-15 00:00:00+00:00 total: 1 unique: 1
-	 2025-03-20 00:00:00+00:00 total: 1 unique: 1
+	 2025-03-14 00:00:00+00:00 total: 1 unique: 1
+	 2025-03-17 00:00:00+00:00 total: 2 unique: 1
+	 2025-03-18 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
+		Count: 3 Unique: 2 Url: pypi.org
 		Count: 1 Unique: 1 Url: Google
-		Count: 1 Unique: 1 Url: gist.github.com
-		Count: 1 Unique: 1 Url: realpython.com
 
 repo: gitblame views: total: 3 unique:  3
 Views:
@@ -150,7 +153,6 @@ Views:
 	 2025-03-21 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
 		Count: 1 Unique: 1 Url: pypi.org
-		Count: 1 Unique: 1 Url: Google
 
 repo: vimcrypt views: total: 2 unique:  2
 Views:
@@ -169,8 +171,6 @@ Views:
 repo: follow-kube-logs views: total: 1 unique:  1
 Views:
 	 2025-03-11 00:00:00+00:00 total: 1 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: Google
 
 repo: githubapitools views: total: 1 unique:  1
 Views:
@@ -244,4 +244,4 @@ repo: teach-your-children-well views: total: 0 unique:  0
 
 
 ***
-Total views: 167
+Total views: 173
