@@ -1,18 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Tue Mar 25 00:58:24 UTC 2025
+Wed Mar 26 00:58:08 UTC 2025
 
 <pre>
 
  ________________________________________
-/ You will attract cultured and artistic \
-\ people to your home.                   /
+/ You prefer the company of the opposite \
+\ sex, but are well liked by your own.   /
  ----------------------------------------
         \   ^__^
-         \  (oo)\_______
+         \  (OO)\_______
             (__)\       )\/\
              :) ||----w |
                 ||     ||
-nltk score: 36 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: 75 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
