@@ -1,25 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sat Mar 29 00:57:32 UTC 2025
+Sun Mar 30 01:02:44 UTC 2025
 
 <pre>
 
- ________________________________
-/ To be or not to be.            \
-|                                |
-| -- Shakespeare To do is to be. |
-|                                |
-| -- Nietzsche To be is to do.   |
-|                                |
-| -- Sartre Do be do be do.      |
-|                                |
-\ -- Sinatra                     /
- --------------------------------
+ _________________________________________
+/ If your life was a horse, you'd have to \
+\ shoot it.                               /
+ -----------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (!!)\_______
             (__)\       )\/\
-             -- ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: -34 '(from -100..100) state: 'bad' eye: !! tongue: :(
 
 </pre>
 
