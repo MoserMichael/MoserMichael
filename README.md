@@ -1,19 +1,30 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sat Apr  5 00:57:29 UTC 2025
+Sun Apr  6 01:02:25 UTC 2025
 
 <pre>
 
- _______________________________________
-/ English literature's performing flea. \
-|                                       |
-\ -- Sean O'Casey on P. G. Wodehouse    /
- ---------------------------------------
+ ________________________________________
+/ Sheriff Chameleotoptor sighed with an  \
+| air of weary sadness, and then turned  |
+| to Doppelgutt and said 'The Senator    |
+| must really have been on a bender this |
+| time -- he left a party in Cleveland,  |
+| Ohio, at 11:30 last night, and they    |
+| found his car this morning in the      |
+| smokestack of a British aircraft       |
+| carrier in the Formosa Straits.'       |
+|                                        |
+| -- Grand Panjandrum's Special Award,   |
+| 1985 Bulwer-Lytton                     |
+|                                        |
+\ bad fiction contest.                   /
+ ----------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (!!)\_______
             (__)\       )\/\
-             -- ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: -32 '(from -100..100) state: 'bad' eye: !! tongue: :(
 
 </pre>
 
@@ -73,8 +84,8 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/jq-illustrated">jq-illustrated</a></td><td>21</td><td>Shell</td><td>illustrated tutorial of jq (and the scripts that create it)</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/s9k">s9k</a></td><td>21</td><td>Python</td><td>dashboard/web app for managing kubernetes clusters, with similar functionality as k9s</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/cstuff">cstuff</a></td><td>15</td><td>C</td><td>My C projects</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/rzgrep">rzgrep</a></td><td>9</td><td>Go</td><td>grep utility that searches through zip,jar,ear,tgz,bz2 in any form of nesting; it can also decompile class files</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/ls-annotations">ls-annotations</a></td><td>8</td><td>Java</td><td>Show all declarations with java annotations by decompiling byte code.</td></tr>
-<tr><td><a href="https://github.com/MoserMichael/rzgrep">rzgrep</a></td><td>8</td><td>Go</td><td>grep utility that searches through zip,jar,ear,tgz,bz2 in any form of nesting; it can also decompile class files</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/roget-thesaurus-parser">roget-thesaurus-parser</a></td><td>7</td><td>Python</td><td>parses Roget's thesaurus and provide API for querying related words</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/pygamewrap">pygamewrap</a></td><td>6</td><td>Python</td><td>A small wrapper toolkit that simplifies development with the pygame library (hopefully)</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/pythonimportplayground">pythonimportplayground</a></td><td>6</td><td>Python</td><td>the readme file explains python packages, with examples.</td></tr>
@@ -107,9 +118,11 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/vimcrypt">vimcrypt</a></td><td>0</td><td>Vim script</td><td>my vim plugin for encrypting/decryting text files with openssl</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/visual-python-strace">visual-python-strace</a></td><td>0</td><td>Python</td><td>show a very long stack trace with variable values.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/zipit">zipit</a></td><td>0</td><td>C++</td><td>c++ library for the equivalent of python/haskell zip function</td></tr>
-<tr><th>Total stars:</th><th colspan='2' align='left'> 604 </th></tr>
+<tr><th>Total stars:</th><th colspan='2' align='left'> 605 </th></tr>
 </table>
 <br>
+old_date:  2025-03-24 00:59:55.365201 now: 2025-04-06 01:02:43.224547
+rzgrep stars changed from: 8 to: 9
     </pre>
   </td>
 </table>
