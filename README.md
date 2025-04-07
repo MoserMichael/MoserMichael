@@ -1,30 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sun Apr  6 01:02:25 UTC 2025
+Mon Apr  7 01:00:42 UTC 2025
 
 <pre>
 
- ________________________________________
-/ Sheriff Chameleotoptor sighed with an  \
-| air of weary sadness, and then turned  |
-| to Doppelgutt and said 'The Senator    |
-| must really have been on a bender this |
-| time -- he left a party in Cleveland,  |
-| Ohio, at 11:30 last night, and they    |
-| found his car this morning in the      |
-| smokestack of a British aircraft       |
-| carrier in the Formosa Straits.'       |
-|                                        |
-| -- Grand Panjandrum's Special Award,   |
-| 1985 Bulwer-Lytton                     |
-|                                        |
-\ bad fiction contest.                   /
- ----------------------------------------
+ _____________________________________
+/ Fine day to work off excess energy. \
+\ Steal something heavy.              /
+ -------------------------------------
         \   ^__^
-         \  (!!)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :( ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: -32 '(from -100..100) state: 'bad' eye: !! tongue: :(
+nltk score: -8 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
@@ -121,8 +109,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 605 </th></tr>
 </table>
 <br>
-old_date:  2025-03-24 00:59:55.365201 now: 2025-04-06 01:02:43.224547
-rzgrep stars changed from: 8 to: 9
     </pre>
   </td>
 </table>
