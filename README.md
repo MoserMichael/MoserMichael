@@ -1,22 +1,33 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Wed Apr  9 00:58:50 UTC 2025
+Thu Apr 10 00:58:47 UTC 2025
 
 <pre>
 
- _______________________________________
-/ The difference between the right word \
-| and the almost right word is the      |
-| difference between lightning and the  |
-| lightning bug.                        |
-|                                       |
-\ -- Mark Twain                         /
- ---------------------------------------
+ _________________________________________
+/ Q: How many Californians does it take   \
+| to screw in a light bulb? A: Five. One  |
+| to screw in the light bulb and four to  |
+| share the                               |
+|                                         |
+| experience. (Actually, Californians     |
+| don't screw in                          |
+|                                         |
+| light bulbs, they screw in hot tubs.)   |
+|                                         |
+| Q: How many Oregonians does it take to  |
+| screw in a light bulb? A: Three. One to |
+| screw in the light bulb and two to fend |
+| off all                                 |
+|                                         |
+| those Californians trying to share the  |
+\ experience.                             /
+ -----------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
              -- ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: -9 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
