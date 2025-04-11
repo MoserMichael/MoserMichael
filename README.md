@@ -1,33 +1,36 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Thu Apr 10 00:58:47 UTC 2025
+Fri Apr 11 00:59:09 UTC 2025
 
 <pre>
 
- _________________________________________
-/ Q: How many Californians does it take   \
-| to screw in a light bulb? A: Five. One  |
-| to screw in the light bulb and four to  |
-| share the                               |
-|                                         |
-| experience. (Actually, Californians     |
-| don't screw in                          |
-|                                         |
-| light bulbs, they screw in hot tubs.)   |
-|                                         |
-| Q: How many Oregonians does it take to  |
-| screw in a light bulb? A: Three. One to |
-| screw in the light bulb and two to fend |
-| off all                                 |
-|                                         |
-| those Californians trying to share the  |
-\ experience.                             /
- -----------------------------------------
+ _______________________________________
+/ Gone With The Wind LITE(tm)           \
+|                                       |
+| -- by Margaret Mitchell               |
+|                                       |
+| A woman only likes men she can't have |
+| and the South gets trashed.           |
+|                                       |
+| Gift of the Magi LITE(tm)             |
+|                                       |
+| -- by O. Henry                        |
+|                                       |
+| A husband and wife forget to register |
+| their gift preferences.               |
+|                                       |
+| The Old Man and the Sea LITE(tm)      |
+|                                       |
+| -- by Ernest Hemingway                |
+|                                       |
+| An old man goes fishing, but doesn't  |
+\ have much luck.                       /
+ ---------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (OO)\_______
             (__)\       )\/\
-             -- ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: -9 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 77 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
