@@ -1,19 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sat Apr 12 00:58:20 UTC 2025
+Sun Apr 13 02:28:34 UTC 2025
 
 <pre>
 
- _________________________________________
-/ Conscience doth make cowards of us all. \
-|                                         |
-\ -- Shakespeare                          /
- -----------------------------------------
+ _____________________________________
+/ You will be the victim of a bizarre \
+\ joke.                               /
+ -------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (!!)\_______
             (__)\       )\/\
-             -- ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: -30 '(from -100..100) state: 'bad' eye: !! tongue: :(
 
 </pre>
 
@@ -110,8 +109,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 604 </th></tr>
 </table>
 <br>
-old_date:  2025-04-06 01:02:43.224683 now: 2025-04-12 00:58:37.472500
-pyasmtool stars changed from: 321 to: 320
     </pre>
   </td>
 </table>
