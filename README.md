@@ -1,33 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sun Apr 20 01:04:24 UTC 2025
+Mon Apr 21 01:03:03 UTC 2025
 
 <pre>
 
  _________________________________________
-/ No live organism can continue for long  \
-| to exist sanely under conditions of     |
-| absolute reality; even larks and        |
-| katydids are supposed, by some, to      |
-| dream. Hill House, not sane, stood by   |
-| itself against its hills, holding       |
-| darkness within; it had stood so for    |
-| eighty years and might stand for eighty |
-| more. Within, walls continued upright,  |
-| bricks met neatly, floors were firm,    |
-| and doors were sensibly shut; silence   |
-| lay steadily against the wood and stone |
-| of Hill House, and whatever walked      |
-| there, walked alone.                    |
-|                                         |
-| -- Shirley Jackson, "The Haunting of    |
-\ Hill House"                             /
+/ Truth will out this morning. (Which may \
+\ really mess things up.)                 /
  -----------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
              -- ||----w |
                 ||     ||
-nltk score: -20 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: -13 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
