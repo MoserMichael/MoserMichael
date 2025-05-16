@@ -1,36 +1,23 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Thu May 15 00:59:10 UTC 2025
+Fri May 16 01:02:51 UTC 2025
 
 <pre>
 
- _______________________________________
-/ Gone With The Wind LITE(tm)           \
-|                                       |
-| -- by Margaret Mitchell               |
-|                                       |
-| A woman only likes men she can't have |
-| and the South gets trashed.           |
-|                                       |
-| Gift of the Magi LITE(tm)             |
-|                                       |
-| -- by O. Henry                        |
-|                                       |
-| A husband and wife forget to register |
-| their gift preferences.               |
-|                                       |
-| The Old Man and the Sea LITE(tm)      |
-|                                       |
-| -- by Ernest Hemingway                |
-|                                       |
-| An old man goes fishing, but doesn't  |
-\ have much luck.                       /
- ---------------------------------------
+ _________________________________________
+/ Q: Where's the Lone Ranger take his     \
+| garbage? A: To the dump, to the dump,   |
+| to the dump dump dump!                  |
+|                                         |
+| Q: What's the Pink Panther say when he  |
+| steps on an ant hill? A: Dead ant, dead |
+\ ant, dead ant dead ant dead ant...      /
+ -----------------------------------------
         \   ^__^
-         \  (OO)\_______
+         \  (~~)\_______
             (__)\       )\/\
-             :) ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 77 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: -99 '(from -100..100) state: 'very bad' eye: ~~ tongue: :(
 
 </pre>
 
