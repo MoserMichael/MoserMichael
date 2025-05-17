@@ -20,7 +20,7 @@ Views:
 		Count: 7 Unique: 7 Url: Google
 		Count: 3 Unique: 1 Url: github.com
 
-repo: pyasmtool views: total: 16 unique:  14
+repo: pyasmtool views: total: 17 unique:  14
 Views:
 	 2025-05-03 00:00:00+00:00 total: 1 unique: 1
 	 2025-05-08 00:00:00+00:00 total: 5 unique: 4
@@ -29,20 +29,21 @@ Views:
 	 2025-05-12 00:00:00+00:00 total: 2 unique: 2
 	 2025-05-14 00:00:00+00:00 total: 1 unique: 1
 	 2025-05-15 00:00:00+00:00 total: 1 unique: 1
+	 2025-05-16 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
-		Count: 4 Unique: 3 Url: news.ycombinator.com
+		Count: 5 Unique: 4 Url: news.ycombinator.com
 		Count: 3 Unique: 3 Url: Google
 		Count: 1 Unique: 1 Url: web.telegram.org
 		Count: 1 Unique: 1 Url: reddit.com
 
-repo: duckduckbang views: total: 12 unique:  5
+repo: duckduckbang views: total: 12 unique:  4
 Views:
-	 2025-05-02 00:00:00+00:00 total: 1 unique: 1
 	 2025-05-04 00:00:00+00:00 total: 4 unique: 2
 	 2025-05-05 00:00:00+00:00 total: 4 unique: 1
 	 2025-05-08 00:00:00+00:00 total: 1 unique: 1
 	 2025-05-09 00:00:00+00:00 total: 1 unique: 1
 	 2025-05-12 00:00:00+00:00 total: 1 unique: 1
+	 2025-05-16 00:00:00+00:00 total: 1 unique: 1
 
 repo: cppcombinator views: total: 6 unique:  5
 Views:
@@ -52,6 +53,7 @@ Views:
 	 2025-05-15 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
 		Count: 2 Unique: 2 Url: Google
+		Count: 1 Unique: 1 Url: nicegui.io
 
 repo: pygamewrap views: total: 6 unique:  5
 Views:
@@ -90,15 +92,6 @@ Views:
 	Referrers:
 		Count: 4 Unique: 3 Url: news.ycombinator.com
 
-repo: kwchecker views: total: 4 unique:  4
-Views:
-	 2025-05-02 00:00:00+00:00 total: 1 unique: 1
-	 2025-05-08 00:00:00+00:00 total: 1 unique: 1
-	 2025-05-13 00:00:00+00:00 total: 1 unique: 1
-	 2025-05-14 00:00:00+00:00 total: 1 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: Google
-
 repo: my-notes views: total: 4 unique:  3
 Views:
 	 2025-05-07 00:00:00+00:00 total: 3 unique: 2
@@ -118,6 +111,16 @@ repo: jpa-enc-converter views: total: 3 unique:  2
 Views:
 	 2025-05-07 00:00:00+00:00 total: 2 unique: 1
 	 2025-05-15 00:00:00+00:00 total: 1 unique: 1
+	Referrers:
+		Count: 1 Unique: 1 Url: Google
+
+repo: kwchecker views: total: 3 unique:  3
+Views:
+	 2025-05-08 00:00:00+00:00 total: 1 unique: 1
+	 2025-05-13 00:00:00+00:00 total: 1 unique: 1
+	 2025-05-14 00:00:00+00:00 total: 1 unique: 1
+	Referrers:
+		Count: 1 Unique: 1 Url: Google
 
 repo: MoserMichael views: total: 3 unique:  3
 Views:
@@ -126,6 +129,12 @@ Views:
 	 2025-05-13 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
 		Count: 1 Unique: 1 Url: Google
+
+repo: vimcrypt2 views: total: 3 unique:  3
+Views:
+	 2025-05-05 00:00:00+00:00 total: 1 unique: 1
+	 2025-05-08 00:00:00+00:00 total: 1 unique: 1
+	 2025-05-16 00:00:00+00:00 total: 1 unique: 1
 
 repo: kind-helper views: total: 2 unique:  2
 Views:
@@ -175,11 +184,6 @@ Views:
 	Referrers:
 		Count: 1 Unique: 1 Url: Google
 
-repo: vimcrypt2 views: total: 2 unique:  2
-Views:
-	 2025-05-05 00:00:00+00:00 total: 1 unique: 1
-	 2025-05-08 00:00:00+00:00 total: 1 unique: 1
-
 repo: zipit views: total: 2 unique:  2
 Views:
 	 2025-05-09 00:00:00+00:00 total: 1 unique: 1
@@ -202,6 +206,10 @@ Views:
 repo: jscriptparse views: total: 1 unique:  1
 Views:
 	 2025-05-11 00:00:00+00:00 total: 1 unique: 1
+
+repo: pprintex views: total: 1 unique:  1
+Views:
+	 2025-05-16 00:00:00+00:00 total: 1 unique: 1
 
 repo: pythonimportplayground views: total: 1 unique:  1
 Views:
@@ -239,12 +247,10 @@ repo: k8explain views: total: 0 unique:  0
 
 repo: opinionated-fortune-cow views: total: 0 unique:  0
 
-repo: pprintex views: total: 0 unique:  0
-
 repo: printb views: total: 0 unique:  0
 
 repo: pythoncourse views: total: 0 unique:  0
 
 
 ***
-Total views: 114
+Total views: 116
