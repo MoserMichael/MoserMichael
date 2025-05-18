@@ -1,18 +1,21 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sat May 17 01:01:22 UTC 2025
+Sun May 18 01:06:47 UTC 2025
 
 <pre>
 
- ________________________________________
-/ Don't let your mind wander -- it's too \
-\ little to be let out alone.            /
- ----------------------------------------
+ _______________________________________
+/ The lunatic, the lover, and the poet, \
+| Are of imagination all compact...     |
+|                                       |
+| -- Wm. Shakespeare, "A Midsummer      |
+\ Night's Dream"                        /
+ ---------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
              -- ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 15 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
