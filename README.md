@@ -1,19 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Mon May 26 01:04:18 UTC 2025
+Tue May 27 01:01:42 UTC 2025
 
 <pre>
 
  ______________________________________
-/ Having nothing, nothing can he lose. \
-|                                      |
-\ -- William Shakespeare, "Henry VI"   /
+/ You'd like to do it instantaneously, \
+\ but that's too slow.                 /
  --------------------------------------
         \   ^__^
-         \  (oo)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :) ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: 31 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: 19 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
