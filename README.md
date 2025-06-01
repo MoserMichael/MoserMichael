@@ -1,21 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sat May 31 01:01:36 UTC 2025
+Sun Jun  1 01:15:35 UTC 2025
 
 <pre>
 
  ________________________________________
-/ He jests at scars who never felt a     \
-| wound.                                 |
-|                                        |
-| -- Shakespeare, "Romeo and Juliet, II. |
-\ 2"                                     /
+/ Everything that you know is wrong, but \
+\ you can be straightened out.           /
  ----------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
              -- ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: -26 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
@@ -112,8 +109,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 604 </th></tr>
 </table>
 <br>
-old_date:  2025-04-16 01:00:55.072657 now: 2025-05-31 01:01:52.252020
-duckduckbang stars changed from: 40 to: 39
     </pre>
   </td>
 </table>
