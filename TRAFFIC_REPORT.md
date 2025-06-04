@@ -24,9 +24,8 @@ Views:
 	Referrers:
 		Count: 13 Unique: 2 Url: Google
 
-repo: pyasmtool views: total: 22 unique:  16
+repo: pyasmtool views: total: 16 unique:  13
 Views:
-	 2025-05-20 00:00:00+00:00 total: 7 unique: 4
 	 2025-05-21 00:00:00+00:00 total: 1 unique: 1
 	 2025-05-23 00:00:00+00:00 total: 1 unique: 1
 	 2025-05-24 00:00:00+00:00 total: 4 unique: 3
@@ -36,36 +35,24 @@ Views:
 	 2025-05-28 00:00:00+00:00 total: 2 unique: 2
 	 2025-05-29 00:00:00+00:00 total: 3 unique: 2
 	 2025-05-30 00:00:00+00:00 total: 1 unique: 1
+	 2025-06-03 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
-		Count: 4 Unique: 4 Url: news.ycombinator.com
+		Count: 3 Unique: 3 Url: news.ycombinator.com
 		Count: 2 Unique: 2 Url: github.com
 		Count: 1 Unique: 1 Url: pypi.org
 		Count: 1 Unique: 1 Url: Google
 
-repo: roget-thesaurus-parser views: total: 14 unique:  7
+repo: roget-thesaurus-parser views: total: 15 unique:  8
 Views:
 	 2025-05-22 00:00:00+00:00 total: 8 unique: 1
 	 2025-05-31 00:00:00+00:00 total: 4 unique: 4
 	 2025-06-02 00:00:00+00:00 total: 2 unique: 2
+	 2025-06-03 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
 		Count: 8 Unique: 1 Url: Google
 
-repo: my-notes views: total: 12 unique:  8
+repo: vimcrypt2 views: total: 12 unique:  8
 Views:
-	 2025-05-20 00:00:00+00:00 total: 3 unique: 1
-	 2025-05-21 00:00:00+00:00 total: 3 unique: 1
-	 2025-05-22 00:00:00+00:00 total: 1 unique: 1
-	 2025-05-23 00:00:00+00:00 total: 1 unique: 1
-	 2025-05-26 00:00:00+00:00 total: 1 unique: 1
-	 2025-05-27 00:00:00+00:00 total: 1 unique: 1
-	 2025-05-29 00:00:00+00:00 total: 1 unique: 1
-	 2025-06-01 00:00:00+00:00 total: 1 unique: 1
-	Referrers:
-		Count: 7 Unique: 5 Url: Google
-
-repo: vimcrypt2 views: total: 12 unique:  9
-Views:
-	 2025-05-20 00:00:00+00:00 total: 1 unique: 1
 	 2025-05-22 00:00:00+00:00 total: 1 unique: 1
 	 2025-05-23 00:00:00+00:00 total: 1 unique: 1
 	 2025-05-24 00:00:00+00:00 total: 1 unique: 1
@@ -74,9 +61,10 @@ Views:
 	 2025-05-31 00:00:00+00:00 total: 2 unique: 2
 	 2025-06-01 00:00:00+00:00 total: 2 unique: 1
 	 2025-06-02 00:00:00+00:00 total: 2 unique: 2
+	 2025-06-03 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
-		Count: 4 Unique: 4 Url: Google
-		Count: 2 Unique: 2 Url: github.com
+		Count: 5 Unique: 5 Url: Google
+		Count: 3 Unique: 2 Url: github.com
 
 repo: kind-helper views: total: 11 unique:  5
 Views:
@@ -85,7 +73,7 @@ Views:
 	 2025-05-27 00:00:00+00:00 total: 1 unique: 1
 	 2025-05-28 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
-		Count: 9 Unique: 3 Url: Google
+		Count: 8 Unique: 2 Url: Google
 
 repo: myenv views: total: 10 unique:  10
 Views:
@@ -98,31 +86,40 @@ Views:
 	Referrers:
 		Count: 3 Unique: 3 Url: Google
 
-repo: duckduckbang views: total: 9 unique:  4
+repo: my-notes views: total: 9 unique:  7
 Views:
-	 2025-05-20 00:00:00+00:00 total: 6 unique: 1
+	 2025-05-21 00:00:00+00:00 total: 3 unique: 1
 	 2025-05-22 00:00:00+00:00 total: 1 unique: 1
-	 2025-05-24 00:00:00+00:00 total: 1 unique: 1
+	 2025-05-23 00:00:00+00:00 total: 1 unique: 1
+	 2025-05-26 00:00:00+00:00 total: 1 unique: 1
+	 2025-05-27 00:00:00+00:00 total: 1 unique: 1
 	 2025-05-29 00:00:00+00:00 total: 1 unique: 1
-
-repo: cstuff views: total: 5 unique:  4
-Views:
-	 2025-05-20 00:00:00+00:00 total: 1 unique: 1
-	 2025-05-21 00:00:00+00:00 total: 1 unique: 1
-	 2025-05-22 00:00:00+00:00 total: 1 unique: 1
-	 2025-05-24 00:00:00+00:00 total: 2 unique: 1
+	 2025-06-01 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
-		Count: 1 Unique: 1 Url: github.com
-		Count: 1 Unique: 1 Url: Google
+		Count: 4 Unique: 4 Url: Google
 
-repo: vimcrypt views: total: 5 unique:  3
+repo: vimcrypt views: total: 6 unique:  3
 Views:
 	 2025-05-30 00:00:00+00:00 total: 1 unique: 1
 	 2025-05-31 00:00:00+00:00 total: 2 unique: 2
 	 2025-06-01 00:00:00+00:00 total: 1 unique: 1
 	 2025-06-02 00:00:00+00:00 total: 1 unique: 1
+	 2025-06-03 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
-		Count: 4 Unique: 3 Url: Google
+		Count: 5 Unique: 3 Url: Google
+
+repo: jscriptparse views: total: 5 unique:  2
+Views:
+	 2025-05-25 00:00:00+00:00 total: 1 unique: 1
+	 2025-06-03 00:00:00+00:00 total: 4 unique: 1
+
+repo: cstuff views: total: 4 unique:  3
+Views:
+	 2025-05-21 00:00:00+00:00 total: 1 unique: 1
+	 2025-05-22 00:00:00+00:00 total: 1 unique: 1
+	 2025-05-24 00:00:00+00:00 total: 2 unique: 1
+	Referrers:
+		Count: 1 Unique: 1 Url: github.com
 
 repo: pythoncourse views: total: 4 unique:  1
 Views:
@@ -130,11 +127,11 @@ Views:
 	Referrers:
 		Count: 3 Unique: 1 Url: github.com
 
-repo: docker-force-attach views: total: 3 unique:  1
+repo: duckduckbang views: total: 3 unique:  3
 Views:
-	 2025-05-21 00:00:00+00:00 total: 3 unique: 1
-	Referrers:
-		Count: 3 Unique: 1 Url: Google
+	 2025-05-22 00:00:00+00:00 total: 1 unique: 1
+	 2025-05-24 00:00:00+00:00 total: 1 unique: 1
+	 2025-05-29 00:00:00+00:00 total: 1 unique: 1
 
 repo: follow-kube-logs views: total: 3 unique:  3
 Views:
@@ -157,15 +154,6 @@ Views:
 	 2025-05-29 00:00:00+00:00 total: 2 unique: 1
 	Referrers:
 		Count: 2 Unique: 1 Url: github.com
-		Count: 1 Unique: 1 Url: mosermichael.github.io
-
-repo: MoserMichael views: total: 3 unique:  3
-Views:
-	 2025-05-20 00:00:00+00:00 total: 1 unique: 1
-	 2025-05-22 00:00:00+00:00 total: 1 unique: 1
-	 2025-05-28 00:00:00+00:00 total: 1 unique: 1
-	Referrers:
-		Count: 2 Unique: 2 Url: github.com
 
 repo: python-obj-system views: total: 3 unique:  3
 Views:
@@ -173,8 +161,8 @@ Views:
 	 2025-05-28 00:00:00+00:00 total: 1 unique: 1
 	 2025-05-30 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
-		Count: 1 Unique: 1 Url: Google
 		Count: 1 Unique: 1 Url: github.com
+		Count: 1 Unique: 1 Url: Google
 
 repo: subb views: total: 3 unique:  3
 Views:
@@ -184,16 +172,19 @@ Views:
 	Referrers:
 		Count: 3 Unique: 3 Url: Google
 
-repo: visual-python-strace views: total: 3 unique:  2
-Views:
-	 2025-05-20 00:00:00+00:00 total: 3 unique: 2
-
 repo: cppcombinator views: total: 2 unique:  2
 Views:
 	 2025-05-24 00:00:00+00:00 total: 1 unique: 1
 	 2025-05-25 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
 		Count: 1 Unique: 1 Url: github.com
+
+repo: MoserMichael views: total: 2 unique:  2
+Views:
+	 2025-05-22 00:00:00+00:00 total: 1 unique: 1
+	 2025-05-28 00:00:00+00:00 total: 1 unique: 1
+	Referrers:
+		Count: 2 Unique: 2 Url: github.com
 
 repo: pythonimportplayground views: total: 2 unique:  2
 Views:
@@ -207,6 +198,10 @@ Views:
 	Referrers:
 		Count: 1 Unique: 1 Url: Google
 
+repo: docker-force-attach views: total: 1 unique:  1
+Views:
+	 2025-06-03 00:00:00+00:00 total: 1 unique: 1
+
 repo: flagged-hn views: total: 1 unique:  1
 Views:
 	 2025-05-26 00:00:00+00:00 total: 1 unique: 1
@@ -216,10 +211,6 @@ Views:
 repo: grpc-spring-boot-starter-utils views: total: 1 unique:  1
 Views:
 	 2025-05-21 00:00:00+00:00 total: 1 unique: 1
-
-repo: jscriptparse views: total: 1 unique:  1
-Views:
-	 2025-05-25 00:00:00+00:00 total: 1 unique: 1
 
 repo: k8explain views: total: 1 unique:  1
 Views:
@@ -261,8 +252,10 @@ repo: printb views: total: 0 unique:  0
 
 repo: rzgrep views: total: 0 unique:  0
 
+repo: visual-python-strace views: total: 0 unique:  0
+
 repo: zipit views: total: 0 unique:  0
 
 
 ***
-Total views: 194
+Total views: 178
