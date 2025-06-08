@@ -1,25 +1,28 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sat Jun  7 01:02:39 UTC 2025
+Sun Jun  8 01:09:42 UTC 2025
 
 <pre>
 
  ________________________________________
-/ When I was younger, I could remember   \
-| anything, whether it had happened or   |
-| not; but my faculties are decaying now |
-| and soon I shall be so I cannot        |
-| remember any but the things that never |
-| happened. It is sad to go to pieces    |
-| like this but we all have to do it.    |
+/ Q: How many DEC repairman does it take \
+| to fix a flat? A: Five; four to hold   |
+| the car up and one to swap tires.      |
 |                                        |
-\ -- Mark Twain                          /
+| Q: How long does it take? A: It's      |
+| indeterminate.                         |
+|                                        |
+| It will depend upon how many flats     |
+| they've brought with them.             |
+|                                        |
+| Q: What happens if you've got TWO      |
+\ flats? A: They replace your generator. /
  ----------------------------------------
         \   ^__^
-         \  (~~)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :( ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: -67 '(from -100..100) state: 'very bad' eye: ~~ tongue: :(
+nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
