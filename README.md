@@ -1,21 +1,20 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sat Jun 14 01:01:48 UTC 2025
+Sun Jun 15 01:11:06 UTC 2025
 
 <pre>
 
- ________________________________________
-/ ... A solemn, unsmiling, sanctimonious \
-| old iceberg who looked like he was     |
-| waiting for a vacancy in the Trinity.  |
-|                                        |
-\ -- Mark Twain                          /
- ----------------------------------------
+ _____________________________________
+/ A kind of Batman of contemporary    \
+| letters.                            |
+|                                     |
+\ -- Philip Larkin on Anthony Burgess /
+ -------------------------------------
         \   ^__^
-         \  (oo)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :) ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: 30 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
