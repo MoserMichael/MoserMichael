@@ -1,18 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Thu Jun 19 01:04:26 UTC 2025
+Fri Jun 20 01:03:59 UTC 2025
 
 <pre>
 
- _______________________________________
-/ You will give someone a piece of your \
-\ mind, which you can ill afford.       /
- ---------------------------------------
+ _________________________________________
+/ Write yourself a threatening letter and \
+\ pen a defiant reply.                    /
+ -----------------------------------------
         \   ^__^
-         \  (!!)\_______
+         \  (~~)\_______
             (__)\       )\/\
              :( ||----w |
                 ||     ||
-nltk score: -42 '(from -100..100) state: 'bad' eye: !! tongue: :(
+nltk score: -65 '(from -100..100) state: 'very bad' eye: ~~ tongue: :(
 
 </pre>
 
