@@ -1,18 +1,20 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Fri Jun 20 01:03:59 UTC 2025
+Sat Jun 21 01:02:57 UTC 2025
 
 <pre>
 
  _________________________________________
-/ Write yourself a threatening letter and \
-\ pen a defiant reply.                    /
+/ The first thing we do, let's kill all   \
+| the lawyers.                            |
+|                                         |
+\ -- Wm. Shakespeare, "Henry VI", Part IV /
  -----------------------------------------
         \   ^__^
          \  (~~)\_______
             (__)\       )\/\
              :( ||----w |
                 ||     ||
-nltk score: -65 '(from -100..100) state: 'very bad' eye: ~~ tongue: :(
+nltk score: -69 '(from -100..100) state: 'very bad' eye: ~~ tongue: :(
 
 </pre>
 
