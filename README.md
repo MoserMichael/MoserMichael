@@ -1,24 +1,29 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Fri Jul  4 01:04:23 UTC 2025
+Sat Jul  5 01:02:14 UTC 2025
 
 <pre>
 
  _________________________________________
-/ The holy passion of Friendship is of so \
-| sweet and steady and loyal and enduring |
-| a nature that it will last through a    |
-| whole lifetime, if not asked to lend    |
-| money.                                  |
+/ In the plot, people came to the land;   \
+| the land loved them; they worked and    |
+| struggled and had lots of children.     |
+| There was a Frenchman who talked funny  |
+| and a greenhorn from England who was a  |
+| fancy-pants but when it came to the     |
+| crunch he was all courage. Those novels |
+| would make you retch.                   |
 |                                         |
-| -- Mark Twain, "Pudd'nhead Wilson's     |
-\ Calendar"                               /
+| -- Canadian novelist Robertson Davies,  |
+| on the generic Canadian                 |
+|                                         |
+\ novel.                                  /
  -----------------------------------------
         \   ^__^
          \  (OO)\_______
             (__)\       )\/\
              :) ||----w |
                 ||     ||
-nltk score: 92 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: 79 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
