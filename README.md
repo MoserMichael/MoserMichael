@@ -1,29 +1,22 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sat Jul  5 01:02:14 UTC 2025
+Sun Jul  6 01:10:50 UTC 2025
 
 <pre>
 
- _________________________________________
-/ In the plot, people came to the land;   \
-| the land loved them; they worked and    |
-| struggled and had lots of children.     |
-| There was a Frenchman who talked funny  |
-| and a greenhorn from England who was a  |
-| fancy-pants but when it came to the     |
-| crunch he was all courage. Those novels |
-| would make you retch.                   |
-|                                         |
-| -- Canadian novelist Robertson Davies,  |
-| on the generic Canadian                 |
-|                                         |
-\ novel.                                  /
- -----------------------------------------
+ ________________________________________
+/ It is by the fortune of God that, in   \
+| this country, we have three benefits:  |
+| freedom of speech, freedom of thought, |
+| and the wisdom never to use either.    |
+|                                        |
+\ -- Mark Twain                          /
+ ----------------------------------------
         \   ^__^
          \  (OO)\_______
             (__)\       )\/\
              :) ||----w |
                 ||     ||
-nltk score: 79 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: 95 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
