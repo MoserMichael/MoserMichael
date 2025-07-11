@@ -1,11 +1,12 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Thu Jul 10 01:06:09 UTC 2025
+Fri Jul 11 01:06:41 UTC 2025
 
 <pre>
 
- ___________________
-< Are you a turtle? >
- -------------------
+ ____________________________________
+/ Q: What is orange and goes "click, \
+\ click?" A: A ball point carrot.    /
+ ------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
