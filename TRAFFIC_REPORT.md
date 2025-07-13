@@ -40,6 +40,7 @@ Views:
 	 2025-07-11 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
 		Count: 3 Unique: 3 Url: Google
+		Count: 1 Unique: 1 Url: github.com
 
 repo: duckduckbang views: total: 11 unique:  11
 Views:
@@ -62,6 +63,7 @@ Views:
 	 2025-07-11 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
 		Count: 2 Unique: 1 Url: Google
+		Count: 1 Unique: 1 Url: search.brave.com
 
 repo: ls-annotations views: total: 7 unique:  1
 Views:
@@ -77,7 +79,7 @@ Views:
 	 2025-07-07 00:00:00+00:00 total: 2 unique: 2
 	 2025-07-09 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
-		Count: 2 Unique: 2 Url: Google
+		Count: 1 Unique: 1 Url: Google
 		Count: 1 Unique: 1 Url: github.com
 
 repo: roget-thesaurus-parser views: total: 6 unique:  5
@@ -86,7 +88,7 @@ Views:
 	 2025-07-07 00:00:00+00:00 total: 2 unique: 2
 	 2025-07-11 00:00:00+00:00 total: 3 unique: 2
 	Referrers:
-		Count: 1 Unique: 1 Url: Google
+		Count: 4 Unique: 3 Url: Google
 
 repo: cppcombinator views: total: 3 unique:  3
 Views:
@@ -94,9 +96,15 @@ Views:
 	 2025-07-05 00:00:00+00:00 total: 1 unique: 1
 	 2025-07-06 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
-		Count: 1 Unique: 1 Url: github.com
-		Count: 1 Unique: 1 Url: news.ycombinator.com
 		Count: 1 Unique: 1 Url: cn.bing.com
+		Count: 1 Unique: 1 Url: news.ycombinator.com
+
+repo: cstuff views: total: 3 unique:  3
+Views:
+	 2025-07-10 00:00:00+00:00 total: 1 unique: 1
+	 2025-07-12 00:00:00+00:00 total: 2 unique: 2
+	Referrers:
+		Count: 1 Unique: 1 Url: mosermichael.github.io
 
 repo: python-obj-system views: total: 3 unique:  3
 Views:
@@ -113,8 +121,8 @@ Views:
 	 2025-07-03 00:00:00+00:00 total: 1 unique: 1
 	 2025-07-10 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
-		Count: 1 Unique: 1 Url: search.brave.com
 		Count: 1 Unique: 1 Url: Google
+		Count: 1 Unique: 1 Url: search.brave.com
 
 repo: kwchecker views: total: 2 unique:  2
 Views:
@@ -123,12 +131,17 @@ Views:
 	Referrers:
 		Count: 1 Unique: 1 Url: Google
 
+repo: pygamewrap views: total: 2 unique:  2
+Views:
+	 2025-06-30 00:00:00+00:00 total: 1 unique: 1
+	 2025-07-12 00:00:00+00:00 total: 1 unique: 1
+
 repo: subb views: total: 2 unique:  2
 Views:
 	 2025-06-29 00:00:00+00:00 total: 1 unique: 1
 	 2025-07-03 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
-		Count: 2 Unique: 2 Url: Google
+		Count: 1 Unique: 1 Url: Google
 
 repo: zipit views: total: 2 unique:  2
 Views:
@@ -136,12 +149,6 @@ Views:
 	 2025-07-07 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
 		Count: 1 Unique: 1 Url: Google
-
-repo: cstuff views: total: 1 unique:  1
-Views:
-	 2025-07-10 00:00:00+00:00 total: 1 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: mosermichael.github.io
 
 repo: devgoodies views: total: 1 unique:  1
 Views:
@@ -156,8 +163,6 @@ Views:
 repo: follow-kube-logs views: total: 1 unique:  1
 Views:
 	 2025-06-29 00:00:00+00:00 total: 1 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: Google
 
 repo: gitblame views: total: 1 unique:  1
 Views:
@@ -193,10 +198,6 @@ repo: opinionated-fortune-cow views: total: 1 unique:  1
 Views:
 	 2025-07-09 00:00:00+00:00 total: 1 unique: 1
 
-repo: pygamewrap views: total: 1 unique:  1
-Views:
-	 2025-06-30 00:00:00+00:00 total: 1 unique: 1
-
 repo: vimcrypt views: total: 1 unique:  1
 Views:
 	 2025-07-08 00:00:00+00:00 total: 1 unique: 1
@@ -231,4 +232,4 @@ repo: teach-your-children-well views: total: 0 unique:  0
 
 
 ***
-Total views: 113
+Total views: 116
