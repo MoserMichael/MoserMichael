@@ -1,19 +1,23 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Mon Jul 14 01:10:03 UTC 2025
+Tue Jul 15 01:09:46 UTC 2025
 
 <pre>
 
- ________________________________
-/ When in doubt, tell the truth. \
-|                                |
-\ -- Mark Twain                  /
- --------------------------------
+ _______________________________________
+/ Training is everything. The peach was \
+| once a bitter almond; cauliflower is  |
+| nothing but cabbage with a college    |
+| education.                            |
+|                                       |
+| -- Mark Twain, "Pudd'nhead Wilson's   |
+\ Calendar"                             /
+ ---------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
              -- ||----w |
                 ||     ||
-nltk score: -5 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: -23 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
