@@ -9,7 +9,6 @@ Traffic report for user Michael Moser
 
 repo: pyasmtool views: total: 21 unique:  16
 Views:
-	 2025-07-05 00:00:00+00:00 total: 1 unique: 1
 	 2025-07-07 00:00:00+00:00 total: 2 unique: 1
 	 2025-07-09 00:00:00+00:00 total: 2 unique: 2
 	 2025-07-10 00:00:00+00:00 total: 1 unique: 1
@@ -17,13 +16,14 @@ Views:
 	 2025-07-16 00:00:00+00:00 total: 3 unique: 3
 	 2025-07-17 00:00:00+00:00 total: 2 unique: 2
 	 2025-07-18 00:00:00+00:00 total: 6 unique: 2
+	 2025-07-19 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
+		Count: 6 Unique: 2 Url: github.com
 		Count: 3 Unique: 3 Url: reddit.com
-		Count: 1 Unique: 1 Url: github.com
+		Count: 1 Unique: 1 Url: Google
 
-repo: visual-python-strace views: total: 18 unique:  3
+repo: visual-python-strace views: total: 17 unique:  2
 Views:
-	 2025-07-05 00:00:00+00:00 total: 1 unique: 1
 	 2025-07-08 00:00:00+00:00 total: 16 unique: 1
 	 2025-07-18 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
@@ -33,6 +33,8 @@ repo: jpa-enc-converter views: total: 11 unique:  2
 Views:
 	 2025-07-13 00:00:00+00:00 total: 1 unique: 1
 	 2025-07-18 00:00:00+00:00 total: 10 unique: 1
+	Referrers:
+		Count: 7 Unique: 1 Url: Google
 
 repo: s9k views: total: 10 unique:  9
 Views:
@@ -73,6 +75,16 @@ Views:
 		Count: 1 Unique: 1 Url: Google
 		Count: 1 Unique: 1 Url: github.com
 
+repo: python-obj-system views: total: 6 unique:  4
+Views:
+	 2025-07-10 00:00:00+00:00 total: 1 unique: 1
+	 2025-07-11 00:00:00+00:00 total: 1 unique: 1
+	 2025-07-17 00:00:00+00:00 total: 1 unique: 1
+	 2025-07-19 00:00:00+00:00 total: 3 unique: 1
+	Referrers:
+		Count: 1 Unique: 1 Url: chatgpt.com
+		Count: 1 Unique: 1 Url: gist.github.com
+
 repo: roget-thesaurus-parser views: total: 6 unique:  5
 Views:
 	 2025-07-07 00:00:00+00:00 total: 2 unique: 2
@@ -89,16 +101,7 @@ Views:
 	 2025-07-17 00:00:00+00:00 total: 1 unique: 1
 	 2025-07-18 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
-		Count: 1 Unique: 1 Url: perplexity.ai
-
-repo: duckduckbang views: total: 5 unique:  5
-Views:
-	 2025-07-05 00:00:00+00:00 total: 2 unique: 2
-	 2025-07-07 00:00:00+00:00 total: 1 unique: 1
-	 2025-07-10 00:00:00+00:00 total: 1 unique: 1
-	 2025-07-17 00:00:00+00:00 total: 1 unique: 1
-	Referrers:
-		Count: 2 Unique: 2 Url: reddit.com
+		Count: 2 Unique: 2 Url: perplexity.ai
 
 repo: zipit views: total: 4 unique:  4
 Views:
@@ -109,14 +112,13 @@ Views:
 	Referrers:
 		Count: 1 Unique: 1 Url: Google
 
-repo: cppcombinator views: total: 3 unique:  3
+repo: duckduckbang views: total: 3 unique:  3
 Views:
-	 2025-07-05 00:00:00+00:00 total: 1 unique: 1
-	 2025-07-06 00:00:00+00:00 total: 1 unique: 1
-	 2025-07-15 00:00:00+00:00 total: 1 unique: 1
+	 2025-07-07 00:00:00+00:00 total: 1 unique: 1
+	 2025-07-10 00:00:00+00:00 total: 1 unique: 1
+	 2025-07-17 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
-		Count: 1 Unique: 1 Url: github.com
-		Count: 1 Unique: 1 Url: news.ycombinator.com
+		Count: 2 Unique: 2 Url: reddit.com
 
 repo: flagged-hn views: total: 3 unique:  3
 Views:
@@ -125,15 +127,14 @@ Views:
 	 2025-07-18 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
 		Count: 1 Unique: 1 Url: Google
+		Count: 1 Unique: 1 Url: news.ycombinator.com
 
-repo: python-obj-system views: total: 3 unique:  3
+repo: cppcombinator views: total: 2 unique:  2
 Views:
-	 2025-07-10 00:00:00+00:00 total: 1 unique: 1
-	 2025-07-11 00:00:00+00:00 total: 1 unique: 1
-	 2025-07-17 00:00:00+00:00 total: 1 unique: 1
+	 2025-07-06 00:00:00+00:00 total: 1 unique: 1
+	 2025-07-15 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
-		Count: 1 Unique: 1 Url: chatgpt.com
-		Count: 1 Unique: 1 Url: gist.github.com
+		Count: 1 Unique: 1 Url: github.com
 
 repo: pygamewrap views: total: 2 unique:  2
 Views:
@@ -168,7 +169,7 @@ Views:
 
 repo: jscriptparse views: total: 1 unique:  1
 Views:
-	 2025-07-05 00:00:00+00:00 total: 1 unique: 1
+	 2025-07-19 00:00:00+00:00 total: 1 unique: 1
 
 repo: kind-helper views: total: 1 unique:  1
 Views:
@@ -236,4 +237,4 @@ repo: teach-your-children-well views: total: 0 unique:  0
 
 
 ***
-Total views: 130
+Total views: 129
