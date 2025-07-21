@@ -1,19 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sun Jul 20 01:14:53 UTC 2025
+Mon Jul 21 01:12:03 UTC 2025
 
 <pre>
 
- ______________________________________
-/ Q: What do agnostic, insomniac       \
-| dyslexics do at night? A: Stay awake |
-\ and wonder if there's a dog.         /
- --------------------------------------
+ ___________________________________
+/ Your nature demands love and your \
+\ happiness depends on it.          /
+ -----------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (OO)\_______
             (__)\       )\/\
-             -- ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 83 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
@@ -102,7 +101,7 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/githubapitools">githubapitools</a></td><td>0</td><td>Python</td><td>tools that make use of the python github api, for fun and profit.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/github_pr_comments">github_pr_comments</a></td><td>0</td><td>Python</td><td>script that notifies if any of your PR's received  new/modified/deleted comment.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/kwchecker">kwchecker</a></td><td>0</td><td>Python</td><td>Declarative verifier and sanitizer for python kwargs parameters.</td></tr>
-<tr><td><a href="https://github.com/MoserMichael/my-notes">my-notes</a></td><td>0</td><td>Python</td><td>Keeping notes while learning stuff (so they don't get lost) These notes are best viewed in vim - meaning in a fixed font with text wrapping)</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/my-notes">my-notes</a></td><td>0</td><td>HTML</td><td>Keeping notes while learning stuff (so they don't get lost) These notes are best viewed in vim - meaning in a fixed font with text wrapping)</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/printb">printb</a></td><td>0</td><td>Python</td><td>Adds bidi aware 'print' and 'input' functions.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/vimcrypt">vimcrypt</a></td><td>0</td><td>Vim script</td><td>my vim plugin for encrypting/decryting text files with openssl</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/visual-python-strace">visual-python-strace</a></td><td>0</td><td>Python</td><td>show a very long stack trace with variable values.</td></tr>
