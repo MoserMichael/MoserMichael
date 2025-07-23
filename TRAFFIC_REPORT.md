@@ -22,11 +22,6 @@ Views:
 		Count: 3 Unique: 3 Url: reddit.com
 		Count: 1 Unique: 1 Url: Google
 
-repo: visual-python-strace views: total: 17 unique:  2
-Views:
-	 2025-07-08 00:00:00+00:00 total: 16 unique: 1
-	 2025-07-18 00:00:00+00:00 total: 1 unique: 1
-
 repo: jpa-enc-converter views: total: 11 unique:  2
 Views:
 	 2025-07-13 00:00:00+00:00 total: 1 unique: 1
@@ -43,8 +38,8 @@ Views:
 	 2025-07-15 00:00:00+00:00 total: 2 unique: 2
 	 2025-07-21 00:00:00+00:00 total: 2 unique: 2
 	Referrers:
+		Count: 3 Unique: 3 Url: github.com
 		Count: 3 Unique: 2 Url: Google
-		Count: 2 Unique: 2 Url: github.com
 
 repo: cstuff views: total: 8 unique:  5
 Views:
@@ -60,7 +55,7 @@ Views:
 	 2025-07-16 00:00:00+00:00 total: 1 unique: 1
 	 2025-07-21 00:00:00+00:00 total: 7 unique: 1
 
-repo: vimcrypt2 views: total: 7 unique:  7
+repo: vimcrypt2 views: total: 8 unique:  8
 Views:
 	 2025-07-10 00:00:00+00:00 total: 1 unique: 1
 	 2025-07-13 00:00:00+00:00 total: 2 unique: 2
@@ -68,6 +63,7 @@ Views:
 	 2025-07-17 00:00:00+00:00 total: 1 unique: 1
 	 2025-07-18 00:00:00+00:00 total: 1 unique: 1
 	 2025-07-21 00:00:00+00:00 total: 1 unique: 1
+	 2025-07-22 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
 		Count: 2 Unique: 2 Url: perplexity.ai
 
@@ -82,21 +78,27 @@ Views:
 		Count: 1 Unique: 1 Url: news.ycombinator.com
 		Count: 1 Unique: 1 Url: chatgpt.com
 
-repo: flagged-hn views: total: 4 unique:  4
-Views:
-	 2025-07-08 00:00:00+00:00 total: 1 unique: 1
-	 2025-07-14 00:00:00+00:00 total: 1 unique: 1
-	 2025-07-18 00:00:00+00:00 total: 1 unique: 1
-	 2025-07-21 00:00:00+00:00 total: 1 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: news.ycombinator.com
-
 repo: roget-thesaurus-parser views: total: 4 unique:  3
 Views:
 	 2025-07-11 00:00:00+00:00 total: 3 unique: 2
 	 2025-07-16 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
 		Count: 4 Unique: 3 Url: Google
+
+repo: flagged-hn views: total: 3 unique:  3
+Views:
+	 2025-07-14 00:00:00+00:00 total: 1 unique: 1
+	 2025-07-18 00:00:00+00:00 total: 1 unique: 1
+	 2025-07-21 00:00:00+00:00 total: 1 unique: 1
+	Referrers:
+		Count: 1 Unique: 1 Url: news.ycombinator.com
+
+repo: follow-kube-logs views: total: 3 unique:  2
+Views:
+	 2025-07-14 00:00:00+00:00 total: 1 unique: 1
+	 2025-07-22 00:00:00+00:00 total: 2 unique: 1
+	Referrers:
+		Count: 1 Unique: 1 Url: Google
 
 repo: pygamewrap views: total: 3 unique:  2
 Views:
@@ -118,6 +120,7 @@ Views:
 	 2025-07-14 00:00:00+00:00 total: 1 unique: 1
 	 2025-07-21 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
+		Count: 1 Unique: 1 Url: DuckDuckGo
 		Count: 1 Unique: 1 Url: Google
 
 repo: jscriptparse views: total: 2 unique:  2
@@ -130,12 +133,17 @@ Views:
 	 2025-07-15 00:00:00+00:00 total: 1 unique: 1
 	 2025-07-21 00:00:00+00:00 total: 1 unique: 1
 
+repo: MoserMichael views: total: 2 unique:  2
+Views:
+	 2025-07-10 00:00:00+00:00 total: 1 unique: 1
+	 2025-07-22 00:00:00+00:00 total: 1 unique: 1
+	Referrers:
+		Count: 1 Unique: 1 Url: Google
+
 repo: myenv views: total: 2 unique:  2
 Views:
 	 2025-07-09 00:00:00+00:00 total: 1 unique: 1
 	 2025-07-17 00:00:00+00:00 total: 1 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: Google
 
 repo: rzgrep views: total: 2 unique:  2
 Views:
@@ -153,21 +161,15 @@ Views:
 	Referrers:
 		Count: 1 Unique: 1 Url: github.com
 
-repo: devgoodies views: total: 1 unique:  1
-Views:
-	 2025-07-08 00:00:00+00:00 total: 1 unique: 1
-
 repo: dockerdashphp views: total: 1 unique:  1
 Views:
 	 2025-07-11 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
 		Count: 1 Unique: 1 Url: search.brave.com
 
-repo: follow-kube-logs views: total: 1 unique:  1
+repo: github_pr_comments views: total: 1 unique:  1
 Views:
-	 2025-07-14 00:00:00+00:00 total: 1 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: Google
+	 2025-07-22 00:00:00+00:00 total: 1 unique: 1
 
 repo: grpc-spring-boot-starter-utils views: total: 1 unique:  1
 Views:
@@ -176,12 +178,6 @@ Views:
 repo: kind-helper views: total: 1 unique:  1
 Views:
 	 2025-07-17 00:00:00+00:00 total: 1 unique: 1
-
-repo: MoserMichael views: total: 1 unique:  1
-Views:
-	 2025-07-10 00:00:00+00:00 total: 1 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: Google
 
 repo: opinionated-fortune-cow views: total: 1 unique:  1
 Views:
@@ -197,17 +193,17 @@ Views:
 	Referrers:
 		Count: 1 Unique: 1 Url: Google
 
-repo: vimcrypt views: total: 1 unique:  1
+repo: visual-python-strace views: total: 1 unique:  1
 Views:
-	 2025-07-08 00:00:00+00:00 total: 1 unique: 1
+	 2025-07-18 00:00:00+00:00 total: 1 unique: 1
+
+repo: devgoodies views: total: 0 unique:  0
 
 repo: docker-force-attach views: total: 0 unique:  0
 
 repo: download-artifacts views: total: 0 unique:  0
 
 repo: githubapitools views: total: 0 unique:  0
-
-repo: github_pr_comments views: total: 0 unique:  0
 
 repo: gittools views: total: 0 unique:  0
 
@@ -227,6 +223,8 @@ repo: pythonimportplayground views: total: 0 unique:  0
 
 repo: teach-your-children-well views: total: 0 unique:  0
 
+repo: vimcrypt views: total: 0 unique:  0
+
 
 ***
-Total views: 123
+Total views: 109
