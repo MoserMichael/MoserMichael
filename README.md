@@ -1,13 +1,14 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Fri Jul 25 01:08:16 UTC 2025
+Sat Jul 26 01:06:34 UTC 2025
 
 <pre>
 
- ______________________________________
-/ The ripest fruit falls first.        \
-|                                      |
-\ -- William Shakespeare, "Richard II" /
- --------------------------------------
+ ____________________________________
+/ A horse! A horse! My kingdom for a \
+| horse!                             |
+|                                    |
+\ -- Wm. Shakespeare, "Richard III"  /
+ ------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
