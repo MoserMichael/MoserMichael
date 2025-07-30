@@ -20,8 +20,8 @@ Views:
 	 2025-07-28 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
 		Count: 6 Unique: 2 Url: github.com
-		Count: 3 Unique: 3 Url: reddit.com
-		Count: 3 Unique: 3 Url: Google
+		Count: 4 Unique: 4 Url: Google
+		Count: 1 Unique: 1 Url: reddit.com
 
 repo: my-notes views: total: 14 unique:  4
 Views:
@@ -42,8 +42,9 @@ Views:
 	 2025-07-24 00:00:00+00:00 total: 1 unique: 1
 	 2025-07-28 00:00:00+00:00 total: 6 unique: 1
 	Referrers:
+		Count: 4 Unique: 2 Url: Google
+		Count: 3 Unique: 1 Url: vim.org
 		Count: 2 Unique: 2 Url: perplexity.ai
-		Count: 1 Unique: 1 Url: Google
 
 repo: jpa-enc-converter views: total: 10 unique:  1
 Views:
@@ -51,9 +52,14 @@ Views:
 	Referrers:
 		Count: 7 Unique: 1 Url: Google
 
-repo: s9k views: total: 9 unique:  7
+repo: visual-python-strace views: total: 9 unique:  3
 Views:
-	 2025-07-15 00:00:00+00:00 total: 2 unique: 2
+	 2025-07-18 00:00:00+00:00 total: 1 unique: 1
+	 2025-07-28 00:00:00+00:00 total: 7 unique: 1
+	 2025-07-29 00:00:00+00:00 total: 1 unique: 1
+
+repo: s9k views: total: 7 unique:  5
+Views:
 	 2025-07-21 00:00:00+00:00 total: 2 unique: 2
 	 2025-07-23 00:00:00+00:00 total: 2 unique: 1
 	 2025-07-26 00:00:00+00:00 total: 2 unique: 1
@@ -61,11 +67,6 @@ Views:
 	Referrers:
 		Count: 4 Unique: 2 Url: Google
 		Count: 1 Unique: 1 Url: github.com
-
-repo: visual-python-strace views: total: 8 unique:  2
-Views:
-	 2025-07-18 00:00:00+00:00 total: 1 unique: 1
-	 2025-07-28 00:00:00+00:00 total: 7 unique: 1
 
 repo: jobinterviewhomework views: total: 6 unique:  1
 Views:
@@ -87,6 +88,14 @@ Views:
 		Count: 3 Unique: 1 Url: github.com
 		Count: 1 Unique: 1 Url: Google
 
+repo: follow-kube-logs views: total: 4 unique:  3
+Views:
+	 2025-07-22 00:00:00+00:00 total: 2 unique: 1
+	 2025-07-24 00:00:00+00:00 total: 1 unique: 1
+	 2025-07-29 00:00:00+00:00 total: 1 unique: 1
+	Referrers:
+		Count: 3 Unique: 2 Url: Google
+
 repo: kind-helper views: total: 4 unique:  4
 Views:
 	 2025-07-17 00:00:00+00:00 total: 1 unique: 1
@@ -101,13 +110,6 @@ Views:
 		Count: 1 Unique: 1 Url: news.ycombinator.com
 		Count: 1 Unique: 1 Url: chatgpt.com
 
-repo: follow-kube-logs views: total: 3 unique:  2
-Views:
-	 2025-07-22 00:00:00+00:00 total: 2 unique: 1
-	 2025-07-24 00:00:00+00:00 total: 1 unique: 1
-	Referrers:
-		Count: 3 Unique: 2 Url: Google
-
 repo: pygamewrap views: total: 3 unique:  2
 Views:
 	 2025-07-17 00:00:00+00:00 total: 1 unique: 1
@@ -116,12 +118,10 @@ Views:
 	Referrers:
 		Count: 1 Unique: 1 Url: news.ycombinator.com
 
-repo: cppcombinator views: total: 2 unique:  2
+repo: rzgrep views: total: 3 unique:  2
 Views:
-	 2025-07-15 00:00:00+00:00 total: 1 unique: 1
-	 2025-07-25 00:00:00+00:00 total: 1 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: Google
+	 2025-07-21 00:00:00+00:00 total: 1 unique: 1
+	 2025-07-29 00:00:00+00:00 total: 2 unique: 1
 
 repo: duckduckbang views: total: 2 unique:  2
 Views:
@@ -142,11 +142,6 @@ Views:
 	 2025-07-19 00:00:00+00:00 total: 1 unique: 1
 	 2025-07-21 00:00:00+00:00 total: 1 unique: 1
 
-repo: ls-annotations views: total: 2 unique:  2
-Views:
-	 2025-07-15 00:00:00+00:00 total: 1 unique: 1
-	 2025-07-21 00:00:00+00:00 total: 1 unique: 1
-
 repo: pythonimportplayground views: total: 2 unique:  2
 Views:
 	 2025-07-24 00:00:00+00:00 total: 1 unique: 1
@@ -154,10 +149,11 @@ Views:
 	Referrers:
 		Count: 2 Unique: 2 Url: Google
 
-repo: zipit views: total: 2 unique:  2
+repo: cppcombinator views: total: 1 unique:  1
 Views:
-	 2025-07-15 00:00:00+00:00 total: 1 unique: 1
-	 2025-07-17 00:00:00+00:00 total: 1 unique: 1
+	 2025-07-25 00:00:00+00:00 total: 1 unique: 1
+	Referrers:
+		Count: 1 Unique: 1 Url: Google
 
 repo: gitblame views: total: 1 unique:  1
 Views:
@@ -168,6 +164,10 @@ Views:
 repo: github_pr_comments views: total: 1 unique:  1
 Views:
 	 2025-07-22 00:00:00+00:00 total: 1 unique: 1
+
+repo: ls-annotations views: total: 1 unique:  1
+Views:
+	 2025-07-21 00:00:00+00:00 total: 1 unique: 1
 
 repo: MoserMichael views: total: 1 unique:  1
 Views:
@@ -184,18 +184,14 @@ Views:
 repo: roget-thesaurus-parser views: total: 1 unique:  1
 Views:
 	 2025-07-16 00:00:00+00:00 total: 1 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: Google
-
-repo: rzgrep views: total: 1 unique:  1
-Views:
-	 2025-07-21 00:00:00+00:00 total: 1 unique: 1
 
 repo: subb views: total: 1 unique:  1
 Views:
 	 2025-07-16 00:00:00+00:00 total: 1 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: Google
+
+repo: zipit views: total: 1 unique:  1
+Views:
+	 2025-07-17 00:00:00+00:00 total: 1 unique: 1
 
 repo: devgoodies views: total: 0 unique:  0
 
@@ -227,4 +223,4 @@ repo: vimcrypt views: total: 0 unique:  0
 
 
 ***
-Total views: 128
+Total views: 127
