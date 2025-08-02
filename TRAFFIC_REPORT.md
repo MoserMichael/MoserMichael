@@ -16,23 +16,23 @@ Views:
 	 2025-07-31 00:00:00+00:00 total: 2 unique: 1
 	Referrers:
 		Count: 3 Unique: 1 Url: github.com
+		Count: 1 Unique: 1 Url: Google
 
-repo: pyasmtool views: total: 14 unique:  12
+repo: pyasmtool views: total: 14 unique:  11
 Views:
-	 2025-07-18 00:00:00+00:00 total: 1 unique: 1
 	 2025-07-19 00:00:00+00:00 total: 1 unique: 1
 	 2025-07-20 00:00:00+00:00 total: 2 unique: 2
 	 2025-07-23 00:00:00+00:00 total: 4 unique: 4
 	 2025-07-25 00:00:00+00:00 total: 3 unique: 1
 	 2025-07-26 00:00:00+00:00 total: 2 unique: 2
 	 2025-07-28 00:00:00+00:00 total: 1 unique: 1
+	 2025-08-01 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
 		Count: 3 Unique: 3 Url: Google
 		Count: 1 Unique: 1 Url: github.com
 
-repo: vimcrypt2 views: total: 14 unique:  8
+repo: vimcrypt2 views: total: 13 unique:  7
 Views:
-	 2025-07-18 00:00:00+00:00 total: 1 unique: 1
 	 2025-07-21 00:00:00+00:00 total: 1 unique: 1
 	 2025-07-22 00:00:00+00:00 total: 1 unique: 1
 	 2025-07-24 00:00:00+00:00 total: 1 unique: 1
@@ -43,14 +43,10 @@ Views:
 		Count: 6 Unique: 4 Url: Google
 		Count: 3 Unique: 1 Url: vim.org
 		Count: 1 Unique: 1 Url: github.com
+		Count: 1 Unique: 1 Url: search.brave.com
 
-repo: jpa-enc-converter views: total: 10 unique:  1
+repo: visual-python-strace views: total: 8 unique:  2
 Views:
-	 2025-07-18 00:00:00+00:00 total: 10 unique: 1
-
-repo: visual-python-strace views: total: 9 unique:  3
-Views:
-	 2025-07-18 00:00:00+00:00 total: 1 unique: 1
 	 2025-07-28 00:00:00+00:00 total: 7 unique: 1
 	 2025-07-29 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
@@ -70,6 +66,9 @@ repo: flagged-hn views: total: 6 unique:  6
 Views:
 	 2025-07-21 00:00:00+00:00 total: 1 unique: 1
 	 2025-07-31 00:00:00+00:00 total: 5 unique: 5
+	Referrers:
+		Count: 1 Unique: 1 Url: history.susgee.dev
+		Count: 1 Unique: 1 Url: news.ycombinator.com
 
 repo: jobinterviewhomework views: total: 6 unique:  1
 Views:
@@ -103,6 +102,8 @@ Views:
 repo: roget-thesaurus-parser views: total: 4 unique:  2
 Views:
 	 2025-07-31 00:00:00+00:00 total: 4 unique: 2
+	Referrers:
+		Count: 4 Unique: 2 Url: Google
 
 repo: rzgrep views: total: 4 unique:  3
 Views:
@@ -128,11 +129,16 @@ Views:
 	 2025-07-21 00:00:00+00:00 total: 1 unique: 1
 	 2025-07-31 00:00:00+00:00 total: 2 unique: 1
 
+repo: myenv views: total: 3 unique:  2
+Views:
+	 2025-07-30 00:00:00+00:00 total: 2 unique: 1
+	 2025-08-01 00:00:00+00:00 total: 1 unique: 1
+	Referrers:
+		Count: 2 Unique: 1 Url: Google
+
 repo: python-obj-system views: total: 3 unique:  1
 Views:
 	 2025-07-19 00:00:00+00:00 total: 3 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: news.ycombinator.com
 
 repo: gitblame views: total: 2 unique:  2
 Views:
@@ -150,12 +156,6 @@ repo: MoserMichael views: total: 2 unique:  2
 Views:
 	 2025-07-22 00:00:00+00:00 total: 1 unique: 1
 	 2025-07-31 00:00:00+00:00 total: 1 unique: 1
-
-repo: myenv views: total: 2 unique:  1
-Views:
-	 2025-07-30 00:00:00+00:00 total: 2 unique: 1
-	Referrers:
-		Count: 2 Unique: 1 Url: Google
 
 repo: pythonimportplayground views: total: 2 unique:  2
 Views:
@@ -183,6 +183,8 @@ Views:
 repo: kwchecker views: total: 1 unique:  1
 Views:
 	 2025-07-31 00:00:00+00:00 total: 1 unique: 1
+	Referrers:
+		Count: 1 Unique: 1 Url: Google
 
 repo: printb views: total: 1 unique:  1
 Views:
@@ -206,6 +208,8 @@ repo: gittools views: total: 0 unique:  0
 
 repo: grpc-spring-boot-starter-utils views: total: 0 unique:  0
 
+repo: jpa-enc-converter views: total: 0 unique:  0
+
 repo: jq-illustrated views: total: 0 unique:  0
 
 repo: k8explain views: total: 0 unique:  0
@@ -224,4 +228,4 @@ repo: zipit views: total: 0 unique:  0
 
 
 ***
-Total views: 130
+Total views: 119
