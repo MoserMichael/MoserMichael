@@ -18,9 +18,8 @@ Views:
 		Count: 3 Unique: 1 Url: github.com
 		Count: 1 Unique: 1 Url: Google
 
-repo: pyasmtool views: total: 14 unique:  11
+repo: pyasmtool views: total: 13 unique:  10
 Views:
-	 2025-07-19 00:00:00+00:00 total: 1 unique: 1
 	 2025-07-20 00:00:00+00:00 total: 2 unique: 2
 	 2025-07-23 00:00:00+00:00 total: 4 unique: 4
 	 2025-07-25 00:00:00+00:00 total: 3 unique: 1
@@ -29,7 +28,7 @@ Views:
 	 2025-08-01 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
 		Count: 3 Unique: 3 Url: Google
-		Count: 1 Unique: 1 Url: github.com
+		Count: 2 Unique: 1 Url: github.com
 
 repo: vimcrypt2 views: total: 13 unique:  7
 Views:
@@ -45,27 +44,30 @@ Views:
 		Count: 1 Unique: 1 Url: github.com
 		Count: 1 Unique: 1 Url: search.brave.com
 
-repo: visual-python-strace views: total: 8 unique:  2
+repo: visual-python-strace views: total: 9 unique:  3
 Views:
 	 2025-07-28 00:00:00+00:00 total: 7 unique: 1
 	 2025-07-29 00:00:00+00:00 total: 1 unique: 1
+	 2025-08-02 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
 		Count: 1 Unique: 1 Url: Google
 
-repo: s9k views: total: 7 unique:  5
+repo: s9k views: total: 8 unique:  6
 Views:
 	 2025-07-21 00:00:00+00:00 total: 2 unique: 2
 	 2025-07-23 00:00:00+00:00 total: 2 unique: 1
 	 2025-07-26 00:00:00+00:00 total: 2 unique: 1
 	 2025-07-28 00:00:00+00:00 total: 1 unique: 1
+	 2025-08-02 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
 		Count: 4 Unique: 2 Url: Google
 		Count: 1 Unique: 1 Url: github.com
 
-repo: flagged-hn views: total: 6 unique:  6
+repo: flagged-hn views: total: 7 unique:  6
 Views:
 	 2025-07-21 00:00:00+00:00 total: 1 unique: 1
 	 2025-07-31 00:00:00+00:00 total: 5 unique: 5
+	 2025-08-02 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
 		Count: 1 Unique: 1 Url: history.susgee.dev
 		Count: 1 Unique: 1 Url: news.ycombinator.com
@@ -134,11 +136,7 @@ Views:
 	 2025-07-30 00:00:00+00:00 total: 2 unique: 1
 	 2025-08-01 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
-		Count: 2 Unique: 1 Url: Google
-
-repo: python-obj-system views: total: 3 unique:  1
-Views:
-	 2025-07-19 00:00:00+00:00 total: 3 unique: 1
+		Count: 3 Unique: 2 Url: Google
 
 repo: gitblame views: total: 2 unique:  2
 Views:
@@ -146,11 +144,6 @@ Views:
 	 2025-07-30 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
 		Count: 1 Unique: 1 Url: DuckDuckGo
-
-repo: jscriptparse views: total: 2 unique:  2
-Views:
-	 2025-07-19 00:00:00+00:00 total: 1 unique: 1
-	 2025-07-21 00:00:00+00:00 total: 1 unique: 1
 
 repo: MoserMichael views: total: 2 unique:  2
 Views:
@@ -179,6 +172,10 @@ Views:
 repo: github_pr_comments views: total: 1 unique:  1
 Views:
 	 2025-07-22 00:00:00+00:00 total: 1 unique: 1
+
+repo: jscriptparse views: total: 1 unique:  1
+Views:
+	 2025-07-21 00:00:00+00:00 total: 1 unique: 1
 
 repo: kwchecker views: total: 1 unique:  1
 Views:
@@ -218,6 +215,8 @@ repo: opinionated-fortune-cow views: total: 0 unique:  0
 
 repo: pprintex views: total: 0 unique:  0
 
+repo: python-obj-system views: total: 0 unique:  0
+
 repo: pythoncourse views: total: 0 unique:  0
 
 repo: subb views: total: 0 unique:  0
@@ -228,4 +227,4 @@ repo: zipit views: total: 0 unique:  0
 
 
 ***
-Total views: 119
+Total views: 117
