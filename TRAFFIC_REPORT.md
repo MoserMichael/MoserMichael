@@ -21,16 +21,16 @@ Views:
 
 repo: pyasmtool views: total: 17 unique:  12
 Views:
-	 2025-07-28 00:00:00+00:00 total: 1 unique: 1
 	 2025-08-01 00:00:00+00:00 total: 1 unique: 1
 	 2025-08-05 00:00:00+00:00 total: 3 unique: 3
 	 2025-08-07 00:00:00+00:00 total: 3 unique: 3
 	 2025-08-09 00:00:00+00:00 total: 7 unique: 2
 	 2025-08-10 00:00:00+00:00 total: 2 unique: 2
+	 2025-08-11 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
 		Count: 6 Unique: 1 Url: Google
+		Count: 2 Unique: 2 Url: news.ycombinator.com
 		Count: 1 Unique: 1 Url: github.com
-		Count: 1 Unique: 1 Url: news.ycombinator.com
 
 repo: python-obj-system views: total: 16 unique:  11
 Views:
@@ -41,9 +41,9 @@ Views:
 	 2025-08-09 00:00:00+00:00 total: 1 unique: 1
 	 2025-08-10 00:00:00+00:00 total: 3 unique: 2
 	Referrers:
+		Count: 4 Unique: 3 Url: news.ycombinator.com
 		Count: 3 Unique: 2 Url: github.com
 		Count: 2 Unique: 2 Url: Google
-		Count: 1 Unique: 1 Url: news.ycombinator.com
 
 repo: duckduckbang views: total: 15 unique:  5
 Views:
@@ -54,8 +54,8 @@ Views:
 	Referrers:
 		Count: 10 Unique: 2 Url: Google
 		Count: 3 Unique: 3 Url: github.com
-		Count: 1 Unique: 1 Url: fmhy.net
 		Count: 1 Unique: 1 Url: DuckDuckGo
+		Count: 1 Unique: 1 Url: fmhy.net
 
 repo: cstuff views: total: 11 unique:  4
 Views:
@@ -67,27 +67,14 @@ Views:
 		Count: 9 Unique: 3 Url: mosermichael.github.io
 		Count: 1 Unique: 1 Url: github.com
 
-repo: visual-python-strace views: total: 11 unique:  5
+repo: flagged-hn views: total: 7 unique:  6
 Views:
-	 2025-07-28 00:00:00+00:00 total: 7 unique: 1
-	 2025-07-29 00:00:00+00:00 total: 1 unique: 1
+	 2025-07-31 00:00:00+00:00 total: 5 unique: 5
 	 2025-08-02 00:00:00+00:00 total: 1 unique: 1
-	 2025-08-06 00:00:00+00:00 total: 1 unique: 1
-	 2025-08-08 00:00:00+00:00 total: 1 unique: 1
+	 2025-08-11 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
-		Count: 2 Unique: 2 Url: pypi.org
-		Count: 1 Unique: 1 Url: Google
-		Count: 1 Unique: 1 Url: Bing
-
-repo: vimcrypt2 views: total: 10 unique:  4
-Views:
-	 2025-07-28 00:00:00+00:00 total: 6 unique: 1
-	 2025-07-30 00:00:00+00:00 total: 3 unique: 2
-	 2025-07-31 00:00:00+00:00 total: 1 unique: 1
-	Referrers:
-		Count: 2 Unique: 2 Url: Google
-		Count: 1 Unique: 1 Url: github.com
-		Count: 1 Unique: 1 Url: search.brave.com
+		Count: 1 Unique: 1 Url: history.susgee.dev
+		Count: 1 Unique: 1 Url: news.ycombinator.com
 
 repo: myenv views: total: 7 unique:  3
 Views:
@@ -97,24 +84,42 @@ Views:
 	Referrers:
 		Count: 6 Unique: 3 Url: Google
 
-repo: flagged-hn views: total: 6 unique:  5
-Views:
-	 2025-07-31 00:00:00+00:00 total: 5 unique: 5
-	 2025-08-02 00:00:00+00:00 total: 1 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: history.susgee.dev
-		Count: 1 Unique: 1 Url: news.ycombinator.com
-
 repo: ls-annotations views: total: 6 unique:  2
 Views:
 	 2025-07-31 00:00:00+00:00 total: 2 unique: 1
 	 2025-08-06 00:00:00+00:00 total: 4 unique: 1
+
+repo: jq-illustrated views: total: 4 unique:  2
+Views:
+	 2025-08-08 00:00:00+00:00 total: 1 unique: 1
+	 2025-08-11 00:00:00+00:00 total: 3 unique: 1
+	Referrers:
+		Count: 1 Unique: 1 Url: github.com
 
 repo: roget-thesaurus-parser views: total: 4 unique:  2
 Views:
 	 2025-07-31 00:00:00+00:00 total: 4 unique: 2
 	Referrers:
 		Count: 4 Unique: 2 Url: Google
+
+repo: vimcrypt2 views: total: 4 unique:  3
+Views:
+	 2025-07-30 00:00:00+00:00 total: 3 unique: 2
+	 2025-07-31 00:00:00+00:00 total: 1 unique: 1
+	Referrers:
+		Count: 2 Unique: 2 Url: Google
+		Count: 1 Unique: 1 Url: github.com
+		Count: 1 Unique: 1 Url: search.brave.com
+
+repo: visual-python-strace views: total: 4 unique:  4
+Views:
+	 2025-07-29 00:00:00+00:00 total: 1 unique: 1
+	 2025-08-02 00:00:00+00:00 total: 1 unique: 1
+	 2025-08-06 00:00:00+00:00 total: 1 unique: 1
+	 2025-08-08 00:00:00+00:00 total: 1 unique: 1
+	Referrers:
+		Count: 2 Unique: 2 Url: pypi.org
+		Count: 1 Unique: 1 Url: Bing
 
 repo: my-notes views: total: 3 unique:  2
 Views:
@@ -127,16 +132,6 @@ repo: rzgrep views: total: 3 unique:  2
 Views:
 	 2025-07-29 00:00:00+00:00 total: 2 unique: 1
 	 2025-07-31 00:00:00+00:00 total: 1 unique: 1
-	Referrers:
-		Count: 2 Unique: 1 Url: github.com
-
-repo: s9k views: total: 3 unique:  3
-Views:
-	 2025-07-28 00:00:00+00:00 total: 1 unique: 1
-	 2025-08-02 00:00:00+00:00 total: 1 unique: 1
-	 2025-08-08 00:00:00+00:00 total: 1 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: github.com
 
 repo: devgoodies views: total: 2 unique:  2
 Views:
@@ -156,10 +151,6 @@ Views:
 	 2025-08-05 00:00:00+00:00 total: 1 unique: 1
 	 2025-08-07 00:00:00+00:00 total: 1 unique: 1
 
-repo: kind-helper views: total: 2 unique:  2
-Views:
-	 2025-07-28 00:00:00+00:00 total: 2 unique: 2
-
 repo: pprintex views: total: 2 unique:  2
 Views:
 	 2025-08-05 00:00:00+00:00 total: 1 unique: 1
@@ -170,6 +161,13 @@ Views:
 	 2025-08-05 00:00:00+00:00 total: 1 unique: 1
 	 2025-08-07 00:00:00+00:00 total: 1 unique: 1
 
+repo: s9k views: total: 2 unique:  2
+Views:
+	 2025-08-02 00:00:00+00:00 total: 1 unique: 1
+	 2025-08-08 00:00:00+00:00 total: 1 unique: 1
+	Referrers:
+		Count: 1 Unique: 1 Url: github.com
+
 repo: cppcombinator views: total: 1 unique:  1
 Views:
 	 2025-08-06 00:00:00+00:00 total: 1 unique: 1
@@ -179,8 +177,6 @@ Views:
 repo: follow-kube-logs views: total: 1 unique:  1
 Views:
 	 2025-07-29 00:00:00+00:00 total: 1 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: Google
 
 repo: gitblame views: total: 1 unique:  1
 Views:
@@ -197,12 +193,6 @@ Views:
 	 2025-08-04 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
 		Count: 1 Unique: 1 Url: Google
-
-repo: jq-illustrated views: total: 1 unique:  1
-Views:
-	 2025-08-08 00:00:00+00:00 total: 1 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: github.com
 
 repo: kwchecker views: total: 1 unique:  1
 Views:
@@ -234,6 +224,8 @@ repo: jobinterviewhomework views: total: 0 unique:  0
 
 repo: k8explain views: total: 0 unique:  0
 
+repo: kind-helper views: total: 0 unique:  0
+
 repo: opinionated-fortune-cow views: total: 0 unique:  0
 
 repo: printb views: total: 0 unique:  0
@@ -248,4 +240,4 @@ repo: zipit views: total: 0 unique:  0
 
 
 ***
-Total views: 151
+Total views: 139
