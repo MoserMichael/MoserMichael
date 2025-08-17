@@ -1,18 +1,19 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sat Aug 16 01:02:28 UTC 2025
+Sun Aug 17 01:10:16 UTC 2025
 
 <pre>
 
- ________________________________________
-/ You will attract cultured and artistic \
-\ people to your home.                   /
- ----------------------------------------
+ ____________________________________
+/ You tread upon my patience.        \
+|                                    |
+\ -- William Shakespeare, "Henry IV" /
+ ------------------------------------
         \   ^__^
-         \  (oo)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :) ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: 36 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 

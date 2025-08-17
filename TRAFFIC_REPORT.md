@@ -28,10 +28,10 @@ Views:
 	 2025-08-09 00:00:00+00:00 total: 2 unique: 2
 	 2025-08-14 00:00:00+00:00 total: 2 unique: 2
 	Referrers:
-		Count: 10 Unique: 2 Url: Google
-		Count: 3 Unique: 3 Url: github.com
-		Count: 2 Unique: 2 Url: DuckDuckGo
+		Count: 2 Unique: 2 Url: github.com
+		Count: 1 Unique: 1 Url: Google
 		Count: 1 Unique: 1 Url: fmhy.net
+		Count: 1 Unique: 1 Url: DuckDuckGo
 
 repo: pygamewrap views: total: 17 unique:  3
 Views:
@@ -86,25 +86,24 @@ Views:
 	Referrers:
 		Count: 3 Unique: 1 Url: Google
 
-repo: s9k views: total: 5 unique:  4
+repo: ls-annotations views: total: 4 unique:  1
 Views:
-	 2025-08-02 00:00:00+00:00 total: 1 unique: 1
+	 2025-08-06 00:00:00+00:00 total: 4 unique: 1
+
+repo: s9k views: total: 4 unique:  3
+Views:
 	 2025-08-08 00:00:00+00:00 total: 1 unique: 1
 	 2025-08-14 00:00:00+00:00 total: 3 unique: 2
 	Referrers:
 		Count: 2 Unique: 1 Url: Google
 		Count: 1 Unique: 1 Url: github.com
 
-repo: ls-annotations views: total: 4 unique:  1
-Views:
-	 2025-08-06 00:00:00+00:00 total: 4 unique: 1
-
 repo: visual-python-strace views: total: 4 unique:  4
 Views:
-	 2025-08-02 00:00:00+00:00 total: 1 unique: 1
 	 2025-08-06 00:00:00+00:00 total: 1 unique: 1
 	 2025-08-08 00:00:00+00:00 total: 1 unique: 1
 	 2025-08-14 00:00:00+00:00 total: 1 unique: 1
+	 2025-08-16 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
 		Count: 1 Unique: 1 Url: pypi.org
 		Count: 1 Unique: 1 Url: Google
@@ -116,6 +115,12 @@ Views:
 	 2025-08-07 00:00:00+00:00 total: 1 unique: 1
 	 2025-08-13 00:00:00+00:00 total: 1 unique: 1
 
+repo: pprintex views: total: 3 unique:  3
+Views:
+	 2025-08-05 00:00:00+00:00 total: 1 unique: 1
+	 2025-08-07 00:00:00+00:00 total: 1 unique: 1
+	 2025-08-16 00:00:00+00:00 total: 1 unique: 1
+
 repo: vimcrypt2 views: total: 3 unique:  1
 Views:
 	 2025-08-14 00:00:00+00:00 total: 3 unique: 1
@@ -124,8 +129,6 @@ repo: devgoodies views: total: 2 unique:  2
 Views:
 	 2025-08-03 00:00:00+00:00 total: 1 unique: 1
 	 2025-08-08 00:00:00+00:00 total: 1 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: github.com
 
 repo: docker-force-attach views: total: 2 unique:  1
 Views:
@@ -140,10 +143,9 @@ Views:
 	Referrers:
 		Count: 2 Unique: 2 Url: Google
 
-repo: pprintex views: total: 2 unique:  2
+repo: opinionated-fortune-cow views: total: 2 unique:  2
 Views:
-	 2025-08-05 00:00:00+00:00 total: 1 unique: 1
-	 2025-08-07 00:00:00+00:00 total: 1 unique: 1
+	 2025-08-16 00:00:00+00:00 total: 2 unique: 2
 
 repo: pythonimportplayground views: total: 2 unique:  2
 Views:
@@ -171,8 +173,10 @@ Views:
 repo: gittools views: total: 1 unique:  1
 Views:
 	 2025-08-03 00:00:00+00:00 total: 1 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: github.com
+
+repo: kind-helper views: total: 1 unique:  1
+Views:
+	 2025-08-16 00:00:00+00:00 total: 1 unique: 1
 
 repo: zipit views: total: 1 unique:  1
 Views:
@@ -194,15 +198,11 @@ repo: jobinterviewhomework views: total: 0 unique:  0
 
 repo: k8explain views: total: 0 unique:  0
 
-repo: kind-helper views: total: 0 unique:  0
-
 repo: kwchecker views: total: 0 unique:  0
 
 repo: MoserMichael views: total: 0 unique:  0
 
 repo: my-notes views: total: 0 unique:  0
-
-repo: opinionated-fortune-cow views: total: 0 unique:  0
 
 repo: printb views: total: 0 unique:  0
 
@@ -218,4 +218,4 @@ repo: vimcrypt views: total: 0 unique:  0
 
 
 ***
-Total views: 138
+Total views: 141
