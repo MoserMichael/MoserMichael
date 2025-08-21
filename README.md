@@ -1,21 +1,31 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Wed Aug 20 01:00:48 UTC 2025
+Thu Aug 21 00:59:38 UTC 2025
 
 <pre>
 
  _________________________________________
-/ Q: How do you catch a unique rabbit? A: \
-| Unique up on it!                        |
+/ Q: How many journalists does it take to \
+| screw in a light bulb? A: Three. One to |
+| report it as an inspired government     |
+| program to bring                        |
 |                                         |
-| Q: How do you catch a tame rabbit? A:   |
-\ The tame way!                           /
+| light to the people, one to report it   |
+| as a diabolical government plot         |
+|                                         |
+| to deprive the poor of darkness, and    |
+| one to win a Pulitzer prize for         |
+|                                         |
+| reporting that Electric Company hired a |
+| light bulb-assassin to break            |
+|                                         |
+\ the bulb in the first place.            /
  -----------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (oo)\_______
             (__)\       )\/\
-             -- ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 40 '(from -100..100) state: 'good' eye: oo tongue: :)
 
 </pre>
 
@@ -112,8 +122,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 606 </th></tr>
 </table>
 <br>
-old_date:  2025-06-03 01:04:32.839424 now: 2025-08-20 01:01:04.400592
-duckduckbang stars changed from: 39 to: 40
     </pre>
   </td>
 </table>
