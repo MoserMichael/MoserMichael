@@ -1,31 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Thu Aug 21 00:59:38 UTC 2025
+Fri Aug 22 01:00:47 UTC 2025
 
 <pre>
 
  _________________________________________
-/ Q: How many journalists does it take to \
-| screw in a light bulb? A: Three. One to |
-| report it as an inspired government     |
-| program to bring                        |
-|                                         |
-| light to the people, one to report it   |
-| as a diabolical government plot         |
-|                                         |
-| to deprive the poor of darkness, and    |
-| one to win a Pulitzer prize for         |
-|                                         |
-| reporting that Electric Company hired a |
-| light bulb-assassin to break            |
-|                                         |
-\ the bulb in the first place.            /
+/ People are beginning to notice you. Try \
+\ dressing before you leave the house.    /
  -----------------------------------------
         \   ^__^
-         \  (oo)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :) ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: 40 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: -5 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
