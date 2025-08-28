@@ -1,20 +1,19 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Wed Aug 27 00:59:50 UTC 2025
+Thu Aug 28 00:58:49 UTC 2025
 
 <pre>
 
- ____________________________________
-/ Familiarity breeds contempt -- and \
-| children.                          |
-|                                    |
-\ -- Mark Twain                      /
- ------------------------------------
+ ______________________________________
+/ Q: How can you tell when a Burroughs \
+| salesman is lying? A: When his lips  |
+\ move.                                /
+ --------------------------------------
         \   ^__^
          \  (!!)\_______
             (__)\       )\/\
              :( ||----w |
                 ||     ||
-nltk score: -59 '(from -100..100) state: 'bad' eye: !! tongue: :(
+nltk score: -53 '(from -100..100) state: 'bad' eye: !! tongue: :(
 
 </pre>
 
