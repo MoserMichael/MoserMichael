@@ -1,20 +1,19 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sat Aug 30 00:56:14 UTC 2025
+Sun Aug 31 01:03:20 UTC 2025
 
 <pre>
 
  _________________________________________
-/ The whole world is a tuxedo and you are \
-| a pair of brown shoes.                  |
+/ The better part of valor is discretion. \
 |                                         |
-\ -- George Gobel                         /
+\ -- William Shakespeare, "Henry IV"      /
  -----------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (oo)\_______
             (__)\       )\/\
-             -- ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 44 '(from -100..100) state: 'good' eye: oo tongue: :)
 
 </pre>
 
@@ -111,8 +110,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 605 </th></tr>
 </table>
 <br>
-old_date:  2025-08-20 01:01:04.400729 now: 2025-08-30 00:56:29.991839
-pythonimportplayground stars changed from: 6 to: 5
     </pre>
   </td>
 </table>

@@ -32,38 +32,34 @@ Views:
 	Referrers:
 		Count: 1 Unique: 1 Url: mosermichael.github.io
 
-repo: kwchecker views: total: 6 unique:  3
-Views:
-	 2025-08-18 00:00:00+00:00 total: 5 unique: 2
-	 2025-08-22 00:00:00+00:00 total: 1 unique: 1
-
-repo: s9k views: total: 6 unique:  5
+repo: s9k views: total: 8 unique:  7
 Views:
 	 2025-08-18 00:00:00+00:00 total: 1 unique: 1
 	 2025-08-24 00:00:00+00:00 total: 1 unique: 1
 	 2025-08-26 00:00:00+00:00 total: 3 unique: 2
 	 2025-08-29 00:00:00+00:00 total: 1 unique: 1
+	 2025-08-30 00:00:00+00:00 total: 2 unique: 2
 
-repo: duckduckbang views: total: 3 unique:  2
+repo: kwchecker views: total: 6 unique:  3
+Views:
+	 2025-08-18 00:00:00+00:00 total: 5 unique: 2
+	 2025-08-22 00:00:00+00:00 total: 1 unique: 1
+
+repo: duckduckbang views: total: 4 unique:  3
 Views:
 	 2025-08-25 00:00:00+00:00 total: 2 unique: 1
 	 2025-08-29 00:00:00+00:00 total: 1 unique: 1
-
-repo: gitblame views: total: 3 unique:  3
-Views:
-	 2025-08-17 00:00:00+00:00 total: 2 unique: 2
-	 2025-08-25 00:00:00+00:00 total: 1 unique: 1
+	 2025-08-30 00:00:00+00:00 total: 1 unique: 1
 
 repo: jscriptparse views: total: 3 unique:  3
 Views:
 	 2025-08-23 00:00:00+00:00 total: 2 unique: 2
 	 2025-08-27 00:00:00+00:00 total: 1 unique: 1
 
-repo: visual-python-strace views: total: 3 unique:  3
+repo: gitblame views: total: 2 unique:  2
 Views:
-	 2025-08-16 00:00:00+00:00 total: 1 unique: 1
-	 2025-08-20 00:00:00+00:00 total: 1 unique: 1
-	 2025-08-26 00:00:00+00:00 total: 1 unique: 1
+	 2025-08-17 00:00:00+00:00 total: 1 unique: 1
+	 2025-08-25 00:00:00+00:00 total: 1 unique: 1
 
 repo: jpa-enc-converter views: total: 2 unique:  2
 Views:
@@ -80,9 +76,10 @@ Views:
 	 2025-08-25 00:00:00+00:00 total: 1 unique: 1
 	 2025-08-29 00:00:00+00:00 total: 1 unique: 1
 
-repo: opinionated-fortune-cow views: total: 2 unique:  2
+repo: visual-python-strace views: total: 2 unique:  2
 Views:
-	 2025-08-16 00:00:00+00:00 total: 2 unique: 2
+	 2025-08-20 00:00:00+00:00 total: 1 unique: 1
+	 2025-08-26 00:00:00+00:00 total: 1 unique: 1
 
 repo: zipit views: total: 2 unique:  2
 Views:
@@ -101,9 +98,13 @@ repo: flagged-hn views: total: 1 unique:  1
 Views:
 	 2025-08-24 00:00:00+00:00 total: 1 unique: 1
 
+repo: githubapitools views: total: 1 unique:  1
+Views:
+	 2025-08-30 00:00:00+00:00 total: 1 unique: 1
+
 repo: kind-helper views: total: 1 unique:  1
 Views:
-	 2025-08-16 00:00:00+00:00 total: 1 unique: 1
+	 2025-08-30 00:00:00+00:00 total: 1 unique: 1
 
 repo: MoserMichael views: total: 1 unique:  1
 Views:
@@ -113,10 +114,6 @@ repo: my-notes views: total: 1 unique:  1
 Views:
 	 2025-08-20 00:00:00+00:00 total: 1 unique: 1
 
-repo: pprintex views: total: 1 unique:  1
-Views:
-	 2025-08-16 00:00:00+00:00 total: 1 unique: 1
-
 repo: docker-force-attach views: total: 0 unique:  0
 
 repo: dockerdashphp views: total: 0 unique:  0
@@ -124,8 +121,6 @@ repo: dockerdashphp views: total: 0 unique:  0
 repo: download-artifacts views: total: 0 unique:  0
 
 repo: follow-kube-logs views: total: 0 unique:  0
-
-repo: githubapitools views: total: 0 unique:  0
 
 repo: github_pr_comments views: total: 0 unique:  0
 
@@ -138,6 +133,10 @@ repo: jobinterviewhomework views: total: 0 unique:  0
 repo: k8explain views: total: 0 unique:  0
 
 repo: ls-annotations views: total: 0 unique:  0
+
+repo: opinionated-fortune-cow views: total: 0 unique:  0
+
+repo: pprintex views: total: 0 unique:  0
 
 repo: printb views: total: 0 unique:  0
 
@@ -163,4 +162,4 @@ repo: vimcrypt2 views: total: 0 unique:  0
 
 
 ***
-Total views: 73
+Total views: 72
