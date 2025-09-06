@@ -27,13 +27,14 @@ Views:
 	 2025-08-28 00:00:00+00:00 total: 1 unique: 1
 	 2025-08-29 00:00:00+00:00 total: 2 unique: 2
 
-repo: s9k views: total: 8 unique:  7
+repo: s9k views: total: 9 unique:  8
 Views:
 	 2025-08-24 00:00:00+00:00 total: 1 unique: 1
 	 2025-08-26 00:00:00+00:00 total: 3 unique: 2
 	 2025-08-29 00:00:00+00:00 total: 1 unique: 1
 	 2025-08-30 00:00:00+00:00 total: 2 unique: 2
 	 2025-09-04 00:00:00+00:00 total: 1 unique: 1
+	 2025-09-05 00:00:00+00:00 total: 1 unique: 1
 
 repo: my-notes views: total: 6 unique:  1
 Views:
@@ -71,6 +72,8 @@ repo: jpa-enc-converter views: total: 2 unique:  2
 Views:
 	 2025-08-25 00:00:00+00:00 total: 1 unique: 1
 	 2025-08-28 00:00:00+00:00 total: 1 unique: 1
+	Referrers:
+		Count: 1 Unique: 1 Url: Google
 
 repo: MoserMichael views: total: 2 unique:  2
 Views:
@@ -98,13 +101,13 @@ repo: kind-helper views: total: 1 unique:  1
 Views:
 	 2025-08-30 00:00:00+00:00 total: 1 unique: 1
 
-repo: kwchecker views: total: 1 unique:  1
-Views:
-	 2025-08-22 00:00:00+00:00 total: 1 unique: 1
-
 repo: pprintex views: total: 1 unique:  1
 Views:
 	 2025-09-04 00:00:00+00:00 total: 1 unique: 1
+
+repo: subb views: total: 1 unique:  1
+Views:
+	 2025-09-05 00:00:00+00:00 total: 1 unique: 1
 
 repo: vimcrypt views: total: 1 unique:  1
 Views:
@@ -136,6 +139,8 @@ repo: jobinterviewhomework views: total: 0 unique:  0
 
 repo: k8explain views: total: 0 unique:  0
 
+repo: kwchecker views: total: 0 unique:  0
+
 repo: ls-annotations views: total: 0 unique:  0
 
 repo: opinionated-fortune-cow views: total: 0 unique:  0
@@ -152,12 +157,10 @@ repo: roget-thesaurus-parser views: total: 0 unique:  0
 
 repo: rzgrep views: total: 0 unique:  0
 
-repo: subb views: total: 0 unique:  0
-
 repo: teach-your-children-well views: total: 0 unique:  0
 
 repo: vimcrypt2 views: total: 0 unique:  0
 
 
 ***
-Total views: 67
+Total views: 68
