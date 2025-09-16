@@ -1,12 +1,12 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Mon Sep 15 01:01:54 UTC 2025
+Tue Sep 16 00:57:03 UTC 2025
 
 <pre>
 
- _____________________________________
-/ You'll never be the man your mother \
-\ was!                                /
- -------------------------------------
+ _______________________________________
+/ You will be held hostage by a radical \
+\ group.                                /
+ ---------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
