@@ -1,18 +1,30 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Tue Sep 16 00:57:03 UTC 2025
+Wed Sep 17 00:57:07 UTC 2025
 
 <pre>
 
- _______________________________________
-/ You will be held hostage by a radical \
-\ group.                                /
- ---------------------------------------
+ ________________________________________
+/ Sheriff Chameleotoptor sighed with an  \
+| air of weary sadness, and then turned  |
+| to Doppelgutt and said 'The Senator    |
+| must really have been on a bender this |
+| time -- he left a party in Cleveland,  |
+| Ohio, at 11:30 last night, and they    |
+| found his car this morning in the      |
+| smokestack of a British aircraft       |
+| carrier in the Formosa Straits.'       |
+|                                        |
+| -- Grand Panjandrum's Special Award,   |
+| 1985 Bulwer-Lytton                     |
+|                                        |
+\ bad fiction contest.                   /
+ ----------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (!!)\_______
             (__)\       )\/\
-             -- ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: -32 '(from -100..100) state: 'bad' eye: !! tongue: :(
 
 </pre>
 
