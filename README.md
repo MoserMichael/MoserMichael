@@ -1,30 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Wed Sep 17 00:57:07 UTC 2025
+Thu Sep 18 00:56:25 UTC 2025
 
 <pre>
 
- ________________________________________
-/ Sheriff Chameleotoptor sighed with an  \
-| air of weary sadness, and then turned  |
-| to Doppelgutt and said 'The Senator    |
-| must really have been on a bender this |
-| time -- he left a party in Cleveland,  |
-| Ohio, at 11:30 last night, and they    |
-| found his car this morning in the      |
-| smokestack of a British aircraft       |
-| carrier in the Formosa Straits.'       |
-|                                        |
-| -- Grand Panjandrum's Special Award,   |
-| 1985 Bulwer-Lytton                     |
-|                                        |
-\ bad fiction contest.                   /
- ----------------------------------------
+ ______________________________________
+/ Your own qualities will help prevent \
+\ your advancement in the world.       /
+ --------------------------------------
         \   ^__^
-         \  (!!)\_______
+         \  (oo)\_______
             (__)\       )\/\
-             :( ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: -32 '(from -100..100) state: 'bad' eye: !! tongue: :(
+nltk score: 42 '(from -100..100) state: 'good' eye: oo tongue: :)
 
 </pre>
 
