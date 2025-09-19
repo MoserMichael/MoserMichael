@@ -1,18 +1,23 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Thu Sep 18 00:56:25 UTC 2025
+Fri Sep 19 00:58:36 UTC 2025
 
 <pre>
 
- ______________________________________
-/ Your own qualities will help prevent \
-\ your advancement in the world.       /
- --------------------------------------
+ ____________________________________
+/ Q: What do you call a blind        \
+| pre-historic animal? A:            |
+| Diyathinkhesaurus.                 |
+|                                    |
+| Q: What do you call a blind        |
+| pre-historic animal with a dog? A: |
+\ Diyathinkhesaurus Rex.             /
+ ------------------------------------
         \   ^__^
-         \  (oo)\_______
+         \  (~~)\_______
             (__)\       )\/\
-             :) ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 42 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: -70 '(from -100..100) state: 'very bad' eye: ~~ tongue: :(
 
 </pre>
 
