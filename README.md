@@ -1,23 +1,17 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Fri Sep 19 00:58:36 UTC 2025
+Sat Sep 20 00:55:44 UTC 2025
 
 <pre>
 
- ____________________________________
-/ Q: What do you call a blind        \
-| pre-historic animal? A:            |
-| Diyathinkhesaurus.                 |
-|                                    |
-| Q: What do you call a blind        |
-| pre-historic animal with a dog? A: |
-\ Diyathinkhesaurus Rex.             /
- ------------------------------------
+ ___________________________
+< You have no real enemies. >
+ ---------------------------
         \   ^__^
          \  (~~)\_______
             (__)\       )\/\
              :( ||----w |
                 ||     ||
-nltk score: -70 '(from -100..100) state: 'very bad' eye: ~~ tongue: :(
+nltk score: -66 '(from -100..100) state: 'very bad' eye: ~~ tongue: :(
 
 </pre>
 
