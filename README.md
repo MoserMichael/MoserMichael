@@ -1,17 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sun Sep 21 01:03:03 UTC 2025
+Mon Sep 22 01:02:53 UTC 2025
 
 <pre>
 
- ____________________________________
-< Your aim is high and to the right. >
- ------------------------------------
+ ________________________________________
+/ You are sick, twisted and perverted. I \
+\ like that in a person.                 /
+ ----------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (~~)\_______
             (__)\       )\/\
-             -- ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: -65 '(from -100..100) state: 'very bad' eye: ~~ tongue: :(
 
 </pre>
 

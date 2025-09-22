@@ -16,15 +16,26 @@ Views:
 	 2025-09-11 00:00:00+00:00 total: 12 unique: 2
 	 2025-09-12 00:00:00+00:00 total: 1 unique: 1
 
-repo: pyasmtool views: total: 13 unique:  11
+repo: pyasmtool views: total: 10 unique:  9
 Views:
-	 2025-09-07 00:00:00+00:00 total: 4 unique: 3
 	 2025-09-10 00:00:00+00:00 total: 1 unique: 1
 	 2025-09-11 00:00:00+00:00 total: 3 unique: 3
 	 2025-09-12 00:00:00+00:00 total: 1 unique: 1
 	 2025-09-13 00:00:00+00:00 total: 2 unique: 1
 	 2025-09-16 00:00:00+00:00 total: 1 unique: 1
 	 2025-09-18 00:00:00+00:00 total: 1 unique: 1
+	 2025-09-21 00:00:00+00:00 total: 1 unique: 1
+
+repo: python-obj-system views: total: 9 unique:  8
+Views:
+	 2025-09-10 00:00:00+00:00 total: 1 unique: 1
+	 2025-09-11 00:00:00+00:00 total: 1 unique: 1
+	 2025-09-13 00:00:00+00:00 total: 1 unique: 1
+	 2025-09-15 00:00:00+00:00 total: 1 unique: 1
+	 2025-09-16 00:00:00+00:00 total: 1 unique: 1
+	 2025-09-17 00:00:00+00:00 total: 1 unique: 1
+	 2025-09-18 00:00:00+00:00 total: 1 unique: 1
+	 2025-09-21 00:00:00+00:00 total: 2 unique: 1
 
 repo: myenv views: total: 8 unique:  5
 Views:
@@ -42,16 +53,6 @@ Views:
 	 2025-09-17 00:00:00+00:00 total: 1 unique: 1
 	 2025-09-18 00:00:00+00:00 total: 1 unique: 1
 
-repo: python-obj-system views: total: 7 unique:  7
-Views:
-	 2025-09-10 00:00:00+00:00 total: 1 unique: 1
-	 2025-09-11 00:00:00+00:00 total: 1 unique: 1
-	 2025-09-13 00:00:00+00:00 total: 1 unique: 1
-	 2025-09-15 00:00:00+00:00 total: 1 unique: 1
-	 2025-09-16 00:00:00+00:00 total: 1 unique: 1
-	 2025-09-17 00:00:00+00:00 total: 1 unique: 1
-	 2025-09-18 00:00:00+00:00 total: 1 unique: 1
-
 repo: kwchecker views: total: 3 unique:  3
 Views:
 	 2025-09-08 00:00:00+00:00 total: 1 unique: 1
@@ -64,6 +65,12 @@ Views:
 	 2025-09-16 00:00:00+00:00 total: 1 unique: 1
 	 2025-09-19 00:00:00+00:00 total: 1 unique: 1
 
+repo: rzgrep views: total: 3 unique:  3
+Views:
+	 2025-09-09 00:00:00+00:00 total: 1 unique: 1
+	 2025-09-18 00:00:00+00:00 total: 1 unique: 1
+	 2025-09-21 00:00:00+00:00 total: 1 unique: 1
+
 repo: flagged-hn views: total: 2 unique:  2
 Views:
 	 2025-09-17 00:00:00+00:00 total: 1 unique: 1
@@ -72,11 +79,6 @@ Views:
 repo: gitblame views: total: 2 unique:  2
 Views:
 	 2025-09-12 00:00:00+00:00 total: 1 unique: 1
-	 2025-09-18 00:00:00+00:00 total: 1 unique: 1
-
-repo: rzgrep views: total: 2 unique:  2
-Views:
-	 2025-09-09 00:00:00+00:00 total: 1 unique: 1
 	 2025-09-18 00:00:00+00:00 total: 1 unique: 1
 
 repo: s9k views: total: 2 unique:  2
