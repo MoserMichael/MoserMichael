@@ -11,10 +11,15 @@ repo: cstuff views: total: 22 unique:  1
 Views:
 	 2025-09-15 00:00:00+00:00 total: 22 unique: 1
 
-repo: jscriptparse views: total: 13 unique:  3
+repo: pyasmtool views: total: 11 unique:  10
 Views:
-	 2025-09-11 00:00:00+00:00 total: 12 unique: 2
+	 2025-09-11 00:00:00+00:00 total: 3 unique: 3
 	 2025-09-12 00:00:00+00:00 total: 1 unique: 1
+	 2025-09-13 00:00:00+00:00 total: 2 unique: 1
+	 2025-09-16 00:00:00+00:00 total: 1 unique: 1
+	 2025-09-18 00:00:00+00:00 total: 1 unique: 1
+	 2025-09-21 00:00:00+00:00 total: 1 unique: 1
+	 2025-09-24 00:00:00+00:00 total: 2 unique: 2
 
 repo: myenv views: total: 9 unique:  6
 Views:
@@ -25,18 +30,8 @@ Views:
 	 2025-09-17 00:00:00+00:00 total: 2 unique: 1
 	 2025-09-23 00:00:00+00:00 total: 1 unique: 1
 
-repo: pyasmtool views: total: 9 unique:  8
+repo: python-obj-system views: total: 8 unique:  7
 Views:
-	 2025-09-11 00:00:00+00:00 total: 3 unique: 3
-	 2025-09-12 00:00:00+00:00 total: 1 unique: 1
-	 2025-09-13 00:00:00+00:00 total: 2 unique: 1
-	 2025-09-16 00:00:00+00:00 total: 1 unique: 1
-	 2025-09-18 00:00:00+00:00 total: 1 unique: 1
-	 2025-09-21 00:00:00+00:00 total: 1 unique: 1
-
-repo: python-obj-system views: total: 9 unique:  8
-Views:
-	 2025-09-10 00:00:00+00:00 total: 1 unique: 1
 	 2025-09-11 00:00:00+00:00 total: 1 unique: 1
 	 2025-09-13 00:00:00+00:00 total: 1 unique: 1
 	 2025-09-15 00:00:00+00:00 total: 1 unique: 1
@@ -45,9 +40,8 @@ Views:
 	 2025-09-18 00:00:00+00:00 total: 1 unique: 1
 	 2025-09-21 00:00:00+00:00 total: 2 unique: 1
 
-repo: duckduckbang views: total: 8 unique:  7
+repo: duckduckbang views: total: 6 unique:  5
 Views:
-	 2025-09-10 00:00:00+00:00 total: 2 unique: 2
 	 2025-09-11 00:00:00+00:00 total: 1 unique: 1
 	 2025-09-16 00:00:00+00:00 total: 2 unique: 1
 	 2025-09-17 00:00:00+00:00 total: 1 unique: 1
@@ -75,6 +69,16 @@ Views:
 	 2025-09-12 00:00:00+00:00 total: 1 unique: 1
 	 2025-09-18 00:00:00+00:00 total: 1 unique: 1
 
+repo: jscriptparse views: total: 2 unique:  2
+Views:
+	 2025-09-11 00:00:00+00:00 total: 1 unique: 1
+	 2025-09-12 00:00:00+00:00 total: 1 unique: 1
+
+repo: kind-helper views: total: 2 unique:  2
+Views:
+	 2025-09-12 00:00:00+00:00 total: 1 unique: 1
+	 2025-09-24 00:00:00+00:00 total: 1 unique: 1
+
 repo: kwchecker views: total: 2 unique:  2
 Views:
 	 2025-09-12 00:00:00+00:00 total: 1 unique: 1
@@ -93,13 +97,13 @@ repo: githubapitools views: total: 1 unique:  1
 Views:
 	 2025-09-11 00:00:00+00:00 total: 1 unique: 1
 
-repo: kind-helper views: total: 1 unique:  1
+repo: ls-annotations views: total: 1 unique:  1
 Views:
-	 2025-09-12 00:00:00+00:00 total: 1 unique: 1
+	 2025-09-24 00:00:00+00:00 total: 1 unique: 1
 
-repo: my-notes views: total: 1 unique:  1
+repo: MoserMichael views: total: 1 unique:  1
 Views:
-	 2025-09-10 00:00:00+00:00 total: 1 unique: 1
+	 2025-09-24 00:00:00+00:00 total: 1 unique: 1
 
 repo: visual-python-strace views: total: 1 unique:  1
 Views:
@@ -133,9 +137,7 @@ repo: jq-illustrated views: total: 0 unique:  0
 
 repo: k8explain views: total: 0 unique:  0
 
-repo: ls-annotations views: total: 0 unique:  0
-
-repo: MoserMichael views: total: 0 unique:  0
+repo: my-notes views: total: 0 unique:  0
 
 repo: opinionated-fortune-cow views: total: 0 unique:  0
 
@@ -159,4 +161,4 @@ repo: vimcrypt2 views: total: 0 unique:  0
 
 
 ***
-Total views: 90
+Total views: 80
