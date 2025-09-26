@@ -1,17 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Thu Sep 25 00:58:14 UTC 2025
+Fri Sep 26 00:57:49 UTC 2025
 
 <pre>
 
- _____________________________________
-< Q: Are we not men? A: We are Vaxen. >
- -------------------------------------
+ ________________________________________
+/ You are sick, twisted and perverted. I \
+\ like that in a person.                 /
+ ----------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (~~)\_______
             (__)\       )\/\
-             -- ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: -65 '(from -100..100) state: 'very bad' eye: ~~ tongue: :(
 
 </pre>
 
