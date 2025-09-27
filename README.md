@@ -1,18 +1,20 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Fri Sep 26 00:57:49 UTC 2025
+Sat Sep 27 00:55:55 UTC 2025
 
 <pre>
 
- ________________________________________
-/ You are sick, twisted and perverted. I \
-\ like that in a person.                 /
- ----------------------------------------
+ _________________________________________
+/ It is so very hard to be an             \
+| on-your-own-take-care-of-yourself-becau |
+| se-there-is-no-one-else-to-do-it-for-yo |
+\ u grown-up.                             /
+ -----------------------------------------
         \   ^__^
-         \  (~~)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :( ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: -65 '(from -100..100) state: 'very bad' eye: ~~ tongue: :(
+nltk score: -24 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
