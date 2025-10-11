@@ -1,19 +1,21 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Fri Oct 10 00:57:57 UTC 2025
+Sat Oct 11 00:55:28 UTC 2025
 
 <pre>
 
- ____________________________________
-/ You're currently going through a   \
-| difficult transition period called |
-\ "Life."                            /
- ------------------------------------
+ _________________________________________
+/ If more of us valued food and cheer and \
+| song above hoarded gold, it would be a  |
+| merrier world.                          |
+|                                         |
+\ -- J.R.R. Tolkien                       /
+ -----------------------------------------
         \   ^__^
-         \  (!!)\_______
+         \  (OO)\_______
             (__)\       )\/\
-             :( ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: -36 '(from -100..100) state: 'bad' eye: !! tongue: :(
+nltk score: 85 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
@@ -79,10 +81,10 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/pygamewrap">pygamewrap</a></td><td>6</td><td>Python</td><td>A small wrapper toolkit that simplifies development with the pygame library (hopefully)</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/jscriptparse">jscriptparse</a></td><td>5</td><td>JavaScript</td><td>pyx scripting language & REPL/Shell ; prs - javascript module for parser combinators</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/pythonimportplayground">pythonimportplayground</a></td><td>5</td><td>Python</td><td>the readme file explains python packages, with examples.</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/flagged-hn">flagged-hn</a></td><td>4</td><td>Python</td><td>crawl hn and build a page containing flagged stories only.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/myenv">myenv</a></td><td>4</td><td>Shell</td><td>my work environment (so i don't have to search for it ;-)</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/opinionated-fortune-cow">opinionated-fortune-cow</a></td><td>4</td><td>Shell</td><td>fortune | cow pipe that runs sentiment analysis on the fortune cookie, in order to determine the mood and expression of the cow</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/pprintex">pprintex</a></td><td>4</td><td>Python</td><td>python pretty printer, unlinke pprint it prints out all object field values.</td></tr>
-<tr><td><a href="https://github.com/MoserMichael/flagged-hn">flagged-hn</a></td><td>3</td><td>Python</td><td>crawl hn and build a page containing flagged stories only.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/gitblame">gitblame</a></td><td>3</td><td>Vim Script</td><td>minimal vim plugin for working with git; with a focus on git blame and git grep commands</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/pythoncourse">pythoncourse</a></td><td>3</td><td>Python</td><td>my notes on teaching the python programming language.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/gittools">gittools</a></td><td>2</td><td>Python</td><td>get some sense out of the git log for a given repository.</td></tr>
@@ -107,9 +109,11 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/vimcrypt">vimcrypt</a></td><td>0</td><td>Vim script</td><td>my vim plugin for encrypting/decryting text files with openssl</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/visual-python-strace">visual-python-strace</a></td><td>0</td><td>Python</td><td>show a very long stack trace with variable values.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/zipit">zipit</a></td><td>0</td><td>C++</td><td>c++ library for the equivalent of python/haskell zip function</td></tr>
-<tr><th>Total stars:</th><th colspan='2' align='left'> 605 </th></tr>
+<tr><th>Total stars:</th><th colspan='2' align='left'> 606 </th></tr>
 </table>
 <br>
+old_date:  2025-08-30 00:56:29.991993 now: 2025-10-11 00:55:46.874605
+flagged-hn stars changed from: 3 to: 4
     </pre>
   </td>
 </table>
