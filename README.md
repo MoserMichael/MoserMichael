@@ -1,21 +1,20 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sat Oct 11 00:55:28 UTC 2025
+Sun Oct 12 01:00:47 UTC 2025
 
 <pre>
 
- _________________________________________
-/ If more of us valued food and cheer and \
-| song above hoarded gold, it would be a  |
-| merrier world.                          |
-|                                         |
-\ -- J.R.R. Tolkien                       /
- -----------------------------------------
+ ______________________________________
+/ All things that are, are with more   \
+| spirit chased than enjoyed.          |
+|                                      |
+\ -- Shakespeare, "Merchant of Venice" /
+ --------------------------------------
         \   ^__^
          \  (OO)\_______
             (__)\       )\/\
              :) ||----w |
                 ||     ||
-nltk score: 85 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: 65 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
@@ -112,8 +111,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 606 </th></tr>
 </table>
 <br>
-old_date:  2025-08-30 00:56:29.991993 now: 2025-10-11 00:55:46.874605
-flagged-hn stars changed from: 3 to: 4
     </pre>
   </td>
 </table>
