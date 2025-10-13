@@ -9,7 +9,6 @@ Traffic report for user Michael Moser
 
 repo: pyasmtool views: total: 13 unique:  10
 Views:
-	 2025-09-28 00:00:00+00:00 total: 1 unique: 1
 	 2025-09-30 00:00:00+00:00 total: 1 unique: 1
 	 2025-10-01 00:00:00+00:00 total: 1 unique: 1
 	 2025-10-03 00:00:00+00:00 total: 1 unique: 1
@@ -18,6 +17,7 @@ Views:
 	 2025-10-08 00:00:00+00:00 total: 2 unique: 1
 	 2025-10-09 00:00:00+00:00 total: 2 unique: 1
 	 2025-10-10 00:00:00+00:00 total: 1 unique: 1
+	 2025-10-12 00:00:00+00:00 total: 1 unique: 1
 
 repo: duckduckbang views: total: 8 unique:  7
 Views:
@@ -54,9 +54,8 @@ Views:
 	 2025-10-10 00:00:00+00:00 total: 1 unique: 1
 	 2025-10-11 00:00:00+00:00 total: 1 unique: 1
 
-repo: flagged-hn views: total: 6 unique:  6
+repo: flagged-hn views: total: 5 unique:  5
 Views:
-	 2025-09-28 00:00:00+00:00 total: 1 unique: 1
 	 2025-09-29 00:00:00+00:00 total: 1 unique: 1
 	 2025-10-06 00:00:00+00:00 total: 1 unique: 1
 	 2025-10-09 00:00:00+00:00 total: 1 unique: 1
@@ -82,13 +81,20 @@ Views:
 	 2025-10-08 00:00:00+00:00 total: 1 unique: 1
 	 2025-10-10 00:00:00+00:00 total: 1 unique: 1
 
+repo: gitblame views: total: 3 unique:  2
+Views:
+	 2025-10-08 00:00:00+00:00 total: 2 unique: 1
+	 2025-10-12 00:00:00+00:00 total: 1 unique: 1
+
 repo: kwchecker views: total: 3 unique:  3
 Views:
 	 2025-09-30 00:00:00+00:00 total: 3 unique: 3
 
-repo: gitblame views: total: 2 unique:  1
+repo: vimcrypt2 views: total: 3 unique:  3
 Views:
-	 2025-10-08 00:00:00+00:00 total: 2 unique: 1
+	 2025-10-01 00:00:00+00:00 total: 1 unique: 1
+	 2025-10-04 00:00:00+00:00 total: 1 unique: 1
+	 2025-10-12 00:00:00+00:00 total: 1 unique: 1
 
 repo: jscriptparse views: total: 2 unique:  2
 Views:
@@ -110,11 +116,6 @@ Views:
 	 2025-09-29 00:00:00+00:00 total: 1 unique: 1
 	 2025-10-01 00:00:00+00:00 total: 1 unique: 1
 
-repo: vimcrypt2 views: total: 2 unique:  2
-Views:
-	 2025-10-01 00:00:00+00:00 total: 1 unique: 1
-	 2025-10-04 00:00:00+00:00 total: 1 unique: 1
-
 repo: cppcombinator views: total: 1 unique:  1
 Views:
 	 2025-10-10 00:00:00+00:00 total: 1 unique: 1
@@ -122,6 +123,14 @@ Views:
 repo: cstuff views: total: 1 unique:  1
 Views:
 	 2025-09-29 00:00:00+00:00 total: 1 unique: 1
+
+repo: devgoodies views: total: 1 unique:  1
+Views:
+	 2025-10-12 00:00:00+00:00 total: 1 unique: 1
+
+repo: githubapitools views: total: 1 unique:  1
+Views:
+	 2025-10-12 00:00:00+00:00 total: 1 unique: 1
 
 repo: ls-annotations views: total: 1 unique:  1
 Views:
@@ -135,19 +144,23 @@ repo: pprintex views: total: 1 unique:  1
 Views:
 	 2025-10-10 00:00:00+00:00 total: 1 unique: 1
 
+repo: roget-thesaurus-parser views: total: 1 unique:  1
+Views:
+	 2025-10-12 00:00:00+00:00 total: 1 unique: 1
+
 repo: vimcrypt views: total: 1 unique:  1
 Views:
 	 2025-10-06 00:00:00+00:00 total: 1 unique: 1
 
-repo: devgoodies views: total: 0 unique:  0
+repo: zipit views: total: 1 unique:  1
+Views:
+	 2025-10-12 00:00:00+00:00 total: 1 unique: 1
 
 repo: docker-force-attach views: total: 0 unique:  0
 
 repo: dockerdashphp views: total: 0 unique:  0
 
 repo: download-artifacts views: total: 0 unique:  0
-
-repo: githubapitools views: total: 0 unique:  0
 
 repo: github_pr_comments views: total: 0 unique:  0
 
@@ -169,14 +182,10 @@ repo: pygamewrap views: total: 0 unique:  0
 
 repo: pythoncourse views: total: 0 unique:  0
 
-repo: roget-thesaurus-parser views: total: 0 unique:  0
-
 repo: subb views: total: 0 unique:  0
 
 repo: teach-your-children-well views: total: 0 unique:  0
 
-repo: zipit views: total: 0 unique:  0
-
 
 ***
-Total views: 89
+Total views: 94
