@@ -1,21 +1,20 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Mon Oct 13 01:01:59 UTC 2025
+Tue Oct 14 00:58:19 UTC 2025
 
 <pre>
 
- ____________________________________
-/ FORTUNE PROVIDES QUESTIONS FOR THE \
-| GREAT ANSWERS: #13 A: Doc, Happy,  |
-| Bashful, Dopey, Sneezy, Sleepy, &  |
-| Grumpy Q: Who were the Democratic  |
-\ presidential candidates?           /
- ------------------------------------
+ ________________________________________
+/ FORTUNE PROVIDES QUESTIONS FOR THE     \
+| GREAT ANSWERS: #4 A: Go west, young    |
+| man, go west! Q: What do wabbits do    |
+\ when they get tiwed of wunning awound? /
+ ----------------------------------------
         \   ^__^
          \  (OO)\_______
             (__)\       )\/\
              :) ||----w |
                 ||     ||
-nltk score: 83 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: 66 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
