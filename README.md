@@ -1,20 +1,20 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Tue Oct 14 00:58:19 UTC 2025
+Wed Oct 15 00:59:28 UTC 2025
 
 <pre>
 
  ________________________________________
-/ FORTUNE PROVIDES QUESTIONS FOR THE     \
-| GREAT ANSWERS: #4 A: Go west, young    |
-| man, go west! Q: What do wabbits do    |
-\ when they get tiwed of wunning awound? /
+/ Writing is turning one's worst moments \
+| into money.                            |
+|                                        |
+\ -- J.P. Donleavy                       /
  ----------------------------------------
         \   ^__^
-         \  (OO)\_______
+         \  (~~)\_______
             (__)\       )\/\
-             :) ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 66 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: -62 '(from -100..100) state: 'very bad' eye: ~~ tongue: :(
 
 </pre>
 
