@@ -9,7 +9,6 @@ Traffic report for user Michael Moser
 
 repo: s9k views: total: 15 unique:  12
 Views:
-	 2025-10-02 00:00:00+00:00 total: 1 unique: 1
 	 2025-10-04 00:00:00+00:00 total: 2 unique: 1
 	 2025-10-09 00:00:00+00:00 total: 2 unique: 2
 	 2025-10-10 00:00:00+00:00 total: 1 unique: 1
@@ -17,6 +16,7 @@ Views:
 	 2025-10-13 00:00:00+00:00 total: 1 unique: 1
 	 2025-10-14 00:00:00+00:00 total: 6 unique: 4
 	 2025-10-15 00:00:00+00:00 total: 1 unique: 1
+	 2025-10-16 00:00:00+00:00 total: 1 unique: 1
 
 repo: pyasmtool views: total: 12 unique:  9
 Views:
@@ -29,12 +29,23 @@ Views:
 	 2025-10-12 00:00:00+00:00 total: 1 unique: 1
 	 2025-10-15 00:00:00+00:00 total: 1 unique: 1
 
-repo: duckduckbang views: total: 8 unique:  7
+repo: duckduckbang views: total: 7 unique:  6
 Views:
-	 2025-10-03 00:00:00+00:00 total: 5 unique: 4
+	 2025-10-03 00:00:00+00:00 total: 4 unique: 3
 	 2025-10-04 00:00:00+00:00 total: 1 unique: 1
 	 2025-10-05 00:00:00+00:00 total: 1 unique: 1
 	 2025-10-08 00:00:00+00:00 total: 1 unique: 1
+
+repo: jpa-enc-converter views: total: 7 unique:  1
+Views:
+	 2025-10-16 00:00:00+00:00 total: 7 unique: 1
+
+repo: my-notes views: total: 7 unique:  3
+Views:
+	 2025-10-04 00:00:00+00:00 total: 4 unique: 1
+	 2025-10-08 00:00:00+00:00 total: 1 unique: 1
+	 2025-10-09 00:00:00+00:00 total: 1 unique: 1
+	 2025-10-16 00:00:00+00:00 total: 1 unique: 1
 
 repo: pythonimportplayground views: total: 7 unique:  1
 Views:
@@ -42,24 +53,19 @@ Views:
 	 2025-10-09 00:00:00+00:00 total: 2 unique: 1
 	 2025-10-10 00:00:00+00:00 total: 4 unique: 1
 
-repo: my-notes views: total: 6 unique:  2
+repo: flagged-hn views: total: 5 unique:  5
 Views:
-	 2025-10-04 00:00:00+00:00 total: 4 unique: 1
-	 2025-10-08 00:00:00+00:00 total: 1 unique: 1
+	 2025-10-06 00:00:00+00:00 total: 1 unique: 1
 	 2025-10-09 00:00:00+00:00 total: 1 unique: 1
+	 2025-10-10 00:00:00+00:00 total: 1 unique: 1
+	 2025-10-11 00:00:00+00:00 total: 1 unique: 1
+	 2025-10-16 00:00:00+00:00 total: 1 unique: 1
 
 repo: myenv views: total: 5 unique:  5
 Views:
 	 2025-10-06 00:00:00+00:00 total: 2 unique: 2
 	 2025-10-09 00:00:00+00:00 total: 2 unique: 2
 	 2025-10-10 00:00:00+00:00 total: 1 unique: 1
-
-repo: flagged-hn views: total: 4 unique:  4
-Views:
-	 2025-10-06 00:00:00+00:00 total: 1 unique: 1
-	 2025-10-09 00:00:00+00:00 total: 1 unique: 1
-	 2025-10-10 00:00:00+00:00 total: 1 unique: 1
-	 2025-10-11 00:00:00+00:00 total: 1 unique: 1
 
 repo: visual-python-strace views: total: 4 unique:  3
 Views:
@@ -85,6 +91,11 @@ repo: MoserMichael views: total: 2 unique:  2
 Views:
 	 2025-10-09 00:00:00+00:00 total: 1 unique: 1
 	 2025-10-15 00:00:00+00:00 total: 1 unique: 1
+
+repo: opinionated-fortune-cow views: total: 2 unique:  2
+Views:
+	 2025-10-09 00:00:00+00:00 total: 1 unique: 1
+	 2025-10-16 00:00:00+00:00 total: 1 unique: 1
 
 repo: rzgrep views: total: 2 unique:  2
 Views:
@@ -125,10 +136,6 @@ repo: kind-helper views: total: 1 unique:  1
 Views:
 	 2025-10-11 00:00:00+00:00 total: 1 unique: 1
 
-repo: opinionated-fortune-cow views: total: 1 unique:  1
-Views:
-	 2025-10-09 00:00:00+00:00 total: 1 unique: 1
-
 repo: pprintex views: total: 1 unique:  1
 Views:
 	 2025-10-10 00:00:00+00:00 total: 1 unique: 1
@@ -165,8 +172,6 @@ repo: grpc-spring-boot-starter-utils views: total: 0 unique:  0
 
 repo: jobinterviewhomework views: total: 0 unique:  0
 
-repo: jpa-enc-converter views: total: 0 unique:  0
-
 repo: jq-illustrated views: total: 0 unique:  0
 
 repo: k8explain views: total: 0 unique:  0
@@ -181,4 +186,4 @@ repo: pythoncourse views: total: 0 unique:  0
 
 
 ***
-Total views: 89
+Total views: 98
