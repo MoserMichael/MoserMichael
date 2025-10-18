@@ -18,9 +18,8 @@ Views:
 	 2025-10-15 00:00:00+00:00 total: 1 unique: 1
 	 2025-10-16 00:00:00+00:00 total: 1 unique: 1
 
-repo: pyasmtool views: total: 12 unique:  9
+repo: pyasmtool views: total: 13 unique:  9
 Views:
-	 2025-10-03 00:00:00+00:00 total: 1 unique: 1
 	 2025-10-05 00:00:00+00:00 total: 1 unique: 1
 	 2025-10-07 00:00:00+00:00 total: 3 unique: 3
 	 2025-10-08 00:00:00+00:00 total: 2 unique: 1
@@ -28,13 +27,7 @@ Views:
 	 2025-10-10 00:00:00+00:00 total: 1 unique: 1
 	 2025-10-12 00:00:00+00:00 total: 1 unique: 1
 	 2025-10-15 00:00:00+00:00 total: 1 unique: 1
-
-repo: duckduckbang views: total: 7 unique:  6
-Views:
-	 2025-10-03 00:00:00+00:00 total: 4 unique: 3
-	 2025-10-04 00:00:00+00:00 total: 1 unique: 1
-	 2025-10-05 00:00:00+00:00 total: 1 unique: 1
-	 2025-10-08 00:00:00+00:00 total: 1 unique: 1
+	 2025-10-17 00:00:00+00:00 total: 2 unique: 1
 
 repo: jpa-enc-converter views: total: 7 unique:  1
 Views:
@@ -73,6 +66,12 @@ Views:
 	 2025-10-08 00:00:00+00:00 total: 1 unique: 1
 	 2025-10-10 00:00:00+00:00 total: 1 unique: 1
 
+repo: duckduckbang views: total: 3 unique:  3
+Views:
+	 2025-10-04 00:00:00+00:00 total: 1 unique: 1
+	 2025-10-05 00:00:00+00:00 total: 1 unique: 1
+	 2025-10-08 00:00:00+00:00 total: 1 unique: 1
+
 repo: gitblame views: total: 3 unique:  2
 Views:
 	 2025-10-08 00:00:00+00:00 total: 2 unique: 1
@@ -82,6 +81,11 @@ repo: follow-kube-logs views: total: 2 unique:  2
 Views:
 	 2025-10-09 00:00:00+00:00 total: 1 unique: 1
 	 2025-10-10 00:00:00+00:00 total: 1 unique: 1
+
+repo: jscriptparse views: total: 2 unique:  2
+Views:
+	 2025-10-07 00:00:00+00:00 total: 1 unique: 1
+	 2025-10-17 00:00:00+00:00 total: 1 unique: 1
 
 repo: ls-annotations views: total: 2 unique:  1
 Views:
@@ -127,10 +131,6 @@ Views:
 repo: githubapitools views: total: 1 unique:  1
 Views:
 	 2025-10-12 00:00:00+00:00 total: 1 unique: 1
-
-repo: jscriptparse views: total: 1 unique:  1
-Views:
-	 2025-10-07 00:00:00+00:00 total: 1 unique: 1
 
 repo: kind-helper views: total: 1 unique:  1
 Views:
@@ -186,4 +186,4 @@ repo: pythoncourse views: total: 0 unique:  0
 
 
 ***
-Total views: 98
+Total views: 96
