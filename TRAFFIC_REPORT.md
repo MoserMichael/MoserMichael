@@ -9,7 +9,6 @@ Traffic report for user Michael Moser
 
 repo: pyasmtool views: total: 15 unique:  11
 Views:
-	 2025-10-05 00:00:00+00:00 total: 1 unique: 1
 	 2025-10-07 00:00:00+00:00 total: 3 unique: 3
 	 2025-10-08 00:00:00+00:00 total: 2 unique: 1
 	 2025-10-09 00:00:00+00:00 total: 2 unique: 1
@@ -18,6 +17,7 @@ Views:
 	 2025-10-15 00:00:00+00:00 total: 1 unique: 1
 	 2025-10-17 00:00:00+00:00 total: 2 unique: 1
 	 2025-10-18 00:00:00+00:00 total: 2 unique: 2
+	 2025-10-19 00:00:00+00:00 total: 1 unique: 1
 
 repo: s9k views: total: 13 unique:  11
 Views:
@@ -39,6 +39,13 @@ Views:
 	 2025-10-09 00:00:00+00:00 total: 2 unique: 1
 	 2025-10-10 00:00:00+00:00 total: 4 unique: 1
 
+repo: myenv views: total: 6 unique:  6
+Views:
+	 2025-10-06 00:00:00+00:00 total: 2 unique: 2
+	 2025-10-09 00:00:00+00:00 total: 2 unique: 2
+	 2025-10-10 00:00:00+00:00 total: 1 unique: 1
+	 2025-10-19 00:00:00+00:00 total: 1 unique: 1
+
 repo: flagged-hn views: total: 5 unique:  5
 Views:
 	 2025-10-06 00:00:00+00:00 total: 1 unique: 1
@@ -47,11 +54,12 @@ Views:
 	 2025-10-11 00:00:00+00:00 total: 1 unique: 1
 	 2025-10-16 00:00:00+00:00 total: 1 unique: 1
 
-repo: myenv views: total: 5 unique:  5
+repo: visual-python-strace views: total: 5 unique:  4
 Views:
-	 2025-10-06 00:00:00+00:00 total: 2 unique: 2
-	 2025-10-09 00:00:00+00:00 total: 2 unique: 2
+	 2025-10-06 00:00:00+00:00 total: 2 unique: 1
+	 2025-10-08 00:00:00+00:00 total: 1 unique: 1
 	 2025-10-10 00:00:00+00:00 total: 1 unique: 1
+	 2025-10-19 00:00:00+00:00 total: 1 unique: 1
 
 repo: my-notes views: total: 4 unique:  3
 Views:
@@ -59,12 +67,6 @@ Views:
 	 2025-10-09 00:00:00+00:00 total: 1 unique: 1
 	 2025-10-16 00:00:00+00:00 total: 1 unique: 1
 	 2025-10-18 00:00:00+00:00 total: 1 unique: 1
-
-repo: visual-python-strace views: total: 4 unique:  3
-Views:
-	 2025-10-06 00:00:00+00:00 total: 2 unique: 1
-	 2025-10-08 00:00:00+00:00 total: 1 unique: 1
-	 2025-10-10 00:00:00+00:00 total: 1 unique: 1
 
 repo: gitblame views: total: 3 unique:  2
 Views:
@@ -76,10 +78,10 @@ Views:
 	 2025-10-14 00:00:00+00:00 total: 2 unique: 1
 	 2025-10-18 00:00:00+00:00 total: 1 unique: 1
 
-repo: duckduckbang views: total: 2 unique:  2
+repo: cppcombinator views: total: 2 unique:  2
 Views:
-	 2025-10-05 00:00:00+00:00 total: 1 unique: 1
-	 2025-10-08 00:00:00+00:00 total: 1 unique: 1
+	 2025-10-10 00:00:00+00:00 total: 1 unique: 1
+	 2025-10-19 00:00:00+00:00 total: 1 unique: 1
 
 repo: follow-kube-logs views: total: 2 unique:  2
 Views:
@@ -115,10 +117,6 @@ Views:
 	 2025-10-06 00:00:00+00:00 total: 1 unique: 1
 	 2025-10-14 00:00:00+00:00 total: 1 unique: 1
 
-repo: cppcombinator views: total: 1 unique:  1
-Views:
-	 2025-10-10 00:00:00+00:00 total: 1 unique: 1
-
 repo: devgoodies views: total: 1 unique:  1
 Views:
 	 2025-10-12 00:00:00+00:00 total: 1 unique: 1
@@ -126,6 +124,10 @@ Views:
 repo: docker-force-attach views: total: 1 unique:  1
 Views:
 	 2025-10-18 00:00:00+00:00 total: 1 unique: 1
+
+repo: duckduckbang views: total: 1 unique:  1
+Views:
+	 2025-10-08 00:00:00+00:00 total: 1 unique: 1
 
 repo: githubapitools views: total: 1 unique:  1
 Views:
@@ -189,4 +191,4 @@ repo: pythoncourse views: total: 0 unique:  0
 
 
 ***
-Total views: 94
+Total views: 96

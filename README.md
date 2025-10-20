@@ -1,19 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sun Oct 19 01:06:03 UTC 2025
+Mon Oct 20 01:03:46 UTC 2025
 
 <pre>
 
- _______________________________
-/ Don't worry. Life's too long. \
-|                               |
-\ -- Vincent Sardi, Jr.         /
- -------------------------------
+ ______________________________________
+/ Q: How much does it cost to ride the \
+\ Unibus? A: 2 bits.                   /
+ --------------------------------------
         \   ^__^
-         \  (oo)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :) ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: 34 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
@@ -110,8 +109,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 605 </th></tr>
 </table>
 <br>
-old_date:  2025-10-11 00:55:46.874741 now: 2025-10-19 01:06:20.029013
-pyasmtool stars changed from: 320 to: 319
     </pre>
   </td>
 </table>
