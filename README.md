@@ -27,10 +27,10 @@ nltk score: 53 '(from -100..100) state: 'good' eye: oo tongue: :)
 </tr>
 <tr>
     <td>
-        Blog:       
+        Gists:       
     </td>
     <td>
-        <a href="https://github.com/MoserMichael/my-notes/blob/master/dev-gotchas.md">link to blog</a>
+        <a href="https://gist.github.com/MoserMichael/">link to gists</a>
     <td>
 </tr>
 <tr>
