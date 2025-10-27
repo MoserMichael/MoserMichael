@@ -9,7 +9,6 @@ Traffic report for user Michael Moser
 
 repo: pyasmtool views: total: 14 unique:  11
 Views:
-	 2025-10-12 00:00:00+00:00 total: 1 unique: 1
 	 2025-10-15 00:00:00+00:00 total: 1 unique: 1
 	 2025-10-17 00:00:00+00:00 total: 2 unique: 1
 	 2025-10-18 00:00:00+00:00 total: 2 unique: 2
@@ -18,6 +17,7 @@ Views:
 	 2025-10-22 00:00:00+00:00 total: 1 unique: 1
 	 2025-10-23 00:00:00+00:00 total: 4 unique: 2
 	 2025-10-25 00:00:00+00:00 total: 1 unique: 1
+	 2025-10-26 00:00:00+00:00 total: 1 unique: 1
 
 repo: s9k views: total: 12 unique:  10
 Views:
@@ -39,16 +39,15 @@ repo: jpa-enc-converter views: total: 7 unique:  1
 Views:
 	 2025-10-16 00:00:00+00:00 total: 7 unique: 1
 
-repo: roget-thesaurus-parser views: total: 6 unique:  3
-Views:
-	 2025-10-12 00:00:00+00:00 total: 1 unique: 1
-	 2025-10-18 00:00:00+00:00 total: 1 unique: 1
-	 2025-10-24 00:00:00+00:00 total: 4 unique: 1
-
 repo: duckduckbang views: total: 5 unique:  4
 Views:
 	 2025-10-20 00:00:00+00:00 total: 2 unique: 2
 	 2025-10-23 00:00:00+00:00 total: 3 unique: 2
+
+repo: roget-thesaurus-parser views: total: 5 unique:  2
+Views:
+	 2025-10-18 00:00:00+00:00 total: 1 unique: 1
+	 2025-10-24 00:00:00+00:00 total: 4 unique: 1
 
 repo: cstuff views: total: 4 unique:  3
 Views:
@@ -56,12 +55,12 @@ Views:
 	 2025-10-23 00:00:00+00:00 total: 1 unique: 1
 	 2025-10-25 00:00:00+00:00 total: 2 unique: 1
 
-repo: gitblame views: total: 4 unique:  4
+repo: my-notes views: total: 4 unique:  3
 Views:
-	 2025-10-12 00:00:00+00:00 total: 1 unique: 1
-	 2025-10-20 00:00:00+00:00 total: 1 unique: 1
+	 2025-10-16 00:00:00+00:00 total: 1 unique: 1
+	 2025-10-18 00:00:00+00:00 total: 1 unique: 1
 	 2025-10-22 00:00:00+00:00 total: 1 unique: 1
-	 2025-10-24 00:00:00+00:00 total: 1 unique: 1
+	 2025-10-26 00:00:00+00:00 total: 1 unique: 1
 
 repo: myenv views: total: 4 unique:  4
 Views:
@@ -76,16 +75,16 @@ Views:
 	 2025-10-20 00:00:00+00:00 total: 2 unique: 2
 	 2025-10-24 00:00:00+00:00 total: 1 unique: 1
 
+repo: gitblame views: total: 3 unique:  3
+Views:
+	 2025-10-20 00:00:00+00:00 total: 1 unique: 1
+	 2025-10-22 00:00:00+00:00 total: 1 unique: 1
+	 2025-10-24 00:00:00+00:00 total: 1 unique: 1
+
 repo: ls-annotations views: total: 3 unique:  2
 Views:
 	 2025-10-14 00:00:00+00:00 total: 2 unique: 1
 	 2025-10-18 00:00:00+00:00 total: 1 unique: 1
-
-repo: my-notes views: total: 3 unique:  2
-Views:
-	 2025-10-16 00:00:00+00:00 total: 1 unique: 1
-	 2025-10-18 00:00:00+00:00 total: 1 unique: 1
-	 2025-10-22 00:00:00+00:00 total: 1 unique: 1
 
 repo: pprintex views: total: 3 unique:  2
 Views:
@@ -113,11 +112,6 @@ Views:
 	 2025-10-16 00:00:00+00:00 total: 1 unique: 1
 	 2025-10-22 00:00:00+00:00 total: 1 unique: 1
 
-repo: githubapitools views: total: 2 unique:  2
-Views:
-	 2025-10-12 00:00:00+00:00 total: 1 unique: 1
-	 2025-10-23 00:00:00+00:00 total: 1 unique: 1
-
 repo: jscriptparse views: total: 2 unique:  2
 Views:
 	 2025-10-17 00:00:00+00:00 total: 1 unique: 1
@@ -133,27 +127,17 @@ Views:
 	 2025-10-13 00:00:00+00:00 total: 1 unique: 1
 	 2025-10-22 00:00:00+00:00 total: 1 unique: 1
 
-repo: vimcrypt2 views: total: 2 unique:  2
-Views:
-	 2025-10-12 00:00:00+00:00 total: 1 unique: 1
-	 2025-10-20 00:00:00+00:00 total: 1 unique: 1
-
-repo: zipit views: total: 2 unique:  2
-Views:
-	 2025-10-12 00:00:00+00:00 total: 1 unique: 1
-	 2025-10-25 00:00:00+00:00 total: 1 unique: 1
-
 repo: cppcombinator views: total: 1 unique:  1
 Views:
 	 2025-10-19 00:00:00+00:00 total: 1 unique: 1
 
-repo: devgoodies views: total: 1 unique:  1
-Views:
-	 2025-10-12 00:00:00+00:00 total: 1 unique: 1
-
 repo: docker-force-attach views: total: 1 unique:  1
 Views:
 	 2025-10-18 00:00:00+00:00 total: 1 unique: 1
+
+repo: githubapitools views: total: 1 unique:  1
+Views:
+	 2025-10-23 00:00:00+00:00 total: 1 unique: 1
 
 repo: jq-illustrated views: total: 1 unique:  1
 Views:
@@ -171,9 +155,19 @@ repo: printb views: total: 1 unique:  1
 Views:
 	 2025-10-22 00:00:00+00:00 total: 1 unique: 1
 
+repo: vimcrypt2 views: total: 1 unique:  1
+Views:
+	 2025-10-20 00:00:00+00:00 total: 1 unique: 1
+
 repo: visual-python-strace views: total: 1 unique:  1
 Views:
 	 2025-10-19 00:00:00+00:00 total: 1 unique: 1
+
+repo: zipit views: total: 1 unique:  1
+Views:
+	 2025-10-25 00:00:00+00:00 total: 1 unique: 1
+
+repo: devgoodies views: total: 0 unique:  0
 
 repo: download-artifacts views: total: 0 unique:  0
 
@@ -199,4 +193,4 @@ repo: rzgrep views: total: 0 unique:  0
 
 
 ***
-Total views: 109
+Total views: 104
