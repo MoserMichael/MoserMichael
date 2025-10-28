@@ -19,9 +19,8 @@ Views:
 	 2025-10-25 00:00:00+00:00 total: 1 unique: 1
 	 2025-10-26 00:00:00+00:00 total: 1 unique: 1
 
-repo: s9k views: total: 12 unique:  10
+repo: s9k views: total: 11 unique:  9
 Views:
-	 2025-10-13 00:00:00+00:00 total: 1 unique: 1
 	 2025-10-14 00:00:00+00:00 total: 6 unique: 4
 	 2025-10-15 00:00:00+00:00 total: 1 unique: 1
 	 2025-10-16 00:00:00+00:00 total: 1 unique: 1
@@ -69,12 +68,6 @@ Views:
 	 2025-10-23 00:00:00+00:00 total: 1 unique: 1
 	 2025-10-24 00:00:00+00:00 total: 1 unique: 1
 
-repo: python-obj-system views: total: 4 unique:  4
-Views:
-	 2025-10-13 00:00:00+00:00 total: 1 unique: 1
-	 2025-10-20 00:00:00+00:00 total: 2 unique: 2
-	 2025-10-24 00:00:00+00:00 total: 1 unique: 1
-
 repo: gitblame views: total: 3 unique:  3
 Views:
 	 2025-10-20 00:00:00+00:00 total: 1 unique: 1
@@ -91,9 +84,9 @@ Views:
 	 2025-10-20 00:00:00+00:00 total: 2 unique: 1
 	 2025-10-23 00:00:00+00:00 total: 1 unique: 1
 
-repo: subb views: total: 3 unique:  2
+repo: python-obj-system views: total: 3 unique:  3
 Views:
-	 2025-10-13 00:00:00+00:00 total: 2 unique: 1
+	 2025-10-20 00:00:00+00:00 total: 2 unique: 2
 	 2025-10-24 00:00:00+00:00 total: 1 unique: 1
 
 repo: vimcrypt views: total: 3 unique:  3
@@ -101,6 +94,11 @@ Views:
 	 2025-10-14 00:00:00+00:00 total: 1 unique: 1
 	 2025-10-21 00:00:00+00:00 total: 1 unique: 1
 	 2025-10-24 00:00:00+00:00 total: 1 unique: 1
+
+repo: visual-python-strace views: total: 3 unique:  3
+Views:
+	 2025-10-19 00:00:00+00:00 total: 1 unique: 1
+	 2025-10-27 00:00:00+00:00 total: 2 unique: 2
 
 repo: dockerdashphp views: total: 2 unique:  2
 Views:
@@ -122,10 +120,14 @@ Views:
 	 2025-10-18 00:00:00+00:00 total: 1 unique: 1
 	 2025-10-24 00:00:00+00:00 total: 1 unique: 1
 
-repo: teach-your-children-well views: total: 2 unique:  2
+repo: rzgrep views: total: 2 unique:  1
 Views:
-	 2025-10-13 00:00:00+00:00 total: 1 unique: 1
-	 2025-10-22 00:00:00+00:00 total: 1 unique: 1
+	 2025-10-27 00:00:00+00:00 total: 2 unique: 1
+
+repo: subb views: total: 2 unique:  2
+Views:
+	 2025-10-24 00:00:00+00:00 total: 1 unique: 1
+	 2025-10-27 00:00:00+00:00 total: 1 unique: 1
 
 repo: cppcombinator views: total: 1 unique:  1
 Views:
@@ -134,6 +136,10 @@ Views:
 repo: docker-force-attach views: total: 1 unique:  1
 Views:
 	 2025-10-18 00:00:00+00:00 total: 1 unique: 1
+
+repo: follow-kube-logs views: total: 1 unique:  1
+Views:
+	 2025-10-27 00:00:00+00:00 total: 1 unique: 1
 
 repo: githubapitools views: total: 1 unique:  1
 Views:
@@ -155,13 +161,13 @@ repo: printb views: total: 1 unique:  1
 Views:
 	 2025-10-22 00:00:00+00:00 total: 1 unique: 1
 
+repo: teach-your-children-well views: total: 1 unique:  1
+Views:
+	 2025-10-22 00:00:00+00:00 total: 1 unique: 1
+
 repo: vimcrypt2 views: total: 1 unique:  1
 Views:
 	 2025-10-20 00:00:00+00:00 total: 1 unique: 1
-
-repo: visual-python-strace views: total: 1 unique:  1
-Views:
-	 2025-10-19 00:00:00+00:00 total: 1 unique: 1
 
 repo: zipit views: total: 1 unique:  1
 Views:
@@ -170,8 +176,6 @@ Views:
 repo: devgoodies views: total: 0 unique:  0
 
 repo: download-artifacts views: total: 0 unique:  0
-
-repo: follow-kube-logs views: total: 0 unique:  0
 
 repo: github_pr_comments views: total: 0 unique:  0
 
@@ -189,8 +193,6 @@ repo: pythoncourse views: total: 0 unique:  0
 
 repo: pythonimportplayground views: total: 0 unique:  0
 
-repo: rzgrep views: total: 0 unique:  0
-
 
 ***
-Total views: 104
+Total views: 105
