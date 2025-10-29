@@ -19,20 +19,13 @@ Views:
 	 2025-10-25 00:00:00+00:00 total: 1 unique: 1
 	 2025-10-26 00:00:00+00:00 total: 1 unique: 1
 
-repo: s9k views: total: 11 unique:  9
-Views:
-	 2025-10-14 00:00:00+00:00 total: 6 unique: 4
-	 2025-10-15 00:00:00+00:00 total: 1 unique: 1
-	 2025-10-16 00:00:00+00:00 total: 1 unique: 1
-	 2025-10-21 00:00:00+00:00 total: 2 unique: 2
-	 2025-10-22 00:00:00+00:00 total: 1 unique: 1
-
-repo: MoserMichael views: total: 10 unique:  4
+repo: MoserMichael views: total: 13 unique:  4
 Views:
 	 2025-10-15 00:00:00+00:00 total: 1 unique: 1
 	 2025-10-22 00:00:00+00:00 total: 6 unique: 1
 	 2025-10-23 00:00:00+00:00 total: 2 unique: 2
 	 2025-10-24 00:00:00+00:00 total: 1 unique: 1
+	 2025-10-28 00:00:00+00:00 total: 3 unique: 1
 
 repo: jpa-enc-converter views: total: 7 unique:  1
 Views:
@@ -43,16 +36,40 @@ Views:
 	 2025-10-20 00:00:00+00:00 total: 2 unique: 2
 	 2025-10-23 00:00:00+00:00 total: 3 unique: 2
 
+repo: githubapitools views: total: 5 unique:  2
+Views:
+	 2025-10-23 00:00:00+00:00 total: 1 unique: 1
+	 2025-10-28 00:00:00+00:00 total: 4 unique: 1
+
 repo: roget-thesaurus-parser views: total: 5 unique:  2
 Views:
 	 2025-10-18 00:00:00+00:00 total: 1 unique: 1
 	 2025-10-24 00:00:00+00:00 total: 4 unique: 1
+
+repo: s9k views: total: 5 unique:  5
+Views:
+	 2025-10-15 00:00:00+00:00 total: 1 unique: 1
+	 2025-10-16 00:00:00+00:00 total: 1 unique: 1
+	 2025-10-21 00:00:00+00:00 total: 2 unique: 2
+	 2025-10-22 00:00:00+00:00 total: 1 unique: 1
 
 repo: cstuff views: total: 4 unique:  3
 Views:
 	 2025-10-22 00:00:00+00:00 total: 1 unique: 1
 	 2025-10-23 00:00:00+00:00 total: 1 unique: 1
 	 2025-10-25 00:00:00+00:00 total: 2 unique: 1
+
+repo: follow-kube-logs views: total: 4 unique:  2
+Views:
+	 2025-10-27 00:00:00+00:00 total: 1 unique: 1
+	 2025-10-28 00:00:00+00:00 total: 3 unique: 1
+
+repo: gitblame views: total: 4 unique:  4
+Views:
+	 2025-10-20 00:00:00+00:00 total: 1 unique: 1
+	 2025-10-22 00:00:00+00:00 total: 1 unique: 1
+	 2025-10-24 00:00:00+00:00 total: 1 unique: 1
+	 2025-10-28 00:00:00+00:00 total: 1 unique: 1
 
 repo: my-notes views: total: 4 unique:  3
 Views:
@@ -68,32 +85,27 @@ Views:
 	 2025-10-23 00:00:00+00:00 total: 1 unique: 1
 	 2025-10-24 00:00:00+00:00 total: 1 unique: 1
 
-repo: gitblame views: total: 3 unique:  3
+repo: python-obj-system views: total: 4 unique:  4
 Views:
-	 2025-10-20 00:00:00+00:00 total: 1 unique: 1
-	 2025-10-22 00:00:00+00:00 total: 1 unique: 1
+	 2025-10-20 00:00:00+00:00 total: 2 unique: 2
 	 2025-10-24 00:00:00+00:00 total: 1 unique: 1
+	 2025-10-28 00:00:00+00:00 total: 1 unique: 1
 
-repo: ls-annotations views: total: 3 unique:  2
+repo: flagged-hn views: total: 3 unique:  3
 Views:
-	 2025-10-14 00:00:00+00:00 total: 2 unique: 1
-	 2025-10-18 00:00:00+00:00 total: 1 unique: 1
+	 2025-10-16 00:00:00+00:00 total: 1 unique: 1
+	 2025-10-22 00:00:00+00:00 total: 1 unique: 1
+	 2025-10-28 00:00:00+00:00 total: 1 unique: 1
+
+repo: kind-helper views: total: 3 unique:  2
+Views:
+	 2025-10-25 00:00:00+00:00 total: 1 unique: 1
+	 2025-10-28 00:00:00+00:00 total: 2 unique: 1
 
 repo: pprintex views: total: 3 unique:  2
 Views:
 	 2025-10-20 00:00:00+00:00 total: 2 unique: 1
 	 2025-10-23 00:00:00+00:00 total: 1 unique: 1
-
-repo: python-obj-system views: total: 3 unique:  3
-Views:
-	 2025-10-20 00:00:00+00:00 total: 2 unique: 2
-	 2025-10-24 00:00:00+00:00 total: 1 unique: 1
-
-repo: vimcrypt views: total: 3 unique:  3
-Views:
-	 2025-10-14 00:00:00+00:00 total: 1 unique: 1
-	 2025-10-21 00:00:00+00:00 total: 1 unique: 1
-	 2025-10-24 00:00:00+00:00 total: 1 unique: 1
 
 repo: visual-python-strace views: total: 3 unique:  3
 Views:
@@ -105,10 +117,14 @@ Views:
 	 2025-10-23 00:00:00+00:00 total: 1 unique: 1
 	 2025-10-25 00:00:00+00:00 total: 1 unique: 1
 
-repo: flagged-hn views: total: 2 unique:  2
+repo: gittools views: total: 2 unique:  1
 Views:
-	 2025-10-16 00:00:00+00:00 total: 1 unique: 1
+	 2025-10-28 00:00:00+00:00 total: 2 unique: 1
+
+repo: jq-illustrated views: total: 2 unique:  2
+Views:
 	 2025-10-22 00:00:00+00:00 total: 1 unique: 1
+	 2025-10-28 00:00:00+00:00 total: 1 unique: 1
 
 repo: jscriptparse views: total: 2 unique:  2
 Views:
@@ -129,6 +145,16 @@ Views:
 	 2025-10-24 00:00:00+00:00 total: 1 unique: 1
 	 2025-10-27 00:00:00+00:00 total: 1 unique: 1
 
+repo: vimcrypt views: total: 2 unique:  2
+Views:
+	 2025-10-21 00:00:00+00:00 total: 1 unique: 1
+	 2025-10-24 00:00:00+00:00 total: 1 unique: 1
+
+repo: vimcrypt2 views: total: 2 unique:  2
+Views:
+	 2025-10-20 00:00:00+00:00 total: 1 unique: 1
+	 2025-10-28 00:00:00+00:00 total: 1 unique: 1
+
 repo: cppcombinator views: total: 1 unique:  1
 Views:
 	 2025-10-19 00:00:00+00:00 total: 1 unique: 1
@@ -137,21 +163,9 @@ repo: docker-force-attach views: total: 1 unique:  1
 Views:
 	 2025-10-18 00:00:00+00:00 total: 1 unique: 1
 
-repo: follow-kube-logs views: total: 1 unique:  1
+repo: ls-annotations views: total: 1 unique:  1
 Views:
-	 2025-10-27 00:00:00+00:00 total: 1 unique: 1
-
-repo: githubapitools views: total: 1 unique:  1
-Views:
-	 2025-10-23 00:00:00+00:00 total: 1 unique: 1
-
-repo: jq-illustrated views: total: 1 unique:  1
-Views:
-	 2025-10-22 00:00:00+00:00 total: 1 unique: 1
-
-repo: kind-helper views: total: 1 unique:  1
-Views:
-	 2025-10-25 00:00:00+00:00 total: 1 unique: 1
+	 2025-10-18 00:00:00+00:00 total: 1 unique: 1
 
 repo: opinionated-fortune-cow views: total: 1 unique:  1
 Views:
@@ -165,10 +179,6 @@ repo: teach-your-children-well views: total: 1 unique:  1
 Views:
 	 2025-10-22 00:00:00+00:00 total: 1 unique: 1
 
-repo: vimcrypt2 views: total: 1 unique:  1
-Views:
-	 2025-10-20 00:00:00+00:00 total: 1 unique: 1
-
 repo: zipit views: total: 1 unique:  1
 Views:
 	 2025-10-25 00:00:00+00:00 total: 1 unique: 1
@@ -178,8 +188,6 @@ repo: devgoodies views: total: 0 unique:  0
 repo: download-artifacts views: total: 0 unique:  0
 
 repo: github_pr_comments views: total: 0 unique:  0
-
-repo: gittools views: total: 0 unique:  0
 
 repo: grpc-spring-boot-starter-utils views: total: 0 unique:  0
 
@@ -195,4 +203,4 @@ repo: pythonimportplayground views: total: 0 unique:  0
 
 
 ***
-Total views: 105
+Total views: 115
