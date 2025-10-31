@@ -1,20 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Thu Oct 30 01:02:35 UTC 2025
+Fri Oct 31 01:01:10 UTC 2025
 
 <pre>
 
- _________________________________________
-/ Be careful of reading health books, you \
-| might die of a misprint.                |
-|                                         |
-\ -- Mark Twain                           /
- -----------------------------------------
+ ______________________________________
+/ You are only young once, but you can \
+\ stay immature indefinitely.          /
+ --------------------------------------
         \   ^__^
-         \  (!!)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :( ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: -51 '(from -100..100) state: 'bad' eye: !! tongue: :(
+nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
@@ -112,9 +110,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 604 </th></tr>
 </table>
 <br>
-old_date:  2025-10-29 01:03:46.921989 now: 2025-10-30 01:02:51.872735
-duckduckbang stars changed from: 38 to: 39
-datahelp new project. stars: 0
     </pre>
   </td>
 </table>
