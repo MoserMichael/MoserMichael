@@ -1,27 +1,21 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sat Nov  1 01:04:09 UTC 2025
+Sun Nov  2 01:05:23 UTC 2025
 
 <pre>
 
- ________________________________________
-/ At once it struck me what quality went \
-| to form a man of achievement,          |
-| especially in literature, and which    |
-| Shakespeare possessed so enormously -- |
-| I mean negative capability, that is,   |
-| when a man is capable of being in      |
-| uncertainties, mysteries, doubts,      |
-| without any irritable reaching after   |
-| fact and reason.                       |
-|                                        |
-\ -- John Keats                          /
- ----------------------------------------
+ _______________________________________
+/ Work consists of whatever a body is   \
+| obliged to do. Play consists of       |
+| whatever a body is not obliged to do. |
+|                                       |
+\ -- Mark Twain                         /
+ ---------------------------------------
         \   ^__^
-         \  (~~)\_______
+         \  (oo)\_______
             (__)\       )\/\
-             :( ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: -72 '(from -100..100) state: 'very bad' eye: ~~ tongue: :(
+nltk score: 34 '(from -100..100) state: 'good' eye: oo tongue: :)
 
 </pre>
 
@@ -119,8 +113,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 603 </th></tr>
 </table>
 <br>
-old_date:  2025-10-30 01:02:51.872870 now: 2025-11-01 01:04:26.017764
-pyasmtool stars changed from: 319 to: 318
     </pre>
   </td>
 </table>
