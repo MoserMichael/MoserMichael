@@ -15,7 +15,7 @@ Views:
 	 2025-11-06 00:00:00+00:00 total: 1 unique: 1
 	 2025-11-09 00:00:00+00:00 total: 2 unique: 1
 
-repo: pyasmtool views: total: 13 unique:  9
+repo: pyasmtool views: total: 15 unique:  11
 Views:
 	 2025-10-29 00:00:00+00:00 total: 2 unique: 1
 	 2025-10-30 00:00:00+00:00 total: 6 unique: 3
@@ -24,6 +24,7 @@ Views:
 	 2025-11-07 00:00:00+00:00 total: 1 unique: 1
 	 2025-11-08 00:00:00+00:00 total: 1 unique: 1
 	 2025-11-09 00:00:00+00:00 total: 1 unique: 1
+	 2025-11-10 00:00:00+00:00 total: 2 unique: 2
 
 repo: datahelp views: total: 11 unique:  5
 Views:
@@ -48,15 +49,7 @@ Views:
 	 2025-11-05 00:00:00+00:00 total: 1 unique: 1
 	 2025-11-07 00:00:00+00:00 total: 1 unique: 1
 
-repo: follow-kube-logs views: total: 8 unique:  6
-Views:
-	 2025-10-27 00:00:00+00:00 total: 1 unique: 1
-	 2025-10-28 00:00:00+00:00 total: 3 unique: 1
-	 2025-10-29 00:00:00+00:00 total: 1 unique: 1
-	 2025-10-30 00:00:00+00:00 total: 2 unique: 2
-	 2025-11-03 00:00:00+00:00 total: 1 unique: 1
-
-repo: MoserMichael views: total: 8 unique:  2
+repo: MoserMichael views: total: 9 unique:  3
 Views:
 	 2025-10-28 00:00:00+00:00 total: 3 unique: 1
 	 2025-10-31 00:00:00+00:00 total: 1 unique: 1
@@ -64,6 +57,14 @@ Views:
 	 2025-11-03 00:00:00+00:00 total: 1 unique: 1
 	 2025-11-06 00:00:00+00:00 total: 1 unique: 1
 	 2025-11-08 00:00:00+00:00 total: 1 unique: 1
+	 2025-11-10 00:00:00+00:00 total: 1 unique: 1
+
+repo: follow-kube-logs views: total: 7 unique:  5
+Views:
+	 2025-10-28 00:00:00+00:00 total: 3 unique: 1
+	 2025-10-29 00:00:00+00:00 total: 1 unique: 1
+	 2025-10-30 00:00:00+00:00 total: 2 unique: 2
+	 2025-11-03 00:00:00+00:00 total: 1 unique: 1
 
 repo: python-obj-system views: total: 7 unique:  6
 Views:
@@ -90,13 +91,6 @@ Views:
 repo: roget-thesaurus-parser views: total: 5 unique:  1
 Views:
 	 2025-11-05 00:00:00+00:00 total: 5 unique: 1
-
-repo: rzgrep views: total: 5 unique:  4
-Views:
-	 2025-10-27 00:00:00+00:00 total: 2 unique: 1
-	 2025-10-29 00:00:00+00:00 total: 1 unique: 1
-	 2025-11-01 00:00:00+00:00 total: 1 unique: 1
-	 2025-11-03 00:00:00+00:00 total: 1 unique: 1
 
 repo: vimcrypt views: total: 5 unique:  3
 Views:
@@ -131,12 +125,6 @@ Views:
 	 2025-11-05 00:00:00+00:00 total: 1 unique: 1
 	 2025-11-07 00:00:00+00:00 total: 1 unique: 1
 
-repo: visual-python-strace views: total: 4 unique:  4
-Views:
-	 2025-10-27 00:00:00+00:00 total: 2 unique: 2
-	 2025-11-05 00:00:00+00:00 total: 1 unique: 1
-	 2025-11-06 00:00:00+00:00 total: 1 unique: 1
-
 repo: dockerdashphp views: total: 3 unique:  3
 Views:
 	 2025-11-01 00:00:00+00:00 total: 2 unique: 2
@@ -146,6 +134,12 @@ repo: jq-illustrated views: total: 3 unique:  2
 Views:
 	 2025-10-28 00:00:00+00:00 total: 1 unique: 1
 	 2025-11-09 00:00:00+00:00 total: 2 unique: 1
+
+repo: jscriptparse views: total: 3 unique:  3
+Views:
+	 2025-10-29 00:00:00+00:00 total: 1 unique: 1
+	 2025-11-04 00:00:00+00:00 total: 1 unique: 1
+	 2025-11-10 00:00:00+00:00 total: 1 unique: 1
 
 repo: my-notes views: total: 3 unique:  3
 Views:
@@ -158,14 +152,21 @@ Views:
 	 2025-11-01 00:00:00+00:00 total: 1 unique: 1
 	 2025-11-09 00:00:00+00:00 total: 2 unique: 2
 
+repo: rzgrep views: total: 3 unique:  3
+Views:
+	 2025-10-29 00:00:00+00:00 total: 1 unique: 1
+	 2025-11-01 00:00:00+00:00 total: 1 unique: 1
+	 2025-11-03 00:00:00+00:00 total: 1 unique: 1
+
+repo: visual-python-strace views: total: 3 unique:  3
+Views:
+	 2025-11-05 00:00:00+00:00 total: 1 unique: 1
+	 2025-11-06 00:00:00+00:00 total: 1 unique: 1
+	 2025-11-10 00:00:00+00:00 total: 1 unique: 1
+
 repo: gittools views: total: 2 unique:  1
 Views:
 	 2025-10-28 00:00:00+00:00 total: 2 unique: 1
-
-repo: jscriptparse views: total: 2 unique:  2
-Views:
-	 2025-10-29 00:00:00+00:00 total: 1 unique: 1
-	 2025-11-04 00:00:00+00:00 total: 1 unique: 1
 
 repo: kind-helper views: total: 2 unique:  1
 Views:
