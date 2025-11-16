@@ -1,18 +1,30 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sat Nov 15 01:01:06 UTC 2025
+Sun Nov 16 01:06:50 UTC 2025
 
 <pre>
 
  _______________________________________
-/ You are so boring that when I see you \
-\ my feet go to sleep.                  /
+/ Delay not, Caesar. Read it instantly. \
+|                                       |
+| -- Shakespeare, "Julius Caesar" 3,1   |
+|                                       |
+| Here is a letter, read it at your     |
+| leisure.                              |
+|                                       |
+| -- Shakespeare, "Merchant of Venice"  |
+| 5,1                                   |
+|                                       |
+| [Quoted in "VMS Internals and Data    |
+| Structures", V4.4, when               |
+|                                       |
+\ referring to I/O system services.]    /
  ---------------------------------------
         \   ^__^
          \  (!!)\_______
             (__)\       )\/\
              :( ||----w |
                 ||     ||
-nltk score: -46 '(from -100..100) state: 'bad' eye: !! tongue: :(
+nltk score: -32 '(from -100..100) state: 'bad' eye: !! tongue: :(
 
 </pre>
 
@@ -110,8 +122,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 602 </th></tr>
 </table>
 <br>
-old_date:  2025-11-01 01:04:26.017902 now: 2025-11-15 01:01:23.473115
-jobinterviewhomework stars changed from: 1 to: 0
     </pre>
   </td>
 </table>
