@@ -17,21 +17,14 @@ Views:
 	 2025-11-13 00:00:00+00:00 total: 5 unique: 2
 	 2025-11-14 00:00:00+00:00 total: 1 unique: 1
 
-repo: my-notes views: total: 16 unique:  3
+repo: my-notes views: total: 19 unique:  4
 Views:
 	 2025-11-03 00:00:00+00:00 total: 1 unique: 1
 	 2025-11-06 00:00:00+00:00 total: 1 unique: 1
 	 2025-11-11 00:00:00+00:00 total: 14 unique: 1
+	 2025-11-16 00:00:00+00:00 total: 3 unique: 2
 
-repo: cppcombinator views: total: 13 unique:  5
-Views:
-	 2025-11-03 00:00:00+00:00 total: 7 unique: 1
-	 2025-11-06 00:00:00+00:00 total: 1 unique: 1
-	 2025-11-08 00:00:00+00:00 total: 1 unique: 1
-	 2025-11-11 00:00:00+00:00 total: 1 unique: 1
-	 2025-11-15 00:00:00+00:00 total: 3 unique: 1
-
-repo: pyasmtool views: total: 10 unique:  10
+repo: pyasmtool views: total: 16 unique:  15
 Views:
 	 2025-11-04 00:00:00+00:00 total: 1 unique: 1
 	 2025-11-07 00:00:00+00:00 total: 1 unique: 1
@@ -41,6 +34,18 @@ Views:
 	 2025-11-11 00:00:00+00:00 total: 1 unique: 1
 	 2025-11-12 00:00:00+00:00 total: 1 unique: 1
 	 2025-11-15 00:00:00+00:00 total: 2 unique: 2
+	 2025-11-16 00:00:00+00:00 total: 6 unique: 5
+
+repo: vimcrypt2 views: total: 9 unique:  9
+Views:
+	 2025-11-04 00:00:00+00:00 total: 1 unique: 1
+	 2025-11-05 00:00:00+00:00 total: 1 unique: 1
+	 2025-11-07 00:00:00+00:00 total: 1 unique: 1
+	 2025-11-11 00:00:00+00:00 total: 1 unique: 1
+	 2025-11-13 00:00:00+00:00 total: 2 unique: 2
+	 2025-11-14 00:00:00+00:00 total: 1 unique: 1
+	 2025-11-15 00:00:00+00:00 total: 1 unique: 1
+	 2025-11-16 00:00:00+00:00 total: 1 unique: 1
 
 repo: datahelp views: total: 8 unique:  2
 Views:
@@ -50,15 +55,13 @@ Views:
 	 2025-11-14 00:00:00+00:00 total: 2 unique: 1
 	 2025-11-15 00:00:00+00:00 total: 2 unique: 1
 
-repo: vimcrypt2 views: total: 8 unique:  8
+repo: cppcombinator views: total: 7 unique:  5
 Views:
-	 2025-11-04 00:00:00+00:00 total: 1 unique: 1
-	 2025-11-05 00:00:00+00:00 total: 1 unique: 1
-	 2025-11-07 00:00:00+00:00 total: 1 unique: 1
+	 2025-11-06 00:00:00+00:00 total: 1 unique: 1
+	 2025-11-08 00:00:00+00:00 total: 1 unique: 1
 	 2025-11-11 00:00:00+00:00 total: 1 unique: 1
-	 2025-11-13 00:00:00+00:00 total: 2 unique: 2
-	 2025-11-14 00:00:00+00:00 total: 1 unique: 1
-	 2025-11-15 00:00:00+00:00 total: 1 unique: 1
+	 2025-11-15 00:00:00+00:00 total: 3 unique: 1
+	 2025-11-16 00:00:00+00:00 total: 1 unique: 1
 
 repo: myenv views: total: 6 unique:  6
 Views:
@@ -67,6 +70,14 @@ Views:
 	 2025-11-09 00:00:00+00:00 total: 2 unique: 2
 	 2025-11-11 00:00:00+00:00 total: 1 unique: 1
 	 2025-11-14 00:00:00+00:00 total: 1 unique: 1
+
+repo: s9k views: total: 6 unique:  6
+Views:
+	 2025-11-03 00:00:00+00:00 total: 1 unique: 1
+	 2025-11-07 00:00:00+00:00 total: 1 unique: 1
+	 2025-11-11 00:00:00+00:00 total: 1 unique: 1
+	 2025-11-15 00:00:00+00:00 total: 1 unique: 1
+	 2025-11-16 00:00:00+00:00 total: 2 unique: 2
 
 repo: MoserMichael views: total: 5 unique:  2
 Views:
@@ -85,6 +96,13 @@ Views:
 	 2025-11-04 00:00:00+00:00 total: 1 unique: 1
 	 2025-11-07 00:00:00+00:00 total: 3 unique: 1
 	 2025-11-09 00:00:00+00:00 total: 1 unique: 1
+
+repo: cstuff views: total: 4 unique:  4
+Views:
+	 2025-11-03 00:00:00+00:00 total: 1 unique: 1
+	 2025-11-06 00:00:00+00:00 total: 1 unique: 1
+	 2025-11-08 00:00:00+00:00 total: 1 unique: 1
+	 2025-11-16 00:00:00+00:00 total: 1 unique: 1
 
 repo: gitblame views: total: 4 unique:  4
 Views:
@@ -108,25 +126,12 @@ Views:
 	 2025-11-06 00:00:00+00:00 total: 2 unique: 1
 	 2025-11-11 00:00:00+00:00 total: 1 unique: 1
 
-repo: s9k views: total: 4 unique:  4
-Views:
-	 2025-11-03 00:00:00+00:00 total: 1 unique: 1
-	 2025-11-07 00:00:00+00:00 total: 1 unique: 1
-	 2025-11-11 00:00:00+00:00 total: 1 unique: 1
-	 2025-11-15 00:00:00+00:00 total: 1 unique: 1
-
 repo: visual-python-strace views: total: 4 unique:  4
 Views:
 	 2025-11-05 00:00:00+00:00 total: 1 unique: 1
 	 2025-11-06 00:00:00+00:00 total: 1 unique: 1
 	 2025-11-10 00:00:00+00:00 total: 1 unique: 1
 	 2025-11-13 00:00:00+00:00 total: 1 unique: 1
-
-repo: cstuff views: total: 3 unique:  3
-Views:
-	 2025-11-03 00:00:00+00:00 total: 1 unique: 1
-	 2025-11-06 00:00:00+00:00 total: 1 unique: 1
-	 2025-11-08 00:00:00+00:00 total: 1 unique: 1
 
 repo: dockerdashphp views: total: 3 unique:  3
 Views:
@@ -155,14 +160,15 @@ repo: download-artifacts views: total: 2 unique:  1
 Views:
 	 2025-11-14 00:00:00+00:00 total: 2 unique: 1
 
+repo: follow-kube-logs views: total: 2 unique:  2
+Views:
+	 2025-11-03 00:00:00+00:00 total: 1 unique: 1
+	 2025-11-16 00:00:00+00:00 total: 1 unique: 1
+
 repo: githubapitools views: total: 2 unique:  2
 Views:
 	 2025-11-06 00:00:00+00:00 total: 1 unique: 1
 	 2025-11-14 00:00:00+00:00 total: 1 unique: 1
-
-repo: follow-kube-logs views: total: 1 unique:  1
-Views:
-	 2025-11-03 00:00:00+00:00 total: 1 unique: 1
 
 repo: kwchecker views: total: 1 unique:  1
 Views:
@@ -180,9 +186,9 @@ repo: rzgrep views: total: 1 unique:  1
 Views:
 	 2025-11-03 00:00:00+00:00 total: 1 unique: 1
 
-repo: subb views: total: 1 unique:  1
+repo: teach-your-children-well views: total: 1 unique:  1
 Views:
-	 2025-11-02 00:00:00+00:00 total: 1 unique: 1
+	 2025-11-16 00:00:00+00:00 total: 1 unique: 1
 
 repo: devgoodies views: total: 0 unique:  0
 
@@ -208,10 +214,10 @@ repo: printb views: total: 0 unique:  0
 
 repo: pythoncourse views: total: 0 unique:  0
 
-repo: teach-your-children-well views: total: 0 unique:  0
+repo: subb views: total: 0 unique:  0
 
 repo: zipit views: total: 0 unique:  0
 
 
 ***
-Total views: 160
+Total views: 168
