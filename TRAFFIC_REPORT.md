@@ -14,9 +14,8 @@ Views:
 	 2025-11-16 00:00:00+00:00 total: 3 unique: 2
 	 2025-11-17 00:00:00+00:00 total: 1 unique: 1
 
-repo: pyasmtool views: total: 16 unique:  15
+repo: pyasmtool views: total: 15 unique:  14
 Views:
-	 2025-11-04 00:00:00+00:00 total: 1 unique: 1
 	 2025-11-07 00:00:00+00:00 total: 1 unique: 1
 	 2025-11-08 00:00:00+00:00 total: 1 unique: 1
 	 2025-11-09 00:00:00+00:00 total: 1 unique: 1
@@ -26,9 +25,8 @@ Views:
 	 2025-11-15 00:00:00+00:00 total: 2 unique: 2
 	 2025-11-16 00:00:00+00:00 total: 6 unique: 5
 
-repo: duckduckbang views: total: 12 unique:  8
+repo: duckduckbang views: total: 11 unique:  7
 Views:
-	 2025-11-04 00:00:00+00:00 total: 1 unique: 1
 	 2025-11-06 00:00:00+00:00 total: 1 unique: 1
 	 2025-11-09 00:00:00+00:00 total: 2 unique: 1
 	 2025-11-12 00:00:00+00:00 total: 2 unique: 2
@@ -44,9 +42,8 @@ Views:
 	 2025-11-15 00:00:00+00:00 total: 2 unique: 1
 	 2025-11-17 00:00:00+00:00 total: 1 unique: 1
 
-repo: vimcrypt2 views: total: 9 unique:  9
+repo: vimcrypt2 views: total: 8 unique:  8
 Views:
-	 2025-11-04 00:00:00+00:00 total: 1 unique: 1
 	 2025-11-05 00:00:00+00:00 total: 1 unique: 1
 	 2025-11-07 00:00:00+00:00 total: 1 unique: 1
 	 2025-11-11 00:00:00+00:00 total: 1 unique: 1
@@ -71,12 +68,13 @@ Views:
 	 2025-11-11 00:00:00+00:00 total: 1 unique: 1
 	 2025-11-14 00:00:00+00:00 total: 1 unique: 1
 
-repo: vimcrypt views: total: 6 unique:  4
+repo: cstuff views: total: 5 unique:  5
 Views:
-	 2025-11-04 00:00:00+00:00 total: 1 unique: 1
-	 2025-11-07 00:00:00+00:00 total: 3 unique: 1
-	 2025-11-09 00:00:00+00:00 total: 1 unique: 1
+	 2025-11-06 00:00:00+00:00 total: 1 unique: 1
+	 2025-11-08 00:00:00+00:00 total: 1 unique: 1
+	 2025-11-16 00:00:00+00:00 total: 1 unique: 1
 	 2025-11-17 00:00:00+00:00 total: 1 unique: 1
+	 2025-11-18 00:00:00+00:00 total: 1 unique: 1
 
 repo: roget-thesaurus-parser views: total: 5 unique:  1
 Views:
@@ -89,19 +87,18 @@ Views:
 	 2025-11-15 00:00:00+00:00 total: 1 unique: 1
 	 2025-11-16 00:00:00+00:00 total: 2 unique: 2
 
+repo: vimcrypt views: total: 5 unique:  3
+Views:
+	 2025-11-07 00:00:00+00:00 total: 3 unique: 1
+	 2025-11-09 00:00:00+00:00 total: 1 unique: 1
+	 2025-11-17 00:00:00+00:00 total: 1 unique: 1
+
 repo: visual-python-strace views: total: 5 unique:  5
 Views:
 	 2025-11-05 00:00:00+00:00 total: 1 unique: 1
 	 2025-11-06 00:00:00+00:00 total: 1 unique: 1
 	 2025-11-10 00:00:00+00:00 total: 1 unique: 1
 	 2025-11-13 00:00:00+00:00 total: 1 unique: 1
-	 2025-11-17 00:00:00+00:00 total: 1 unique: 1
-
-repo: cstuff views: total: 4 unique:  4
-Views:
-	 2025-11-06 00:00:00+00:00 total: 1 unique: 1
-	 2025-11-08 00:00:00+00:00 total: 1 unique: 1
-	 2025-11-16 00:00:00+00:00 total: 1 unique: 1
 	 2025-11-17 00:00:00+00:00 total: 1 unique: 1
 
 repo: dockerdashphp views: total: 4 unique:  4
@@ -113,10 +110,10 @@ Views:
 
 repo: gitblame views: total: 4 unique:  4
 Views:
-	 2025-11-04 00:00:00+00:00 total: 1 unique: 1
 	 2025-11-05 00:00:00+00:00 total: 1 unique: 1
 	 2025-11-07 00:00:00+00:00 total: 1 unique: 1
 	 2025-11-13 00:00:00+00:00 total: 1 unique: 1
+	 2025-11-18 00:00:00+00:00 total: 1 unique: 1
 
 repo: jobinterviewhomework views: total: 4 unique:  1
 Views:
@@ -146,12 +143,6 @@ Views:
 	 2025-11-07 00:00:00+00:00 total: 1 unique: 1
 	 2025-11-15 00:00:00+00:00 total: 1 unique: 1
 
-repo: jscriptparse views: total: 3 unique:  3
-Views:
-	 2025-11-04 00:00:00+00:00 total: 1 unique: 1
-	 2025-11-10 00:00:00+00:00 total: 1 unique: 1
-	 2025-11-12 00:00:00+00:00 total: 1 unique: 1
-
 repo: python-obj-system views: total: 3 unique:  2
 Views:
 	 2025-11-06 00:00:00+00:00 total: 2 unique: 1
@@ -174,6 +165,11 @@ Views:
 repo: github_pr_comments views: total: 2 unique:  2
 Views:
 	 2025-11-17 00:00:00+00:00 total: 2 unique: 2
+
+repo: jscriptparse views: total: 2 unique:  2
+Views:
+	 2025-11-10 00:00:00+00:00 total: 1 unique: 1
+	 2025-11-12 00:00:00+00:00 total: 1 unique: 1
 
 repo: follow-kube-logs views: total: 1 unique:  1
 Views:
@@ -219,4 +215,4 @@ repo: zipit views: total: 0 unique:  0
 
 
 ***
-Total views: 148
+Total views: 144
