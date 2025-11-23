@@ -20,6 +20,17 @@ repo: git_html_listing views: total: 19 unique:  2
 Views:
 	 2025-11-20 00:00:00+00:00 total: 19 unique: 2
 
+repo: datahelp views: total: 17 unique:  3
+Views:
+	 2025-11-12 00:00:00+00:00 total: 1 unique: 1
+	 2025-11-14 00:00:00+00:00 total: 2 unique: 1
+	 2025-11-15 00:00:00+00:00 total: 2 unique: 1
+	 2025-11-17 00:00:00+00:00 total: 1 unique: 1
+	 2025-11-19 00:00:00+00:00 total: 1 unique: 1
+	 2025-11-20 00:00:00+00:00 total: 2 unique: 1
+	 2025-11-21 00:00:00+00:00 total: 5 unique: 1
+	 2025-11-22 00:00:00+00:00 total: 3 unique: 1
+
 repo: pyasmtool views: total: 17 unique:  16
 Views:
 	 2025-11-09 00:00:00+00:00 total: 1 unique: 1
@@ -31,32 +42,13 @@ Views:
 	 2025-11-20 00:00:00+00:00 total: 3 unique: 3
 	 2025-11-21 00:00:00+00:00 total: 1 unique: 1
 
-repo: datahelp views: total: 15 unique:  3
-Views:
-	 2025-11-08 00:00:00+00:00 total: 1 unique: 1
-	 2025-11-12 00:00:00+00:00 total: 1 unique: 1
-	 2025-11-14 00:00:00+00:00 total: 2 unique: 1
-	 2025-11-15 00:00:00+00:00 total: 2 unique: 1
-	 2025-11-17 00:00:00+00:00 total: 1 unique: 1
-	 2025-11-19 00:00:00+00:00 total: 1 unique: 1
-	 2025-11-20 00:00:00+00:00 total: 2 unique: 1
-	 2025-11-21 00:00:00+00:00 total: 5 unique: 1
-
-repo: duckduckbang views: total: 10 unique:  6
+repo: duckduckbang views: total: 12 unique:  7
 Views:
 	 2025-11-09 00:00:00+00:00 total: 2 unique: 1
 	 2025-11-12 00:00:00+00:00 total: 2 unique: 2
 	 2025-11-13 00:00:00+00:00 total: 5 unique: 2
 	 2025-11-14 00:00:00+00:00 total: 1 unique: 1
-
-repo: cppcombinator views: total: 8 unique:  6
-Views:
-	 2025-11-08 00:00:00+00:00 total: 1 unique: 1
-	 2025-11-11 00:00:00+00:00 total: 1 unique: 1
-	 2025-11-15 00:00:00+00:00 total: 3 unique: 1
-	 2025-11-16 00:00:00+00:00 total: 1 unique: 1
-	 2025-11-20 00:00:00+00:00 total: 1 unique: 1
-	 2025-11-21 00:00:00+00:00 total: 1 unique: 1
+	 2025-11-22 00:00:00+00:00 total: 2 unique: 1
 
 repo: myenv views: total: 8 unique:  7
 Views:
@@ -66,14 +58,13 @@ Views:
 	 2025-11-20 00:00:00+00:00 total: 3 unique: 2
 	 2025-11-21 00:00:00+00:00 total: 1 unique: 1
 
-repo: cstuff views: total: 7 unique:  6
+repo: cppcombinator views: total: 7 unique:  5
 Views:
-	 2025-11-08 00:00:00+00:00 total: 1 unique: 1
+	 2025-11-11 00:00:00+00:00 total: 1 unique: 1
+	 2025-11-15 00:00:00+00:00 total: 3 unique: 1
 	 2025-11-16 00:00:00+00:00 total: 1 unique: 1
-	 2025-11-17 00:00:00+00:00 total: 1 unique: 1
-	 2025-11-18 00:00:00+00:00 total: 1 unique: 1
-	 2025-11-19 00:00:00+00:00 total: 2 unique: 1
 	 2025-11-20 00:00:00+00:00 total: 1 unique: 1
+	 2025-11-21 00:00:00+00:00 total: 1 unique: 1
 
 repo: vimcrypt2 views: total: 7 unique:  7
 Views:
@@ -83,6 +74,14 @@ Views:
 	 2025-11-15 00:00:00+00:00 total: 1 unique: 1
 	 2025-11-16 00:00:00+00:00 total: 1 unique: 1
 	 2025-11-21 00:00:00+00:00 total: 1 unique: 1
+
+repo: cstuff views: total: 6 unique:  5
+Views:
+	 2025-11-16 00:00:00+00:00 total: 1 unique: 1
+	 2025-11-17 00:00:00+00:00 total: 1 unique: 1
+	 2025-11-18 00:00:00+00:00 total: 1 unique: 1
+	 2025-11-19 00:00:00+00:00 total: 2 unique: 1
+	 2025-11-20 00:00:00+00:00 total: 1 unique: 1
 
 repo: roget-thesaurus-parser views: total: 6 unique:  2
 Views:
@@ -124,6 +123,24 @@ Views:
 	 2025-11-11 00:00:00+00:00 total: 1 unique: 1
 	 2025-11-19 00:00:00+00:00 total: 3 unique: 1
 
+repo: pythonimportplayground views: total: 4 unique:  3
+Views:
+	 2025-11-09 00:00:00+00:00 total: 1 unique: 1
+	 2025-11-17 00:00:00+00:00 total: 2 unique: 1
+	 2025-11-22 00:00:00+00:00 total: 1 unique: 1
+
+repo: teach-your-children-well views: total: 4 unique:  2
+Views:
+	 2025-11-16 00:00:00+00:00 total: 1 unique: 1
+	 2025-11-22 00:00:00+00:00 total: 3 unique: 1
+
+repo: visual-python-strace views: total: 4 unique:  4
+Views:
+	 2025-11-10 00:00:00+00:00 total: 1 unique: 1
+	 2025-11-13 00:00:00+00:00 total: 1 unique: 1
+	 2025-11-17 00:00:00+00:00 total: 1 unique: 1
+	 2025-11-22 00:00:00+00:00 total: 1 unique: 1
+
 repo: gitblame views: total: 3 unique:  3
 Views:
 	 2025-11-13 00:00:00+00:00 total: 1 unique: 1
@@ -141,48 +158,42 @@ Views:
 	 2025-11-12 00:00:00+00:00 total: 1 unique: 1
 	 2025-11-21 00:00:00+00:00 total: 1 unique: 1
 
-repo: MoserMichael views: total: 3 unique:  2
+repo: pghelp views: total: 3 unique:  1
 Views:
-	 2025-11-08 00:00:00+00:00 total: 1 unique: 1
-	 2025-11-10 00:00:00+00:00 total: 1 unique: 1
-	 2025-11-14 00:00:00+00:00 total: 1 unique: 1
-
-repo: pythonimportplayground views: total: 3 unique:  2
-Views:
-	 2025-11-09 00:00:00+00:00 total: 1 unique: 1
-	 2025-11-17 00:00:00+00:00 total: 2 unique: 1
-
-repo: visual-python-strace views: total: 3 unique:  3
-Views:
-	 2025-11-10 00:00:00+00:00 total: 1 unique: 1
-	 2025-11-13 00:00:00+00:00 total: 1 unique: 1
-	 2025-11-17 00:00:00+00:00 total: 1 unique: 1
+	 2025-11-22 00:00:00+00:00 total: 3 unique: 1
 
 repo: download-artifacts views: total: 2 unique:  1
 Views:
 	 2025-11-14 00:00:00+00:00 total: 2 unique: 1
+
+repo: flagged-hn views: total: 2 unique:  2
+Views:
+	 2025-11-15 00:00:00+00:00 total: 1 unique: 1
+	 2025-11-22 00:00:00+00:00 total: 1 unique: 1
 
 repo: follow-kube-logs views: total: 2 unique:  2
 Views:
 	 2025-11-16 00:00:00+00:00 total: 1 unique: 1
 	 2025-11-20 00:00:00+00:00 total: 1 unique: 1
 
+repo: githubapitools views: total: 2 unique:  2
+Views:
+	 2025-11-14 00:00:00+00:00 total: 1 unique: 1
+	 2025-11-22 00:00:00+00:00 total: 1 unique: 1
+
 repo: jpa-enc-converter views: total: 2 unique:  1
 Views:
 	 2025-11-21 00:00:00+00:00 total: 2 unique: 1
+
+repo: MoserMichael views: total: 2 unique:  2
+Views:
+	 2025-11-10 00:00:00+00:00 total: 1 unique: 1
+	 2025-11-14 00:00:00+00:00 total: 1 unique: 1
 
 repo: vimcrypt views: total: 2 unique:  2
 Views:
 	 2025-11-09 00:00:00+00:00 total: 1 unique: 1
 	 2025-11-17 00:00:00+00:00 total: 1 unique: 1
-
-repo: flagged-hn views: total: 1 unique:  1
-Views:
-	 2025-11-15 00:00:00+00:00 total: 1 unique: 1
-
-repo: githubapitools views: total: 1 unique:  1
-Views:
-	 2025-11-14 00:00:00+00:00 total: 1 unique: 1
 
 repo: gittools views: total: 1 unique:  1
 Views:
@@ -191,10 +202,6 @@ Views:
 repo: ls-annotations views: total: 1 unique:  1
 Views:
 	 2025-11-14 00:00:00+00:00 total: 1 unique: 1
-
-repo: teach-your-children-well views: total: 1 unique:  1
-Views:
-	 2025-11-16 00:00:00+00:00 total: 1 unique: 1
 
 repo: zipit views: total: 1 unique:  1
 Views:
@@ -226,4 +233,4 @@ repo: subb views: total: 0 unique:  0
 
 
 ***
-Total views: 209
+Total views: 220

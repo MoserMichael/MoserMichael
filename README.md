@@ -1,18 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sat Nov 22 00:59:37 UTC 2025
+Sun Nov 23 01:10:48 UTC 2025
 
 <pre>
 
- _____________________________________
-/ Fine day for friends. So-so day for \
-\ you.                                /
- -------------------------------------
+ _______________________________________
+/ You are a bundle of energy, always on \
+\ the go.                               /
+ ---------------------------------------
         \   ^__^
-         \  (OO)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :) ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: 60 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: 27 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
@@ -104,6 +104,7 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/jobinterviewhomework">jobinterviewhomework</a></td><td>0</td><td>C++</td><td>log of job interview assignments</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/kwchecker">kwchecker</a></td><td>0</td><td>Python</td><td>Declarative verifier and sanitizer for python kwargs parameters.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/my-notes">my-notes</a></td><td>0</td><td>HTML</td><td>Keeping notes while learning stuff (so they don't get lost) These notes are best viewed in vim - meaning in a fixed font with text wrapping)</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/pghelp">pghelp</a></td><td>0</td><td>Python</td><td>  python scripts for working with postgress (compare structure of two tables, dump sql query to json)</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/printb">printb</a></td><td>0</td><td>Python</td><td>Adds bidi aware 'print' and 'input' functions.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/vimcrypt">vimcrypt</a></td><td>0</td><td>Vim script</td><td>my vim plugin for encrypting/decryting text files with openssl</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/visual-python-strace">visual-python-strace</a></td><td>0</td><td>Python</td><td>show a very long stack trace with variable values.</td></tr>
@@ -111,6 +112,8 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 602 </th></tr>
 </table>
 <br>
+old_date:  2025-11-21 01:01:56.712701 now: 2025-11-23 01:11:05.569075
+pghelp new project. stars: 0
     </pre>
   </td>
 </table>
