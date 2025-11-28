@@ -19,9 +19,9 @@ Views:
 	 2025-11-25 00:00:00+00:00 total: 4 unique: 1
 	 2025-11-26 00:00:00+00:00 total: 1 unique: 1
 
-repo: datahelp views: total: 32 unique:  3
+repo: datahelp views: total: 31 unique:  3
 Views:
-	 2025-11-14 00:00:00+00:00 total: 2 unique: 1
+	 2025-11-14 00:00:00+00:00 total: 1 unique: 1
 	 2025-11-15 00:00:00+00:00 total: 2 unique: 1
 	 2025-11-17 00:00:00+00:00 total: 1 unique: 1
 	 2025-11-19 00:00:00+00:00 total: 1 unique: 1
@@ -38,12 +38,13 @@ Views:
 	 2025-11-20 00:00:00+00:00 total: 19 unique: 2
 	 2025-11-23 00:00:00+00:00 total: 1 unique: 1
 
-repo: pghelp views: total: 18 unique:  2
+repo: pghelp views: total: 19 unique:  2
 Views:
 	 2025-11-22 00:00:00+00:00 total: 3 unique: 1
 	 2025-11-23 00:00:00+00:00 total: 8 unique: 2
 	 2025-11-24 00:00:00+00:00 total: 6 unique: 2
 	 2025-11-26 00:00:00+00:00 total: 1 unique: 1
+	 2025-11-27 00:00:00+00:00 total: 1 unique: 1
 
 repo: pyasmtool views: total: 14 unique:  13
 Views:
@@ -54,17 +55,6 @@ Views:
 	 2025-11-23 00:00:00+00:00 total: 1 unique: 1
 	 2025-11-24 00:00:00+00:00 total: 1 unique: 1
 
-repo: vimcrypt2 views: total: 12 unique:  10
-Views:
-	 2025-11-13 00:00:00+00:00 total: 2 unique: 2
-	 2025-11-14 00:00:00+00:00 total: 1 unique: 1
-	 2025-11-15 00:00:00+00:00 total: 1 unique: 1
-	 2025-11-16 00:00:00+00:00 total: 1 unique: 1
-	 2025-11-21 00:00:00+00:00 total: 1 unique: 1
-	 2025-11-23 00:00:00+00:00 total: 3 unique: 1
-	 2025-11-24 00:00:00+00:00 total: 2 unique: 2
-	 2025-11-26 00:00:00+00:00 total: 1 unique: 1
-
 repo: myenv views: total: 10 unique:  7
 Views:
 	 2025-11-14 00:00:00+00:00 total: 1 unique: 1
@@ -74,6 +64,16 @@ Views:
 	 2025-11-24 00:00:00+00:00 total: 2 unique: 1
 	 2025-11-25 00:00:00+00:00 total: 2 unique: 1
 
+repo: vimcrypt2 views: total: 10 unique:  8
+Views:
+	 2025-11-14 00:00:00+00:00 total: 1 unique: 1
+	 2025-11-15 00:00:00+00:00 total: 1 unique: 1
+	 2025-11-16 00:00:00+00:00 total: 1 unique: 1
+	 2025-11-21 00:00:00+00:00 total: 1 unique: 1
+	 2025-11-23 00:00:00+00:00 total: 3 unique: 1
+	 2025-11-24 00:00:00+00:00 total: 2 unique: 2
+	 2025-11-26 00:00:00+00:00 total: 1 unique: 1
+
 repo: cppcombinator views: total: 8 unique:  6
 Views:
 	 2025-11-15 00:00:00+00:00 total: 3 unique: 1
@@ -82,12 +82,6 @@ Views:
 	 2025-11-21 00:00:00+00:00 total: 1 unique: 1
 	 2025-11-23 00:00:00+00:00 total: 1 unique: 1
 	 2025-11-24 00:00:00+00:00 total: 1 unique: 1
-
-repo: duckduckbang views: total: 8 unique:  4
-Views:
-	 2025-11-13 00:00:00+00:00 total: 5 unique: 2
-	 2025-11-14 00:00:00+00:00 total: 1 unique: 1
-	 2025-11-22 00:00:00+00:00 total: 2 unique: 1
 
 repo: roget-thesaurus-parser views: total: 8 unique:  3
 Views:
@@ -115,19 +109,12 @@ Views:
 	 2025-11-21 00:00:00+00:00 total: 1 unique: 1
 	 2025-11-23 00:00:00+00:00 total: 1 unique: 1
 
-repo: dockerdashphp views: total: 4 unique:  4
+repo: pythonimportplayground views: total: 5 unique:  4
 Views:
-	 2025-11-13 00:00:00+00:00 total: 1 unique: 1
-	 2025-11-17 00:00:00+00:00 total: 1 unique: 1
-	 2025-11-19 00:00:00+00:00 total: 1 unique: 1
+	 2025-11-17 00:00:00+00:00 total: 2 unique: 1
+	 2025-11-22 00:00:00+00:00 total: 1 unique: 1
 	 2025-11-23 00:00:00+00:00 total: 1 unique: 1
-
-repo: gitblame views: total: 4 unique:  4
-Views:
-	 2025-11-13 00:00:00+00:00 total: 1 unique: 1
-	 2025-11-18 00:00:00+00:00 total: 1 unique: 1
-	 2025-11-21 00:00:00+00:00 total: 1 unique: 1
-	 2025-11-26 00:00:00+00:00 total: 1 unique: 1
+	 2025-11-27 00:00:00+00:00 total: 1 unique: 1
 
 repo: jobinterviewhomework views: total: 4 unique:  1
 Views:
@@ -138,16 +125,28 @@ Views:
 	 2025-11-19 00:00:00+00:00 total: 3 unique: 1
 	 2025-11-25 00:00:00+00:00 total: 1 unique: 1
 
-repo: pythonimportplayground views: total: 4 unique:  3
-Views:
-	 2025-11-17 00:00:00+00:00 total: 2 unique: 1
-	 2025-11-22 00:00:00+00:00 total: 1 unique: 1
-	 2025-11-23 00:00:00+00:00 total: 1 unique: 1
-
 repo: teach-your-children-well views: total: 4 unique:  2
 Views:
 	 2025-11-16 00:00:00+00:00 total: 1 unique: 1
 	 2025-11-22 00:00:00+00:00 total: 3 unique: 1
+
+repo: vimcrypt views: total: 4 unique:  4
+Views:
+	 2025-11-17 00:00:00+00:00 total: 1 unique: 1
+	 2025-11-25 00:00:00+00:00 total: 1 unique: 1
+	 2025-11-26 00:00:00+00:00 total: 1 unique: 1
+	 2025-11-27 00:00:00+00:00 total: 1 unique: 1
+
+repo: dockerdashphp views: total: 3 unique:  3
+Views:
+	 2025-11-17 00:00:00+00:00 total: 1 unique: 1
+	 2025-11-19 00:00:00+00:00 total: 1 unique: 1
+	 2025-11-23 00:00:00+00:00 total: 1 unique: 1
+
+repo: duckduckbang views: total: 3 unique:  2
+Views:
+	 2025-11-14 00:00:00+00:00 total: 1 unique: 1
+	 2025-11-22 00:00:00+00:00 total: 2 unique: 1
 
 repo: follow-kube-logs views: total: 3 unique:  3
 Views:
@@ -155,22 +154,16 @@ Views:
 	 2025-11-20 00:00:00+00:00 total: 1 unique: 1
 	 2025-11-25 00:00:00+00:00 total: 1 unique: 1
 
+repo: gitblame views: total: 3 unique:  3
+Views:
+	 2025-11-18 00:00:00+00:00 total: 1 unique: 1
+	 2025-11-21 00:00:00+00:00 total: 1 unique: 1
+	 2025-11-26 00:00:00+00:00 total: 1 unique: 1
+
 repo: github_pr_comments views: total: 3 unique:  3
 Views:
 	 2025-11-17 00:00:00+00:00 total: 2 unique: 2
 	 2025-11-19 00:00:00+00:00 total: 1 unique: 1
-
-repo: vimcrypt views: total: 3 unique:  3
-Views:
-	 2025-11-17 00:00:00+00:00 total: 1 unique: 1
-	 2025-11-25 00:00:00+00:00 total: 1 unique: 1
-	 2025-11-26 00:00:00+00:00 total: 1 unique: 1
-
-repo: visual-python-strace views: total: 3 unique:  3
-Views:
-	 2025-11-13 00:00:00+00:00 total: 1 unique: 1
-	 2025-11-17 00:00:00+00:00 total: 1 unique: 1
-	 2025-11-22 00:00:00+00:00 total: 1 unique: 1
 
 repo: download-artifacts views: total: 2 unique:  1
 Views:
@@ -194,6 +187,11 @@ repo: pygamewrap views: total: 2 unique:  2
 Views:
 	 2025-11-17 00:00:00+00:00 total: 1 unique: 1
 	 2025-11-25 00:00:00+00:00 total: 1 unique: 1
+
+repo: visual-python-strace views: total: 2 unique:  2
+Views:
+	 2025-11-17 00:00:00+00:00 total: 1 unique: 1
+	 2025-11-22 00:00:00+00:00 total: 1 unique: 1
 
 repo: gittools views: total: 1 unique:  1
 Views:
@@ -243,4 +241,4 @@ repo: subb views: total: 0 unique:  0
 
 
 ***
-Total views: 259
+Total views: 251
