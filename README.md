@@ -1,13 +1,12 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sun Nov 30 01:10:16 UTC 2025
+Mon Dec  1 01:14:57 UTC 2025
 
 <pre>
 
- _________________
-/ A is for Apple. \
-|                 |
-\ -- Hester Pryne /
- -----------------
+ ________________________________________
+/ Q: Why did the tachyon cross the road? \
+\ A: Because it was on the other side.   /
+ ----------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
@@ -105,7 +104,7 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/jobinterviewhomework">jobinterviewhomework</a></td><td>0</td><td>C++</td><td>log of job interview assignments</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/kwchecker">kwchecker</a></td><td>0</td><td>Python</td><td>Declarative verifier and sanitizer for python kwargs parameters.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/my-notes">my-notes</a></td><td>0</td><td>HTML</td><td>Keeping notes while learning stuff (so they don't get lost) These notes are best viewed in vim - meaning in a fixed font with text wrapping)</td></tr>
-<tr><td><a href="https://github.com/MoserMichael/pghelp">pghelp</a></td><td>0</td><td>Python</td><td>  python scripts for working with postgress (compare structure of two tables, dump sql query result to json)</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/pghelp">pghelp</a></td><td>0</td><td>Python</td><td>  python scripts for working with postgress (check if join condition columns are indexed, compare column set of two tables, dump sql query result to json)</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/printb">printb</a></td><td>0</td><td>Python</td><td>Adds bidi aware 'print' and 'input' functions.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/vimcrypt">vimcrypt</a></td><td>0</td><td>Vim script</td><td>my vim plugin for encrypting/decryting text files with openssl</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/visual-python-strace">visual-python-strace</a></td><td>0</td><td>Python</td><td>show a very long stack trace with variable values.</td></tr>
