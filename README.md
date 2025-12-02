@@ -1,18 +1,19 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Mon Dec  1 01:14:57 UTC 2025
+Tue Dec  2 01:03:45 UTC 2025
 
 <pre>
 
- ________________________________________
-/ Q: Why did the tachyon cross the road? \
-\ A: Because it was on the other side.   /
- ----------------------------------------
+ _______________________________________
+/ You should emulate your heros, but    \
+| don't carry it too far. Especially if |
+\ they are dead.                        /
+ ---------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (~~)\_______
             (__)\       )\/\
-             -- ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: -74 '(from -100..100) state: 'very bad' eye: ~~ tongue: :(
 
 </pre>
 
