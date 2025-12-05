@@ -1,20 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Thu Dec  4 01:03:56 UTC 2025
+Fri Dec  5 01:04:58 UTC 2025
 
 <pre>
 
  ________________________________________
-/ Q: How many supply-siders does it take \
-| to change a light bulb? A: None. The   |
-| darkness will cause the light bulb to  |
-\ change by itself.                      /
+/ Green light in A.M. for new projects.  \
+\ Red light in P.M. for traffic tickets. /
  ----------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
              -- ||----w |
                 ||     ||
-nltk score: -25 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
@@ -114,8 +112,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 601 </th></tr>
 </table>
 <br>
-old_date:  2025-11-23 01:11:05.569238 now: 2025-12-04 01:04:12.854752
-rzgrep stars changed from: 9 to: 8
     </pre>
   </td>
 </table>
