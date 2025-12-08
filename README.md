@@ -1,18 +1,31 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sun Dec  7 01:10:42 UTC 2025
+Mon Dec  8 01:04:37 UTC 2025
 
 <pre>
 
- _______________________________________
-/ You never hesitate to tackle the most \
-\ difficult problems.                   /
- ---------------------------------------
+ _________________________________________
+/ Q: How many journalists does it take to \
+| screw in a light bulb? A: Three. One to |
+| report it as an inspired government     |
+| program to bring                        |
+|                                         |
+| light to the people, one to report it   |
+| as a diabolical government plot         |
+|                                         |
+| to deprive the poor of darkness, and    |
+| one to win a Pulitzer prize for         |
+|                                         |
+| reporting that Electric Company hired a |
+| light bulb-assassin to break            |
+|                                         |
+\ the bulb in the first place.            /
+ -----------------------------------------
         \   ^__^
-         \  (~~)\_______
+         \  (oo)\_______
             (__)\       )\/\
-             :( ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: -61 '(from -100..100) state: 'very bad' eye: ~~ tongue: :(
+nltk score: 40 '(from -100..100) state: 'good' eye: oo tongue: :)
 
 </pre>
 
@@ -112,8 +125,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 602 </th></tr>
 </table>
 <br>
-old_date:  2025-12-04 01:04:12.854894 now: 2025-12-07 01:10:59.798978
-flagged-hn stars changed from: 4 to: 5
     </pre>
   </td>
 </table>
