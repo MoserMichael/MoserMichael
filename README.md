@@ -1,32 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Wed Dec 10 01:05:47 UTC 2025
+Thu Dec 11 01:06:41 UTC 2025
 
 <pre>
 
  _________________________________________
-/ The bone-chilling scream split the warm \
-| summer night in two, the first half     |
-| being before the scream when it was     |
-| fairly balmy and calm and pleasant, the |
-| second half still balmy and quite       |
-| pleasant for those who hadn't heard the |
-| scream at all, but not calm or balmy or |
-| even very nice for those who did hear   |
-| the scream, discounting the little      |
-| period of time during the actual scream |
-| itself when your ears might have been   |
-| hearing it but your brain wasn't        |
-| reacting yet to let you know.           |
-|                                         |
-| -- Winning sentence, 1986 Bulwer-Lytton |
-\ bad fiction contest.                    /
+/ An exotic journey in downtown Newark is \
+\ in your future.                         /
  -----------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
              -- ||----w |
                 ||     ||
-nltk score: 21 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
@@ -90,9 +76,9 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/rzgrep">rzgrep</a></td><td>8</td><td>Go</td><td>grep utility that searches through zip,jar,ear,tgz,bz2 in any form of nesting; it can also decompile class files</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/roget-thesaurus-parser">roget-thesaurus-parser</a></td><td>7</td><td>Python</td><td>parses Roget's thesaurus and provide API for querying related words</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/pygamewrap">pygamewrap</a></td><td>6</td><td>Python</td><td>A small wrapper toolkit that simplifies development with the pygame library (hopefully)</td></tr>
-<tr><td><a href="https://github.com/MoserMichael/flagged-hn">flagged-hn</a></td><td>5</td><td>Python</td><td>crawl hn and build a page containing flagged stories only.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/jscriptparse">jscriptparse</a></td><td>5</td><td>JavaScript</td><td>pyx scripting language & REPL/Shell ; prs - javascript module for parser combinators</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/pythonimportplayground">pythonimportplayground</a></td><td>5</td><td>Python</td><td>the readme file explains python packages, with examples.</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/flagged-hn">flagged-hn</a></td><td>4</td><td>Python</td><td>crawl hn and build a page containing flagged stories only.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/myenv">myenv</a></td><td>4</td><td>Shell</td><td>my work environment (so i don't have to search for it ;-)</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/opinionated-fortune-cow">opinionated-fortune-cow</a></td><td>4</td><td>Shell</td><td>fortune | cow pipe that runs sentiment analysis on the fortune cookie, in order to determine the mood and expression of the cow</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/pprintex">pprintex</a></td><td>4</td><td>Python</td><td>python pretty printer, unlinke pprint it prints out all object field values.</td></tr>
@@ -123,11 +109,11 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/vimcrypt">vimcrypt</a></td><td>0</td><td>Vim script</td><td>my vim plugin for encrypting/decryting text files with openssl</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/visual-python-strace">visual-python-strace</a></td><td>0</td><td>Python</td><td>show a very long stack trace with variable values.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/zipit">zipit</a></td><td>0</td><td>C++</td><td>c++ library for the equivalent of python/haskell zip function</td></tr>
-<tr><th>Total stars:</th><th colspan='2' align='left'> 603 </th></tr>
+<tr><th>Total stars:</th><th colspan='2' align='left'> 602 </th></tr>
 </table>
 <br>
-old_date:  2025-12-07 01:10:59.799119 now: 2025-12-10 01:06:04.318689
-duckduckbang stars changed from: 39 to: 40
+old_date:  2025-12-10 01:06:04.318836 now: 2025-12-11 01:06:58.009027
+flagged-hn stars changed from: 5 to: 4
     </pre>
   </td>
 </table>
