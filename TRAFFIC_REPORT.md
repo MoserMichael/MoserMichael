@@ -9,15 +9,14 @@ Traffic report for user Michael Moser
 
 repo: pythonimportplayground views: total: 39 unique:  5
 Views:
-	 2025-11-27 00:00:00+00:00 total: 1 unique: 1
 	 2025-12-03 00:00:00+00:00 total: 3 unique: 2
 	 2025-12-04 00:00:00+00:00 total: 1 unique: 1
 	 2025-12-09 00:00:00+00:00 total: 1 unique: 1
 	 2025-12-10 00:00:00+00:00 total: 33 unique: 1
+	 2025-12-11 00:00:00+00:00 total: 1 unique: 1
 
-repo: pghelp views: total: 30 unique:  2
+repo: pghelp views: total: 29 unique:  2
 Views:
-	 2025-11-27 00:00:00+00:00 total: 1 unique: 1
 	 2025-11-28 00:00:00+00:00 total: 3 unique: 2
 	 2025-11-29 00:00:00+00:00 total: 9 unique: 2
 	 2025-11-30 00:00:00+00:00 total: 4 unique: 1
@@ -105,6 +104,13 @@ Views:
 	 2025-12-05 00:00:00+00:00 total: 1 unique: 1
 	 2025-12-08 00:00:00+00:00 total: 1 unique: 1
 
+repo: duckduckbang views: total: 7 unique:  6
+Views:
+	 2025-12-06 00:00:00+00:00 total: 2 unique: 1
+	 2025-12-07 00:00:00+00:00 total: 3 unique: 3
+	 2025-12-10 00:00:00+00:00 total: 1 unique: 1
+	 2025-12-11 00:00:00+00:00 total: 1 unique: 1
+
 repo: flagged-hn views: total: 7 unique:  4
 Views:
 	 2025-11-30 00:00:00+00:00 total: 2 unique: 2
@@ -118,12 +124,6 @@ Views:
 	 2025-11-30 00:00:00+00:00 total: 1 unique: 1
 	 2025-12-01 00:00:00+00:00 total: 1 unique: 1
 	 2025-12-02 00:00:00+00:00 total: 1 unique: 1
-
-repo: duckduckbang views: total: 6 unique:  5
-Views:
-	 2025-12-06 00:00:00+00:00 total: 2 unique: 1
-	 2025-12-07 00:00:00+00:00 total: 3 unique: 3
-	 2025-12-10 00:00:00+00:00 total: 1 unique: 1
 
 repo: s9k views: total: 5 unique:  5
 Views:
@@ -153,6 +153,12 @@ Views:
 	 2025-12-02 00:00:00+00:00 total: 1 unique: 1
 	 2025-12-03 00:00:00+00:00 total: 1 unique: 1
 
+repo: rzgrep views: total: 4 unique:  4
+Views:
+	 2025-11-30 00:00:00+00:00 total: 1 unique: 1
+	 2025-12-06 00:00:00+00:00 total: 2 unique: 2
+	 2025-12-11 00:00:00+00:00 total: 1 unique: 1
+
 repo: subb views: total: 4 unique:  2
 Views:
 	 2025-12-03 00:00:00+00:00 total: 4 unique: 2
@@ -161,17 +167,6 @@ repo: githubapitools views: total: 3 unique:  2
 Views:
 	 2025-12-01 00:00:00+00:00 total: 2 unique: 1
 	 2025-12-03 00:00:00+00:00 total: 1 unique: 1
-
-repo: rzgrep views: total: 3 unique:  3
-Views:
-	 2025-11-30 00:00:00+00:00 total: 1 unique: 1
-	 2025-12-06 00:00:00+00:00 total: 2 unique: 2
-
-repo: vimcrypt views: total: 3 unique:  3
-Views:
-	 2025-11-27 00:00:00+00:00 total: 1 unique: 1
-	 2025-12-01 00:00:00+00:00 total: 1 unique: 1
-	 2025-12-04 00:00:00+00:00 total: 1 unique: 1
 
 repo: visual-python-strace views: total: 3 unique:  3
 Views:
@@ -194,18 +189,24 @@ Views:
 	 2025-11-28 00:00:00+00:00 total: 1 unique: 1
 	 2025-11-30 00:00:00+00:00 total: 1 unique: 1
 
+repo: jscriptparse views: total: 2 unique:  2
+Views:
+	 2025-12-01 00:00:00+00:00 total: 1 unique: 1
+	 2025-12-11 00:00:00+00:00 total: 1 unique: 1
+
 repo: kwchecker views: total: 2 unique:  2
 Views:
 	 2025-12-01 00:00:00+00:00 total: 1 unique: 1
 	 2025-12-10 00:00:00+00:00 total: 1 unique: 1
 
+repo: vimcrypt views: total: 2 unique:  2
+Views:
+	 2025-12-01 00:00:00+00:00 total: 1 unique: 1
+	 2025-12-04 00:00:00+00:00 total: 1 unique: 1
+
 repo: follow-kube-logs views: total: 1 unique:  1
 Views:
 	 2025-12-03 00:00:00+00:00 total: 1 unique: 1
-
-repo: jscriptparse views: total: 1 unique:  1
-Views:
-	 2025-12-01 00:00:00+00:00 total: 1 unique: 1
 
 repo: opinionated-fortune-cow views: total: 1 unique:  1
 Views:
@@ -243,4 +244,4 @@ repo: pythoncourse views: total: 0 unique:  0
 
 
 ***
-Total views: 274
+Total views: 275
