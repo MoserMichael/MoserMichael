@@ -15,9 +15,8 @@ Views:
 	 2025-12-10 00:00:00+00:00 total: 33 unique: 1
 	 2025-12-11 00:00:00+00:00 total: 1 unique: 1
 
-repo: pghelp views: total: 29 unique:  2
+repo: pghelp views: total: 26 unique:  2
 Views:
-	 2025-11-28 00:00:00+00:00 total: 3 unique: 2
 	 2025-11-29 00:00:00+00:00 total: 9 unique: 2
 	 2025-11-30 00:00:00+00:00 total: 4 unique: 1
 	 2025-12-01 00:00:00+00:00 total: 3 unique: 2
@@ -25,11 +24,6 @@ Views:
 	 2025-12-05 00:00:00+00:00 total: 4 unique: 1
 	 2025-12-06 00:00:00+00:00 total: 1 unique: 1
 	 2025-12-07 00:00:00+00:00 total: 1 unique: 1
-
-repo: jpa-enc-converter views: total: 22 unique:  3
-Views:
-	 2025-11-28 00:00:00+00:00 total: 21 unique: 2
-	 2025-12-04 00:00:00+00:00 total: 1 unique: 1
 
 repo: teach-your-children-well views: total: 22 unique:  2
 Views:
@@ -47,22 +41,24 @@ Views:
 	 2025-12-06 00:00:00+00:00 total: 1 unique: 1
 	 2025-12-10 00:00:00+00:00 total: 1 unique: 1
 
-repo: vimcrypt2 views: total: 15 unique:  4
+repo: vimcrypt2 views: total: 16 unique:  5
 Views:
 	 2025-11-29 00:00:00+00:00 total: 2 unique: 1
 	 2025-12-04 00:00:00+00:00 total: 1 unique: 1
 	 2025-12-08 00:00:00+00:00 total: 5 unique: 1
 	 2025-12-09 00:00:00+00:00 total: 7 unique: 2
+	 2025-12-12 00:00:00+00:00 total: 1 unique: 1
 
-repo: python-obj-system views: total: 14 unique:  5
+repo: python-obj-system views: total: 15 unique:  6
 Views:
 	 2025-11-29 00:00:00+00:00 total: 1 unique: 1
 	 2025-12-01 00:00:00+00:00 total: 3 unique: 1
 	 2025-12-02 00:00:00+00:00 total: 7 unique: 2
 	 2025-12-05 00:00:00+00:00 total: 2 unique: 1
 	 2025-12-08 00:00:00+00:00 total: 1 unique: 1
+	 2025-12-12 00:00:00+00:00 total: 1 unique: 1
 
-repo: pyasmtool views: total: 13 unique:  9
+repo: pyasmtool views: total: 14 unique:  10
 Views:
 	 2025-11-29 00:00:00+00:00 total: 3 unique: 1
 	 2025-11-30 00:00:00+00:00 total: 1 unique: 1
@@ -71,6 +67,7 @@ Views:
 	 2025-12-06 00:00:00+00:00 total: 1 unique: 1
 	 2025-12-08 00:00:00+00:00 total: 1 unique: 1
 	 2025-12-09 00:00:00+00:00 total: 2 unique: 2
+	 2025-12-12 00:00:00+00:00 total: 1 unique: 1
 
 repo: MoserMichael views: total: 12 unique:  3
 Views:
@@ -79,15 +76,6 @@ Views:
 	 2025-12-05 00:00:00+00:00 total: 1 unique: 1
 	 2025-12-08 00:00:00+00:00 total: 1 unique: 1
 	 2025-12-10 00:00:00+00:00 total: 1 unique: 1
-
-repo: jq-illustrated views: total: 9 unique:  3
-Views:
-	 2025-11-28 00:00:00+00:00 total: 2 unique: 2
-	 2025-12-04 00:00:00+00:00 total: 3 unique: 1
-	 2025-12-05 00:00:00+00:00 total: 1 unique: 1
-	 2025-12-06 00:00:00+00:00 total: 1 unique: 1
-	 2025-12-07 00:00:00+00:00 total: 1 unique: 1
-	 2025-12-08 00:00:00+00:00 total: 1 unique: 1
 
 repo: roget-thesaurus-parser views: total: 9 unique:  3
 Views:
@@ -103,6 +91,15 @@ Views:
 	 2025-12-02 00:00:00+00:00 total: 2 unique: 2
 	 2025-12-05 00:00:00+00:00 total: 1 unique: 1
 	 2025-12-08 00:00:00+00:00 total: 1 unique: 1
+
+repo: jq-illustrated views: total: 8 unique:  2
+Views:
+	 2025-12-04 00:00:00+00:00 total: 3 unique: 1
+	 2025-12-05 00:00:00+00:00 total: 1 unique: 1
+	 2025-12-06 00:00:00+00:00 total: 1 unique: 1
+	 2025-12-07 00:00:00+00:00 total: 1 unique: 1
+	 2025-12-08 00:00:00+00:00 total: 1 unique: 1
+	 2025-12-12 00:00:00+00:00 total: 1 unique: 1
 
 repo: duckduckbang views: total: 7 unique:  6
 Views:
@@ -125,19 +122,32 @@ Views:
 	 2025-12-01 00:00:00+00:00 total: 1 unique: 1
 	 2025-12-02 00:00:00+00:00 total: 1 unique: 1
 
-repo: s9k views: total: 5 unique:  5
+repo: s9k views: total: 6 unique:  6
 Views:
 	 2025-12-01 00:00:00+00:00 total: 2 unique: 2
 	 2025-12-03 00:00:00+00:00 total: 1 unique: 1
 	 2025-12-04 00:00:00+00:00 total: 1 unique: 1
 	 2025-12-06 00:00:00+00:00 total: 1 unique: 1
+	 2025-12-12 00:00:00+00:00 total: 1 unique: 1
+
+repo: rzgrep views: total: 5 unique:  5
+Views:
+	 2025-11-30 00:00:00+00:00 total: 1 unique: 1
+	 2025-12-06 00:00:00+00:00 total: 2 unique: 2
+	 2025-12-11 00:00:00+00:00 total: 1 unique: 1
+	 2025-12-12 00:00:00+00:00 total: 1 unique: 1
+
+repo: subb views: total: 5 unique:  3
+Views:
+	 2025-12-03 00:00:00+00:00 total: 4 unique: 2
+	 2025-12-12 00:00:00+00:00 total: 1 unique: 1
 
 repo: gitblame views: total: 4 unique:  4
 Views:
-	 2025-11-28 00:00:00+00:00 total: 1 unique: 1
 	 2025-11-30 00:00:00+00:00 total: 1 unique: 1
 	 2025-12-02 00:00:00+00:00 total: 1 unique: 1
 	 2025-12-08 00:00:00+00:00 total: 1 unique: 1
+	 2025-12-12 00:00:00+00:00 total: 1 unique: 1
 
 repo: myenv views: total: 4 unique:  4
 Views:
@@ -152,16 +162,6 @@ Views:
 	 2025-12-01 00:00:00+00:00 total: 1 unique: 1
 	 2025-12-02 00:00:00+00:00 total: 1 unique: 1
 	 2025-12-03 00:00:00+00:00 total: 1 unique: 1
-
-repo: rzgrep views: total: 4 unique:  4
-Views:
-	 2025-11-30 00:00:00+00:00 total: 1 unique: 1
-	 2025-12-06 00:00:00+00:00 total: 2 unique: 2
-	 2025-12-11 00:00:00+00:00 total: 1 unique: 1
-
-repo: subb views: total: 4 unique:  2
-Views:
-	 2025-12-03 00:00:00+00:00 total: 4 unique: 2
 
 repo: githubapitools views: total: 3 unique:  2
 Views:
@@ -184,11 +184,6 @@ Views:
 	 2025-11-29 00:00:00+00:00 total: 1 unique: 1
 	 2025-12-06 00:00:00+00:00 total: 1 unique: 1
 
-repo: git_html_listing views: total: 2 unique:  2
-Views:
-	 2025-11-28 00:00:00+00:00 total: 1 unique: 1
-	 2025-11-30 00:00:00+00:00 total: 1 unique: 1
-
 repo: jscriptparse views: total: 2 unique:  2
 Views:
 	 2025-12-01 00:00:00+00:00 total: 1 unique: 1
@@ -208,9 +203,13 @@ repo: follow-kube-logs views: total: 1 unique:  1
 Views:
 	 2025-12-03 00:00:00+00:00 total: 1 unique: 1
 
-repo: opinionated-fortune-cow views: total: 1 unique:  1
+repo: git_html_listing views: total: 1 unique:  1
 Views:
-	 2025-11-28 00:00:00+00:00 total: 1 unique: 1
+	 2025-11-30 00:00:00+00:00 total: 1 unique: 1
+
+repo: jpa-enc-converter views: total: 1 unique:  1
+Views:
+	 2025-12-04 00:00:00+00:00 total: 1 unique: 1
 
 repo: zipit views: total: 1 unique:  1
 Views:
@@ -236,6 +235,8 @@ repo: kind-helper views: total: 0 unique:  0
 
 repo: ls-annotations views: total: 0 unique:  0
 
+repo: opinionated-fortune-cow views: total: 0 unique:  0
+
 repo: pprintex views: total: 0 unique:  0
 
 repo: printb views: total: 0 unique:  0
@@ -244,4 +245,4 @@ repo: pythoncourse views: total: 0 unique:  0
 
 
 ***
-Total views: 275
+Total views: 254
