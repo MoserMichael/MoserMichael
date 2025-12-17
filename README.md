@@ -1,27 +1,20 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Tue Dec 16 01:06:50 UTC 2025
+Wed Dec 17 01:01:34 UTC 2025
 
 <pre>
 
- _________________________________________
-/ The countdown had stalled at 'T' minus  \
-| 69 seconds when Desiree, the first      |
-| female ape to go up in space, winked at |
-| me slyly and pouted her thick, rubbery  |
-| lips unmistakably -- the first of many  |
-| such advances during what would prove   |
-| to be the longest, and most memorable,  |
-| space voyage of my career.              |
-|                                         |
-| -- Winning sentence, 1985 Bulwer-Lytton |
-\ bad fiction contest.                    /
- -----------------------------------------
+ ______________________________________
+/ Hell is empty and all the devils are \
+| here.                                |
+|                                      |
+\ -- Wm. Shakespeare, "The Tempest"    /
+ --------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (~~)\_______
             (__)\       )\/\
-             -- ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: -20 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: -88 '(from -100..100) state: 'very bad' eye: ~~ tongue: :(
 
 </pre>
 
