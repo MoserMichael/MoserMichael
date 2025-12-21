@@ -20,9 +20,8 @@ Views:
 	 2025-12-14 00:00:00+00:00 total: 3 unique: 1
 	 2025-12-15 00:00:00+00:00 total: 6 unique: 1
 
-repo: duckduckbang views: total: 16 unique:  14
+repo: duckduckbang views: total: 14 unique:  13
 Views:
-	 2025-12-06 00:00:00+00:00 total: 2 unique: 1
 	 2025-12-07 00:00:00+00:00 total: 3 unique: 3
 	 2025-12-10 00:00:00+00:00 total: 1 unique: 1
 	 2025-12-11 00:00:00+00:00 total: 1 unique: 1
@@ -32,9 +31,14 @@ Views:
 	 2025-12-18 00:00:00+00:00 total: 1 unique: 1
 	 2025-12-19 00:00:00+00:00 total: 1 unique: 1
 
-repo: pyasmtool views: total: 13 unique:  9
+repo: vimcrypt2 views: total: 13 unique:  3
 Views:
-	 2025-12-06 00:00:00+00:00 total: 1 unique: 1
+	 2025-12-08 00:00:00+00:00 total: 5 unique: 1
+	 2025-12-09 00:00:00+00:00 total: 7 unique: 2
+	 2025-12-12 00:00:00+00:00 total: 1 unique: 1
+
+repo: pyasmtool views: total: 12 unique:  8
+Views:
 	 2025-12-08 00:00:00+00:00 total: 1 unique: 1
 	 2025-12-09 00:00:00+00:00 total: 2 unique: 2
 	 2025-12-12 00:00:00+00:00 total: 1 unique: 1
@@ -42,15 +46,8 @@ Views:
 	 2025-12-18 00:00:00+00:00 total: 6 unique: 2
 	 2025-12-19 00:00:00+00:00 total: 1 unique: 1
 
-repo: vimcrypt2 views: total: 13 unique:  3
+repo: my-notes views: total: 9 unique:  4
 Views:
-	 2025-12-08 00:00:00+00:00 total: 5 unique: 1
-	 2025-12-09 00:00:00+00:00 total: 7 unique: 2
-	 2025-12-12 00:00:00+00:00 total: 1 unique: 1
-
-repo: my-notes views: total: 10 unique:  5
-Views:
-	 2025-12-06 00:00:00+00:00 total: 1 unique: 1
 	 2025-12-10 00:00:00+00:00 total: 1 unique: 1
 	 2025-12-15 00:00:00+00:00 total: 6 unique: 3
 	 2025-12-16 00:00:00+00:00 total: 2 unique: 1
@@ -62,19 +59,13 @@ Views:
 	 2025-12-16 00:00:00+00:00 total: 3 unique: 2
 	 2025-12-17 00:00:00+00:00 total: 1 unique: 1
 
-repo: rzgrep views: total: 6 unique:  6
+repo: cstuff views: total: 5 unique:  4
 Views:
-	 2025-12-06 00:00:00+00:00 total: 2 unique: 2
-	 2025-12-11 00:00:00+00:00 total: 1 unique: 1
-	 2025-12-12 00:00:00+00:00 total: 1 unique: 1
-	 2025-12-17 00:00:00+00:00 total: 1 unique: 1
+	 2025-12-08 00:00:00+00:00 total: 1 unique: 1
+	 2025-12-14 00:00:00+00:00 total: 1 unique: 1
 	 2025-12-18 00:00:00+00:00 total: 1 unique: 1
-
-repo: flagged-hn views: total: 5 unique:  2
-Views:
-	 2025-12-06 00:00:00+00:00 total: 3 unique: 1
-	 2025-12-09 00:00:00+00:00 total: 1 unique: 1
-	 2025-12-10 00:00:00+00:00 total: 1 unique: 1
+	 2025-12-19 00:00:00+00:00 total: 1 unique: 1
+	 2025-12-20 00:00:00+00:00 total: 1 unique: 1
 
 repo: subb views: total: 5 unique:  3
 Views:
@@ -83,13 +74,6 @@ Views:
 	 2025-12-17 00:00:00+00:00 total: 1 unique: 1
 	 2025-12-18 00:00:00+00:00 total: 1 unique: 1
 
-repo: cstuff views: total: 4 unique:  3
-Views:
-	 2025-12-08 00:00:00+00:00 total: 1 unique: 1
-	 2025-12-14 00:00:00+00:00 total: 1 unique: 1
-	 2025-12-18 00:00:00+00:00 total: 1 unique: 1
-	 2025-12-19 00:00:00+00:00 total: 1 unique: 1
-
 repo: jq-illustrated views: total: 4 unique:  3
 Views:
 	 2025-12-07 00:00:00+00:00 total: 1 unique: 1
@@ -97,19 +81,19 @@ Views:
 	 2025-12-12 00:00:00+00:00 total: 1 unique: 1
 	 2025-12-18 00:00:00+00:00 total: 1 unique: 1
 
-repo: pghelp views: total: 4 unique:  2
-Views:
-	 2025-12-06 00:00:00+00:00 total: 1 unique: 1
-	 2025-12-07 00:00:00+00:00 total: 1 unique: 1
-	 2025-12-15 00:00:00+00:00 total: 1 unique: 1
-	 2025-12-16 00:00:00+00:00 total: 1 unique: 1
-
 repo: python-obj-system views: total: 4 unique:  4
 Views:
 	 2025-12-08 00:00:00+00:00 total: 1 unique: 1
 	 2025-12-12 00:00:00+00:00 total: 1 unique: 1
 	 2025-12-18 00:00:00+00:00 total: 1 unique: 1
 	 2025-12-19 00:00:00+00:00 total: 1 unique: 1
+
+repo: rzgrep views: total: 4 unique:  4
+Views:
+	 2025-12-11 00:00:00+00:00 total: 1 unique: 1
+	 2025-12-12 00:00:00+00:00 total: 1 unique: 1
+	 2025-12-17 00:00:00+00:00 total: 1 unique: 1
+	 2025-12-18 00:00:00+00:00 total: 1 unique: 1
 
 repo: gitblame views: total: 3 unique:  3
 Views:
@@ -119,14 +103,25 @@ Views:
 
 repo: myenv views: total: 3 unique:  3
 Views:
-	 2025-12-06 00:00:00+00:00 total: 1 unique: 1
 	 2025-12-08 00:00:00+00:00 total: 1 unique: 1
 	 2025-12-10 00:00:00+00:00 total: 1 unique: 1
+	 2025-12-20 00:00:00+00:00 total: 1 unique: 1
 
-repo: dockerdashphp views: total: 2 unique:  2
+repo: s9k views: total: 3 unique:  3
 Views:
-	 2025-12-06 00:00:00+00:00 total: 1 unique: 1
-	 2025-12-15 00:00:00+00:00 total: 1 unique: 1
+	 2025-12-12 00:00:00+00:00 total: 1 unique: 1
+	 2025-12-16 00:00:00+00:00 total: 1 unique: 1
+	 2025-12-20 00:00:00+00:00 total: 1 unique: 1
+
+repo: cppcombinator views: total: 2 unique:  2
+Views:
+	 2025-12-08 00:00:00+00:00 total: 1 unique: 1
+	 2025-12-20 00:00:00+00:00 total: 1 unique: 1
+
+repo: flagged-hn views: total: 2 unique:  2
+Views:
+	 2025-12-09 00:00:00+00:00 total: 1 unique: 1
+	 2025-12-10 00:00:00+00:00 total: 1 unique: 1
 
 repo: jscriptparse views: total: 2 unique:  2
 Views:
@@ -137,21 +132,21 @@ repo: ls-annotations views: total: 2 unique:  2
 Views:
 	 2025-12-19 00:00:00+00:00 total: 2 unique: 2
 
+repo: pghelp views: total: 2 unique:  2
+Views:
+	 2025-12-15 00:00:00+00:00 total: 1 unique: 1
+	 2025-12-16 00:00:00+00:00 total: 1 unique: 1
+
 repo: roget-thesaurus-parser views: total: 2 unique:  2
 Views:
 	 2025-12-10 00:00:00+00:00 total: 1 unique: 1
 	 2025-12-14 00:00:00+00:00 total: 1 unique: 1
 
-repo: s9k views: total: 2 unique:  2
-Views:
-	 2025-12-12 00:00:00+00:00 total: 1 unique: 1
-	 2025-12-16 00:00:00+00:00 total: 1 unique: 1
-
-repo: cppcombinator views: total: 1 unique:  1
-Views:
-	 2025-12-08 00:00:00+00:00 total: 1 unique: 1
-
 repo: docker-force-attach views: total: 1 unique:  1
+Views:
+	 2025-12-15 00:00:00+00:00 total: 1 unique: 1
+
+repo: dockerdashphp views: total: 1 unique:  1
 Views:
 	 2025-12-15 00:00:00+00:00 total: 1 unique: 1
 
@@ -207,4 +202,4 @@ repo: zipit views: total: 0 unique:  0
 
 
 ***
-Total views: 165
+Total views: 156
