@@ -1,18 +1,36 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Thu Jan  1 01:15:18 UTC 2026
+Fri Jan  2 01:07:58 UTC 2026
 
 <pre>
 
- _____________________________________
-/ You will be awarded the Nobel Peace \
-\ Prize... posthumously.              /
- -------------------------------------
+ _______________________________________
+/ Gone With The Wind LITE(tm)           \
+|                                       |
+| -- by Margaret Mitchell               |
+|                                       |
+| A woman only likes men she can't have |
+| and the South gets trashed.           |
+|                                       |
+| Gift of the Magi LITE(tm)             |
+|                                       |
+| -- by O. Henry                        |
+|                                       |
+| A husband and wife forget to register |
+| their gift preferences.               |
+|                                       |
+| The Old Man and the Sea LITE(tm)      |
+|                                       |
+| -- by Ernest Hemingway                |
+|                                       |
+| An old man goes fishing, but doesn't  |
+\ have much luck.                       /
+ ---------------------------------------
         \   ^__^
          \  (OO)\_______
             (__)\       )\/\
              :) ||----w |
                 ||     ||
-nltk score: 74 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: 77 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
@@ -101,6 +119,7 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/githubapitools">githubapitools</a></td><td>0</td><td>Python</td><td>tools that make use of the python github api, for fun and profit.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/github_pr_comments">github_pr_comments</a></td><td>0</td><td>Python</td><td>script that notifies if any of your PR's received  new/modified/deleted comment.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/git_html_listing">git_html_listing</a></td><td>0</td><td>Shell</td><td>shell script for html listing of change history for its current files</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/go_pprof_analyse">go_pprof_analyse</a></td><td>0</td><td>Go</td><td>Tool & tutorial for working with go pprof package</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/jobinterviewhomework">jobinterviewhomework</a></td><td>0</td><td>C++</td><td>log of job interview assignments</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/kwchecker">kwchecker</a></td><td>0</td><td>Python</td><td>Declarative verifier and sanitizer for python kwargs parameters.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/my-notes">my-notes</a></td><td>0</td><td>HTML</td><td>Keeping notes while learning stuff (so they don't get lost) These notes are best viewed in vim - meaning in a fixed font with text wrapping)</td></tr>
@@ -112,6 +131,8 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 602 </th></tr>
 </table>
 <br>
+old_date:  2025-12-11 01:06:58.009174 now: 2026-01-02 01:08:15.461566
+go_pprof_analyse new project. stars: 0
     </pre>
   </td>
 </table>
