@@ -1,36 +1,17 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Fri Jan  2 01:07:58 UTC 2026
+Sat Jan  3 01:03:56 UTC 2026
 
 <pre>
 
- _______________________________________
-/ Gone With The Wind LITE(tm)           \
-|                                       |
-| -- by Margaret Mitchell               |
-|                                       |
-| A woman only likes men she can't have |
-| and the South gets trashed.           |
-|                                       |
-| Gift of the Magi LITE(tm)             |
-|                                       |
-| -- by O. Henry                        |
-|                                       |
-| A husband and wife forget to register |
-| their gift preferences.               |
-|                                       |
-| The Old Man and the Sea LITE(tm)      |
-|                                       |
-| -- by Ernest Hemingway                |
-|                                       |
-| An old man goes fishing, but doesn't  |
-\ have much luck.                       /
- ---------------------------------------
+ _________________________________________
+< Do something unusual today. Pay a bill. >
+ -----------------------------------------
         \   ^__^
-         \  (OO)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :) ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: 77 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: -10 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
@@ -131,8 +112,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 602 </th></tr>
 </table>
 <br>
-old_date:  2025-12-11 01:06:58.009174 now: 2026-01-02 01:08:15.461566
-go_pprof_analyse new project. stars: 0
     </pre>
   </td>
 </table>
