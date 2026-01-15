@@ -1,17 +1,30 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Wed Jan 14 01:10:53 UTC 2026
+Thu Jan 15 01:06:54 UTC 2026
 
 <pre>
 
- _____________________________________
-< You will be divorced within a year. >
- -------------------------------------
+ _________________________________________
+/ "What's this? Trix? Aunt! Trix? You?    \
+| You're after the prize! What is it?" He |
+| picked up the box and studied the back. |
+| "A glow-in-the-dark squid! Have you got |
+| it out of there yet?" He tilted the     |
+| box, angling the little colored balls   |
+| of cereal so as to see the bottom, and  |
+| nearly spilling them onto the table     |
+| top. "Here it is!" He hauled out a      |
+| little cream-colored, glitter-sprinkled |
+| squid, three-inches long and made out   |
+| of rubbery plastic.                     |
+|                                         |
+\ -- James P. Blaylock, "The Last Coin"   /
+ -----------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (OO)\_______
             (__)\       )\/\
-             -- ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 80 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
