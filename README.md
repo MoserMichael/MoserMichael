@@ -1,30 +1,17 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Thu Jan 15 01:06:54 UTC 2026
+Fri Jan 16 01:08:52 UTC 2026
 
 <pre>
 
- _________________________________________
-/ "What's this? Trix? Aunt! Trix? You?    \
-| You're after the prize! What is it?" He |
-| picked up the box and studied the back. |
-| "A glow-in-the-dark squid! Have you got |
-| it out of there yet?" He tilted the     |
-| box, angling the little colored balls   |
-| of cereal so as to see the bottom, and  |
-| nearly spilling them onto the table     |
-| top. "Here it is!" He hauled out a      |
-| little cream-colored, glitter-sprinkled |
-| squid, three-inches long and made out   |
-| of rubbery plastic.                     |
-|                                         |
-\ -- James P. Blaylock, "The Last Coin"   /
- -----------------------------------------
+ ____________________
+< Beware of Bigfoot! >
+ --------------------
         \   ^__^
-         \  (OO)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :) ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: 80 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
