@@ -1,20 +1,23 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Tue Jan 27 01:13:52 UTC 2026
+Wed Jan 28 01:09:55 UTC 2026
 
 <pre>
 
- ___________________________________
-/ Repartee is something we think of \
-| twenty-four hours too late.       |
-|                                   |
-\ -- Mark Twain                     /
- -----------------------------------
+ ________________________________________
+/ If you pick up a starving dog and make \
+| him prosperous, he will not bite you.  |
+| This is the principal difference       |
+| between a dog and a man.               |
+|                                        |
+| -- Mark Twain, "Pudd'nhead Wilson's    |
+\ Calendar"                              /
+ ----------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
              -- ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 8 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
