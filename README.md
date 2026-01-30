@@ -1,17 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Thu Jan 29 01:19:42 UTC 2026
+Fri Jan 30 01:19:05 UTC 2026
 
 <pre>
 
- ________________________________
-< You will get what you deserve. >
- --------------------------------
+ ______________________________________
+/ You are a fluke of the universe; you \
+\ have no right to be here.            /
+ --------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (!!)\_______
             (__)\       )\/\
-             -- ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: -30 '(from -100..100) state: 'bad' eye: !! tongue: :(
 
 </pre>
 
@@ -106,12 +107,15 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/my-notes">my-notes</a></td><td>0</td><td>HTML</td><td>Keeping notes while learning stuff (so they don't get lost) These notes are best viewed in vim - meaning in a fixed font with text wrapping)</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/pghelp">pghelp</a></td><td>0</td><td>Python</td><td>  python scripts for working with postgress (check if join condition columns are indexed, compare column set of two tables, dump sql query result to json)</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/printb">printb</a></td><td>0</td><td>Python</td><td>Adds bidi aware 'print' and 'input' functions.</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/tips_on_using_google_ai_mode">tips_on_using_google_ai_mode</a></td><td>0</td><td>Python</td><td>Tips on using google in AI mode, for privacy aware individuals</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/vimcrypt">vimcrypt</a></td><td>0</td><td>Vim script</td><td>my vim plugin for encrypting/decryting text files with openssl</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/visual-python-strace">visual-python-strace</a></td><td>0</td><td>Python</td><td>show a very long stack trace with variable values.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/zipit">zipit</a></td><td>0</td><td>C++</td><td>c++ library for the equivalent of python/haskell zip function</td></tr>
 <tr><th>Total stars:</th><th colspan='2' align='left'> 592 </th></tr>
 </table>
 <br>
+old_date:  2026-01-06 01:08:15.696988 now: 2026-01-30 01:19:22.638070
+tips_on_using_google_ai_mode new project. stars: 0
     </pre>
   </td>
 </table>
