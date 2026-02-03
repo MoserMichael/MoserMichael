@@ -1,23 +1,19 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Mon Feb  2 01:23:31 UTC 2026
+Tue Feb  3 01:23:42 UTC 2026
 
 <pre>
 
  _________________________________________
-/ Q: Where's the Lone Ranger take his     \
-| garbage? A: To the dump, to the dump,   |
-| to the dump dump dump!                  |
-|                                         |
-| Q: What's the Pink Panther say when he  |
-| steps on an ant hill? A: Dead ant, dead |
-\ ant, dead ant dead ant dead ant...      /
+/ Better hope the life-inspector doesn't  \
+| come around while you have your life in |
+\ such a mess.                            /
  -----------------------------------------
         \   ^__^
-         \  (~~)\_______
+         \  (oo)\_______
             (__)\       )\/\
-             :( ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: -99 '(from -100..100) state: 'very bad' eye: ~~ tongue: :(
+nltk score: 51 '(from -100..100) state: 'good' eye: oo tongue: :)
 
 </pre>
 
@@ -119,8 +115,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 593 </th></tr>
 </table>
 <br>
-old_date:  2026-01-30 01:19:22.638226 now: 2026-02-02 01:23:46.863936
-cstuff stars changed from: 15 to: 16
     </pre>
   </td>
 </table>
