@@ -1,22 +1,21 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Fri Mar  6 01:24:34 UTC 2026
+Sat Mar  7 01:16:46 UTC 2026
 
 <pre>
 
  ________________________________________
-/ Q: Why did the chicken cross the road? \
-| A: To see his friend Gregory peck.     |
+/ Reader, suppose you were an idiot. And \
+| suppose you were a member of Congress. |
+| But I repeat myself.                   |
 |                                        |
-| Q: Why did the chicken cross the       |
-| playground? A: To get to the other     |
-\ slide.                                 /
+\ -- Mark Twain                          /
  ----------------------------------------
         \   ^__^
-         \  (oo)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :) ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: 55 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: -28 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
@@ -108,6 +107,7 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/jobinterviewhomework">jobinterviewhomework</a></td><td>0</td><td>C++</td><td>log of job interview assignments</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/jpa-enc-converter">jpa-enc-converter</a></td><td>0</td><td>Java</td><td>Example of handling the encryption/decryption of data at rest in an SQL table, by means of spring JPA/AttributeConverter</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/kwchecker">kwchecker</a></td><td>0</td><td>Python</td><td>Declarative verifier and sanitizer for python kwargs parameters.</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/mphelper">mphelper</a></td><td>0</td><td>Python</td><td>python multiprocessor helper, adds external monitoring of task progress (via http), as well as other goodies</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/my-notes">my-notes</a></td><td>0</td><td>HTML</td><td>Keeping notes while learning stuff (so they don't get lost) These notes are best viewed in vim - meaning in a fixed font with text wrapping)</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/pghelp">pghelp</a></td><td>0</td><td>Python</td><td>  python scripts for working with postgress (check if join condition columns are indexed, compare column set of two tables, dump sql query result to json)</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/printb">printb</a></td><td>0</td><td>Python</td><td>Adds bidi aware 'print' and 'input' functions.</td></tr>
@@ -118,6 +118,8 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 593 </th></tr>
 </table>
 <br>
+old_date:  2026-02-02 01:23:46.864101 now: 2026-03-07 01:17:02.556467
+mphelper new project. stars: 0
     </pre>
   </td>
 </table>
