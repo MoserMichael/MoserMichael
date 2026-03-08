@@ -1,21 +1,17 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sat Mar  7 01:16:46 UTC 2026
+Sun Mar  8 01:23:17 UTC 2026
 
 <pre>
 
  ________________________________________
-/ Reader, suppose you were an idiot. And \
-| suppose you were a member of Congress. |
-| But I repeat myself.                   |
-|                                        |
-\ -- Mark Twain                          /
+< You have taken yourself too seriously. >
  ----------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
              -- ||----w |
                 ||     ||
-nltk score: -28 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: -18 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
@@ -118,8 +114,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 593 </th></tr>
 </table>
 <br>
-old_date:  2026-02-02 01:23:46.864101 now: 2026-03-07 01:17:02.556467
-mphelper new project. stars: 0
     </pre>
   </td>
 </table>
