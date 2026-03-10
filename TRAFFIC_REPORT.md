@@ -9,7 +9,6 @@ Traffic report for user Michael Moser
 
 repo: mphelper views: total: 36 unique:  7
 Views:
-	 2026-02-22 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-23 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-24 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-25 00:00:00+00:00 total: 0 unique: 0
@@ -23,55 +22,12 @@ Views:
 	 2026-03-05 00:00:00+00:00 total: 0 unique: 0
 	 2026-03-06 00:00:00+00:00 total: 28 unique: 7
 	 2026-03-07 00:00:00+00:00 total: 8 unique: 1
+	 2026-03-08 00:00:00+00:00 total: 0 unique: 0
 	Referrers:
 		Count: 29 Unique: 6 Url: github.com
 
-repo: pyasmtool views: total: 13 unique:  12
+repo: duckduckbang views: total: 12 unique:  9
 Views:
-	 2026-02-22 00:00:00+00:00 total: 1 unique: 1
-	 2026-02-23 00:00:00+00:00 total: 1 unique: 1
-	 2026-02-24 00:00:00+00:00 total: 0 unique: 0
-	 2026-02-25 00:00:00+00:00 total: 3 unique: 3
-	 2026-02-26 00:00:00+00:00 total: 1 unique: 1
-	 2026-02-27 00:00:00+00:00 total: 1 unique: 1
-	 2026-02-28 00:00:00+00:00 total: 0 unique: 0
-	 2026-03-01 00:00:00+00:00 total: 0 unique: 0
-	 2026-03-02 00:00:00+00:00 total: 0 unique: 0
-	 2026-03-03 00:00:00+00:00 total: 2 unique: 1
-	 2026-03-04 00:00:00+00:00 total: 0 unique: 0
-	 2026-03-05 00:00:00+00:00 total: 2 unique: 2
-	 2026-03-06 00:00:00+00:00 total: 2 unique: 2
-	 2026-03-07 00:00:00+00:00 total: 0 unique: 0
-	Referrers:
-		Count: 3 Unique: 3 Url: news.ycombinator.com
-		Count: 2 Unique: 1 Url: github.com
-		Count: 1 Unique: 1 Url: Google
-
-repo: roget-thesaurus-parser views: total: 12 unique:  5
-Views:
-	 2026-02-22 00:00:00+00:00 total: 0 unique: 0
-	 2026-02-23 00:00:00+00:00 total: 0 unique: 0
-	 2026-02-24 00:00:00+00:00 total: 0 unique: 0
-	 2026-02-25 00:00:00+00:00 total: 3 unique: 1
-	 2026-02-26 00:00:00+00:00 total: 0 unique: 0
-	 2026-02-27 00:00:00+00:00 total: 0 unique: 0
-	 2026-02-28 00:00:00+00:00 total: 2 unique: 1
-	 2026-03-01 00:00:00+00:00 total: 0 unique: 0
-	 2026-03-02 00:00:00+00:00 total: 0 unique: 0
-	 2026-03-03 00:00:00+00:00 total: 7 unique: 3
-	 2026-03-04 00:00:00+00:00 total: 0 unique: 0
-	 2026-03-05 00:00:00+00:00 total: 0 unique: 0
-	 2026-03-06 00:00:00+00:00 total: 0 unique: 0
-	 2026-03-07 00:00:00+00:00 total: 0 unique: 0
-	Referrers:
-		Count: 2 Unique: 1 Url: DuckDuckGo
-		Count: 2 Unique: 1 Url: Google
-		Count: 2 Unique: 1 Url: test.pypi.org
-		Count: 1 Unique: 1 Url: github.com
-
-repo: duckduckbang views: total: 11 unique:  8
-Views:
-	 2026-02-22 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-23 00:00:00+00:00 total: 2 unique: 2
 	 2026-02-24 00:00:00+00:00 total: 1 unique: 1
 	 2026-02-25 00:00:00+00:00 total: 2 unique: 2
@@ -85,12 +41,55 @@ Views:
 	 2026-03-05 00:00:00+00:00 total: 1 unique: 1
 	 2026-03-06 00:00:00+00:00 total: 1 unique: 1
 	 2026-03-07 00:00:00+00:00 total: 0 unique: 0
+	 2026-03-08 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
 		Count: 2 Unique: 2 Url: DuckDuckGo
 
+repo: pyasmtool views: total: 12 unique:  11
+Views:
+	 2026-02-23 00:00:00+00:00 total: 1 unique: 1
+	 2026-02-24 00:00:00+00:00 total: 0 unique: 0
+	 2026-02-25 00:00:00+00:00 total: 3 unique: 3
+	 2026-02-26 00:00:00+00:00 total: 1 unique: 1
+	 2026-02-27 00:00:00+00:00 total: 1 unique: 1
+	 2026-02-28 00:00:00+00:00 total: 0 unique: 0
+	 2026-03-01 00:00:00+00:00 total: 0 unique: 0
+	 2026-03-02 00:00:00+00:00 total: 0 unique: 0
+	 2026-03-03 00:00:00+00:00 total: 2 unique: 1
+	 2026-03-04 00:00:00+00:00 total: 0 unique: 0
+	 2026-03-05 00:00:00+00:00 total: 2 unique: 2
+	 2026-03-06 00:00:00+00:00 total: 2 unique: 2
+	 2026-03-07 00:00:00+00:00 total: 0 unique: 0
+	 2026-03-08 00:00:00+00:00 total: 0 unique: 0
+	Referrers:
+		Count: 2 Unique: 2 Url: news.ycombinator.com
+		Count: 2 Unique: 1 Url: github.com
+		Count: 1 Unique: 1 Url: Google
+
+repo: roget-thesaurus-parser views: total: 12 unique:  5
+Views:
+	 2026-02-23 00:00:00+00:00 total: 0 unique: 0
+	 2026-02-24 00:00:00+00:00 total: 0 unique: 0
+	 2026-02-25 00:00:00+00:00 total: 3 unique: 1
+	 2026-02-26 00:00:00+00:00 total: 0 unique: 0
+	 2026-02-27 00:00:00+00:00 total: 0 unique: 0
+	 2026-02-28 00:00:00+00:00 total: 2 unique: 1
+	 2026-03-01 00:00:00+00:00 total: 0 unique: 0
+	 2026-03-02 00:00:00+00:00 total: 0 unique: 0
+	 2026-03-03 00:00:00+00:00 total: 7 unique: 3
+	 2026-03-04 00:00:00+00:00 total: 0 unique: 0
+	 2026-03-05 00:00:00+00:00 total: 0 unique: 0
+	 2026-03-06 00:00:00+00:00 total: 0 unique: 0
+	 2026-03-07 00:00:00+00:00 total: 0 unique: 0
+	 2026-03-08 00:00:00+00:00 total: 0 unique: 0
+	Referrers:
+		Count: 2 Unique: 1 Url: DuckDuckGo
+		Count: 2 Unique: 1 Url: Google
+		Count: 2 Unique: 1 Url: test.pypi.org
+		Count: 1 Unique: 1 Url: github.com
+
 repo: jpa-enc-converter views: total: 10 unique:  2
 Views:
-	 2026-02-22 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-23 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-24 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-25 00:00:00+00:00 total: 0 unique: 0
@@ -104,12 +103,12 @@ Views:
 	 2026-03-05 00:00:00+00:00 total: 0 unique: 0
 	 2026-03-06 00:00:00+00:00 total: 0 unique: 0
 	 2026-03-07 00:00:00+00:00 total: 0 unique: 0
+	 2026-03-08 00:00:00+00:00 total: 0 unique: 0
 	Referrers:
 		Count: 9 Unique: 1 Url: Bing
 
 repo: s9k views: total: 7 unique:  7
 Views:
-	 2026-02-22 00:00:00+00:00 total: 1 unique: 1
 	 2026-02-23 00:00:00+00:00 total: 1 unique: 1
 	 2026-02-24 00:00:00+00:00 total: 1 unique: 1
 	 2026-02-25 00:00:00+00:00 total: 0 unique: 0
@@ -123,31 +122,12 @@ Views:
 	 2026-03-05 00:00:00+00:00 total: 1 unique: 1
 	 2026-03-06 00:00:00+00:00 total: 0 unique: 0
 	 2026-03-07 00:00:00+00:00 total: 1 unique: 1
-	Referrers:
-		Count: 2 Unique: 2 Url: github.com
-
-repo: cppcombinator views: total: 5 unique:  3
-Views:
-	 2026-02-22 00:00:00+00:00 total: 1 unique: 1
-	 2026-02-23 00:00:00+00:00 total: 1 unique: 1
-	 2026-02-24 00:00:00+00:00 total: 1 unique: 1
-	 2026-02-25 00:00:00+00:00 total: 1 unique: 1
-	 2026-02-26 00:00:00+00:00 total: 1 unique: 1
-	 2026-02-27 00:00:00+00:00 total: 0 unique: 0
-	 2026-02-28 00:00:00+00:00 total: 0 unique: 0
-	 2026-03-01 00:00:00+00:00 total: 0 unique: 0
-	 2026-03-02 00:00:00+00:00 total: 0 unique: 0
-	 2026-03-03 00:00:00+00:00 total: 0 unique: 0
-	 2026-03-04 00:00:00+00:00 total: 0 unique: 0
-	 2026-03-05 00:00:00+00:00 total: 0 unique: 0
-	 2026-03-06 00:00:00+00:00 total: 0 unique: 0
-	 2026-03-07 00:00:00+00:00 total: 0 unique: 0
+	 2026-03-08 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
 		Count: 2 Unique: 2 Url: github.com
 
 repo: follow-kube-logs views: total: 5 unique:  5
 Views:
-	 2026-02-22 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-23 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-24 00:00:00+00:00 total: 1 unique: 1
 	 2026-02-25 00:00:00+00:00 total: 0 unique: 0
@@ -161,12 +141,12 @@ Views:
 	 2026-03-05 00:00:00+00:00 total: 0 unique: 0
 	 2026-03-06 00:00:00+00:00 total: 1 unique: 1
 	 2026-03-07 00:00:00+00:00 total: 0 unique: 0
+	 2026-03-08 00:00:00+00:00 total: 0 unique: 0
 	Referrers:
 		Count: 3 Unique: 3 Url: Google
 
 repo: gitblame views: total: 5 unique:  5
 Views:
-	 2026-02-22 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-23 00:00:00+00:00 total: 1 unique: 1
 	 2026-02-24 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-25 00:00:00+00:00 total: 1 unique: 1
@@ -180,6 +160,7 @@ Views:
 	 2026-03-05 00:00:00+00:00 total: 0 unique: 0
 	 2026-03-06 00:00:00+00:00 total: 0 unique: 0
 	 2026-03-07 00:00:00+00:00 total: 0 unique: 0
+	 2026-03-08 00:00:00+00:00 total: 0 unique: 0
 	Referrers:
 		Count: 2 Unique: 2 Url: Google
 		Count: 1 Unique: 1 Url: kagi.com
@@ -187,7 +168,6 @@ Views:
 
 repo: pygamewrap views: total: 5 unique:  1
 Views:
-	 2026-02-22 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-23 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-24 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-25 00:00:00+00:00 total: 0 unique: 0
@@ -201,12 +181,31 @@ Views:
 	 2026-03-05 00:00:00+00:00 total: 0 unique: 0
 	 2026-03-06 00:00:00+00:00 total: 0 unique: 0
 	 2026-03-07 00:00:00+00:00 total: 0 unique: 0
+	 2026-03-08 00:00:00+00:00 total: 0 unique: 0
 	Referrers:
 		Count: 5 Unique: 1 Url: Google
 
+repo: cppcombinator views: total: 4 unique:  3
+Views:
+	 2026-02-23 00:00:00+00:00 total: 1 unique: 1
+	 2026-02-24 00:00:00+00:00 total: 1 unique: 1
+	 2026-02-25 00:00:00+00:00 total: 1 unique: 1
+	 2026-02-26 00:00:00+00:00 total: 1 unique: 1
+	 2026-02-27 00:00:00+00:00 total: 0 unique: 0
+	 2026-02-28 00:00:00+00:00 total: 0 unique: 0
+	 2026-03-01 00:00:00+00:00 total: 0 unique: 0
+	 2026-03-02 00:00:00+00:00 total: 0 unique: 0
+	 2026-03-03 00:00:00+00:00 total: 0 unique: 0
+	 2026-03-04 00:00:00+00:00 total: 0 unique: 0
+	 2026-03-05 00:00:00+00:00 total: 0 unique: 0
+	 2026-03-06 00:00:00+00:00 total: 0 unique: 0
+	 2026-03-07 00:00:00+00:00 total: 0 unique: 0
+	 2026-03-08 00:00:00+00:00 total: 0 unique: 0
+	Referrers:
+		Count: 2 Unique: 2 Url: github.com
+
 repo: vimcrypt2 views: total: 4 unique:  4
 Views:
-	 2026-02-22 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-23 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-24 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-25 00:00:00+00:00 total: 1 unique: 1
@@ -220,13 +219,13 @@ Views:
 	 2026-03-05 00:00:00+00:00 total: 0 unique: 0
 	 2026-03-06 00:00:00+00:00 total: 0 unique: 0
 	 2026-03-07 00:00:00+00:00 total: 1 unique: 1
+	 2026-03-08 00:00:00+00:00 total: 0 unique: 0
 	Referrers:
 		Count: 1 Unique: 1 Url: Google
 		Count: 1 Unique: 1 Url: news.ycombinator.com
 
 repo: dockerdashphp views: total: 3 unique:  1
 Views:
-	 2026-02-22 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-23 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-24 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-25 00:00:00+00:00 total: 0 unique: 0
@@ -240,12 +239,12 @@ Views:
 	 2026-03-05 00:00:00+00:00 total: 0 unique: 0
 	 2026-03-06 00:00:00+00:00 total: 0 unique: 0
 	 2026-03-07 00:00:00+00:00 total: 0 unique: 0
+	 2026-03-08 00:00:00+00:00 total: 0 unique: 0
 	Referrers:
 		Count: 1 Unique: 1 Url: github.com
 
 repo: kwchecker views: total: 3 unique:  3
 Views:
-	 2026-02-22 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-23 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-24 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-25 00:00:00+00:00 total: 1 unique: 1
@@ -259,12 +258,12 @@ Views:
 	 2026-03-05 00:00:00+00:00 total: 0 unique: 0
 	 2026-03-06 00:00:00+00:00 total: 0 unique: 0
 	 2026-03-07 00:00:00+00:00 total: 0 unique: 0
+	 2026-03-08 00:00:00+00:00 total: 0 unique: 0
 	Referrers:
 		Count: 2 Unique: 2 Url: Google
 
 repo: my-notes views: total: 3 unique:  3
 Views:
-	 2026-02-22 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-23 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-24 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-25 00:00:00+00:00 total: 0 unique: 0
@@ -278,12 +277,12 @@ Views:
 	 2026-03-05 00:00:00+00:00 total: 0 unique: 0
 	 2026-03-06 00:00:00+00:00 total: 2 unique: 2
 	 2026-03-07 00:00:00+00:00 total: 0 unique: 0
+	 2026-03-08 00:00:00+00:00 total: 0 unique: 0
 	Referrers:
 		Count: 2 Unique: 2 Url: github.com
 
 repo: pythonimportplayground views: total: 3 unique:  2
 Views:
-	 2026-02-22 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-23 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-24 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-25 00:00:00+00:00 total: 0 unique: 0
@@ -297,29 +296,10 @@ Views:
 	 2026-03-05 00:00:00+00:00 total: 0 unique: 0
 	 2026-03-06 00:00:00+00:00 total: 0 unique: 0
 	 2026-03-07 00:00:00+00:00 total: 0 unique: 0
-
-repo: tips_on_using_google_ai_mode views: total: 3 unique:  3
-Views:
-	 2026-02-22 00:00:00+00:00 total: 1 unique: 1
-	 2026-02-23 00:00:00+00:00 total: 0 unique: 0
-	 2026-02-24 00:00:00+00:00 total: 1 unique: 1
-	 2026-02-25 00:00:00+00:00 total: 0 unique: 0
-	 2026-02-26 00:00:00+00:00 total: 0 unique: 0
-	 2026-02-27 00:00:00+00:00 total: 0 unique: 0
-	 2026-02-28 00:00:00+00:00 total: 0 unique: 0
-	 2026-03-01 00:00:00+00:00 total: 0 unique: 0
-	 2026-03-02 00:00:00+00:00 total: 0 unique: 0
-	 2026-03-03 00:00:00+00:00 total: 0 unique: 0
-	 2026-03-04 00:00:00+00:00 total: 0 unique: 0
-	 2026-03-05 00:00:00+00:00 total: 0 unique: 0
-	 2026-03-06 00:00:00+00:00 total: 1 unique: 1
-	 2026-03-07 00:00:00+00:00 total: 0 unique: 0
-	Referrers:
-		Count: 1 Unique: 1 Url: github.com
+	 2026-03-08 00:00:00+00:00 total: 0 unique: 0
 
 repo: cstuff views: total: 2 unique:  2
 Views:
-	 2026-02-22 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-23 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-24 00:00:00+00:00 total: 1 unique: 1
 	 2026-02-25 00:00:00+00:00 total: 0 unique: 0
@@ -333,12 +313,12 @@ Views:
 	 2026-03-05 00:00:00+00:00 total: 0 unique: 0
 	 2026-03-06 00:00:00+00:00 total: 0 unique: 0
 	 2026-03-07 00:00:00+00:00 total: 0 unique: 0
+	 2026-03-08 00:00:00+00:00 total: 0 unique: 0
 	Referrers:
 		Count: 2 Unique: 2 Url: github.com
 
 repo: docker-force-attach views: total: 2 unique:  1
 Views:
-	 2026-02-22 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-23 00:00:00+00:00 total: 2 unique: 1
 	 2026-02-24 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-25 00:00:00+00:00 total: 0 unique: 0
@@ -352,6 +332,7 @@ Views:
 	 2026-03-05 00:00:00+00:00 total: 0 unique: 0
 	 2026-03-06 00:00:00+00:00 total: 0 unique: 0
 	 2026-03-07 00:00:00+00:00 total: 0 unique: 0
+	 2026-03-08 00:00:00+00:00 total: 0 unique: 0
 	Referrers:
 		Count: 2 Unique: 1 Url: Google
 
@@ -374,7 +355,6 @@ Views:
 
 repo: jscriptparse views: total: 2 unique:  2
 Views:
-	 2026-02-22 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-23 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-24 00:00:00+00:00 total: 1 unique: 1
 	 2026-02-25 00:00:00+00:00 total: 1 unique: 1
@@ -388,12 +368,12 @@ Views:
 	 2026-03-05 00:00:00+00:00 total: 0 unique: 0
 	 2026-03-06 00:00:00+00:00 total: 0 unique: 0
 	 2026-03-07 00:00:00+00:00 total: 0 unique: 0
+	 2026-03-08 00:00:00+00:00 total: 0 unique: 0
 	Referrers:
 		Count: 1 Unique: 1 Url: news.ycombinator.com
 
 repo: kind-helper views: total: 2 unique:  2
 Views:
-	 2026-02-22 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-23 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-24 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-25 00:00:00+00:00 total: 0 unique: 0
@@ -407,10 +387,10 @@ Views:
 	 2026-03-05 00:00:00+00:00 total: 0 unique: 0
 	 2026-03-06 00:00:00+00:00 total: 0 unique: 0
 	 2026-03-07 00:00:00+00:00 total: 0 unique: 0
+	 2026-03-08 00:00:00+00:00 total: 0 unique: 0
 
 repo: ls-annotations views: total: 2 unique:  2
 Views:
-	 2026-02-22 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-23 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-24 00:00:00+00:00 total: 1 unique: 1
 	 2026-02-25 00:00:00+00:00 total: 0 unique: 0
@@ -424,10 +404,10 @@ Views:
 	 2026-03-05 00:00:00+00:00 total: 0 unique: 0
 	 2026-03-06 00:00:00+00:00 total: 0 unique: 0
 	 2026-03-07 00:00:00+00:00 total: 0 unique: 0
+	 2026-03-08 00:00:00+00:00 total: 0 unique: 0
 
 repo: python-obj-system views: total: 2 unique:  1
 Views:
-	 2026-02-22 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-23 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-24 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-25 00:00:00+00:00 total: 0 unique: 0
@@ -441,12 +421,12 @@ Views:
 	 2026-03-05 00:00:00+00:00 total: 0 unique: 0
 	 2026-03-06 00:00:00+00:00 total: 0 unique: 0
 	 2026-03-07 00:00:00+00:00 total: 0 unique: 0
+	 2026-03-08 00:00:00+00:00 total: 0 unique: 0
 	Referrers:
 		Count: 2 Unique: 1 Url: github.com
 
 repo: subb views: total: 2 unique:  2
 Views:
-	 2026-02-22 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-23 00:00:00+00:00 total: 1 unique: 1
 	 2026-02-24 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-25 00:00:00+00:00 total: 0 unique: 0
@@ -460,10 +440,29 @@ Views:
 	 2026-03-05 00:00:00+00:00 total: 0 unique: 0
 	 2026-03-06 00:00:00+00:00 total: 0 unique: 0
 	 2026-03-07 00:00:00+00:00 total: 0 unique: 0
+	 2026-03-08 00:00:00+00:00 total: 0 unique: 0
+
+repo: tips_on_using_google_ai_mode views: total: 2 unique:  2
+Views:
+	 2026-02-23 00:00:00+00:00 total: 0 unique: 0
+	 2026-02-24 00:00:00+00:00 total: 1 unique: 1
+	 2026-02-25 00:00:00+00:00 total: 0 unique: 0
+	 2026-02-26 00:00:00+00:00 total: 0 unique: 0
+	 2026-02-27 00:00:00+00:00 total: 0 unique: 0
+	 2026-02-28 00:00:00+00:00 total: 0 unique: 0
+	 2026-03-01 00:00:00+00:00 total: 0 unique: 0
+	 2026-03-02 00:00:00+00:00 total: 0 unique: 0
+	 2026-03-03 00:00:00+00:00 total: 0 unique: 0
+	 2026-03-04 00:00:00+00:00 total: 0 unique: 0
+	 2026-03-05 00:00:00+00:00 total: 0 unique: 0
+	 2026-03-06 00:00:00+00:00 total: 1 unique: 1
+	 2026-03-07 00:00:00+00:00 total: 0 unique: 0
+	 2026-03-08 00:00:00+00:00 total: 0 unique: 0
+	Referrers:
+		Count: 1 Unique: 1 Url: github.com
 
 repo: MoserMichael views: total: 1 unique:  1
 Views:
-	 2026-02-22 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-23 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-24 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-25 00:00:00+00:00 total: 0 unique: 0
@@ -477,12 +476,12 @@ Views:
 	 2026-03-05 00:00:00+00:00 total: 0 unique: 0
 	 2026-03-06 00:00:00+00:00 total: 1 unique: 1
 	 2026-03-07 00:00:00+00:00 total: 0 unique: 0
+	 2026-03-08 00:00:00+00:00 total: 0 unique: 0
 	Referrers:
 		Count: 1 Unique: 1 Url: github.com
 
 repo: myenv views: total: 1 unique:  1
 Views:
-	 2026-02-22 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-23 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-24 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-25 00:00:00+00:00 total: 0 unique: 0
@@ -496,10 +495,10 @@ Views:
 	 2026-03-05 00:00:00+00:00 total: 0 unique: 0
 	 2026-03-06 00:00:00+00:00 total: 0 unique: 0
 	 2026-03-07 00:00:00+00:00 total: 0 unique: 0
+	 2026-03-08 00:00:00+00:00 total: 0 unique: 0
 
 repo: pghelp views: total: 1 unique:  1
 Views:
-	 2026-02-22 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-23 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-24 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-25 00:00:00+00:00 total: 0 unique: 0
@@ -513,12 +512,12 @@ Views:
 	 2026-03-05 00:00:00+00:00 total: 0 unique: 0
 	 2026-03-06 00:00:00+00:00 total: 1 unique: 1
 	 2026-03-07 00:00:00+00:00 total: 0 unique: 0
+	 2026-03-08 00:00:00+00:00 total: 0 unique: 0
 	Referrers:
 		Count: 1 Unique: 1 Url: github.com
 
 repo: teach-your-children-well views: total: 1 unique:  1
 Views:
-	 2026-02-22 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-23 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-24 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-25 00:00:00+00:00 total: 0 unique: 0
@@ -532,12 +531,12 @@ Views:
 	 2026-03-05 00:00:00+00:00 total: 0 unique: 0
 	 2026-03-06 00:00:00+00:00 total: 1 unique: 1
 	 2026-03-07 00:00:00+00:00 total: 0 unique: 0
+	 2026-03-08 00:00:00+00:00 total: 0 unique: 0
 	Referrers:
 		Count: 1 Unique: 1 Url: github.com
 
 repo: zipit views: total: 1 unique:  1
 Views:
-	 2026-02-22 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-23 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-24 00:00:00+00:00 total: 1 unique: 1
 	 2026-02-25 00:00:00+00:00 total: 0 unique: 0
@@ -551,10 +550,10 @@ Views:
 	 2026-03-05 00:00:00+00:00 total: 0 unique: 0
 	 2026-03-06 00:00:00+00:00 total: 0 unique: 0
 	 2026-03-07 00:00:00+00:00 total: 0 unique: 0
+	 2026-03-08 00:00:00+00:00 total: 0 unique: 0
 
 repo: datahelp views: total: 0 unique:  0
 Views:
-	 2026-02-22 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-23 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-24 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-25 00:00:00+00:00 total: 0 unique: 0
@@ -568,10 +567,10 @@ Views:
 	 2026-03-05 00:00:00+00:00 total: 0 unique: 0
 	 2026-03-06 00:00:00+00:00 total: 0 unique: 0
 	 2026-03-07 00:00:00+00:00 total: 0 unique: 0
+	 2026-03-08 00:00:00+00:00 total: 0 unique: 0
 
 repo: devgoodies views: total: 0 unique:  0
 Views:
-	 2026-02-22 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-23 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-24 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-25 00:00:00+00:00 total: 0 unique: 0
@@ -585,10 +584,10 @@ Views:
 	 2026-03-05 00:00:00+00:00 total: 0 unique: 0
 	 2026-03-06 00:00:00+00:00 total: 0 unique: 0
 	 2026-03-07 00:00:00+00:00 total: 0 unique: 0
+	 2026-03-08 00:00:00+00:00 total: 0 unique: 0
 
 repo: download-artifacts views: total: 0 unique:  0
 Views:
-	 2026-02-22 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-23 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-24 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-25 00:00:00+00:00 total: 0 unique: 0
@@ -602,10 +601,10 @@ Views:
 	 2026-03-05 00:00:00+00:00 total: 0 unique: 0
 	 2026-03-06 00:00:00+00:00 total: 0 unique: 0
 	 2026-03-07 00:00:00+00:00 total: 0 unique: 0
+	 2026-03-08 00:00:00+00:00 total: 0 unique: 0
 
 repo: flagged-hn views: total: 0 unique:  0
 Views:
-	 2026-02-22 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-23 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-24 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-25 00:00:00+00:00 total: 0 unique: 0
@@ -619,10 +618,10 @@ Views:
 	 2026-03-05 00:00:00+00:00 total: 0 unique: 0
 	 2026-03-06 00:00:00+00:00 total: 0 unique: 0
 	 2026-03-07 00:00:00+00:00 total: 0 unique: 0
+	 2026-03-08 00:00:00+00:00 total: 0 unique: 0
 
 repo: githubapitools views: total: 0 unique:  0
 Views:
-	 2026-02-22 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-23 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-24 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-25 00:00:00+00:00 total: 0 unique: 0
@@ -636,10 +635,10 @@ Views:
 	 2026-03-05 00:00:00+00:00 total: 0 unique: 0
 	 2026-03-06 00:00:00+00:00 total: 0 unique: 0
 	 2026-03-07 00:00:00+00:00 total: 0 unique: 0
+	 2026-03-08 00:00:00+00:00 total: 0 unique: 0
 
 repo: github_pr_comments views: total: 0 unique:  0
 Views:
-	 2026-02-22 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-23 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-24 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-25 00:00:00+00:00 total: 0 unique: 0
@@ -653,10 +652,10 @@ Views:
 	 2026-03-05 00:00:00+00:00 total: 0 unique: 0
 	 2026-03-06 00:00:00+00:00 total: 0 unique: 0
 	 2026-03-07 00:00:00+00:00 total: 0 unique: 0
+	 2026-03-08 00:00:00+00:00 total: 0 unique: 0
 
 repo: gittools views: total: 0 unique:  0
 Views:
-	 2026-02-22 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-23 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-24 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-25 00:00:00+00:00 total: 0 unique: 0
@@ -670,10 +669,10 @@ Views:
 	 2026-03-05 00:00:00+00:00 total: 0 unique: 0
 	 2026-03-06 00:00:00+00:00 total: 0 unique: 0
 	 2026-03-07 00:00:00+00:00 total: 0 unique: 0
+	 2026-03-08 00:00:00+00:00 total: 0 unique: 0
 
 repo: git_html_listing views: total: 0 unique:  0
 Views:
-	 2026-02-22 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-23 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-24 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-25 00:00:00+00:00 total: 0 unique: 0
@@ -687,10 +686,10 @@ Views:
 	 2026-03-05 00:00:00+00:00 total: 0 unique: 0
 	 2026-03-06 00:00:00+00:00 total: 0 unique: 0
 	 2026-03-07 00:00:00+00:00 total: 0 unique: 0
+	 2026-03-08 00:00:00+00:00 total: 0 unique: 0
 
 repo: go_pprof_analyse views: total: 0 unique:  0
 Views:
-	 2026-02-22 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-23 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-24 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-25 00:00:00+00:00 total: 0 unique: 0
@@ -704,10 +703,10 @@ Views:
 	 2026-03-05 00:00:00+00:00 total: 0 unique: 0
 	 2026-03-06 00:00:00+00:00 total: 0 unique: 0
 	 2026-03-07 00:00:00+00:00 total: 0 unique: 0
+	 2026-03-08 00:00:00+00:00 total: 0 unique: 0
 
 repo: grpc-spring-boot-starter-utils views: total: 0 unique:  0
 Views:
-	 2026-02-22 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-23 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-24 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-25 00:00:00+00:00 total: 0 unique: 0
@@ -721,10 +720,10 @@ Views:
 	 2026-03-05 00:00:00+00:00 total: 0 unique: 0
 	 2026-03-06 00:00:00+00:00 total: 0 unique: 0
 	 2026-03-07 00:00:00+00:00 total: 0 unique: 0
+	 2026-03-08 00:00:00+00:00 total: 0 unique: 0
 
 repo: jq-illustrated views: total: 0 unique:  0
 Views:
-	 2026-02-22 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-23 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-24 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-25 00:00:00+00:00 total: 0 unique: 0
@@ -738,10 +737,10 @@ Views:
 	 2026-03-05 00:00:00+00:00 total: 0 unique: 0
 	 2026-03-06 00:00:00+00:00 total: 0 unique: 0
 	 2026-03-07 00:00:00+00:00 total: 0 unique: 0
+	 2026-03-08 00:00:00+00:00 total: 0 unique: 0
 
 repo: k8explain views: total: 0 unique:  0
 Views:
-	 2026-02-22 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-23 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-24 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-25 00:00:00+00:00 total: 0 unique: 0
@@ -755,10 +754,10 @@ Views:
 	 2026-03-05 00:00:00+00:00 total: 0 unique: 0
 	 2026-03-06 00:00:00+00:00 total: 0 unique: 0
 	 2026-03-07 00:00:00+00:00 total: 0 unique: 0
+	 2026-03-08 00:00:00+00:00 total: 0 unique: 0
 
 repo: opinionated-fortune-cow views: total: 0 unique:  0
 Views:
-	 2026-02-22 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-23 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-24 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-25 00:00:00+00:00 total: 0 unique: 0
@@ -772,10 +771,10 @@ Views:
 	 2026-03-05 00:00:00+00:00 total: 0 unique: 0
 	 2026-03-06 00:00:00+00:00 total: 0 unique: 0
 	 2026-03-07 00:00:00+00:00 total: 0 unique: 0
+	 2026-03-08 00:00:00+00:00 total: 0 unique: 0
 
 repo: pprintex views: total: 0 unique:  0
 Views:
-	 2026-02-22 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-23 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-24 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-25 00:00:00+00:00 total: 0 unique: 0
@@ -789,10 +788,10 @@ Views:
 	 2026-03-05 00:00:00+00:00 total: 0 unique: 0
 	 2026-03-06 00:00:00+00:00 total: 0 unique: 0
 	 2026-03-07 00:00:00+00:00 total: 0 unique: 0
+	 2026-03-08 00:00:00+00:00 total: 0 unique: 0
 
 repo: printb views: total: 0 unique:  0
 Views:
-	 2026-02-22 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-23 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-24 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-25 00:00:00+00:00 total: 0 unique: 0
@@ -806,10 +805,10 @@ Views:
 	 2026-03-05 00:00:00+00:00 total: 0 unique: 0
 	 2026-03-06 00:00:00+00:00 total: 0 unique: 0
 	 2026-03-07 00:00:00+00:00 total: 0 unique: 0
+	 2026-03-08 00:00:00+00:00 total: 0 unique: 0
 
 repo: pythoncourse views: total: 0 unique:  0
 Views:
-	 2026-02-22 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-23 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-24 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-25 00:00:00+00:00 total: 0 unique: 0
@@ -823,10 +822,10 @@ Views:
 	 2026-03-05 00:00:00+00:00 total: 0 unique: 0
 	 2026-03-06 00:00:00+00:00 total: 0 unique: 0
 	 2026-03-07 00:00:00+00:00 total: 0 unique: 0
+	 2026-03-08 00:00:00+00:00 total: 0 unique: 0
 
 repo: rzgrep views: total: 0 unique:  0
 Views:
-	 2026-02-22 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-23 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-24 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-25 00:00:00+00:00 total: 0 unique: 0
@@ -840,10 +839,10 @@ Views:
 	 2026-03-05 00:00:00+00:00 total: 0 unique: 0
 	 2026-03-06 00:00:00+00:00 total: 0 unique: 0
 	 2026-03-07 00:00:00+00:00 total: 0 unique: 0
+	 2026-03-08 00:00:00+00:00 total: 0 unique: 0
 
 repo: vimcrypt views: total: 0 unique:  0
 Views:
-	 2026-02-22 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-23 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-24 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-25 00:00:00+00:00 total: 0 unique: 0
@@ -857,10 +856,10 @@ Views:
 	 2026-03-05 00:00:00+00:00 total: 0 unique: 0
 	 2026-03-06 00:00:00+00:00 total: 0 unique: 0
 	 2026-03-07 00:00:00+00:00 total: 0 unique: 0
+	 2026-03-08 00:00:00+00:00 total: 0 unique: 0
 
 repo: visual-python-strace views: total: 0 unique:  0
 Views:
-	 2026-02-22 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-23 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-24 00:00:00+00:00 total: 0 unique: 0
 	 2026-02-25 00:00:00+00:00 total: 0 unique: 0
@@ -874,7 +873,8 @@ Views:
 	 2026-03-05 00:00:00+00:00 total: 0 unique: 0
 	 2026-03-06 00:00:00+00:00 total: 0 unique: 0
 	 2026-03-07 00:00:00+00:00 total: 0 unique: 0
+	 2026-03-08 00:00:00+00:00 total: 0 unique: 0
 
 
 ***
-Total views: 149
+Total views: 147
