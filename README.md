@@ -1,27 +1,19 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Mon Mar 16 01:46:30 UTC 2026
+Tue Mar 17 01:23:51 UTC 2026
 
 <pre>
 
- _______________________________________
-/ Q: Why is Poland just like the United \
-| States? A: In the United States you   |
-| can't buy anything for zlotys and in  |
-|                                       |
-| Poland you can't either, while in the |
-| U.S. you can get whatever             |
-|                                       |
-| you want for dollars, just as you can |
-| in Poland.                            |
-|                                       |
-\ -- being told in Poland, 1987         /
- ---------------------------------------
+ _________________________________________
+/ Better hope the life-inspector doesn't  \
+| come around while you have your life in |
+\ such a mess.                            /
+ -----------------------------------------
         \   ^__^
-         \  (OO)\_______
+         \  (oo)\_______
             (__)\       )\/\
              :) ||----w |
                 ||     ||
-nltk score: 81 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: 51 '(from -100..100) state: 'good' eye: oo tongue: :)
 
 </pre>
 
