@@ -1,23 +1,20 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Tue Mar 24 01:21:02 UTC 2026
+Wed Mar 25 01:25:25 UTC 2026
 
 <pre>
 
- _______________________________________
-/ For years a secret shame destroyed my \
-| peace-- I'd not read Eliot, Auden or  |
-| MacNiece. But now I think a thought   |
-| that brings me hope: Neither had      |
-| Chaucer, Shakespeare, Milton, Pope.   |
-|                                       |
-\ -- Justin Richardson.                 /
- ---------------------------------------
+ ______________________________________
+/ Go not to the elves for counsel, for \
+| they will say both yes and no.       |
+|                                      |
+\ -- J.R.R. Tolkien                    /
+ --------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
              -- ||----w |
                 ||     ||
-nltk score: 18 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 13 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
