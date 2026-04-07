@@ -1,19 +1,28 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Mon Apr  6 01:49:59 UTC 2026
+Tue Apr  7 01:46:55 UTC 2026
 
 <pre>
 
- _______________________________________
-/ You had some happiness once, but your \
-| parents moved away, and you had to    |
-\ leave it behind.                      /
- ---------------------------------------
+ _________________________________________
+/ The lovely woman-child Kaa was          \
+| mercilessly chained to the cruel post   |
+| of the warrior-chief Beast, with his    |
+| barbarian tribe now stacking wood at    |
+| her nubile feet, when the strong clear  |
+| voice of the poetic and heroic          |
+| Handsomas roared, 'Flick your Bic,      |
+| crisp that chick, and you'll feel my    |
+| steel through your last meal!'          |
+|                                         |
+| -- Winning sentence, 1984 Bulwer-Lytton |
+\ bad fiction contest.                    /
+ -----------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (OO)\_______
             (__)\       )\/\
-             -- ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: 25 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 87 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
@@ -73,9 +82,9 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/jq-illustrated">jq-illustrated</a></td><td>21</td><td>Shell</td><td>illustrated tutorial of jq (and the scripts that create it)</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/s9k">s9k</a></td><td>21</td><td>Python</td><td>dashboard/web app for managing kubernetes clusters, with similar functionality as k9s</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/cstuff">cstuff</a></td><td>16</td><td>C</td><td>My C projects</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/roget-thesaurus-parser">roget-thesaurus-parser</a></td><td>8</td><td>Python</td><td>parses Roget's thesaurus and provide API for querying related words</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/rzgrep">rzgrep</a></td><td>8</td><td>Go</td><td>grep utility that searches through zip,jar,ear,tgz,bz2 in any form of nesting; it can also decompile class files</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/ls-annotations">ls-annotations</a></td><td>7</td><td>Java</td><td>Show all declarations with java annotations by decompiling byte code.</td></tr>
-<tr><td><a href="https://github.com/MoserMichael/roget-thesaurus-parser">roget-thesaurus-parser</a></td><td>7</td><td>Python</td><td>parses Roget's thesaurus and provide API for querying related words</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/jscriptparse">jscriptparse</a></td><td>5</td><td>JavaScript</td><td>pyx scripting language & REPL/Shell ; prs - javascript module for parser combinators</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/pygamewrap">pygamewrap</a></td><td>5</td><td>Python</td><td>A small wrapper toolkit that simplifies development with the pygame library (hopefully)</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/pythonimportplayground">pythonimportplayground</a></td><td>5</td><td>Python</td><td>the readme file explains python packages, with examples.</td></tr>
@@ -113,9 +122,11 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/vimcrypt">vimcrypt</a></td><td>0</td><td>Vim script</td><td>my vim plugin for encrypting/decryting text files with openssl</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/visual-python-strace">visual-python-strace</a></td><td>0</td><td>Python</td><td>show a very long stack trace with variable values.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/zipit">zipit</a></td><td>0</td><td>C++</td><td>c++ library for the equivalent of python/haskell zip function</td></tr>
-<tr><th>Total stars:</th><th colspan='2' align='left'> 593 </th></tr>
+<tr><th>Total stars:</th><th colspan='2' align='left'> 594 </th></tr>
 </table>
 <br>
+old_date:  2026-03-07 01:17:02.556645 now: 2026-04-07 01:47:12.350792
+roget-thesaurus-parser stars changed from: 7 to: 8
     </pre>
   </td>
 </table>
