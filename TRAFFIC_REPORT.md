@@ -19,18 +19,18 @@ Views:
 	Referrers:
 		Count: 26 Unique: 2 Url: github.com
 
-repo: tips_on_using_google_ai_mode views: total: 28 unique:  6
+repo: tips_on_using_google_ai_mode views: total: 28 unique:  5
 Views:
-	 2026-04-04 00:00:00+00:00 total: 3 unique: 2
 	 2026-04-05 00:00:00+00:00 total: 1 unique: 1
 	 2026-04-08 00:00:00+00:00 total: 7 unique: 3
 	 2026-04-09 00:00:00+00:00 total: 2 unique: 1
 	 2026-04-10 00:00:00+00:00 total: 1 unique: 1
 	 2026-04-14 00:00:00+00:00 total: 7 unique: 2
 	 2026-04-15 00:00:00+00:00 total: 7 unique: 2
+	 2026-04-18 00:00:00+00:00 total: 3 unique: 2
 	Referrers:
-		Count: 16 Unique: 3 Url: github.com
-		Count: 7 Unique: 2 Url: linkedin.com
+		Count: 15 Unique: 3 Url: github.com
+		Count: 8 Unique: 2 Url: linkedin.com
 
 repo: pyasmtool views: total: 27 unique:  14
 Views:
@@ -57,6 +57,21 @@ Views:
 		Count: 4 Unique: 3 Url: Google
 		Count: 1 Unique: 1 Url: github.com
 
+repo: python-obj-system views: total: 14 unique:  14
+Views:
+	 2026-04-06 00:00:00+00:00 total: 2 unique: 2
+	 2026-04-07 00:00:00+00:00 total: 1 unique: 1
+	 2026-04-10 00:00:00+00:00 total: 1 unique: 1
+	 2026-04-11 00:00:00+00:00 total: 1 unique: 1
+	 2026-04-14 00:00:00+00:00 total: 1 unique: 1
+	 2026-04-15 00:00:00+00:00 total: 1 unique: 1
+	 2026-04-16 00:00:00+00:00 total: 2 unique: 2
+	 2026-04-17 00:00:00+00:00 total: 3 unique: 3
+	 2026-04-18 00:00:00+00:00 total: 2 unique: 2
+	Referrers:
+		Count: 4 Unique: 4 Url: github.com
+		Count: 1 Unique: 1 Url: Google
+
 repo: cstuff views: total: 13 unique:  7
 Views:
 	 2026-04-06 00:00:00+00:00 total: 3 unique: 1
@@ -68,19 +83,17 @@ Views:
 		Count: 5 Unique: 1 Url: mosermichael.github.io
 		Count: 4 Unique: 2 Url: github.com
 
-repo: python-obj-system views: total: 12 unique:  12
+repo: myenv views: total: 11 unique:  10
 Views:
-	 2026-04-06 00:00:00+00:00 total: 2 unique: 2
+	 2026-04-06 00:00:00+00:00 total: 1 unique: 1
 	 2026-04-07 00:00:00+00:00 total: 1 unique: 1
-	 2026-04-10 00:00:00+00:00 total: 1 unique: 1
-	 2026-04-11 00:00:00+00:00 total: 1 unique: 1
-	 2026-04-14 00:00:00+00:00 total: 1 unique: 1
-	 2026-04-15 00:00:00+00:00 total: 1 unique: 1
-	 2026-04-16 00:00:00+00:00 total: 2 unique: 2
-	 2026-04-17 00:00:00+00:00 total: 3 unique: 3
+	 2026-04-08 00:00:00+00:00 total: 2 unique: 2
+	 2026-04-12 00:00:00+00:00 total: 2 unique: 1
+	 2026-04-13 00:00:00+00:00 total: 1 unique: 1
+	 2026-04-17 00:00:00+00:00 total: 1 unique: 1
+	 2026-04-18 00:00:00+00:00 total: 3 unique: 3
 	Referrers:
-		Count: 4 Unique: 4 Url: github.com
-		Count: 1 Unique: 1 Url: Google
+		Count: 3 Unique: 2 Url: Google
 
 repo: duckduckbang views: total: 10 unique:  7
 Views:
@@ -95,25 +108,14 @@ Views:
 		Count: 2 Unique: 2 Url: fmhy.net
 		Count: 1 Unique: 1 Url: Google
 
-repo: myenv views: total: 9 unique:  8
-Views:
-	 2026-04-04 00:00:00+00:00 total: 1 unique: 1
-	 2026-04-06 00:00:00+00:00 total: 1 unique: 1
-	 2026-04-07 00:00:00+00:00 total: 1 unique: 1
-	 2026-04-08 00:00:00+00:00 total: 2 unique: 2
-	 2026-04-12 00:00:00+00:00 total: 2 unique: 1
-	 2026-04-13 00:00:00+00:00 total: 1 unique: 1
-	 2026-04-17 00:00:00+00:00 total: 1 unique: 1
-	Referrers:
-		Count: 4 Unique: 3 Url: Google
-
-repo: cppcombinator views: total: 7 unique:  4
+repo: cppcombinator views: total: 9 unique:  6
 Views:
 	 2026-04-06 00:00:00+00:00 total: 2 unique: 2
 	 2026-04-08 00:00:00+00:00 total: 1 unique: 1
 	 2026-04-12 00:00:00+00:00 total: 2 unique: 1
 	 2026-04-13 00:00:00+00:00 total: 1 unique: 1
 	 2026-04-17 00:00:00+00:00 total: 1 unique: 1
+	 2026-04-18 00:00:00+00:00 total: 2 unique: 2
 	Referrers:
 		Count: 2 Unique: 1 Url: github.com
 
@@ -151,14 +153,6 @@ Views:
 	Referrers:
 		Count: 1 Unique: 1 Url: Google
 
-repo: dockerdashphp views: total: 3 unique:  3
-Views:
-	 2026-04-04 00:00:00+00:00 total: 1 unique: 1
-	 2026-04-10 00:00:00+00:00 total: 1 unique: 1
-	 2026-04-12 00:00:00+00:00 total: 1 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: github.com
-
 repo: follow-kube-logs views: total: 3 unique:  3
 Views:
 	 2026-04-09 00:00:00+00:00 total: 1 unique: 1
@@ -166,6 +160,26 @@ Views:
 	 2026-04-16 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
 		Count: 1 Unique: 1 Url: Google
+
+repo: mphelper views: total: 3 unique:  2
+Views:
+	 2026-04-14 00:00:00+00:00 total: 1 unique: 1
+	 2026-04-18 00:00:00+00:00 total: 2 unique: 1
+	Referrers:
+		Count: 1 Unique: 1 Url: github.com
+
+repo: pythonimportplayground views: total: 3 unique:  3
+Views:
+	 2026-04-07 00:00:00+00:00 total: 1 unique: 1
+	 2026-04-08 00:00:00+00:00 total: 1 unique: 1
+	 2026-04-18 00:00:00+00:00 total: 1 unique: 1
+
+repo: dockerdashphp views: total: 2 unique:  2
+Views:
+	 2026-04-10 00:00:00+00:00 total: 1 unique: 1
+	 2026-04-12 00:00:00+00:00 total: 1 unique: 1
+	Referrers:
+		Count: 1 Unique: 1 Url: github.com
 
 repo: gittools views: total: 2 unique:  1
 Views:
@@ -193,14 +207,14 @@ Views:
 	 2026-04-09 00:00:00+00:00 total: 1 unique: 1
 	 2026-04-17 00:00:00+00:00 total: 1 unique: 1
 
+repo: pprintex views: total: 2 unique:  2
+Views:
+	 2026-04-09 00:00:00+00:00 total: 1 unique: 1
+	 2026-04-18 00:00:00+00:00 total: 1 unique: 1
+
 repo: pygamewrap views: total: 2 unique:  2
 Views:
 	 2026-04-11 00:00:00+00:00 total: 2 unique: 2
-
-repo: pythonimportplayground views: total: 2 unique:  2
-Views:
-	 2026-04-07 00:00:00+00:00 total: 1 unique: 1
-	 2026-04-08 00:00:00+00:00 total: 1 unique: 1
 
 repo: vimcrypt views: total: 2 unique:  2
 Views:
@@ -221,13 +235,11 @@ Views:
 	Referrers:
 		Count: 1 Unique: 1 Url: github.com
 
-repo: mphelper views: total: 1 unique:  1
+repo: git_html_listing views: total: 1 unique:  1
 Views:
-	 2026-04-14 00:00:00+00:00 total: 1 unique: 1
-
-repo: pprintex views: total: 1 unique:  1
-Views:
-	 2026-04-09 00:00:00+00:00 total: 1 unique: 1
+	 2026-04-18 00:00:00+00:00 total: 1 unique: 1
+	Referrers:
+		Count: 1 Unique: 1 Url: github.com
 
 repo: rzgrep views: total: 1 unique:  1
 Views:
@@ -244,8 +256,6 @@ repo: docker-force-attach views: total: 0 unique:  0
 repo: download-artifacts views: total: 0 unique:  0
 
 repo: github_pr_comments views: total: 0 unique:  0
-
-repo: git_html_listing views: total: 0 unique:  0
 
 repo: go_pprof_analyse views: total: 0 unique:  0
 
@@ -279,4 +289,4 @@ repo: zipit views: total: 0 unique:  0
 
 
 ***
-Total views: 199
+Total views: 209
