@@ -1,30 +1,25 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Thu Apr 23 01:57:37 UTC 2026
+Fri Apr 24 01:57:20 UTC 2026
 
 <pre>
 
- _________________________________________
-/ "What's this? Trix? Aunt! Trix? You?    \
-| You're after the prize! What is it?" He |
-| picked up the box and studied the back. |
-| "A glow-in-the-dark squid! Have you got |
-| it out of there yet?" He tilted the     |
-| box, angling the little colored balls   |
-| of cereal so as to see the bottom, and  |
-| nearly spilling them onto the table     |
-| top. "Here it is!" He hauled out a      |
-| little cream-colored, glitter-sprinkled |
-| squid, three-inches long and made out   |
-| of rubbery plastic.                     |
-|                                         |
-\ -- James P. Blaylock, "The Last Coin"   /
- -----------------------------------------
+ ________________________________________
+/ Q: Why don't Scotsmen ever have coffee \
+| the way they like it? A: Well, they    |
+| like it with two lumps of sugar. If    |
+| they drink                             |
+|                                        |
+| it at home, they only take one, and if |
+| they drink it while                    |
+|                                        |
+\ visiting, they always take three.      /
+ ----------------------------------------
         \   ^__^
          \  (OO)\_______
             (__)\       )\/\
              :) ||----w |
                 ||     ||
-nltk score: 80 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: 61 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
