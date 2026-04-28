@@ -1,21 +1,20 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Mon Apr 27 02:03:11 UTC 2026
+Tue Apr 28 02:09:34 UTC 2026
 
 <pre>
 
  _______________________________________
-/ Q: What do you call the money you pay \
-| to the government when                |
+/ Kindness is a language which the deaf \
+| can hear and the blind can read.      |
 |                                       |
-| you ride into the country on the back |
-\ of an elephant? A: A howdah duty.     /
+\ -- Mark Twain                         /
  ---------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
              -- ||----w |
                 ||     ||
-nltk score: -10 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 8 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
