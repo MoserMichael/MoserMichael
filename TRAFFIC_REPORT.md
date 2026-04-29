@@ -23,9 +23,8 @@ Views:
 		Count: 22 Unique: 4 Url: linkedin.com
 		Count: 1 Unique: 1 Url: com.linkedin.android
 
-repo: MoserMichael views: total: 21 unique:  2
+repo: MoserMichael views: total: 22 unique:  1
 Views:
-	 2026-04-13 00:00:00+00:00 total: 1 unique: 1
 	 2026-04-14 00:00:00+00:00 total: 3 unique: 1
 	 2026-04-15 00:00:00+00:00 total: 5 unique: 1
 	 2026-04-17 00:00:00+00:00 total: 1 unique: 1
@@ -36,12 +35,12 @@ Views:
 	 2026-04-24 00:00:00+00:00 total: 3 unique: 1
 	 2026-04-25 00:00:00+00:00 total: 1 unique: 1
 	 2026-04-26 00:00:00+00:00 total: 1 unique: 1
+	 2026-04-27 00:00:00+00:00 total: 2 unique: 1
 	Referrers:
-		Count: 21 Unique: 2 Url: github.com
+		Count: 22 Unique: 1 Url: github.com
 
-repo: pyasmtool views: total: 18 unique:  14
+repo: pyasmtool views: total: 17 unique:  13
 Views:
-	 2026-04-13 00:00:00+00:00 total: 1 unique: 1
 	 2026-04-14 00:00:00+00:00 total: 1 unique: 1
 	 2026-04-15 00:00:00+00:00 total: 1 unique: 1
 	 2026-04-17 00:00:00+00:00 total: 1 unique: 1
@@ -62,9 +61,22 @@ Views:
 	 2026-04-21 00:00:00+00:00 total: 2 unique: 2
 	 2026-04-22 00:00:00+00:00 total: 3 unique: 3
 
-repo: duckduckbang views: total: 13 unique:  6
+repo: s9k views: total: 13 unique:  9
 Views:
-	 2026-04-13 00:00:00+00:00 total: 1 unique: 1
+	 2026-04-17 00:00:00+00:00 total: 1 unique: 1
+	 2026-04-19 00:00:00+00:00 total: 1 unique: 1
+	 2026-04-21 00:00:00+00:00 total: 2 unique: 2
+	 2026-04-22 00:00:00+00:00 total: 1 unique: 1
+	 2026-04-23 00:00:00+00:00 total: 1 unique: 1
+	 2026-04-24 00:00:00+00:00 total: 4 unique: 3
+	 2026-04-25 00:00:00+00:00 total: 1 unique: 1
+	 2026-04-26 00:00:00+00:00 total: 1 unique: 1
+	 2026-04-27 00:00:00+00:00 total: 1 unique: 1
+	Referrers:
+		Count: 5 Unique: 4 Url: github.com
+
+repo: duckduckbang views: total: 12 unique:  6
+Views:
 	 2026-04-15 00:00:00+00:00 total: 2 unique: 1
 	 2026-04-21 00:00:00+00:00 total: 1 unique: 1
 	 2026-04-22 00:00:00+00:00 total: 1 unique: 1
@@ -76,23 +88,8 @@ Views:
 		Count: 1 Unique: 1 Url: Google
 		Count: 1 Unique: 1 Url: fmhy.net
 
-repo: s9k views: total: 13 unique:  9
+repo: myenv views: total: 11 unique:  11
 Views:
-	 2026-04-13 00:00:00+00:00 total: 1 unique: 1
-	 2026-04-17 00:00:00+00:00 total: 1 unique: 1
-	 2026-04-19 00:00:00+00:00 total: 1 unique: 1
-	 2026-04-21 00:00:00+00:00 total: 2 unique: 2
-	 2026-04-22 00:00:00+00:00 total: 1 unique: 1
-	 2026-04-23 00:00:00+00:00 total: 1 unique: 1
-	 2026-04-24 00:00:00+00:00 total: 4 unique: 3
-	 2026-04-25 00:00:00+00:00 total: 1 unique: 1
-	 2026-04-26 00:00:00+00:00 total: 1 unique: 1
-	Referrers:
-		Count: 4 Unique: 3 Url: github.com
-
-repo: myenv views: total: 12 unique:  12
-Views:
-	 2026-04-13 00:00:00+00:00 total: 1 unique: 1
 	 2026-04-17 00:00:00+00:00 total: 1 unique: 1
 	 2026-04-18 00:00:00+00:00 total: 3 unique: 3
 	 2026-04-19 00:00:00+00:00 total: 2 unique: 2
@@ -100,7 +97,7 @@ Views:
 	 2026-04-21 00:00:00+00:00 total: 1 unique: 1
 	 2026-04-26 00:00:00+00:00 total: 1 unique: 1
 
-repo: python-obj-system views: total: 10 unique:  10
+repo: python-obj-system views: total: 11 unique:  11
 Views:
 	 2026-04-14 00:00:00+00:00 total: 1 unique: 1
 	 2026-04-15 00:00:00+00:00 total: 1 unique: 1
@@ -108,20 +105,19 @@ Views:
 	 2026-04-17 00:00:00+00:00 total: 3 unique: 3
 	 2026-04-18 00:00:00+00:00 total: 2 unique: 2
 	 2026-04-22 00:00:00+00:00 total: 1 unique: 1
+	 2026-04-27 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
 		Count: 3 Unique: 3 Url: github.com
 
-repo: cppcombinator views: total: 8 unique:  8
+repo: cppcombinator views: total: 8 unique:  7
 Views:
-	 2026-04-13 00:00:00+00:00 total: 1 unique: 1
 	 2026-04-17 00:00:00+00:00 total: 1 unique: 1
 	 2026-04-18 00:00:00+00:00 total: 2 unique: 2
 	 2026-04-19 00:00:00+00:00 total: 1 unique: 1
 	 2026-04-20 00:00:00+00:00 total: 1 unique: 1
 	 2026-04-22 00:00:00+00:00 total: 1 unique: 1
 	 2026-04-23 00:00:00+00:00 total: 1 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: github.com
+	 2026-04-27 00:00:00+00:00 total: 1 unique: 1
 
 repo: cstuff views: total: 6 unique:  6
 Views:
@@ -132,14 +128,6 @@ Views:
 	Referrers:
 		Count: 1 Unique: 1 Url: github.com
 
-repo: gitblame views: total: 6 unique:  4
-Views:
-	 2026-04-13 00:00:00+00:00 total: 3 unique: 2
-	 2026-04-16 00:00:00+00:00 total: 2 unique: 1
-	 2026-04-21 00:00:00+00:00 total: 1 unique: 1
-	Referrers:
-		Count: 6 Unique: 4 Url: Google
-
 repo: kind-helper views: total: 4 unique:  3
 Views:
 	 2026-04-17 00:00:00+00:00 total: 1 unique: 1
@@ -147,21 +135,29 @@ Views:
 	 2026-04-21 00:00:00+00:00 total: 1 unique: 1
 	 2026-04-26 00:00:00+00:00 total: 1 unique: 1
 
+repo: mphelper views: total: 4 unique:  3
+Views:
+	 2026-04-14 00:00:00+00:00 total: 1 unique: 1
+	 2026-04-18 00:00:00+00:00 total: 2 unique: 1
+	 2026-04-27 00:00:00+00:00 total: 1 unique: 1
+	Referrers:
+		Count: 1 Unique: 1 Url: github.com
+
 repo: vimcrypt2 views: total: 4 unique:  4
 Views:
-	 2026-04-13 00:00:00+00:00 total: 1 unique: 1
 	 2026-04-15 00:00:00+00:00 total: 2 unique: 2
 	 2026-04-22 00:00:00+00:00 total: 1 unique: 1
+	 2026-04-27 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
 		Count: 1 Unique: 1 Url: DuckDuckGo
 		Count: 1 Unique: 1 Url: Google
 
-repo: mphelper views: total: 3 unique:  2
+repo: gitblame views: total: 3 unique:  2
 Views:
-	 2026-04-14 00:00:00+00:00 total: 1 unique: 1
-	 2026-04-18 00:00:00+00:00 total: 2 unique: 1
+	 2026-04-16 00:00:00+00:00 total: 2 unique: 1
+	 2026-04-21 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
-		Count: 1 Unique: 1 Url: github.com
+		Count: 3 Unique: 2 Url: Google
 
 repo: rzgrep views: total: 3 unique:  3
 Views:
@@ -297,4 +293,4 @@ repo: zipit views: total: 0 unique:  0
 
 
 ***
-Total views: 209
+Total views: 206

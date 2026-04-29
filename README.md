@@ -1,20 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Tue Apr 28 02:09:34 UTC 2026
+Wed Apr 29 02:10:34 UTC 2026
 
 <pre>
 
  _______________________________________
-/ Kindness is a language which the deaf \
-| can hear and the blind can read.      |
-|                                       |
-\ -- Mark Twain                         /
+/ You can rent this space for only $5 a \
+\ week.                                 /
  ---------------------------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
              -- ||----w |
                 ||     ||
-nltk score: 8 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
@@ -73,7 +71,7 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/kind-helper">kind-helper</a></td><td>24</td><td>Python</td><td>Simplifies the creation of practical kubernetes test clusters with the kind utility.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/jq-illustrated">jq-illustrated</a></td><td>21</td><td>Shell</td><td>illustrated tutorial of jq (and the scripts that create it)</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/s9k">s9k</a></td><td>21</td><td>Python</td><td>dashboard/web app for managing kubernetes clusters, with similar functionality as k9s</td></tr>
-<tr><td><a href="https://github.com/MoserMichael/cstuff">cstuff</a></td><td>16</td><td>C</td><td>My C projects</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/cstuff">cstuff</a></td><td>17</td><td>C</td><td>My C projects</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/roget-thesaurus-parser">roget-thesaurus-parser</a></td><td>8</td><td>Python</td><td>parses Roget's thesaurus and provide API for querying related words</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/rzgrep">rzgrep</a></td><td>8</td><td>Go</td><td>grep utility that searches through zip,jar,ear,tgz,bz2 in any form of nesting; it can also decompile class files</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/ls-annotations">ls-annotations</a></td><td>7</td><td>Java</td><td>Show all declarations with java annotations by decompiling byte code.</td></tr>
@@ -88,12 +86,13 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/gitblame">gitblame</a></td><td>2</td><td>Vim Script</td><td>minimal vim plugin for working with git; with a focus on git blame and git grep commands</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/gittools">gittools</a></td><td>2</td><td>Python</td><td>get some sense out of the git log for a given repository.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/subb">subb</a></td><td>2</td><td>Python</td><td>a wrapper module for python subprocess</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/teach-your-children-well">teach-your-children-well</a></td><td>2</td><td>Python</td><td>Telling stories in simple English, so that I have something to tell to my kids during the summer vacation</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/vimcrypt2">vimcrypt2</a></td><td>2</td><td>Vim Script</td><td>Advanced vim plugin to encrypt files with openssl</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/docker-force-attach">docker-force-attach</a></td><td>1</td><td>Shell</td><td>script to attach shell to running docker container - even if there is no shell in the image</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/dockerdashphp">dockerdashphp</a></td><td>1</td><td>JavaScript</td><td>dashboard/web application for working with docker</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/k8explain">k8explain</a></td><td>1</td><td>Go</td><td>golang exercise: produce a table of kubernetes api resources where each row is linked to an explanation</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/MoserMichael">MoserMichael</a></td><td>1</td><td>Shell</td><td>some blurb about the owner and his stuff. A script generates README.md, that appears on the public profile. The script is run periodically by github action. (see ABOUT.md)</td></tr>
-<tr><td><a href="https://github.com/MoserMichael/teach-your-children-well">teach-your-children-well</a></td><td>1</td><td>Python</td><td>Telling stories in simple English, so that I have something to tell to my kids during the summer vacation</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/my-notes">my-notes</a></td><td>1</td><td>HTML</td><td>Keeping notes while learning stuff (so they don't get lost) These notes are best viewed in vim - meaning in a fixed font with text wrapping)</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/datahelp">datahelp</a></td><td>0</td><td>Python</td><td>python scripts for working with excel files (using pandas)</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/devgoodies">devgoodies</a></td><td>0</td><td>Vim script</td><td>Vim plugin - useful commands for editing code.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/download-artifacts">download-artifacts</a></td><td>0</td><td>Shell</td><td>bash script for downloading the artifacts of the latest release for a given github repo of a given user.</td></tr>
@@ -107,16 +106,19 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/jpa-enc-converter">jpa-enc-converter</a></td><td>0</td><td>Java</td><td>Example of handling the encryption/decryption of data at rest in an SQL table, by means of spring JPA/AttributeConverter</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/kwchecker">kwchecker</a></td><td>0</td><td>Python</td><td>Declarative verifier and sanitizer for python kwargs parameters.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/mphelper">mphelper</a></td><td>0</td><td>Python</td><td>python multiprocessor helper, adds external monitoring of task progress (via http), as well as other goodies</td></tr>
-<tr><td><a href="https://github.com/MoserMichael/my-notes">my-notes</a></td><td>0</td><td>HTML</td><td>Keeping notes while learning stuff (so they don't get lost) These notes are best viewed in vim - meaning in a fixed font with text wrapping)</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/pghelp">pghelp</a></td><td>0</td><td>Python</td><td>  python scripts for working with postgress (check if join condition columns are indexed, compare column set of two tables, dump sql query result to json)</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/printb">printb</a></td><td>0</td><td>Python</td><td>Adds bidi aware 'print' and 'input' functions.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/tips_on_using_google_ai_mode">tips_on_using_google_ai_mode</a></td><td>0</td><td>Python</td><td>Tips on using google in AI mode, for privacy aware individuals</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/vimcrypt">vimcrypt</a></td><td>0</td><td>Vim script</td><td>my vim plugin for encrypting/decryting text files with openssl</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/visual-python-strace">visual-python-strace</a></td><td>0</td><td>Python</td><td>show a very long stack trace with variable values.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/zipit">zipit</a></td><td>0</td><td>C++</td><td>c++ library for the equivalent of python/haskell zip function</td></tr>
-<tr><th>Total stars:</th><th colspan='2' align='left'> 595 </th></tr>
+<tr><th>Total stars:</th><th colspan='2' align='left'> 598 </th></tr>
 </table>
 <br>
+old_date:  2026-04-08 01:47:21.664329 now: 2026-04-29 02:10:51.208796
+cstuff stars changed from: 16 to: 17
+teach-your-children-well stars changed from: 1 to: 2
+my-notes stars changed from: 0 to: 1
     </pre>
   </td>
 </table>
