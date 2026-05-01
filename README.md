@@ -1,20 +1,20 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Thu Apr 30 02:10:39 UTC 2026
+Fri May  1 02:24:12 UTC 2026
 
 <pre>
 
- ____________________________________
-/ Suspicion always haunts the guilty \
-| mind.                              |
-|                                    |
-\ -- Wm. Shakespeare                 /
- ------------------------------------
+ ________________________________________
+/ Q: How many college football players   \
+| does it take to screw in a light bulb? |
+| A: Only one, but he gets three credits |
+\ for it.                                /
+ ----------------------------------------
         \   ^__^
-         \  (~~)\_______
+         \  (oo)\_______
             (__)\       )\/\
-             :( ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: -75 '(from -100..100) state: 'very bad' eye: ~~ tongue: :(
+nltk score: 47 '(from -100..100) state: 'good' eye: oo tongue: :)
 
 </pre>
 
@@ -117,9 +117,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 600 </th></tr>
 </table>
 <br>
-old_date:  2026-04-29 02:10:51.208975 now: 2026-04-30 02:10:56.547706
-python-obj-system stars changed from: 63 to: 64
-duckduckbang stars changed from: 39 to: 40
     </pre>
   </td>
 </table>
