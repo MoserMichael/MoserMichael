@@ -1,20 +1,21 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sat May  2 02:02:07 UTC 2026
+Sun May  3 02:07:31 UTC 2026
 
 <pre>
 
- ________________________________________
-/ A long-forgotten loved one will appear \
-| soon.                                  |
-|                                        |
-\ Buy the negatives at any price.        /
- ----------------------------------------
+ _________________________________________
+/ In the Spring, I have counted 136       \
+| different kinds of weather inside of 24 |
+| hours.                                  |
+|                                         |
+\ -- Mark Twain, on New England weather   /
+ -----------------------------------------
         \   ^__^
-         \  (OO)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :) ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: 60 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
@@ -88,7 +89,7 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/gitblame">gitblame</a></td><td>2</td><td>Vim Script</td><td>minimal vim plugin for working with git; with a focus on git blame and git grep commands</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/gittools">gittools</a></td><td>2</td><td>Python</td><td>get some sense out of the git log for a given repository.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/subb">subb</a></td><td>2</td><td>Python</td><td>a wrapper module for python subprocess</td></tr>
-<tr><td><a href="https://github.com/MoserMichael/teach-your-children-well">teach-your-children-well</a></td><td>2</td><td>Python</td><td>Telling stories in simple English, so that I have something to tell to my kids during the summer vacation</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/teach-your-children-well">teach-your-children-well</a></td><td>2</td><td>HTML</td><td>Telling stories in simple English, so that I have something to tell to my kids during the summer vacation</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/vimcrypt2">vimcrypt2</a></td><td>2</td><td>Vim Script</td><td>Advanced vim plugin to encrypt files with openssl</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/docker-force-attach">docker-force-attach</a></td><td>1</td><td>Shell</td><td>script to attach shell to running docker container - even if there is no shell in the image</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/dockerdashphp">dockerdashphp</a></td><td>1</td><td>JavaScript</td><td>dashboard/web application for working with docker</td></tr>
