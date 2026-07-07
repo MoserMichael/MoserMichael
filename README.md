@@ -1,19 +1,17 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Tue May  5 02:10:02 UTC 2026
+Tue Jul  7 23:07:11 UTC 2026
 
 <pre>
 
- _________________________________________
-/ You are wise, witty, and wonderful, but \
-| you spend too much time reading this    |
-\ sort of trash.                          /
- -----------------------------------------
+ _______________________________________
+< You will have a long and boring life. >
+ ---------------------------------------
         \   ^__^
-         \  (oo)\_______
+         \  (!!)\_______
             (__)\       )\/\
-             :) ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 53 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: -32 '(from -100..100) state: 'bad' eye: !! tongue: :(
 
 </pre>
 
@@ -65,14 +63,14 @@ My stuff here:
         <pre>
 
 <table><tr><th align='left'>Name</th><th align='left'>Stars</th><th align='left'>Language</th><th align='left'>description</th></tr>
-<tr><td><a href="https://github.com/MoserMichael/pyasmtool">pyasmtool</a></td><td>318</td><td>Python</td><td>Explores the python bytecode, provides some tools to access it for fun and profit.</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/pyasmtool">pyasmtool</a></td><td>317</td><td>Python</td><td>Explores the python bytecode, provides some tools to access it for fun and profit.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/python-obj-system">python-obj-system</a></td><td>64</td><td>Python</td><td>Tutorials on advanced python topics, and literate programming framework to write them (see README.md)</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/duckduckbang">duckduckbang</a></td><td>40</td><td>Python</td><td>Meta search page that utilises duckduckgo !bang query operators.</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/kind-helper">kind-helper</a></td><td>25</td><td>Python</td><td>Simplifies the creation of practical kubernetes test clusters with the kind utility.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/cppcombinator">cppcombinator</a></td><td>24</td><td>C++</td><td>parser  combinator and AST generator in c++17</td></tr>
-<tr><td><a href="https://github.com/MoserMichael/kind-helper">kind-helper</a></td><td>24</td><td>Python</td><td>Simplifies the creation of practical kubernetes test clusters with the kind utility.</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/s9k">s9k</a></td><td>22</td><td>Python</td><td>dashboard/web app for managing kubernetes clusters, with similar functionality as k9s</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/jq-illustrated">jq-illustrated</a></td><td>21</td><td>Shell</td><td>illustrated tutorial of jq (and the scripts that create it)</td></tr>
-<tr><td><a href="https://github.com/MoserMichael/s9k">s9k</a></td><td>21</td><td>Python</td><td>dashboard/web app for managing kubernetes clusters, with similar functionality as k9s</td></tr>
-<tr><td><a href="https://github.com/MoserMichael/cstuff">cstuff</a></td><td>17</td><td>C</td><td>My C projects</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/cstuff">cstuff</a></td><td>16</td><td>C</td><td>My C projects</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/roget-thesaurus-parser">roget-thesaurus-parser</a></td><td>8</td><td>Python</td><td>parses Roget's thesaurus and provide API for querying related words</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/rzgrep">rzgrep</a></td><td>8</td><td>Go</td><td>grep utility that searches through zip,jar,ear,tgz,bz2 in any form of nesting; it can also decompile class files</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/ls-annotations">ls-annotations</a></td><td>7</td><td>Java</td><td>Show all declarations with java annotations by decompiling byte code.</td></tr>
@@ -94,6 +92,7 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/k8explain">k8explain</a></td><td>1</td><td>Go</td><td>golang exercise: produce a table of kubernetes api resources where each row is linked to an explanation</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/MoserMichael">MoserMichael</a></td><td>1</td><td>Shell</td><td>some blurb about the owner and his stuff. A script generates README.md, that appears on the public profile. The script is run periodically by github action. (see ABOUT.md)</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/my-notes">my-notes</a></td><td>1</td><td>HTML</td><td>Keeping notes while learning stuff (so they don't get lost) These notes are best viewed in vim - meaning in a fixed font with text wrapping)</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/tips_on_using_google_ai_mode">tips_on_using_google_ai_mode</a></td><td>1</td><td>Python</td><td>Tips on using google in AI mode, for privacy aware individuals</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/datahelp">datahelp</a></td><td>0</td><td>Python</td><td>python scripts for working with excel files (using pandas)</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/devgoodies">devgoodies</a></td><td>0</td><td>Vim script</td><td>Vim plugin - useful commands for editing code.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/download-artifacts">download-artifacts</a></td><td>0</td><td>Shell</td><td>bash script for downloading the artifacts of the latest release for a given github repo of a given user.</td></tr>
@@ -109,15 +108,18 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/mphelper">mphelper</a></td><td>0</td><td>Python</td><td>python multiprocessor helper, adds external monitoring of task progress (via http), as well as other goodies</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/pghelp">pghelp</a></td><td>0</td><td>Python</td><td>  python scripts for working with postgress (check if join condition columns are indexed, compare column set of two tables, dump sql query result to json)</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/printb">printb</a></td><td>0</td><td>Python</td><td>Adds bidi aware 'print' and 'input' functions.</td></tr>
-<tr><td><a href="https://github.com/MoserMichael/tips_on_using_google_ai_mode">tips_on_using_google_ai_mode</a></td><td>0</td><td>Python</td><td>Tips on using google in AI mode, for privacy aware individuals</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/vimcrypt">vimcrypt</a></td><td>0</td><td>Vim script</td><td>my vim plugin for encrypting/decryting text files with openssl</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/visual-python-strace">visual-python-strace</a></td><td>0</td><td>Python</td><td>show a very long stack trace with variable values.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/zipit">zipit</a></td><td>0</td><td>C++</td><td>c++ library for the equivalent of python/haskell zip function</td></tr>
-<tr><th>Total stars:</th><th colspan='2' align='left'> 601 </th></tr>
+<tr><th>Total stars:</th><th colspan='2' align='left'> 602 </th></tr>
 </table>
 <br>
-old_date:  2026-04-30 02:10:56.547899 now: 2026-05-05 02:10:22.321385
-pythonimportplayground stars changed from: 5 to: 6
+old_date:  2026-05-05 02:10:22.321540 now: 2026-07-07 23:07:26.332809
+pyasmtool stars changed from: 318 to: 317
+kind-helper stars changed from: 24 to: 25
+s9k stars changed from: 21 to: 22
+cstuff stars changed from: 17 to: 16
+tips_on_using_google_ai_mode stars changed from: 0 to: 1
     </pre>
   </td>
 </table>
