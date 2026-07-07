@@ -63,7 +63,11 @@ apt install libffi-dev
 
 pip3 install --upgrade setuptools wheel
 
-pip3 install -r requirements.txt
+#pip3 install -r requirements.txt
+
+pip3 install PyGithub
+pip3 install websocket-client
+
 if [[ -f ../repo/starcounter.hex ]]; then
     ../repo/hex2bin.py -i ../repo/starcounter.hex -o starcounter.data 
 fi
