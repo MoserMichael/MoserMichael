@@ -1,17 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Tue Jul  7 23:07:11 UTC 2026
+Wed Jul  8 02:58:15 UTC 2026
 
 <pre>
 
- _______________________________________
-< You will have a long and boring life. >
- ---------------------------------------
+ _________________________________________
+/ Don't look now, but the man in the moon \
+\ is laughing at you.                     /
+ -----------------------------------------
         \   ^__^
-         \  (!!)\_______
+         \  (OO)\_______
             (__)\       )\/\
-             :( ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: -32 '(from -100..100) state: 'bad' eye: !! tongue: :(
+nltk score: 65 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
@@ -114,12 +115,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 602 </th></tr>
 </table>
 <br>
-old_date:  2026-05-05 02:10:22.321540 now: 2026-07-07 23:07:26.332809
-pyasmtool stars changed from: 318 to: 317
-kind-helper stars changed from: 24 to: 25
-s9k stars changed from: 21 to: 22
-cstuff stars changed from: 17 to: 16
-tips_on_using_google_ai_mode stars changed from: 0 to: 1
     </pre>
   </td>
 </table>
