@@ -1,18 +1,19 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Wed Jul  8 02:58:15 UTC 2026
+Thu Jul  9 03:37:17 UTC 2026
 
 <pre>
 
- _________________________________________
-/ Don't look now, but the man in the moon \
-\ is laughing at you.                     /
- -----------------------------------------
+ ____________________________________
+/ Talkers are no good doers.         \
+|                                    |
+\ -- William Shakespeare, "Henry VI" /
+ ------------------------------------
         \   ^__^
-         \  (OO)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :) ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: 65 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: 18 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
