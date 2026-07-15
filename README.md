@@ -1,26 +1,19 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Tue Jul 14 02:46:13 UTC 2026
+Wed Jul 15 02:44:06 UTC 2026
 
 <pre>
 
- _________________________________________
-/ I will honour Christmas in my heart,    \
-| and try to keep it all the year. I will |
-| live in the Past, the Present, and the  |
-| Future. The Spirits of all Three shall  |
-| strive within me. I will not shut out   |
-| the lessons that they teach. Oh, tell   |
-| me that I may sponge away the writing   |
-| on this stone!                          |
-|                                         |
-\ -- Charles Dickens                      /
- -----------------------------------------
+ ________________________________________
+/ If you learn one useless thing every   \
+| day, in a single year you'll learn 365 |
+\ useless things.                        /
+ ----------------------------------------
         \   ^__^
-         \  (OO)\_______
+         \  (~~)\_______
             (__)\       )\/\
-             :) ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 61 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: -68 '(from -100..100) state: 'very bad' eye: ~~ tongue: :(
 
 </pre>
 
@@ -123,8 +116,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 601 </th></tr>
 </table>
 <br>
-old_date:  2026-07-07 23:07:26.332976 now: 2026-07-14 02:46:29.270989
-duckduckbang stars changed from: 40 to: 39
     </pre>
   </td>
 </table>
