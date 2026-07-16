@@ -18,7 +18,7 @@ Views:
 		Count: 4 Unique: 1 Url: github.com
 		Count: 1 Unique: 1 Url: DuckDuckGo
 
-repo: pyasmtool views - total: 11 unique:  11
+repo: pyasmtool views - total: 12 unique:  12
 Views:
 	 2026-07-02 00:00:00+00:00 total: 1 unique: 1
 	 2026-07-03 00:00:00+00:00 total: 1 unique: 1
@@ -27,9 +27,10 @@ Views:
 	 2026-07-08 00:00:00+00:00 total: 2 unique: 2
 	 2026-07-09 00:00:00+00:00 total: 3 unique: 3
 	 2026-07-10 00:00:00+00:00 total: 2 unique: 2
+	 2026-07-14 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
 		Count: 3 Unique: 3 Url: github.com
-		Count: 1 Unique: 1 Url: Google
+		Count: 2 Unique: 2 Url: Google
 		Count: 1 Unique: 1 Url: news.ycombinator.com
 
 repo: githubapitools views - total: 9 unique:  2
@@ -39,7 +40,6 @@ Views:
 
 repo: s9k views - total: 9 unique:  5
 Views:
-	 2026-06-30 00:00:00+00:00 total: 1 unique: 1
 	 2026-07-01 00:00:00+00:00 total: 1 unique: 1
 	 2026-07-02 00:00:00+00:00 total: 2 unique: 2
 	 2026-07-04 00:00:00+00:00 total: 1 unique: 1
@@ -47,6 +47,7 @@ Views:
 	 2026-07-08 00:00:00+00:00 total: 1 unique: 1
 	 2026-07-10 00:00:00+00:00 total: 1 unique: 1
 	 2026-07-13 00:00:00+00:00 total: 1 unique: 1
+	 2026-07-14 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
 		Count: 1 Unique: 1 Url: Google
 
@@ -153,9 +154,11 @@ Views:
 	Referrers:
 		Count: 1 Unique: 1 Url: Google
 
-repo: gittools views - total: 1 unique:  1
+repo: gitblame views - total: 1 unique:  1
 Views:
-	 2026-06-30 00:00:00+00:00 total: 1 unique: 1
+	 2026-07-14 00:00:00+00:00 total: 1 unique: 1
+	Referrers:
+		Count: 1 Unique: 1 Url: Google
 
 repo: git_html_listing views - total: 1 unique:  1
 Views:
@@ -211,9 +214,9 @@ repo: docker-force-attach views - total: 0 unique:  0
 
 repo: download-artifacts views - total: 0 unique:  0
 
-repo: gitblame views - total: 0 unique:  0
-
 repo: github_pr_comments views - total: 0 unique:  0
+
+repo: gittools views - total: 0 unique:  0
 
 repo: go_pprof_analyse views - total: 0 unique:  0
 
@@ -243,4 +246,4 @@ repo: zipit views - total: 0 unique:  0
 
 
 ***
-Total views: 155
+Total views: 156
