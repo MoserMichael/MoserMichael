@@ -1,20 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Fri Jul 17 02:53:11 UTC 2026
+Sat Jul 18 02:45:27 UTC 2026
 
 <pre>
 
- _______________________________
-/ The surest protection against \
-| temptation is cowardice.      |
-|                               |
-\ -- Mark Twain                 /
- -------------------------------
+ ______________________________________
+/ A few hours grace before the madness \
+\ begins again.                        /
+ --------------------------------------
         \   ^__^
-         \  (oo)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :) ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: 32 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: -3 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
@@ -117,8 +115,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 602 </th></tr>
 </table>
 <br>
-old_date:  2026-07-14 02:46:29.271148 now: 2026-07-17 02:53:26.062723
-duckduckbang stars changed from: 39 to: 40
     </pre>
   </td>
 </table>
