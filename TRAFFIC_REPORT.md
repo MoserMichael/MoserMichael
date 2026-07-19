@@ -18,9 +18,8 @@ Views:
 		Count: 5 Unique: 1 Url: github.com
 		Count: 1 Unique: 1 Url: DuckDuckGo
 
-repo: pyasmtool views - total: 12 unique:  12
+repo: pyasmtool views - total: 13 unique:  12
 Views:
-	 2026-07-03 00:00:00+00:00 total: 1 unique: 1
 	 2026-07-04 00:00:00+00:00 total: 1 unique: 1
 	 2026-07-05 00:00:00+00:00 total: 1 unique: 1
 	 2026-07-08 00:00:00+00:00 total: 2 unique: 2
@@ -28,6 +27,7 @@ Views:
 	 2026-07-10 00:00:00+00:00 total: 2 unique: 2
 	 2026-07-14 00:00:00+00:00 total: 1 unique: 1
 	 2026-07-15 00:00:00+00:00 total: 1 unique: 1
+	 2026-07-17 00:00:00+00:00 total: 2 unique: 1
 	Referrers:
 		Count: 3 Unique: 3 Url: github.com
 		Count: 2 Unique: 2 Url: Google
@@ -69,21 +69,6 @@ Views:
 	Referrers:
 		Count: 2 Unique: 1 Url: reddit.com
 
-repo: kind-helper views - total: 5 unique:  4
-Views:
-	 2026-07-03 00:00:00+00:00 total: 1 unique: 1
-	 2026-07-09 00:00:00+00:00 total: 2 unique: 2
-	 2026-07-11 00:00:00+00:00 total: 1 unique: 1
-	 2026-07-12 00:00:00+00:00 total: 1 unique: 1
-
-repo: cppcombinator views - total: 4 unique:  4
-Views:
-	 2026-07-03 00:00:00+00:00 total: 1 unique: 1
-	 2026-07-05 00:00:00+00:00 total: 2 unique: 2
-	 2026-07-10 00:00:00+00:00 total: 1 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: Google
-
 repo: jscriptparse views - total: 4 unique:  4
 Views:
 	 2026-07-04 00:00:00+00:00 total: 1 unique: 1
@@ -91,6 +76,17 @@ Views:
 	 2026-07-08 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
 		Count: 1 Unique: 1 Url: github.com
+
+repo: kind-helper views - total: 4 unique:  3
+Views:
+	 2026-07-09 00:00:00+00:00 total: 2 unique: 2
+	 2026-07-11 00:00:00+00:00 total: 1 unique: 1
+	 2026-07-12 00:00:00+00:00 total: 1 unique: 1
+
+repo: cppcombinator views - total: 3 unique:  3
+Views:
+	 2026-07-05 00:00:00+00:00 total: 2 unique: 2
+	 2026-07-10 00:00:00+00:00 total: 1 unique: 1
 
 repo: my-notes views - total: 3 unique:  2
 Views:
@@ -107,15 +103,12 @@ Views:
 		Count: 2 Unique: 1 Url: github.com
 		Count: 1 Unique: 1 Url: Google
 
-repo: tips_on_using_google_ai_mode views - total: 3 unique:  3
+repo: teach-your-children-well views - total: 3 unique:  2
 Views:
-	 2026-07-03 00:00:00+00:00 total: 1 unique: 1
-	 2026-07-05 00:00:00+00:00 total: 1 unique: 1
-	 2026-07-06 00:00:00+00:00 total: 1 unique: 1
+	 2026-07-17 00:00:00+00:00 total: 3 unique: 2
 	Referrers:
+		Count: 2 Unique: 1 Url: github.com
 		Count: 1 Unique: 1 Url: Google
-		Count: 1 Unique: 1 Url: github.com
-		Count: 1 Unique: 1 Url: news.ycombinator.com
 
 repo: follow-kube-logs views - total: 2 unique:  2
 Views:
@@ -123,6 +116,21 @@ Views:
 	 2026-07-13 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
 		Count: 1 Unique: 1 Url: Google
+
+repo: gitblame views - total: 2 unique:  2
+Views:
+	 2026-07-14 00:00:00+00:00 total: 1 unique: 1
+	 2026-07-17 00:00:00+00:00 total: 1 unique: 1
+	Referrers:
+		Count: 1 Unique: 1 Url: Google
+
+repo: tips_on_using_google_ai_mode views - total: 2 unique:  2
+Views:
+	 2026-07-05 00:00:00+00:00 total: 1 unique: 1
+	 2026-07-06 00:00:00+00:00 total: 1 unique: 1
+	Referrers:
+		Count: 1 Unique: 1 Url: github.com
+		Count: 1 Unique: 1 Url: news.ycombinator.com
 
 repo: vimcrypt2 views - total: 2 unique:  1
 Views:
@@ -151,12 +159,6 @@ Views:
 	Referrers:
 		Count: 1 Unique: 1 Url: Google
 
-repo: gitblame views - total: 1 unique:  1
-Views:
-	 2026-07-14 00:00:00+00:00 total: 1 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: Google
-
 repo: git_html_listing views - total: 1 unique:  1
 Views:
 	 2026-06-28 00:00:00+00:00 total: 1 unique: 1
@@ -174,6 +176,10 @@ Views:
 repo: k8explain views - total: 1 unique:  1
 Views:
 	 2026-07-15 00:00:00+00:00 total: 1 unique: 1
+
+repo: ls-annotations views - total: 1 unique:  1
+Views:
+	 2026-07-17 00:00:00+00:00 total: 1 unique: 1
 
 repo: mphelper views - total: 1 unique:  1
 Views:
@@ -217,8 +223,6 @@ repo: jpa-enc-converter views - total: 0 unique:  0
 
 repo: kwchecker views - total: 0 unique:  0
 
-repo: ls-annotations views - total: 0 unique:  0
-
 repo: opinionated-fortune-cow views - total: 0 unique:  0
 
 repo: pghelp views - total: 0 unique:  0
@@ -233,10 +237,8 @@ repo: pythonimportplayground views - total: 0 unique:  0
 
 repo: rzgrep views - total: 0 unique:  0
 
-repo: teach-your-children-well views - total: 0 unique:  0
-
 repo: zipit views - total: 0 unique:  0
 
 
 ***
-Total views: 154
+Total views: 157
