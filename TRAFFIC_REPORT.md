@@ -32,7 +32,7 @@ Views:
 		Count: 2 Unique: 2 Url: news.ycombinator.com
 		Count: 1 Unique: 1 Url: DuckDuckGo
 
-repo: s9k views - total: 12 unique:  8
+repo: s9k views - total: 13 unique:  8
 Views:
 	 2026-07-07 00:00:00+00:00 total: 1 unique: 1
 	 2026-07-08 00:00:00+00:00 total: 1 unique: 1
@@ -42,6 +42,7 @@ Views:
 	 2026-07-15 00:00:00+00:00 total: 2 unique: 2
 	 2026-07-16 00:00:00+00:00 total: 4 unique: 2
 	 2026-07-19 00:00:00+00:00 total: 1 unique: 1
+	 2026-07-20 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
 		Count: 3 Unique: 2 Url: Google
 
@@ -91,6 +92,13 @@ Views:
 		Count: 2 Unique: 1 Url: github.com
 		Count: 1 Unique: 1 Url: Google
 
+repo: flagged-hn views - total: 2 unique:  2
+Views:
+	 2026-07-18 00:00:00+00:00 total: 1 unique: 1
+	 2026-07-20 00:00:00+00:00 total: 1 unique: 1
+	Referrers:
+		Count: 1 Unique: 1 Url: Google
+
 repo: follow-kube-logs views - total: 2 unique:  2
 Views:
 	 2026-07-12 00:00:00+00:00 total: 1 unique: 1
@@ -122,13 +130,6 @@ Views:
 	Referrers:
 		Count: 2 Unique: 1 Url: github.com
 
-repo: visual-python-strace views - total: 2 unique:  2
-Views:
-	 2026-07-06 00:00:00+00:00 total: 1 unique: 1
-	 2026-07-07 00:00:00+00:00 total: 1 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: Google
-
 repo: cppcombinator views - total: 1 unique:  1
 Views:
 	 2026-07-10 00:00:00+00:00 total: 1 unique: 1
@@ -140,12 +141,6 @@ Views:
 repo: dockerdashphp views - total: 1 unique:  1
 Views:
 	 2026-07-08 00:00:00+00:00 total: 1 unique: 1
-
-repo: flagged-hn views - total: 1 unique:  1
-Views:
-	 2026-07-18 00:00:00+00:00 total: 1 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: Google
 
 repo: git_html_listing views - total: 1 unique:  1
 Views:
@@ -175,23 +170,19 @@ repo: ls-annotations views - total: 1 unique:  1
 Views:
 	 2026-07-17 00:00:00+00:00 total: 1 unique: 1
 
-repo: mphelper views - total: 1 unique:  1
-Views:
-	 2026-07-06 00:00:00+00:00 total: 1 unique: 1
-
 repo: myenv views - total: 1 unique:  1
 Views:
 	 2026-07-19 00:00:00+00:00 total: 1 unique: 1
 
-repo: subb views - total: 1 unique:  1
+repo: pygamewrap views - total: 1 unique:  1
 Views:
-	 2026-07-06 00:00:00+00:00 total: 1 unique: 1
+	 2026-07-20 00:00:00+00:00 total: 1 unique: 1
 
-repo: tips_on_using_google_ai_mode views - total: 1 unique:  1
+repo: visual-python-strace views - total: 1 unique:  1
 Views:
-	 2026-07-06 00:00:00+00:00 total: 1 unique: 1
+	 2026-07-07 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
-		Count: 1 Unique: 1 Url: github.com
+		Count: 1 Unique: 1 Url: Google
 
 repo: datahelp views - total: 0 unique:  0
 
@@ -211,6 +202,8 @@ repo: jpa-enc-converter views - total: 0 unique:  0
 
 repo: kwchecker views - total: 0 unique:  0
 
+repo: mphelper views - total: 0 unique:  0
+
 repo: opinionated-fortune-cow views - total: 0 unique:  0
 
 repo: pghelp views - total: 0 unique:  0
@@ -219,13 +212,15 @@ repo: pprintex views - total: 0 unique:  0
 
 repo: printb views - total: 0 unique:  0
 
-repo: pygamewrap views - total: 0 unique:  0
-
 repo: pythoncourse views - total: 0 unique:  0
 
 repo: pythonimportplayground views - total: 0 unique:  0
 
 repo: rzgrep views - total: 0 unique:  0
+
+repo: subb views - total: 0 unique:  0
+
+repo: tips_on_using_google_ai_mode views - total: 0 unique:  0
 
 repo: vimcrypt views - total: 0 unique:  0
 
@@ -233,4 +228,4 @@ repo: zipit views - total: 0 unique:  0
 
 
 ***
-Total views: 151
+Total views: 150
