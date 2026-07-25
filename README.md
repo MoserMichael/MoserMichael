@@ -1,24 +1,17 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Fri Jul 24 02:54:11 UTC 2026
+Sat Jul 25 02:53:38 UTC 2026
 
 <pre>
 
- _________________________________________
-/ Whenever the literary German dives into \
-| a sentence, that is the last you are    |
-| going to see of him until he emerges on |
-| the other side of his Atlantic with his |
-| verb in his mouth.                      |
-|                                         |
-| -- Mark Twain "A Connecticut Yankee in  |
-\ King Arthur's Court"                    /
- -----------------------------------------
+ ___________________
+< Are you a turtle? >
+ -------------------
         \   ^__^
          \  (..)\_______
             (__)\       )\/\
              -- ||----w |
                 ||     ||
-nltk score: 8 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
