@@ -17,9 +17,8 @@ Views:
 		Count: 6 Unique: 2 Url: github.com
 		Count: 2 Unique: 2 Url: Google
 
-repo: s9k views - total: 14 unique:  9
+repo: s9k views - total: 13 unique:  9
 Views:
-	 2026-07-14 00:00:00+00:00 total: 1 unique: 1
 	 2026-07-15 00:00:00+00:00 total: 2 unique: 2
 	 2026-07-16 00:00:00+00:00 total: 4 unique: 2
 	 2026-07-19 00:00:00+00:00 total: 1 unique: 1
@@ -33,31 +32,35 @@ Views:
 
 repo: pyasmtool views - total: 7 unique:  6
 Views:
-	 2026-07-14 00:00:00+00:00 total: 1 unique: 1
 	 2026-07-15 00:00:00+00:00 total: 1 unique: 1
 	 2026-07-17 00:00:00+00:00 total: 2 unique: 1
 	 2026-07-18 00:00:00+00:00 total: 1 unique: 1
 	 2026-07-19 00:00:00+00:00 total: 1 unique: 1
 	 2026-07-22 00:00:00+00:00 total: 1 unique: 1
+	 2026-07-28 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
 		Count: 1 Unique: 1 Url: DuckDuckGo
-		Count: 1 Unique: 1 Url: Google
 		Count: 1 Unique: 1 Url: news.ycombinator.com
 
-repo: duckduckbang views - total: 5 unique:  5
+repo: subb views - total: 7 unique:  6
+Views:
+	 2026-07-25 00:00:00+00:00 total: 1 unique: 1
+	 2026-07-26 00:00:00+00:00 total: 4 unique: 4
+	 2026-07-28 00:00:00+00:00 total: 2 unique: 1
+	Referrers:
+		Count: 2 Unique: 1 Url: Google
+
+repo: duckduckbang views - total: 6 unique:  6
 Views:
 	 2026-07-18 00:00:00+00:00 total: 1 unique: 1
 	 2026-07-19 00:00:00+00:00 total: 1 unique: 1
 	 2026-07-21 00:00:00+00:00 total: 1 unique: 1
 	 2026-07-22 00:00:00+00:00 total: 1 unique: 1
 	 2026-07-25 00:00:00+00:00 total: 1 unique: 1
+	 2026-07-28 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
+		Count: 1 Unique: 1 Url: DuckDuckGo
 		Count: 1 Unique: 1 Url: mojeek.com
-
-repo: subb views - total: 5 unique:  5
-Views:
-	 2026-07-25 00:00:00+00:00 total: 1 unique: 1
-	 2026-07-26 00:00:00+00:00 total: 4 unique: 4
 
 repo: my-notes views - total: 4 unique:  3
 Views:
@@ -84,15 +87,6 @@ Views:
 	Referrers:
 		Count: 2 Unique: 2 Url: Google
 
-repo: gitblame views - total: 3 unique:  3
-Views:
-	 2026-07-14 00:00:00+00:00 total: 1 unique: 1
-	 2026-07-17 00:00:00+00:00 total: 1 unique: 1
-	 2026-07-22 00:00:00+00:00 total: 1 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: DuckDuckGo
-		Count: 1 Unique: 1 Url: Google
-
 repo: gittools views - total: 3 unique:  2
 Views:
 	 2026-07-18 00:00:00+00:00 total: 1 unique: 1
@@ -111,6 +105,13 @@ Views:
 	 2026-07-25 00:00:00+00:00 total: 2 unique: 1
 	Referrers:
 		Count: 2 Unique: 1 Url: github.com
+
+repo: gitblame views - total: 2 unique:  2
+Views:
+	 2026-07-17 00:00:00+00:00 total: 1 unique: 1
+	 2026-07-22 00:00:00+00:00 total: 1 unique: 1
+	Referrers:
+		Count: 1 Unique: 1 Url: DuckDuckGo
 
 repo: jq-illustrated views - total: 2 unique:  2
 Views:
@@ -247,4 +248,4 @@ repo: visual-python-strace views - total: 0 unique:  0
 
 
 ***
-Total views: 96
+Total views: 97
