@@ -101,12 +101,6 @@ Views:
 	Referrers:
 		Count: 2 Unique: 1 Url: github.com
 
-repo: gittools views - total: 3 unique:  2
-Views:
-	 2026-07-18 00:00:00+00:00 total: 1 unique: 1
-	 2026-07-19 00:00:00+00:00 total: 1 unique: 1
-	 2026-07-25 00:00:00+00:00 total: 1 unique: 1
-
 repo: roget-thesaurus-parser views - total: 3 unique:  3
 Views:
 	 2026-07-21 00:00:00+00:00 total: 1 unique: 1
@@ -114,6 +108,11 @@ Views:
 	 2026-07-31 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
 		Count: 2 Unique: 2 Url: Google
+
+repo: gittools views - total: 2 unique:  2
+Views:
+	 2026-07-19 00:00:00+00:00 total: 1 unique: 1
+	 2026-07-25 00:00:00+00:00 total: 1 unique: 1
 
 repo: jq-illustrated views - total: 2 unique:  2
 Views:
@@ -250,4 +249,4 @@ repo: vimcrypt2 views - total: 0 unique:  0
 
 
 ***
-Total views: 97
+Total views: 96
