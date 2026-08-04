@@ -16,6 +16,18 @@ Views:
 		Count: 4 Unique: 2 Url: github.com
 		Count: 1 Unique: 1 Url: Google
 
+repo: duckduckbang views - total: 12 unique:  6
+Views:
+	 2026-07-21 00:00:00+00:00 total: 1 unique: 1
+	 2026-07-22 00:00:00+00:00 total: 1 unique: 1
+	 2026-07-25 00:00:00+00:00 total: 1 unique: 1
+	 2026-07-28 00:00:00+00:00 total: 1 unique: 1
+	 2026-07-29 00:00:00+00:00 total: 1 unique: 1
+	 2026-08-01 00:00:00+00:00 total: 7 unique: 2
+	Referrers:
+		Count: 1 Unique: 1 Url: DuckDuckGo
+		Count: 1 Unique: 1 Url: mojeek.com
+
 repo: s9k views - total: 10 unique:  6
 Views:
 	 2026-07-19 00:00:00+00:00 total: 1 unique: 1
@@ -27,19 +39,6 @@ Views:
 	 2026-07-30 00:00:00+00:00 total: 2 unique: 2
 	Referrers:
 		Count: 1 Unique: 1 Url: search.brave.com
-
-repo: duckduckbang views - total: 7 unique:  7
-Views:
-	 2026-07-18 00:00:00+00:00 total: 1 unique: 1
-	 2026-07-19 00:00:00+00:00 total: 1 unique: 1
-	 2026-07-21 00:00:00+00:00 total: 1 unique: 1
-	 2026-07-22 00:00:00+00:00 total: 1 unique: 1
-	 2026-07-25 00:00:00+00:00 total: 1 unique: 1
-	 2026-07-28 00:00:00+00:00 total: 1 unique: 1
-	 2026-07-29 00:00:00+00:00 total: 1 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: DuckDuckGo
-		Count: 1 Unique: 1 Url: mojeek.com
 
 repo: subb views - total: 7 unique:  6
 Views:
@@ -73,17 +72,6 @@ Views:
 	Referrers:
 		Count: 1 Unique: 1 Url: Google
 
-repo: pyasmtool views - total: 5 unique:  4
-Views:
-	 2026-07-18 00:00:00+00:00 total: 1 unique: 1
-	 2026-07-19 00:00:00+00:00 total: 1 unique: 1
-	 2026-07-22 00:00:00+00:00 total: 1 unique: 1
-	 2026-07-28 00:00:00+00:00 total: 1 unique: 1
-	 2026-07-31 00:00:00+00:00 total: 1 unique: 1
-	Referrers:
-		Count: 2 Unique: 1 Url: DuckDuckGo
-		Count: 1 Unique: 1 Url: news.ycombinator.com
-
 repo: flagged-hn views - total: 4 unique:  4
 Views:
 	 2026-07-18 00:00:00+00:00 total: 1 unique: 1
@@ -100,6 +88,14 @@ Views:
 	 2026-07-31 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
 		Count: 2 Unique: 1 Url: github.com
+
+repo: pyasmtool views - total: 3 unique:  3
+Views:
+	 2026-07-22 00:00:00+00:00 total: 1 unique: 1
+	 2026-07-28 00:00:00+00:00 total: 1 unique: 1
+	 2026-07-31 00:00:00+00:00 total: 1 unique: 1
+	Referrers:
+		Count: 1 Unique: 1 Url: DuckDuckGo
 
 repo: roget-thesaurus-parser views - total: 3 unique:  3
 Views:
@@ -249,4 +245,4 @@ repo: vimcrypt2 views - total: 0 unique:  0
 
 
 ***
-Total views: 96
+Total views: 99
