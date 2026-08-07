@@ -1,28 +1,20 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Thu Aug  6 02:49:00 UTC 2026
+Fri Aug  7 02:48:23 UTC 2026
 
 <pre>
 
- _________________________________________
-/ The lovely woman-child Kaa was          \
-| mercilessly chained to the cruel post   |
-| of the warrior-chief Beast, with his    |
-| barbarian tribe now stacking wood at    |
-| her nubile feet, when the strong clear  |
-| voice of the poetic and heroic          |
-| Handsomas roared, 'Flick your Bic,      |
-| crisp that chick, and you'll feel my    |
-| steel through your last meal!'          |
-|                                         |
-| -- Winning sentence, 1984 Bulwer-Lytton |
-\ bad fiction contest.                    /
- -----------------------------------------
+ ________________________________________
+/ Alas, how love can trifle with itself! \
+|                                        |
+| -- William Shakespeare, "The Two       |
+\ Gentlemen of Verona"                   /
+ ----------------------------------------
         \   ^__^
-         \  (OO)\_______
+         \  (oo)\_______
             (__)\       )\/\
              :) ||----w |
                 ||     ||
-nltk score: 87 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: 53 '(from -100..100) state: 'good' eye: oo tongue: :)
 
 </pre>
 
