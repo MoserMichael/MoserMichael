@@ -43,6 +43,13 @@ Views:
 	Referrers:
 		Count: 2 Unique: 1 Url: Google
 
+repo: roget-thesaurus-parser views - total: 8 unique:  2
+Views:
+	 2026-07-31 00:00:00+00:00 total: 1 unique: 1
+	 2026-08-07 00:00:00+00:00 total: 7 unique: 1
+	Referrers:
+		Count: 6 Unique: 1 Url: Google
+
 repo: s9k views - total: 7 unique:  3
 Views:
 	 2026-07-26 00:00:00+00:00 total: 1 unique: 1
@@ -68,6 +75,17 @@ Views:
 	Referrers:
 		Count: 5 Unique: 2 Url: github.com
 
+repo: pyasmtool views - total: 5 unique:  5
+Views:
+	 2026-07-28 00:00:00+00:00 total: 1 unique: 1
+	 2026-07-31 00:00:00+00:00 total: 1 unique: 1
+	 2026-08-03 00:00:00+00:00 total: 1 unique: 1
+	 2026-08-04 00:00:00+00:00 total: 1 unique: 1
+	 2026-08-07 00:00:00+00:00 total: 1 unique: 1
+	Referrers:
+		Count: 1 Unique: 1 Url: DuckDuckGo
+		Count: 1 Unique: 1 Url: github.com
+
 repo: githubapitools views - total: 4 unique:  1
 Views:
 	 2026-07-29 00:00:00+00:00 total: 4 unique: 1
@@ -80,16 +98,6 @@ Views:
 	 2026-08-02 00:00:00+00:00 total: 1 unique: 1
 	 2026-08-04 00:00:00+00:00 total: 1 unique: 1
 	 2026-08-05 00:00:00+00:00 total: 1 unique: 1
-
-repo: pyasmtool views - total: 4 unique:  4
-Views:
-	 2026-07-28 00:00:00+00:00 total: 1 unique: 1
-	 2026-07-31 00:00:00+00:00 total: 1 unique: 1
-	 2026-08-03 00:00:00+00:00 total: 1 unique: 1
-	 2026-08-04 00:00:00+00:00 total: 1 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: DuckDuckGo
-		Count: 1 Unique: 1 Url: github.com
 
 repo: myenv views - total: 3 unique:  3
 Views:
@@ -184,10 +192,6 @@ Views:
 	Referrers:
 		Count: 1 Unique: 1 Url: reddit.com
 
-repo: roget-thesaurus-parser views - total: 1 unique:  1
-Views:
-	 2026-07-31 00:00:00+00:00 total: 1 unique: 1
-
 repo: rzgrep views - total: 1 unique:  1
 Views:
 	 2026-07-26 00:00:00+00:00 total: 1 unique: 1
@@ -240,4 +244,4 @@ repo: pythonimportplayground views - total: 0 unique:  0
 
 
 ***
-Total views: 114
+Total views: 122
