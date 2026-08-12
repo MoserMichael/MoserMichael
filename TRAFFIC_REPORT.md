@@ -45,10 +45,11 @@ Views:
 	Referrers:
 		Count: 1 Unique: 1 Url: Google
 
-repo: subb views - total: 6 unique:  5
+repo: subb views - total: 7 unique:  6
 Views:
 	 2026-07-28 00:00:00+00:00 total: 2 unique: 1
 	 2026-08-04 00:00:00+00:00 total: 4 unique: 4
+	 2026-08-10 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
 		Count: 2 Unique: 1 Url: Google
 
@@ -76,6 +77,15 @@ Views:
 	 2026-08-04 00:00:00+00:00 total: 1 unique: 1
 	 2026-08-05 00:00:00+00:00 total: 1 unique: 1
 
+repo: vimcrypt views - total: 4 unique:  3
+Views:
+	 2026-07-29 00:00:00+00:00 total: 1 unique: 1
+	 2026-08-04 00:00:00+00:00 total: 2 unique: 1
+	 2026-08-10 00:00:00+00:00 total: 1 unique: 1
+	Referrers:
+		Count: 2 Unique: 1 Url: search.brave.com
+		Count: 1 Unique: 1 Url: Google
+
 repo: cstuff views - total: 3 unique:  3
 Views:
 	 2026-07-31 00:00:00+00:00 total: 1 unique: 1
@@ -88,21 +98,6 @@ Views:
 	Referrers:
 		Count: 3 Unique: 1 Url: github.com
 
-repo: my-notes views - total: 3 unique:  3
-Views:
-	 2026-07-27 00:00:00+00:00 total: 1 unique: 1
-	 2026-08-04 00:00:00+00:00 total: 1 unique: 1
-	 2026-08-09 00:00:00+00:00 total: 1 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: Google
-
-repo: vimcrypt views - total: 3 unique:  2
-Views:
-	 2026-07-29 00:00:00+00:00 total: 1 unique: 1
-	 2026-08-04 00:00:00+00:00 total: 2 unique: 1
-	Referrers:
-		Count: 2 Unique: 1 Url: search.brave.com
-
 repo: vimcrypt2 views - total: 3 unique:  2
 Views:
 	 2026-08-04 00:00:00+00:00 total: 2 unique: 1
@@ -112,16 +107,24 @@ Views:
 		Count: 1 Unique: 1 Url: github.com
 		Count: 1 Unique: 1 Url: search.brave.com
 
+repo: my-notes views - total: 2 unique:  2
+Views:
+	 2026-08-04 00:00:00+00:00 total: 1 unique: 1
+	 2026-08-09 00:00:00+00:00 total: 1 unique: 1
+	Referrers:
+		Count: 1 Unique: 1 Url: Google
+
+repo: myenv views - total: 2 unique:  2
+Views:
+	 2026-07-30 00:00:00+00:00 total: 1 unique: 1
+	 2026-08-10 00:00:00+00:00 total: 1 unique: 1
+
 repo: tips_on_using_google_ai_mode views - total: 2 unique:  2
 Views:
 	 2026-08-02 00:00:00+00:00 total: 1 unique: 1
 	 2026-08-06 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
 		Count: 2 Unique: 2 Url: github.com
-
-repo: docker-force-attach views - total: 1 unique:  1
-Views:
-	 2026-07-27 00:00:00+00:00 total: 1 unique: 1
 
 repo: dockerdashphp views - total: 1 unique:  1
 Views:
@@ -139,9 +142,9 @@ Views:
 	Referrers:
 		Count: 1 Unique: 1 Url: DuckDuckGo
 
-repo: grpc-spring-boot-starter-utils views - total: 1 unique:  1
+repo: jpa-enc-converter views - total: 1 unique:  1
 Views:
-	 2026-07-27 00:00:00+00:00 total: 1 unique: 1
+	 2026-08-10 00:00:00+00:00 total: 1 unique: 1
 
 repo: kwchecker views - total: 1 unique:  1
 Views:
@@ -149,9 +152,9 @@ Views:
 	Referrers:
 		Count: 1 Unique: 1 Url: Google
 
-repo: myenv views - total: 1 unique:  1
+repo: ls-annotations views - total: 1 unique:  1
 Views:
-	 2026-07-30 00:00:00+00:00 total: 1 unique: 1
+	 2026-08-10 00:00:00+00:00 total: 1 unique: 1
 
 repo: pghelp views - total: 1 unique:  1
 Views:
@@ -165,12 +168,6 @@ Views:
 	Referrers:
 		Count: 1 Unique: 1 Url: reddit.com
 
-repo: teach-your-children-well views - total: 1 unique:  1
-Views:
-	 2026-07-27 00:00:00+00:00 total: 1 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: github.com
-
 repo: visual-python-strace views - total: 1 unique:  1
 Views:
 	 2026-07-29 00:00:00+00:00 total: 1 unique: 1
@@ -180,6 +177,8 @@ repo: cppcombinator views - total: 0 unique:  0
 repo: datahelp views - total: 0 unique:  0
 
 repo: devgoodies views - total: 0 unique:  0
+
+repo: docker-force-attach views - total: 0 unique:  0
 
 repo: download-artifacts views - total: 0 unique:  0
 
@@ -193,17 +192,15 @@ repo: git_html_listing views - total: 0 unique:  0
 
 repo: go_pprof_analyse views - total: 0 unique:  0
 
-repo: jobinterviewhomework views - total: 0 unique:  0
+repo: grpc-spring-boot-starter-utils views - total: 0 unique:  0
 
-repo: jpa-enc-converter views - total: 0 unique:  0
+repo: jobinterviewhomework views - total: 0 unique:  0
 
 repo: jq-illustrated views - total: 0 unique:  0
 
 repo: jscriptparse views - total: 0 unique:  0
 
 repo: k8explain views - total: 0 unique:  0
-
-repo: ls-annotations views - total: 0 unique:  0
 
 repo: mphelper views - total: 0 unique:  0
 
@@ -219,8 +216,10 @@ repo: pythonimportplayground views - total: 0 unique:  0
 
 repo: rzgrep views - total: 0 unique:  0
 
+repo: teach-your-children-well views - total: 0 unique:  0
+
 repo: zipit views - total: 0 unique:  0
 
 
 ***
-Total views: 92
+Total views: 93
