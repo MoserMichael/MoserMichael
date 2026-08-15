@@ -16,12 +16,13 @@ Views:
 	 2026-08-08 00:00:00+00:00 total: 1 unique: 1
 	 2026-08-12 00:00:00+00:00 total: 1 unique: 1
 
-repo: duckduckbang views - total: 12 unique:  7
+repo: duckduckbang views - total: 13 unique:  8
 Views:
 	 2026-08-01 00:00:00+00:00 total: 7 unique: 2
 	 2026-08-03 00:00:00+00:00 total: 3 unique: 3
 	 2026-08-04 00:00:00+00:00 total: 1 unique: 1
 	 2026-08-12 00:00:00+00:00 total: 1 unique: 1
+	 2026-08-13 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
 		Count: 1 Unique: 1 Url: fmhy.net
 		Count: 1 Unique: 1 Url: fmhy.xyz
@@ -50,13 +51,21 @@ Views:
 	Referrers:
 		Count: 2 Unique: 1 Url: github.com
 
-repo: s9k views - total: 6 unique:  3
+repo: kind-helper views - total: 5 unique:  5
 Views:
-	 2026-07-30 00:00:00+00:00 total: 2 unique: 2
+	 2026-08-01 00:00:00+00:00 total: 1 unique: 1
+	 2026-08-02 00:00:00+00:00 total: 1 unique: 1
+	 2026-08-04 00:00:00+00:00 total: 1 unique: 1
+	 2026-08-05 00:00:00+00:00 total: 1 unique: 1
+	 2026-08-13 00:00:00+00:00 total: 1 unique: 1
+
+repo: s9k views - total: 5 unique:  2
+Views:
 	 2026-08-02 00:00:00+00:00 total: 1 unique: 1
 	 2026-08-03 00:00:00+00:00 total: 1 unique: 1
 	 2026-08-05 00:00:00+00:00 total: 1 unique: 1
 	 2026-08-08 00:00:00+00:00 total: 1 unique: 1
+	 2026-08-13 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
 		Count: 1 Unique: 1 Url: Google
 
@@ -65,6 +74,14 @@ Views:
 	 2026-08-04 00:00:00+00:00 total: 4 unique: 4
 	 2026-08-10 00:00:00+00:00 total: 1 unique: 1
 
+repo: tips_on_using_google_ai_mode views - total: 5 unique:  3
+Views:
+	 2026-08-02 00:00:00+00:00 total: 1 unique: 1
+	 2026-08-06 00:00:00+00:00 total: 1 unique: 1
+	 2026-08-13 00:00:00+00:00 total: 3 unique: 1
+	Referrers:
+		Count: 2 Unique: 2 Url: github.com
+
 repo: gitblame views - total: 4 unique:  2
 Views:
 	 2026-08-04 00:00:00+00:00 total: 1 unique: 1
@@ -72,13 +89,6 @@ Views:
 	Referrers:
 		Count: 3 Unique: 1 Url: Bing
 		Count: 1 Unique: 1 Url: DuckDuckGo
-
-repo: kind-helper views - total: 4 unique:  4
-Views:
-	 2026-08-01 00:00:00+00:00 total: 1 unique: 1
-	 2026-08-02 00:00:00+00:00 total: 1 unique: 1
-	 2026-08-04 00:00:00+00:00 total: 1 unique: 1
-	 2026-08-05 00:00:00+00:00 total: 1 unique: 1
 
 repo: pyasmtool views - total: 4 unique:  4
 Views:
@@ -89,14 +99,6 @@ Views:
 	Referrers:
 		Count: 1 Unique: 1 Url: DuckDuckGo
 		Count: 1 Unique: 1 Url: github.com
-
-repo: myenv views - total: 3 unique:  3
-Views:
-	 2026-07-30 00:00:00+00:00 total: 1 unique: 1
-	 2026-08-10 00:00:00+00:00 total: 1 unique: 1
-	 2026-08-12 00:00:00+00:00 total: 1 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: Google
 
 repo: vimcrypt views - total: 3 unique:  2
 Views:
@@ -115,17 +117,22 @@ Views:
 		Count: 1 Unique: 1 Url: github.com
 		Count: 1 Unique: 1 Url: search.brave.com
 
-repo: flagged-hn views - total: 2 unique:  2
+repo: dockerdashphp views - total: 2 unique:  2
 Views:
-	 2026-07-30 00:00:00+00:00 total: 1 unique: 1
-	 2026-08-11 00:00:00+00:00 total: 1 unique: 1
-	Referrers:
-		Count: 2 Unique: 2 Url: news.ycombinator.com
+	 2026-08-02 00:00:00+00:00 total: 1 unique: 1
+	 2026-08-13 00:00:00+00:00 total: 1 unique: 1
 
 repo: my-notes views - total: 2 unique:  2
 Views:
 	 2026-08-04 00:00:00+00:00 total: 1 unique: 1
 	 2026-08-09 00:00:00+00:00 total: 1 unique: 1
+	Referrers:
+		Count: 1 Unique: 1 Url: Google
+
+repo: myenv views - total: 2 unique:  2
+Views:
+	 2026-08-10 00:00:00+00:00 total: 1 unique: 1
+	 2026-08-12 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
 		Count: 1 Unique: 1 Url: Google
 
@@ -136,20 +143,19 @@ Views:
 	Referrers:
 		Count: 1 Unique: 1 Url: Google
 
-repo: tips_on_using_google_ai_mode views - total: 2 unique:  2
+repo: flagged-hn views - total: 1 unique:  1
 Views:
-	 2026-08-02 00:00:00+00:00 total: 1 unique: 1
-	 2026-08-06 00:00:00+00:00 total: 1 unique: 1
+	 2026-08-11 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
-		Count: 2 Unique: 2 Url: github.com
-
-repo: dockerdashphp views - total: 1 unique:  1
-Views:
-	 2026-08-02 00:00:00+00:00 total: 1 unique: 1
+		Count: 1 Unique: 1 Url: news.ycombinator.com
 
 repo: go_pprof_analyse views - total: 1 unique:  1
 Views:
 	 2026-08-11 00:00:00+00:00 total: 1 unique: 1
+
+repo: jscriptparse views - total: 1 unique:  1
+Views:
+	 2026-08-13 00:00:00+00:00 total: 1 unique: 1
 
 repo: kwchecker views - total: 1 unique:  1
 Views:
@@ -197,8 +203,6 @@ repo: jobinterviewhomework views - total: 0 unique:  0
 
 repo: jq-illustrated views - total: 0 unique:  0
 
-repo: jscriptparse views - total: 0 unique:  0
-
 repo: k8explain views - total: 0 unique:  0
 
 repo: MoserMichael views - total: 0 unique:  0
@@ -223,4 +227,4 @@ repo: zipit views - total: 0 unique:  0
 
 
 ***
-Total views: 100
+Total views: 104
