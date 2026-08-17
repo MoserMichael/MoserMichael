@@ -17,23 +17,25 @@ Views:
 	 2026-08-12 00:00:00+00:00 total: 1 unique: 1
 	 2026-08-14 00:00:00+00:00 total: 1 unique: 1
 
-repo: duckduckbang views - total: 13 unique:  8
-Views:
-	 2026-08-01 00:00:00+00:00 total: 7 unique: 2
-	 2026-08-03 00:00:00+00:00 total: 3 unique: 3
-	 2026-08-04 00:00:00+00:00 total: 1 unique: 1
-	 2026-08-12 00:00:00+00:00 total: 1 unique: 1
-	 2026-08-13 00:00:00+00:00 total: 1 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: fmhy.net
-		Count: 1 Unique: 1 Url: fmhy.xyz
-
 repo: jpa-enc-converter views - total: 10 unique:  2
 Views:
 	 2026-08-10 00:00:00+00:00 total: 1 unique: 1
 	 2026-08-11 00:00:00+00:00 total: 9 unique: 1
 	Referrers:
 		Count: 9 Unique: 1 Url: Google
+
+repo: s9k views - total: 9 unique:  4
+Views:
+	 2026-08-02 00:00:00+00:00 total: 1 unique: 1
+	 2026-08-03 00:00:00+00:00 total: 1 unique: 1
+	 2026-08-05 00:00:00+00:00 total: 1 unique: 1
+	 2026-08-08 00:00:00+00:00 total: 1 unique: 1
+	 2026-08-13 00:00:00+00:00 total: 1 unique: 1
+	 2026-08-14 00:00:00+00:00 total: 1 unique: 1
+	 2026-08-15 00:00:00+00:00 total: 3 unique: 2
+	Referrers:
+		Count: 1 Unique: 1 Url: Google
+		Count: 1 Unique: 1 Url: github.com
 
 repo: roget-thesaurus-parser views - total: 8 unique:  2
 Views:
@@ -42,45 +44,48 @@ Views:
 	Referrers:
 		Count: 7 Unique: 2 Url: Google
 
-repo: s9k views - total: 6 unique:  3
-Views:
-	 2026-08-02 00:00:00+00:00 total: 1 unique: 1
-	 2026-08-03 00:00:00+00:00 total: 1 unique: 1
-	 2026-08-05 00:00:00+00:00 total: 1 unique: 1
-	 2026-08-08 00:00:00+00:00 total: 1 unique: 1
-	 2026-08-13 00:00:00+00:00 total: 1 unique: 1
-	 2026-08-14 00:00:00+00:00 total: 1 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: Google
-
-repo: cstuff views - total: 5 unique:  4
+repo: cstuff views - total: 7 unique:  6
 Views:
 	 2026-08-03 00:00:00+00:00 total: 1 unique: 1
 	 2026-08-04 00:00:00+00:00 total: 1 unique: 1
 	 2026-08-11 00:00:00+00:00 total: 3 unique: 2
+	 2026-08-15 00:00:00+00:00 total: 2 unique: 2
 	Referrers:
 		Count: 2 Unique: 1 Url: github.com
 
-repo: kind-helper views - total: 5 unique:  5
+repo: duckduckbang views - total: 7 unique:  7
 Views:
-	 2026-08-01 00:00:00+00:00 total: 1 unique: 1
-	 2026-08-02 00:00:00+00:00 total: 1 unique: 1
+	 2026-08-03 00:00:00+00:00 total: 3 unique: 3
 	 2026-08-04 00:00:00+00:00 total: 1 unique: 1
-	 2026-08-05 00:00:00+00:00 total: 1 unique: 1
+	 2026-08-12 00:00:00+00:00 total: 1 unique: 1
 	 2026-08-13 00:00:00+00:00 total: 1 unique: 1
+	 2026-08-15 00:00:00+00:00 total: 1 unique: 1
+	Referrers:
+		Count: 1 Unique: 1 Url: fmhy.net
+		Count: 1 Unique: 1 Url: fmhy.xyz
+
+repo: tips_on_using_google_ai_mode views - total: 6 unique:  4
+Views:
+	 2026-08-02 00:00:00+00:00 total: 1 unique: 1
+	 2026-08-06 00:00:00+00:00 total: 1 unique: 1
+	 2026-08-13 00:00:00+00:00 total: 3 unique: 1
+	 2026-08-15 00:00:00+00:00 total: 1 unique: 1
+	Referrers:
+		Count: 2 Unique: 2 Url: github.com
+
+repo: pyasmtool views - total: 5 unique:  5
+Views:
+	 2026-08-03 00:00:00+00:00 total: 1 unique: 1
+	 2026-08-04 00:00:00+00:00 total: 1 unique: 1
+	 2026-08-07 00:00:00+00:00 total: 1 unique: 1
+	 2026-08-15 00:00:00+00:00 total: 2 unique: 2
+	Referrers:
+		Count: 1 Unique: 1 Url: github.com
 
 repo: subb views - total: 5 unique:  5
 Views:
 	 2026-08-04 00:00:00+00:00 total: 4 unique: 4
 	 2026-08-10 00:00:00+00:00 total: 1 unique: 1
-
-repo: tips_on_using_google_ai_mode views - total: 5 unique:  3
-Views:
-	 2026-08-02 00:00:00+00:00 total: 1 unique: 1
-	 2026-08-06 00:00:00+00:00 total: 1 unique: 1
-	 2026-08-13 00:00:00+00:00 total: 3 unique: 1
-	Referrers:
-		Count: 2 Unique: 2 Url: github.com
 
 repo: gitblame views - total: 4 unique:  2
 Views:
@@ -90,13 +95,12 @@ Views:
 		Count: 3 Unique: 1 Url: Bing
 		Count: 1 Unique: 1 Url: DuckDuckGo
 
-repo: pyasmtool views - total: 3 unique:  3
+repo: kind-helper views - total: 4 unique:  4
 Views:
-	 2026-08-03 00:00:00+00:00 total: 1 unique: 1
+	 2026-08-02 00:00:00+00:00 total: 1 unique: 1
 	 2026-08-04 00:00:00+00:00 total: 1 unique: 1
-	 2026-08-07 00:00:00+00:00 total: 1 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: github.com
+	 2026-08-05 00:00:00+00:00 total: 1 unique: 1
+	 2026-08-13 00:00:00+00:00 total: 1 unique: 1
 
 repo: vimcrypt views - total: 3 unique:  2
 Views:
@@ -165,6 +169,16 @@ repo: ls-annotations views - total: 1 unique:  1
 Views:
 	 2026-08-10 00:00:00+00:00 total: 1 unique: 1
 
+repo: MoserMichael views - total: 1 unique:  1
+Views:
+	 2026-08-15 00:00:00+00:00 total: 1 unique: 1
+	Referrers:
+		Count: 1 Unique: 1 Url: github.com
+
+repo: mphelper views - total: 1 unique:  1
+Views:
+	 2026-08-15 00:00:00+00:00 total: 1 unique: 1
+
 repo: pygamewrap views - total: 1 unique:  1
 Views:
 	 2026-08-03 00:00:00+00:00 total: 1 unique: 1
@@ -203,10 +217,6 @@ repo: jq-illustrated views - total: 0 unique:  0
 
 repo: k8explain views - total: 0 unique:  0
 
-repo: MoserMichael views - total: 0 unique:  0
-
-repo: mphelper views - total: 0 unique:  0
-
 repo: opinionated-fortune-cow views - total: 0 unique:  0
 
 repo: pprintex views - total: 0 unique:  0
@@ -225,4 +235,4 @@ repo: zipit views - total: 0 unique:  0
 
 
 ***
-Total views: 103
+Total views: 106

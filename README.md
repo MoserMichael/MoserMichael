@@ -1,21 +1,19 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sun Aug 16 01:32:34 UTC 2026
+Mon Aug 17 01:25:36 UTC 2026
 
 <pre>
 
- ________________________________________
-/ Q: Why do the police always travel in  \
-| threes? A: One to do the reading, one  |
-| to do the writing, and the other keeps |
-|                                        |
-\ an eye on the two intellectuals.       /
- ----------------------------------------
+ _________________________________________
+/ While you recently had your problems on \
+| the run, they've regrouped and are      |
+\ making another attack.                  /
+ -----------------------------------------
         \   ^__^
-         \  (oo)\_______
+         \  (~~)\_______
             (__)\       )\/\
-             :) ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 38 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: -70 '(from -100..100) state: 'very bad' eye: ~~ tongue: :(
 
 </pre>
 
@@ -118,8 +116,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 600 </th></tr>
 </table>
 <br>
-old_date:  2026-07-27 03:29:22.467062 now: 2026-08-16 01:32:50.115522
-pyasmtool stars changed from: 317 to: 316
     </pre>
   </td>
 </table>
