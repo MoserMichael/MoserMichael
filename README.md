@@ -1,19 +1,30 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Mon Aug 17 01:25:36 UTC 2026
+Tue Aug 18 01:22:33 UTC 2026
 
 <pre>
 
  _________________________________________
-/ While you recently had your problems on \
-| the run, they've regrouped and are      |
-\ making another attack.                  /
+/ Mind! I don't mean to say that I know,  \
+| of my own knowledge, what there is      |
+| particularly dead about a door-nail. I  |
+| might have been inclined, myself, to    |
+| regard a coffin-nail as the deadest     |
+| piece of ironmongery in the trade. But  |
+| the wisdom of our ancestors is in the   |
+| simile; and my unhallowed hands shall   |
+| not disturb it, or the Country's done   |
+| for. You will therefore permit me to    |
+| repeat, emphatically, that Marley was   |
+| as dead as a door-nail.                 |
+|                                         |
+\ -- Charles Dickens, "A Christmas Carol" /
  -----------------------------------------
         \   ^__^
-         \  (~~)\_______
+         \  (!!)\_______
             (__)\       )\/\
              :( ||----w |
                 ||     ||
-nltk score: -70 '(from -100..100) state: 'very bad' eye: ~~ tongue: :(
+nltk score: -46 '(from -100..100) state: 'bad' eye: !! tongue: :(
 
 </pre>
 
