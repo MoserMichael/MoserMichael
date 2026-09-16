@@ -9,7 +9,6 @@ Traffic report for user Michael Moser
 
 repo: s9k views - total: 36 unique:  6
 Views:
-	 2026-08-31 00:00:00+00:00 total: 3 unique: 2
 	 2026-09-01 00:00:00+00:00 total: 1 unique: 1
 	 2026-09-02 00:00:00+00:00 total: 2 unique: 1
 	 2026-09-03 00:00:00+00:00 total: 1 unique: 1
@@ -23,11 +22,12 @@ Views:
 	 2026-09-11 00:00:00+00:00 total: 4 unique: 2
 	 2026-09-12 00:00:00+00:00 total: 2 unique: 2
 	 2026-09-13 00:00:00+00:00 total: 8 unique: 3
+	 2026-09-14 00:00:00+00:00 total: 3 unique: 1
 	Referrers:
 		Count: 1 Unique: 1 Url: Google
 		Count: 1 Unique: 1 Url: search.brave.com
 
-repo: tips_on_using_google_ai_mode views - total: 26 unique:  15
+repo: tips_on_using_google_ai_mode views - total: 28 unique:  17
 Views:
 	 2026-09-01 00:00:00+00:00 total: 4 unique: 3
 	 2026-09-04 00:00:00+00:00 total: 1 unique: 1
@@ -36,20 +36,23 @@ Views:
 	 2026-09-10 00:00:00+00:00 total: 3 unique: 1
 	 2026-09-11 00:00:00+00:00 total: 5 unique: 4
 	 2026-09-12 00:00:00+00:00 total: 8 unique: 5
+	 2026-09-14 00:00:00+00:00 total: 2 unique: 2
 	Referrers:
-		Count: 15 Unique: 11 Url: Google
+		Count: 17 Unique: 13 Url: Google
 		Count: 2 Unique: 1 Url: chatgpt.com
 
-repo: pyasmtool views - total: 13 unique:  9
+repo: pyasmtool views - total: 15 unique:  10
 Views:
 	 2026-09-02 00:00:00+00:00 total: 5 unique: 3
 	 2026-09-03 00:00:00+00:00 total: 1 unique: 1
 	 2026-09-08 00:00:00+00:00 total: 3 unique: 3
 	 2026-09-09 00:00:00+00:00 total: 1 unique: 1
 	 2026-09-10 00:00:00+00:00 total: 3 unique: 3
+	 2026-09-14 00:00:00+00:00 total: 2 unique: 2
 	Referrers:
 		Count: 3 Unique: 2 Url: news.ycombinator.com
 		Count: 1 Unique: 1 Url: Bing
+		Count: 1 Unique: 1 Url: Google
 
 repo: jq-illustrated views - total: 12 unique:  2
 Views:
@@ -64,9 +67,8 @@ Views:
 		Count: 11 Unique: 1 Url: mosermichael.github.io
 		Count: 1 Unique: 1 Url: github.com
 
-repo: cppcombinator views - total: 11 unique:  3
+repo: cppcombinator views - total: 10 unique:  3
 Views:
-	 2026-08-31 00:00:00+00:00 total: 1 unique: 1
 	 2026-09-02 00:00:00+00:00 total: 2 unique: 1
 	 2026-09-03 00:00:00+00:00 total: 1 unique: 1
 	 2026-09-07 00:00:00+00:00 total: 1 unique: 1
@@ -75,9 +77,8 @@ Views:
 	 2026-09-11 00:00:00+00:00 total: 2 unique: 2
 	 2026-09-13 00:00:00+00:00 total: 1 unique: 1
 
-repo: duckduckbang views - total: 8 unique:  6
+repo: duckduckbang views - total: 7 unique:  5
 Views:
-	 2026-08-31 00:00:00+00:00 total: 1 unique: 1
 	 2026-09-03 00:00:00+00:00 total: 2 unique: 1
 	 2026-09-07 00:00:00+00:00 total: 1 unique: 1
 	 2026-09-08 00:00:00+00:00 total: 1 unique: 1
@@ -87,13 +88,23 @@ Views:
 	Referrers:
 		Count: 1 Unique: 1 Url: chatgpt.com
 
-repo: follow-kube-logs views - total: 5 unique:  2
+repo: follow-kube-logs views - total: 6 unique:  3
 Views:
 	 2026-09-03 00:00:00+00:00 total: 1 unique: 1
 	 2026-09-07 00:00:00+00:00 total: 4 unique: 1
+	 2026-09-14 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
 		Count: 4 Unique: 1 Url: yandex.ru
-		Count: 1 Unique: 1 Url: Google
+		Count: 2 Unique: 2 Url: Google
+
+repo: MoserMichael views - total: 4 unique:  2
+Views:
+	 2026-09-05 00:00:00+00:00 total: 1 unique: 1
+	 2026-09-08 00:00:00+00:00 total: 1 unique: 1
+	 2026-09-11 00:00:00+00:00 total: 1 unique: 1
+	 2026-09-14 00:00:00+00:00 total: 1 unique: 1
+	Referrers:
+		Count: 3 Unique: 1 Url: github.com
 
 repo: rzgrep views - total: 4 unique:  4
 Views:
@@ -118,13 +129,18 @@ Views:
 	 2026-09-07 00:00:00+00:00 total: 1 unique: 1
 	 2026-09-12 00:00:00+00:00 total: 2 unique: 1
 
-repo: MoserMichael views - total: 3 unique:  2
+repo: python-obj-system views - total: 3 unique:  2
 Views:
-	 2026-09-05 00:00:00+00:00 total: 1 unique: 1
-	 2026-09-08 00:00:00+00:00 total: 1 unique: 1
-	 2026-09-11 00:00:00+00:00 total: 1 unique: 1
+	 2026-09-02 00:00:00+00:00 total: 1 unique: 1
+	 2026-09-03 00:00:00+00:00 total: 1 unique: 1
+	 2026-09-14 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
 		Count: 2 Unique: 1 Url: github.com
+
+repo: ls-annotations views - total: 2 unique:  2
+Views:
+	 2026-09-07 00:00:00+00:00 total: 1 unique: 1
+	 2026-09-14 00:00:00+00:00 total: 1 unique: 1
 
 repo: myenv views - total: 2 unique:  2
 Views:
@@ -132,13 +148,6 @@ Views:
 	 2026-09-08 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
 		Count: 1 Unique: 1 Url: github.com
-
-repo: python-obj-system views - total: 2 unique:  1
-Views:
-	 2026-09-02 00:00:00+00:00 total: 1 unique: 1
-	 2026-09-03 00:00:00+00:00 total: 1 unique: 1
-	Referrers:
-		Count: 2 Unique: 1 Url: github.com
 
 repo: pythonimportplayground views - total: 2 unique:  1
 Views:
@@ -157,13 +166,17 @@ repo: githubapitools views - total: 1 unique:  1
 Views:
 	 2026-09-11 00:00:00+00:00 total: 1 unique: 1
 
+repo: github_pr_comments views - total: 1 unique:  1
+Views:
+	 2026-09-14 00:00:00+00:00 total: 1 unique: 1
+
+repo: gittools views - total: 1 unique:  1
+Views:
+	 2026-09-14 00:00:00+00:00 total: 1 unique: 1
+
 repo: k8explain views - total: 1 unique:  1
 Views:
 	 2026-09-10 00:00:00+00:00 total: 1 unique: 1
-
-repo: ls-annotations views - total: 1 unique:  1
-Views:
-	 2026-09-07 00:00:00+00:00 total: 1 unique: 1
 
 repo: my-notes views - total: 1 unique:  1
 Views:
@@ -172,10 +185,6 @@ Views:
 repo: pprintex views - total: 1 unique:  1
 Views:
 	 2026-09-12 00:00:00+00:00 total: 1 unique: 1
-
-repo: pygamewrap views - total: 1 unique:  1
-Views:
-	 2026-08-31 00:00:00+00:00 total: 1 unique: 1
 
 repo: roget-thesaurus-parser views - total: 1 unique:  1
 Views:
@@ -186,6 +195,10 @@ Views:
 repo: teach-your-children-well views - total: 1 unique:  1
 Views:
 	 2026-09-02 00:00:00+00:00 total: 1 unique: 1
+
+repo: vimcrypt views - total: 1 unique:  1
+Views:
+	 2026-09-14 00:00:00+00:00 total: 1 unique: 1
 
 repo: zipit views - total: 1 unique:  1
 Views:
@@ -200,10 +213,6 @@ repo: dockerdashphp views - total: 0 unique:  0
 repo: download-artifacts views - total: 0 unique:  0
 
 repo: flagged-hn views - total: 0 unique:  0
-
-repo: github_pr_comments views - total: 0 unique:  0
-
-repo: gittools views - total: 0 unique:  0
 
 repo: git_html_listing views - total: 0 unique:  0
 
@@ -227,11 +236,11 @@ repo: pghelp views - total: 0 unique:  0
 
 repo: printb views - total: 0 unique:  0
 
+repo: pygamewrap views - total: 0 unique:  0
+
 repo: pythoncourse views - total: 0 unique:  0
 
 repo: subb views - total: 0 unique:  0
-
-repo: vimcrypt views - total: 0 unique:  0
 
 repo: vimcrypt2 views - total: 0 unique:  0
 
@@ -239,4 +248,4 @@ repo: visual-python-strace views - total: 0 unique:  0
 
 
 ***
-Total views: 141
+Total views: 149
