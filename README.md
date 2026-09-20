@@ -1,20 +1,19 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sat Sep 19 03:50:10 UTC 2026
+Sun Sep 20 04:06:43 UTC 2026
 
 <pre>
 
- _______________________________________
-/ Must I hold a candle to my shames?    \
-|                                       |
-| -- William Shakespeare, "The Merchant |
-\ of Venice"                            /
- ---------------------------------------
+ _________________________________________
+/ Q: What do little WASPs want to be when \
+| they grow up? A: The very best person   |
+\ they can possibly be.                   /
+ -----------------------------------------
         \   ^__^
-         \  (!!)\_______
+         \  (OO)\_______
             (__)\       )\/\
-             :( ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: -40 '(from -100..100) state: 'bad' eye: !! tongue: :(
+nltk score: 67 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
