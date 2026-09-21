@@ -1,19 +1,17 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sun Sep 20 04:06:43 UTC 2026
+Mon Sep 21 04:03:44 UTC 2026
 
 <pre>
 
- _________________________________________
-/ Q: What do little WASPs want to be when \
-| they grow up? A: The very best person   |
-\ they can possibly be.                   /
- -----------------------------------------
+ ________________________________________
+< You will be misunderstood by everyone. >
+ ----------------------------------------
         \   ^__^
-         \  (OO)\_______
+         \  (!!)\_______
             (__)\       )\/\
-             :) ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 67 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: -34 '(from -100..100) state: 'bad' eye: !! tongue: :(
 
 </pre>
 
