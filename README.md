@@ -1,20 +1,17 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Thu Sep 24 03:52:08 UTC 2026
+Fri Sep 25 04:07:09 UTC 2026
 
 <pre>
 
  _________________________________________
-/ I do desire we may be better strangers. \
-|                                         |
-| -- William Shakespeare, "As You Like    |
-\ It"                                     /
+< If you can read this, you're too close. >
  -----------------------------------------
         \   ^__^
-         \  (OO)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :) ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: 68 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
