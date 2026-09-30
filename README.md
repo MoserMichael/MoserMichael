@@ -1,20 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Tue Sep 29 04:58:05 UTC 2026
+Wed Sep 30 04:44:01 UTC 2026
 
 <pre>
 
- ________________________________________
-/ Q: How many Harvard MBA's does it take \
-| to screw in a light bulb? A: Just one. |
-| He grasps it firmly and the universe   |
-\ revolves around him.                   /
- ----------------------------------------
+ _______________________________________
+/ Today is the first day of the rest of \
+\ the mess.                             /
+ ---------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (!!)\_______
             (__)\       )\/\
-             -- ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: -10 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: -36 '(from -100..100) state: 'bad' eye: !! tongue: :(
 
 </pre>
 
