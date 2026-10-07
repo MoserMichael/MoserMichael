@@ -26,9 +26,8 @@ Views:
 	Referrers:
 		Count: 27 Unique: 21 Url: Google
 
-repo: s9k views - total: 31 unique:  11
+repo: s9k views - total: 27 unique:  11
 Views:
-	 2026-09-22 00:00:00+00:00 total: 4 unique: 2
 	 2026-09-23 00:00:00+00:00 total: 5 unique: 2
 	 2026-09-24 00:00:00+00:00 total: 3 unique: 3
 	 2026-09-27 00:00:00+00:00 total: 1 unique: 1
@@ -58,6 +57,19 @@ Views:
 	Referrers:
 		Count: 2 Unique: 2 Url: aocr.org
 
+repo: MoserMichael views - total: 18 unique:  12
+Views:
+	 2026-09-22 00:00:00+00:00 total: 1 unique: 1
+	 2026-09-23 00:00:00+00:00 total: 1 unique: 1
+	 2026-09-24 00:00:00+00:00 total: 8 unique: 3
+	 2026-09-27 00:00:00+00:00 total: 1 unique: 1
+	 2026-09-28 00:00:00+00:00 total: 2 unique: 2
+	 2026-09-29 00:00:00+00:00 total: 1 unique: 1
+	 2026-09-30 00:00:00+00:00 total: 2 unique: 2
+	 2026-10-05 00:00:00+00:00 total: 2 unique: 2
+	Referrers:
+		Count: 2 Unique: 2 Url: github.com
+
 repo: pyasmtool views - total: 17 unique:  16
 Views:
 	 2026-09-22 00:00:00+00:00 total: 1 unique: 1
@@ -74,21 +86,8 @@ Views:
 	Referrers:
 		Count: 1 Unique: 1 Url: Google
 
-repo: MoserMichael views - total: 16 unique:  10
+repo: jscriptparse views - total: 12 unique:  12
 Views:
-	 2026-09-22 00:00:00+00:00 total: 1 unique: 1
-	 2026-09-23 00:00:00+00:00 total: 1 unique: 1
-	 2026-09-24 00:00:00+00:00 total: 8 unique: 3
-	 2026-09-27 00:00:00+00:00 total: 1 unique: 1
-	 2026-09-28 00:00:00+00:00 total: 2 unique: 2
-	 2026-09-29 00:00:00+00:00 total: 1 unique: 1
-	 2026-09-30 00:00:00+00:00 total: 2 unique: 2
-	Referrers:
-		Count: 2 Unique: 2 Url: github.com
-
-repo: jscriptparse views - total: 13 unique:  13
-Views:
-	 2026-09-21 00:00:00+00:00 total: 2 unique: 2
 	 2026-09-22 00:00:00+00:00 total: 1 unique: 1
 	 2026-09-23 00:00:00+00:00 total: 3 unique: 3
 	 2026-09-26 00:00:00+00:00 total: 2 unique: 2
@@ -96,6 +95,7 @@ Views:
 	 2026-09-28 00:00:00+00:00 total: 1 unique: 1
 	 2026-09-30 00:00:00+00:00 total: 2 unique: 2
 	 2026-10-04 00:00:00+00:00 total: 1 unique: 1
+	 2026-10-05 00:00:00+00:00 total: 1 unique: 1
 
 repo: python-obj-system views - total: 12 unique:  12
 Views:
@@ -139,17 +139,19 @@ Views:
 		Count: 4 Unique: 3 Url: github.com
 		Count: 1 Unique: 1 Url: aocr.org
 
-repo: dockerdashphp views - total: 4 unique:  4
+repo: cppcombinator views - total: 5 unique:  3
 Views:
-	 2026-09-21 00:00:00+00:00 total: 2 unique: 2
-	 2026-09-29 00:00:00+00:00 total: 1 unique: 1
-	 2026-10-04 00:00:00+00:00 total: 1 unique: 1
-
-repo: cppcombinator views - total: 3 unique:  2
-Views:
-	 2026-09-21 00:00:00+00:00 total: 1 unique: 1
 	 2026-09-26 00:00:00+00:00 total: 1 unique: 1
 	 2026-10-04 00:00:00+00:00 total: 1 unique: 1
+	 2026-10-05 00:00:00+00:00 total: 3 unique: 2
+
+repo: flagged-hn views - total: 3 unique:  3
+Views:
+	 2026-09-22 00:00:00+00:00 total: 1 unique: 1
+	 2026-10-01 00:00:00+00:00 total: 1 unique: 1
+	 2026-10-05 00:00:00+00:00 total: 1 unique: 1
+	Referrers:
+		Count: 1 Unique: 1 Url: news.ycombinator.com
 
 repo: kind-helper views - total: 3 unique:  2
 Views:
@@ -162,33 +164,15 @@ Views:
 	 2026-09-28 00:00:00+00:00 total: 1 unique: 1
 	 2026-10-04 00:00:00+00:00 total: 2 unique: 2
 
-repo: myenv views - total: 3 unique:  3
-Views:
-	 2026-09-21 00:00:00+00:00 total: 1 unique: 1
-	 2026-09-29 00:00:00+00:00 total: 1 unique: 1
-	 2026-10-03 00:00:00+00:00 total: 1 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: Google
-		Count: 1 Unique: 1 Url: github-com.btglss.net
-		Count: 1 Unique: 1 Url: github.com
-
-repo: pythonimportplayground views - total: 3 unique:  2
-Views:
-	 2026-09-21 00:00:00+00:00 total: 1 unique: 1
-	 2026-10-02 00:00:00+00:00 total: 1 unique: 1
-	 2026-10-04 00:00:00+00:00 total: 1 unique: 1
-
 repo: datahelp views - total: 2 unique:  2
 Views:
 	 2026-09-24 00:00:00+00:00 total: 1 unique: 1
 	 2026-10-01 00:00:00+00:00 total: 1 unique: 1
 
-repo: flagged-hn views - total: 2 unique:  2
+repo: dockerdashphp views - total: 2 unique:  2
 Views:
-	 2026-09-22 00:00:00+00:00 total: 1 unique: 1
-	 2026-10-01 00:00:00+00:00 total: 1 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: news.ycombinator.com
+	 2026-09-29 00:00:00+00:00 total: 1 unique: 1
+	 2026-10-04 00:00:00+00:00 total: 1 unique: 1
 
 repo: go_pprof_analyse views - total: 2 unique:  2
 Views:
@@ -197,18 +181,22 @@ Views:
 	Referrers:
 		Count: 1 Unique: 1 Url: Google
 
-repo: pghelp views - total: 2 unique:  1
+repo: myenv views - total: 2 unique:  2
 Views:
-	 2026-09-21 00:00:00+00:00 total: 2 unique: 1
+	 2026-09-29 00:00:00+00:00 total: 1 unique: 1
+	 2026-10-03 00:00:00+00:00 total: 1 unique: 1
+	Referrers:
+		Count: 1 Unique: 1 Url: github-com.btglss.net
+		Count: 1 Unique: 1 Url: github.com
+
+repo: pythonimportplayground views - total: 2 unique:  1
+Views:
+	 2026-10-02 00:00:00+00:00 total: 1 unique: 1
+	 2026-10-04 00:00:00+00:00 total: 1 unique: 1
 
 repo: subb views - total: 2 unique:  2
 Views:
 	 2026-09-25 00:00:00+00:00 total: 2 unique: 2
-
-repo: teach-your-children-well views - total: 2 unique:  2
-Views:
-	 2026-09-21 00:00:00+00:00 total: 1 unique: 1
-	 2026-10-04 00:00:00+00:00 total: 1 unique: 1
 
 repo: vimcrypt views - total: 2 unique:  2
 Views:
@@ -242,6 +230,10 @@ Views:
 repo: roget-thesaurus-parser views - total: 1 unique:  1
 Views:
 	 2026-10-02 00:00:00+00:00 total: 1 unique: 1
+
+repo: teach-your-children-well views - total: 1 unique:  1
+Views:
+	 2026-10-04 00:00:00+00:00 total: 1 unique: 1
 
 repo: vimcrypt2 views - total: 1 unique:  1
 Views:
@@ -277,6 +269,8 @@ repo: kwchecker views - total: 0 unique:  0
 
 repo: opinionated-fortune-cow views - total: 0 unique:  0
 
+repo: pghelp views - total: 0 unique:  0
+
 repo: pprintex views - total: 0 unique:  0
 
 repo: printb views - total: 0 unique:  0
@@ -289,4 +283,4 @@ repo: zipit views - total: 0 unique:  0
 
 
 ***
-Total views: 228
+Total views: 221
