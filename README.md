@@ -1,18 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Mon Oct 12 05:05:38 UTC 2026
+Tue Oct 13 06:05:16 UTC 2026
 
 <pre>
 
  _________________________________________
-/ Learn to pause -- or nothing worthwhile \
-\ can catch up to you.                    /
+/ You will always get the greatest        \
+\ recognition for the job you least like. /
  -----------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (oo)\_______
             (__)\       )\/\
-             -- ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 47 '(from -100..100) state: 'good' eye: oo tongue: :)
 
 </pre>
 
@@ -115,8 +115,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 601 </th></tr>
 </table>
 <br>
-old_date:  2026-08-16 01:32:50.115689 now: 2026-10-12 05:05:51.676964
-duckduckbang stars changed from: 39 to: 40
     </pre>
   </td>
 </table>
