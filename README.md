@@ -1,20 +1,17 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sat Oct 17 03:36:35 UTC 2026
+Sun Oct 18 03:43:16 UTC 2026
 
 <pre>
 
- ______________________________________
-/ O, what a tangled web we weave, When \
-| first we practice to deceive.        |
-|                                      |
-\ -- Sir Walter Scott, "Marmion"       /
- --------------------------------------
+ ____________________________________
+< So this is it. We're going to die. >
+ ------------------------------------
         \   ^__^
-         \  (!!)\_______
+         \  (~~)\_______
             (__)\       )\/\
              :( ||----w |
                 ||     ||
-nltk score: -40 '(from -100..100) state: 'bad' eye: !! tongue: :(
+nltk score: -60 '(from -100..100) state: 'very bad' eye: ~~ tongue: :(
 
 </pre>
 
