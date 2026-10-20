@@ -1,24 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Mon Oct 19 03:52:52 UTC 2026
+Tue Oct 20 04:04:49 UTC 2026
 
 <pre>
 
- _________________________________________
-/ The holy passion of Friendship is of so \
-| sweet and steady and loyal and enduring |
-| a nature that it will last through a    |
-| whole lifetime, if not asked to lend    |
-| money.                                  |
-|                                         |
-| -- Mark Twain, "Pudd'nhead Wilson's     |
-\ Calendar"                               /
- -----------------------------------------
+ _______________________________________
+/ Don't you wish you had more energy... \
+\ or less ambition?                     /
+ ---------------------------------------
         \   ^__^
-         \  (OO)\_______
+         \  (!!)\_______
             (__)\       )\/\
-             :) ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 92 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: -31 '(from -100..100) state: 'bad' eye: !! tongue: :(
 
 </pre>
 
@@ -121,8 +115,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 600 </th></tr>
 </table>
 <br>
-old_date:  2026-10-12 05:05:51.677064 now: 2026-10-19 03:53:06.985205
-pyasmtool stars changed from: 316 to: 315
     </pre>
   </td>
 </table>
