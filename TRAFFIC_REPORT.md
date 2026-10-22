@@ -25,9 +25,8 @@ Views:
 		Count: 7 Unique: 3 Url: Google
 		Count: 2 Unique: 2 Url: search.brave.com
 
-repo: duckduckbang views - total: 34 unique:  28
+repo: duckduckbang views - total: 32 unique:  26
 Views:
-	 2026-10-06 00:00:00+00:00 total: 2 unique: 2
 	 2026-10-07 00:00:00+00:00 total: 2 unique: 2
 	 2026-10-10 00:00:00+00:00 total: 1 unique: 1
 	 2026-10-12 00:00:00+00:00 total: 1 unique: 1
@@ -39,14 +38,12 @@ Views:
 	Referrers:
 		Count: 11 Unique: 10 Url: yandex.tm
 		Count: 3 Unique: 2 Url: yandex.com.tr
-		Count: 2 Unique: 2 Url: aocr.org
 		Count: 2 Unique: 1 Url: fmhy.net
 		Count: 1 Unique: 1 Url: Bing
 		Count: 1 Unique: 1 Url: Google
 
-repo: tips_on_using_google_ai_mode views - total: 28 unique:  18
+repo: tips_on_using_google_ai_mode views - total: 24 unique:  16
 Views:
-	 2026-10-06 00:00:00+00:00 total: 4 unique: 3
 	 2026-10-07 00:00:00+00:00 total: 3 unique: 2
 	 2026-10-08 00:00:00+00:00 total: 6 unique: 4
 	 2026-10-09 00:00:00+00:00 total: 4 unique: 3
@@ -58,9 +55,9 @@ Views:
 	 2026-10-17 00:00:00+00:00 total: 1 unique: 1
 	 2026-10-19 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
-		Count: 14 Unique: 11 Url: Google
+		Count: 13 Unique: 10 Url: Google
 
-repo: pyasmtool views - total: 13 unique:  12
+repo: pyasmtool views - total: 14 unique:  13
 Views:
 	 2026-10-08 00:00:00+00:00 total: 2 unique: 2
 	 2026-10-09 00:00:00+00:00 total: 1 unique: 1
@@ -72,22 +69,22 @@ Views:
 	 2026-10-16 00:00:00+00:00 total: 1 unique: 1
 	 2026-10-17 00:00:00+00:00 total: 2 unique: 2
 	 2026-10-18 00:00:00+00:00 total: 1 unique: 1
+	 2026-10-20 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
 		Count: 3 Unique: 2 Url: learn-anything.xyz
 
 repo: jscriptparse views - total: 10 unique:  9
 Views:
-	 2026-10-06 00:00:00+00:00 total: 1 unique: 1
 	 2026-10-07 00:00:00+00:00 total: 1 unique: 1
 	 2026-10-08 00:00:00+00:00 total: 2 unique: 1
 	 2026-10-15 00:00:00+00:00 total: 1 unique: 1
 	 2026-10-16 00:00:00+00:00 total: 1 unique: 1
 	 2026-10-17 00:00:00+00:00 total: 2 unique: 2
 	 2026-10-18 00:00:00+00:00 total: 2 unique: 2
+	 2026-10-20 00:00:00+00:00 total: 1 unique: 1
 
-repo: my-notes views - total: 8 unique:  5
+repo: my-notes views - total: 7 unique:  4
 Views:
-	 2026-10-06 00:00:00+00:00 total: 1 unique: 1
 	 2026-10-10 00:00:00+00:00 total: 4 unique: 1
 	 2026-10-16 00:00:00+00:00 total: 1 unique: 1
 	 2026-10-17 00:00:00+00:00 total: 1 unique: 1
@@ -95,14 +92,22 @@ Views:
 	Referrers:
 		Count: 2 Unique: 1 Url: github.com
 
+repo: MoserMichael views - total: 6 unique:  6
+Views:
+	 2026-10-07 00:00:00+00:00 total: 1 unique: 1
+	 2026-10-13 00:00:00+00:00 total: 1 unique: 1
+	 2026-10-14 00:00:00+00:00 total: 1 unique: 1
+	 2026-10-19 00:00:00+00:00 total: 2 unique: 2
+	 2026-10-20 00:00:00+00:00 total: 1 unique: 1
+
 repo: python-obj-system views - total: 6 unique:  6
 Views:
-	 2026-10-06 00:00:00+00:00 total: 1 unique: 1
 	 2026-10-07 00:00:00+00:00 total: 1 unique: 1
 	 2026-10-08 00:00:00+00:00 total: 1 unique: 1
 	 2026-10-12 00:00:00+00:00 total: 1 unique: 1
 	 2026-10-15 00:00:00+00:00 total: 1 unique: 1
 	 2026-10-19 00:00:00+00:00 total: 1 unique: 1
+	 2026-10-20 00:00:00+00:00 total: 1 unique: 1
 
 repo: cppcombinator views - total: 5 unique:  5
 Views:
@@ -111,12 +116,20 @@ Views:
 	 2026-10-16 00:00:00+00:00 total: 2 unique: 2
 	 2026-10-17 00:00:00+00:00 total: 1 unique: 1
 
-repo: MoserMichael views - total: 5 unique:  5
+repo: kind-helper views - total: 5 unique:  5
+Views:
+	 2026-10-08 00:00:00+00:00 total: 1 unique: 1
+	 2026-10-15 00:00:00+00:00 total: 1 unique: 1
+	 2026-10-18 00:00:00+00:00 total: 1 unique: 1
+	 2026-10-20 00:00:00+00:00 total: 2 unique: 2
+
+repo: pythonimportplayground views - total: 5 unique:  2
 Views:
 	 2026-10-07 00:00:00+00:00 total: 1 unique: 1
-	 2026-10-13 00:00:00+00:00 total: 1 unique: 1
-	 2026-10-14 00:00:00+00:00 total: 1 unique: 1
-	 2026-10-19 00:00:00+00:00 total: 2 unique: 2
+	 2026-10-10 00:00:00+00:00 total: 1 unique: 1
+	 2026-10-17 00:00:00+00:00 total: 1 unique: 1
+	 2026-10-18 00:00:00+00:00 total: 1 unique: 1
+	 2026-10-20 00:00:00+00:00 total: 1 unique: 1
 
 repo: cstuff views - total: 4 unique:  4
 Views:
@@ -149,19 +162,10 @@ Views:
 	 2026-10-16 00:00:00+00:00 total: 1 unique: 1
 	 2026-10-19 00:00:00+00:00 total: 1 unique: 1
 
-repo: kind-helper views - total: 4 unique:  3
+repo: ls-annotations views - total: 3 unique:  3
 Views:
-	 2026-10-06 00:00:00+00:00 total: 1 unique: 1
-	 2026-10-08 00:00:00+00:00 total: 1 unique: 1
-	 2026-10-15 00:00:00+00:00 total: 1 unique: 1
-	 2026-10-18 00:00:00+00:00 total: 1 unique: 1
-
-repo: pythonimportplayground views - total: 4 unique:  2
-Views:
-	 2026-10-07 00:00:00+00:00 total: 1 unique: 1
-	 2026-10-10 00:00:00+00:00 total: 1 unique: 1
-	 2026-10-17 00:00:00+00:00 total: 1 unique: 1
-	 2026-10-18 00:00:00+00:00 total: 1 unique: 1
+	 2026-10-08 00:00:00+00:00 total: 2 unique: 2
+	 2026-10-20 00:00:00+00:00 total: 1 unique: 1
 
 repo: docker-force-attach views - total: 2 unique:  2
 Views:
@@ -179,10 +183,6 @@ Views:
 	 2026-10-12 00:00:00+00:00 total: 1 unique: 1
 	 2026-10-19 00:00:00+00:00 total: 1 unique: 1
 
-repo: ls-annotations views - total: 2 unique:  2
-Views:
-	 2026-10-08 00:00:00+00:00 total: 2 unique: 2
-
 repo: mphelper views - total: 2 unique:  2
 Views:
 	 2026-10-13 00:00:00+00:00 total: 1 unique: 1
@@ -193,13 +193,6 @@ Views:
 	 2026-10-15 00:00:00+00:00 total: 1 unique: 1
 	 2026-10-18 00:00:00+00:00 total: 1 unique: 1
 
-repo: pythoncourse views - total: 2 unique:  2
-Views:
-	 2026-10-06 00:00:00+00:00 total: 1 unique: 1
-	 2026-10-18 00:00:00+00:00 total: 1 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: Google
-
 repo: rzgrep views - total: 2 unique:  2
 Views:
 	 2026-10-11 00:00:00+00:00 total: 1 unique: 1
@@ -207,8 +200,8 @@ Views:
 
 repo: teach-your-children-well views - total: 2 unique:  2
 Views:
-	 2026-10-06 00:00:00+00:00 total: 1 unique: 1
 	 2026-10-17 00:00:00+00:00 total: 1 unique: 1
+	 2026-10-20 00:00:00+00:00 total: 1 unique: 1
 
 repo: vimcrypt views - total: 2 unique:  2
 Views:
@@ -268,6 +261,10 @@ repo: pygamewrap views - total: 1 unique:  1
 Views:
 	 2026-10-19 00:00:00+00:00 total: 1 unique: 1
 
+repo: pythoncourse views - total: 1 unique:  1
+Views:
+	 2026-10-18 00:00:00+00:00 total: 1 unique: 1
+
 repo: roget-thesaurus-parser views - total: 1 unique:  1
 Views:
 	 2026-10-13 00:00:00+00:00 total: 1 unique: 1
@@ -296,4 +293,4 @@ repo: subb views - total: 0 unique:  0
 
 
 ***
-Total views: 218
+Total views: 215
