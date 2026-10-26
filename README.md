@@ -1,20 +1,18 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sun Oct 25 03:51:08 UTC 2026
+Mon Oct 26 03:55:04 UTC 2026
 
 <pre>
 
  _______________________________________
-/ Must I hold a candle to my shames?    \
-|                                       |
-| -- William Shakespeare, "The Merchant |
-\ of Venice"                            /
+/ Good news. Ten weeks from Friday will \
+\ be a pretty good day.                 /
  ---------------------------------------
         \   ^__^
-         \  (!!)\_______
+         \  (OO)\_______
             (__)\       )\/\
-             :( ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: -40 '(from -100..100) state: 'bad' eye: !! tongue: :(
+nltk score: 84 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
@@ -109,14 +107,19 @@ My stuff here:
 <tr><td><a href="https://github.com/MoserMichael/jpa-enc-converter">jpa-enc-converter</a></td><td>0</td><td>Java</td><td>Example of handling the encryption/decryption of data at rest in an SQL table, by means of spring JPA/AttributeConverter</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/kwchecker">kwchecker</a></td><td>0</td><td>Python</td><td>Declarative verifier and sanitizer for python kwargs parameters.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/mphelper">mphelper</a></td><td>0</td><td>Python</td><td>python multiprocessor helper, adds external monitoring of task progress (via http), as well as other goodies</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/mytranslitru">mytranslitru</a></td><td>0</td><td>TypeScript</td><td>Russian transliteration page with spell checker. Runs entirely locally. No adds.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/pghelp">pghelp</a></td><td>0</td><td>Python</td><td>  python scripts for working with postgress (check if join condition columns are indexed, compare column set of two tables, dump sql query result to json)</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/printb">printb</a></td><td>0</td><td>Python</td><td>Adds bidi aware 'print' and 'input' functions.</td></tr>
+<tr><td><a href="https://github.com/MoserMichael/vibe-sci-fi">vibe-sci-fi</a></td><td>0</td><td>None</td><td>Vibely-written Sci-Fi novel, written entirely by Claude.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/vimcrypt">vimcrypt</a></td><td>0</td><td>Vim script</td><td>my vim plugin for encrypting/decryting text files with openssl</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/visual-python-strace">visual-python-strace</a></td><td>0</td><td>Python</td><td>show a very long stack trace with variable values.</td></tr>
 <tr><td><a href="https://github.com/MoserMichael/zipit">zipit</a></td><td>0</td><td>C++</td><td>c++ library for the equivalent of python/haskell zip function</td></tr>
 <tr><th>Total stars:</th><th colspan='2' align='left'> 600 </th></tr>
 </table>
 <br>
+old_date:  2026-10-19 03:53:06.985367 now: 2026-10-26 03:55:21.531776
+mytranslitru new project. stars: 0
+vibe-sci-fi new project. stars: 0
     </pre>
   </td>
 </table>
