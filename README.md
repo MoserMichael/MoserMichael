@@ -1,18 +1,29 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Mon Oct 26 03:55:04 UTC 2026
+Tue Oct 27 04:16:46 UTC 2026
 
 <pre>
 
- _______________________________________
-/ Good news. Ten weeks from Friday will \
-\ be a pretty good day.                 /
- ---------------------------------------
+ _________________________________________
+/ Even the clearest and most perfect      \
+| circumstantial evidence is likely to be |
+| at fault, after all, and therefore      |
+| ought to be received with great         |
+| caution. Take the case of any pencil,   |
+| sharpened by any woman; if you have     |
+| witnesses, you will find she did it     |
+| with a knife; but if you take simply    |
+| the aspect of the pencil, you will say  |
+| that she did it with her teeth.         |
+|                                         |
+| -- Mark Twain, "Pudd'nhead Wilson's     |
+\ Calendar"                               /
+ -----------------------------------------
         \   ^__^
-         \  (OO)\_______
+         \  (oo)\_______
             (__)\       )\/\
              :) ||----w |
                 ||     ||
-nltk score: 84 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: 49 '(from -100..100) state: 'good' eye: oo tongue: :)
 
 </pre>
 
@@ -117,9 +128,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 600 </th></tr>
 </table>
 <br>
-old_date:  2026-10-19 03:53:06.985367 now: 2026-10-26 03:55:21.531776
-mytranslitru new project. stars: 0
-vibe-sci-fi new project. stars: 0
     </pre>
   </td>
 </table>
