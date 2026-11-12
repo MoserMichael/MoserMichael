@@ -82,6 +82,7 @@ popd
 pushd repo
 cat end_part.txt >>${README_FILE}
 
+echo "" >>${README_FILE}
 echo "[About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: " >>${README_FILE}
 date >>${README_FILE}
 
