@@ -1,20 +1,19 @@
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Wed Nov 11 05:21:17 UTC 2026
+Thu Nov 12 06:25:58 UTC 2026
 
 <pre>
 
- __________________________________
-/ Wagner's music is better than it \
-| sounds.                          |
-|                                  |
-\ -- Mark Twain                    /
- ----------------------------------
+ _________________________________________
+/ How apt the poor are to be proud.       \
+|                                         |
+\ -- William Shakespeare, "Twelfth-Night" /
+ -----------------------------------------
         \   ^__^
-         \  (oo)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :) ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: 44 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
@@ -119,8 +118,6 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 603 </th></tr>
 </table>
 <br>
-old_date:  2026-11-08 05:12:29.162594 now: 2026-11-11 05:21:31.697978
-pyasmtool stars changed from: 315 to: 316
     </pre>
   </td>
 </table>
