@@ -1,12 +1,12 @@
-[About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Thu Nov 12 06:25:58 UTC 2026
+<b>Looking for work, please consider my application. On-site in Israel, remote in EU. Please contact via [linked-in](https://www.linkedin.com/in/michael-moser-32211b1/)</b>
+Thu Nov 12 12:06:58 UTC 2026
 
 <pre>
 
+[About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
  _________________________________________
-/ How apt the poor are to be proud.       \
-|                                         |
-\ -- William Shakespeare, "Twelfth-Night" /
+/ Are you ever going to do the dishes? Or \
+\ will you change your major to biology?  /
  -----------------------------------------
         \   ^__^
          \  (..)\_______
