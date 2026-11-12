@@ -1,19 +1,17 @@
 <b>Looking for work, please consider my application. On-site in Israel, remote in EU. Please contact via [linked-in](https://www.linkedin.com/in/michael-moser-32211b1/)</b>
-Thu Nov 12 12:06:58 UTC 2026
 
 <pre>
 
-[About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
- _________________________________________
-/ Are you ever going to do the dishes? Or \
-\ will you change your major to biology?  /
- -----------------------------------------
+ ________________________________________
+/ You prefer the company of the opposite \
+\ sex, but are well liked by your own.   /
+ ----------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (OO)\_______
             (__)\       )\/\
-             -- ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 75 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
@@ -121,3 +119,5 @@ My stuff here:
     </pre>
   </td>
 </table>
+[About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
+Thu Nov 12 12:16:12 UTC 2026
