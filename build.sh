@@ -15,7 +15,6 @@ STARRED_REPOS_FILE=/repo/USER_STARRED.md
 
 # *** make README file ***
 echo "<b>Looking for work, please consider my application. On-site in Israel, remote in EU. Please contact via [linked-in](https://www.linkedin.com/in/michael-moser-32211b1/)</b>">${README_FILE}
-date >>${README_FILE}
 echo "" >>${README_FILE}
 
 # init files
@@ -24,8 +23,6 @@ cat start_part.txt >>${README_FILE}
 cat traffic_report.txt >${TRAFFIC_REPORT_FILE}
 cat users_starred.txt >${STARRED_REPOS_FILE}
 popd
-
-echo "[About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: " >>${README_FILE}
 
 
 # get cowsay
@@ -84,6 +81,10 @@ popd
 
 pushd repo
 cat end_part.txt >>${README_FILE}
+
+echo "[About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: " >>${README_FILE}
+date >>${README_FILE}
+
 
 git config --global user.email "a@gmail.com"
 git config --global user.name ${GITHUB_USER}
