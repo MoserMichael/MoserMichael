@@ -1,17 +1,17 @@
-<b>Looking for work, please consider my application. On-site in Israel, remote in EU. Please contact via [linked-in](https://www.linkedin.com/in/michael-moser-32211b1/)</b>
+<b>Looking for work, please consider my application - [My CV](https://mosermichael.github.io/MoserMichael/mm-nov2026.pdf) On-site in Israel, remote in EU. Please contact via [linked-in](https://www.linkedin.com/in/michael-moser-32211b1/)</b>
 
 <pre>
 
- ________________________________________
-/ Q: Why do WASPs play golf ? A: So they \
-\ can dress like pimps.                  /
- ----------------------------------------
+ __________________________________
+/ You are going to have a new love \
+\ affair.                          /
+ ----------------------------------
         \   ^__^
          \  (OO)\_______
             (__)\       )\/\
              :) ||----w |
                 ||     ||
-nltk score: 60 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: 64 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
@@ -116,11 +116,9 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 604 </th></tr>
 </table>
 <br>
-old_date:  2026-11-11 05:21:31.698093 now: 2026-11-12 15:32:41.962983
-s9k stars changed from: 22 to: 23
     </pre>
   </td>
 </table>
 
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Thu Nov 12 15:33:50 UTC 2026
+Thu Nov 12 15:37:37 UTC 2026
