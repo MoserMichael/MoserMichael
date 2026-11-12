@@ -14,9 +14,7 @@ TRAFFIC_REPORT_FILE=/repo/TRAFFIC_REPORT.md
 STARRED_REPOS_FILE=/repo/USER_STARRED.md
 
 # *** make README file ***
-#echo "<b>Looking for work, full time or consulting. Relocation is an option</b> [my cv](mm-cv-present.pdf)" >${README_FILE}
-echo "[About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: " >${README_FILE}
-
+echo "<b>Looking for work, please consider my application. On-site in Israel, remote in EU. Please contact via [linked-in](https://www.linkedin.com/in/michael-moser-32211b1/)</b>">${README_FILE}
 date >>${README_FILE}
 echo "" >>${README_FILE}
 
@@ -26,6 +24,9 @@ cat start_part.txt >>${README_FILE}
 cat traffic_report.txt >${TRAFFIC_REPORT_FILE}
 cat users_starred.txt >${STARRED_REPOS_FILE}
 popd
+
+echo "[About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: " >>${README_FILE}
+
 
 # get cowsay
 git clone https://github.com/MoserMichael/opinionated-fortune-cow  cows
