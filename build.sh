@@ -14,7 +14,7 @@ TRAFFIC_REPORT_FILE=/repo/TRAFFIC_REPORT.md
 STARRED_REPOS_FILE=/repo/USER_STARRED.md
 
 # *** make README file ***
-echo "<b>Looking for work, please consider my application. On-site in Israel, remote in EU. Please contact via [linked-in](https://www.linkedin.com/in/michael-moser-32211b1/)</b>">${README_FILE}
+echo "<b>Looking for work, please consider my application - [My CV](https://mosermichael.github.io/MoserMichael/mm-nov2026.pdf) On-site in Israel, remote in EU. Please contact via [linked-in](https://www.linkedin.com/in/michael-moser-32211b1/)</b>">${README_FILE}
 echo "" >>${README_FILE}
 
 # init files
