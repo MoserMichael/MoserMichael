@@ -37,10 +37,8 @@ Views:
 		Count: 1 Unique: 1 Url: github.com
 		Count: 1 Unique: 1 Url: safe.menlosecurity.com
 
-repo: s9k views - total: 43 unique:  23
+repo: s9k views - total: 45 unique:  23
 Views:
-	 2026-11-01 00:00:00+00:00 total: 1 unique: 1
-	 2026-11-02 00:00:00+00:00 total: 1 unique: 1
 	 2026-11-03 00:00:00+00:00 total: 1 unique: 1
 	 2026-11-05 00:00:00+00:00 total: 14 unique: 14
 	 2026-11-06 00:00:00+00:00 total: 1 unique: 1
@@ -52,14 +50,13 @@ Views:
 	 2026-11-12 00:00:00+00:00 total: 4 unique: 3
 	 2026-11-13 00:00:00+00:00 total: 5 unique: 1
 	 2026-11-14 00:00:00+00:00 total: 2 unique: 1
+	 2026-11-15 00:00:00+00:00 total: 2 unique: 2
+	 2026-11-16 00:00:00+00:00 total: 2 unique: 1
 	Referrers:
 		Count: 14 Unique: 14 Url: aocr.org
-		Count: 1 Unique: 1 Url: search.brave.com
 
-repo: tips_on_using_google_ai_mode views - total: 32 unique:  22
+repo: tips_on_using_google_ai_mode views - total: 35 unique:  24
 Views:
-	 2026-11-01 00:00:00+00:00 total: 3 unique: 2
-	 2026-11-02 00:00:00+00:00 total: 2 unique: 2
 	 2026-11-03 00:00:00+00:00 total: 1 unique: 1
 	 2026-11-05 00:00:00+00:00 total: 2 unique: 2
 	 2026-11-06 00:00:00+00:00 total: 1 unique: 1
@@ -70,12 +67,29 @@ Views:
 	 2026-11-12 00:00:00+00:00 total: 3 unique: 1
 	 2026-11-13 00:00:00+00:00 total: 3 unique: 3
 	 2026-11-14 00:00:00+00:00 total: 4 unique: 2
+	 2026-11-15 00:00:00+00:00 total: 5 unique: 4
+	 2026-11-16 00:00:00+00:00 total: 3 unique: 2
 	Referrers:
-		Count: 16 Unique: 12 Url: Google
+		Count: 20 Unique: 16 Url: Google
 		Count: 1 Unique: 1 Url: github.com
 		Count: 1 Unique: 1 Url: linkedin.com
 
-repo: pyasmtool views - total: 19 unique:  18
+repo: jscriptparse views - total: 20 unique:  18
+Views:
+	 2026-11-03 00:00:00+00:00 total: 1 unique: 1
+	 2026-11-04 00:00:00+00:00 total: 1 unique: 1
+	 2026-11-06 00:00:00+00:00 total: 2 unique: 2
+	 2026-11-07 00:00:00+00:00 total: 2 unique: 2
+	 2026-11-08 00:00:00+00:00 total: 3 unique: 3
+	 2026-11-09 00:00:00+00:00 total: 1 unique: 1
+	 2026-11-10 00:00:00+00:00 total: 2 unique: 2
+	 2026-11-11 00:00:00+00:00 total: 2 unique: 2
+	 2026-11-12 00:00:00+00:00 total: 3 unique: 2
+	 2026-11-16 00:00:00+00:00 total: 3 unique: 2
+	Referrers:
+		Count: 1 Unique: 1 Url: github.com
+
+repo: pyasmtool views - total: 20 unique:  19
 Views:
 	 2026-11-03 00:00:00+00:00 total: 3 unique: 3
 	 2026-11-04 00:00:00+00:00 total: 1 unique: 1
@@ -86,21 +100,7 @@ Views:
 	 2026-11-10 00:00:00+00:00 total: 4 unique: 4
 	 2026-11-11 00:00:00+00:00 total: 2 unique: 2
 	 2026-11-14 00:00:00+00:00 total: 3 unique: 3
-	Referrers:
-		Count: 1 Unique: 1 Url: github.com
-
-repo: jscriptparse views - total: 18 unique:  16
-Views:
-	 2026-11-01 00:00:00+00:00 total: 1 unique: 1
-	 2026-11-03 00:00:00+00:00 total: 1 unique: 1
-	 2026-11-04 00:00:00+00:00 total: 1 unique: 1
-	 2026-11-06 00:00:00+00:00 total: 2 unique: 2
-	 2026-11-07 00:00:00+00:00 total: 2 unique: 2
-	 2026-11-08 00:00:00+00:00 total: 3 unique: 3
-	 2026-11-09 00:00:00+00:00 total: 1 unique: 1
-	 2026-11-10 00:00:00+00:00 total: 2 unique: 2
-	 2026-11-11 00:00:00+00:00 total: 2 unique: 2
-	 2026-11-12 00:00:00+00:00 total: 3 unique: 2
+	 2026-11-15 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
 		Count: 1 Unique: 1 Url: github.com
 
@@ -116,9 +116,8 @@ Views:
 		Count: 7 Unique: 1 Url: github.com
 		Count: 1 Unique: 1 Url: aocr.org
 
-repo: dockerdashphp views - total: 17 unique:  17
+repo: dockerdashphp views - total: 16 unique:  16
 Views:
-	 2026-11-02 00:00:00+00:00 total: 1 unique: 1
 	 2026-11-03 00:00:00+00:00 total: 1 unique: 1
 	 2026-11-05 00:00:00+00:00 total: 11 unique: 11
 	 2026-11-08 00:00:00+00:00 total: 1 unique: 1
@@ -129,13 +128,25 @@ Views:
 		Count: 11 Unique: 11 Url: aocr.org
 		Count: 1 Unique: 1 Url: search.brave.com
 
-repo: vibe-sci-fi views - total: 12 unique:  1
+repo: python-obj-system views - total: 15 unique:  14
+Views:
+	 2026-11-03 00:00:00+00:00 total: 1 unique: 1
+	 2026-11-05 00:00:00+00:00 total: 3 unique: 3
+	 2026-11-06 00:00:00+00:00 total: 2 unique: 2
+	 2026-11-07 00:00:00+00:00 total: 1 unique: 1
+	 2026-11-08 00:00:00+00:00 total: 2 unique: 2
+	 2026-11-12 00:00:00+00:00 total: 1 unique: 1
+	 2026-11-15 00:00:00+00:00 total: 4 unique: 3
+	 2026-11-16 00:00:00+00:00 total: 1 unique: 1
+
+repo: vibe-sci-fi views - total: 13 unique:  1
 Views:
 	 2026-11-08 00:00:00+00:00 total: 9 unique: 1
 	 2026-11-09 00:00:00+00:00 total: 1 unique: 1
 	 2026-11-10 00:00:00+00:00 total: 2 unique: 1
+	 2026-11-16 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
-		Count: 9 Unique: 1 Url: github.com
+		Count: 10 Unique: 1 Url: github.com
 
 repo: duckduckbang views - total: 11 unique:  10
 Views:
@@ -167,23 +178,25 @@ Views:
 	Referrers:
 		Count: 1 Unique: 1 Url: aocr.org
 
-repo: python-obj-system views - total: 10 unique:  10
+repo: cppcombinator views - total: 7 unique:  7
 Views:
-	 2026-11-03 00:00:00+00:00 total: 1 unique: 1
-	 2026-11-05 00:00:00+00:00 total: 3 unique: 3
-	 2026-11-06 00:00:00+00:00 total: 2 unique: 2
-	 2026-11-07 00:00:00+00:00 total: 1 unique: 1
-	 2026-11-08 00:00:00+00:00 total: 2 unique: 2
-	 2026-11-12 00:00:00+00:00 total: 1 unique: 1
+	 2026-11-06 00:00:00+00:00 total: 1 unique: 1
+	 2026-11-10 00:00:00+00:00 total: 1 unique: 1
+	 2026-11-13 00:00:00+00:00 total: 2 unique: 2
+	 2026-11-14 00:00:00+00:00 total: 1 unique: 1
+	 2026-11-15 00:00:00+00:00 total: 1 unique: 1
+	 2026-11-16 00:00:00+00:00 total: 1 unique: 1
+	Referrers:
+		Count: 1 Unique: 1 Url: DuckDuckGo
 
-repo: visual-python-strace views - total: 7 unique:  7
+repo: vimcrypt2 views - total: 7 unique:  7
 Views:
-	 2026-11-02 00:00:00+00:00 total: 1 unique: 1
 	 2026-11-05 00:00:00+00:00 total: 5 unique: 5
-	 2026-11-11 00:00:00+00:00 total: 1 unique: 1
+	 2026-11-15 00:00:00+00:00 total: 1 unique: 1
+	 2026-11-16 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
 		Count: 5 Unique: 5 Url: aocr.org
-		Count: 1 Unique: 1 Url: Bing
+		Count: 1 Unique: 1 Url: Google
 
 repo: zipit views - total: 7 unique:  7
 Views:
@@ -193,14 +206,6 @@ Views:
 	Referrers:
 		Count: 6 Unique: 6 Url: aocr.org
 
-repo: cppcombinator views - total: 6 unique:  5
-Views:
-	 2026-11-02 00:00:00+00:00 total: 1 unique: 1
-	 2026-11-06 00:00:00+00:00 total: 1 unique: 1
-	 2026-11-10 00:00:00+00:00 total: 1 unique: 1
-	 2026-11-13 00:00:00+00:00 total: 2 unique: 2
-	 2026-11-14 00:00:00+00:00 total: 1 unique: 1
-
 repo: my-notes views - total: 6 unique:  6
 Views:
 	 2026-11-03 00:00:00+00:00 total: 1 unique: 1
@@ -208,6 +213,23 @@ Views:
 	 2026-11-07 00:00:00+00:00 total: 1 unique: 1
 	 2026-11-08 00:00:00+00:00 total: 1 unique: 1
 	 2026-11-09 00:00:00+00:00 total: 1 unique: 1
+
+repo: visual-python-strace views - total: 6 unique:  6
+Views:
+	 2026-11-05 00:00:00+00:00 total: 5 unique: 5
+	 2026-11-11 00:00:00+00:00 total: 1 unique: 1
+	Referrers:
+		Count: 5 Unique: 5 Url: aocr.org
+
+repo: cstuff views - total: 5 unique:  5
+Views:
+	 2026-11-03 00:00:00+00:00 total: 1 unique: 1
+	 2026-11-05 00:00:00+00:00 total: 1 unique: 1
+	 2026-11-10 00:00:00+00:00 total: 1 unique: 1
+	 2026-11-15 00:00:00+00:00 total: 1 unique: 1
+	 2026-11-16 00:00:00+00:00 total: 1 unique: 1
+	Referrers:
+		Count: 1 Unique: 1 Url: aocr.org
 
 repo: flagged-hn views - total: 5 unique:  5
 Views:
@@ -223,21 +245,6 @@ Views:
 	Referrers:
 		Count: 1 Unique: 1 Url: github.com
 
-repo: vimcrypt views - total: 5 unique:  5
-Views:
-	 2026-11-02 00:00:00+00:00 total: 2 unique: 2
-	 2026-11-04 00:00:00+00:00 total: 1 unique: 1
-	 2026-11-06 00:00:00+00:00 total: 1 unique: 1
-	 2026-11-11 00:00:00+00:00 total: 1 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: Google
-
-repo: vimcrypt2 views - total: 5 unique:  5
-Views:
-	 2026-11-05 00:00:00+00:00 total: 5 unique: 5
-	Referrers:
-		Count: 5 Unique: 5 Url: aocr.org
-
 repo: mytranslitru views - total: 4 unique:  2
 Views:
 	 2026-11-02 00:00:00+00:00 total: 2 unique: 1
@@ -252,18 +259,16 @@ Views:
 	 2026-11-03 00:00:00+00:00 total: 2 unique: 2
 	 2026-11-10 00:00:00+00:00 total: 1 unique: 1
 
-repo: cstuff views - total: 3 unique:  3
-Views:
-	 2026-11-03 00:00:00+00:00 total: 1 unique: 1
-	 2026-11-05 00:00:00+00:00 total: 1 unique: 1
-	 2026-11-10 00:00:00+00:00 total: 1 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: aocr.org
-
 repo: myenv views - total: 3 unique:  3
 Views:
 	 2026-11-02 00:00:00+00:00 total: 2 unique: 2
 	 2026-11-03 00:00:00+00:00 total: 1 unique: 1
+
+repo: vimcrypt views - total: 3 unique:  3
+Views:
+	 2026-11-04 00:00:00+00:00 total: 1 unique: 1
+	 2026-11-06 00:00:00+00:00 total: 1 unique: 1
+	 2026-11-11 00:00:00+00:00 total: 1 unique: 1
 
 repo: gitblame views - total: 2 unique:  2
 Views:
@@ -290,6 +295,13 @@ Views:
 	 2026-11-12 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
 		Count: 1 Unique: 1 Url: aocr.org
+
+repo: mphelper views - total: 2 unique:  2
+Views:
+	 2026-11-12 00:00:00+00:00 total: 1 unique: 1
+	 2026-11-15 00:00:00+00:00 total: 1 unique: 1
+	Referrers:
+		Count: 1 Unique: 1 Url: yandex.ru
 
 repo: printb views - total: 2 unique:  2
 Views:
@@ -337,9 +349,9 @@ Views:
 	Referrers:
 		Count: 1 Unique: 1 Url: aocr.org
 
-repo: mphelper views - total: 1 unique:  1
+repo: k8explain views - total: 1 unique:  1
 Views:
-	 2026-11-12 00:00:00+00:00 total: 1 unique: 1
+	 2026-11-16 00:00:00+00:00 total: 1 unique: 1
 
 repo: pghelp views - total: 1 unique:  1
 Views:
@@ -361,8 +373,6 @@ repo: docker-force-attach views - total: 0 unique:  0
 
 repo: gittools views - total: 0 unique:  0
 
-repo: k8explain views - total: 0 unique:  0
-
 repo: opinionated-fortune-cow views - total: 0 unique:  0
 
 repo: pprintex views - total: 0 unique:  0
@@ -371,4 +381,4 @@ repo: subb views - total: 0 unique:  0
 
 
 ***
-Total views: 412
+Total views: 429
