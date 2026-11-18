@@ -2,20 +2,17 @@
 
 <pre>
 
- ________________________________________
-/ It is often the case that the man who  \
-| can't tell a lie thinks he is the best |
-| judge of one.                          |
-|                                        |
-| -- Mark Twain, "Pudd'nhead Wilson's    |
-\ Calendar"                              /
- ----------------------------------------
+ _________________________________________
+/ Q: What's the difference between a Mac  \
+| and an Etch-a-Sketch? A: You don't have |
+\ to shake the Mac to clear the screen.   /
+ -----------------------------------------
         \   ^__^
-         \  (OO)\_______
+         \  (oo)\_______
             (__)\       )\/\
              :) ||----w |
                 ||     ||
-nltk score: 64 '(from -100..100) state: 'very good' eye: OO tongue: :)
+nltk score: 48 '(from -100..100) state: 'good' eye: oo tongue: :)
 
 </pre>
 
@@ -120,11 +117,9 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 605 </th></tr>
 </table>
 <br>
-old_date:  2026-11-12 15:32:41.963133 now: 2026-11-17 07:10:34.381255
-tips_on_using_google_ai_mode stars changed from: 1 to: 2
     </pre>
   </td>
 </table>
 
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Tue Nov 17 07:11:43 UTC 2026
+Wed Nov 18 06:36:02 UTC 2026
