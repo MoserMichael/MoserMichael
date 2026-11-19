@@ -2,17 +2,22 @@
 
 <pre>
 
- _________________________________________
-/ Q: What's the difference between a Mac  \
-| and an Etch-a-Sketch? A: You don't have |
-\ to shake the Mac to clear the screen.   /
- -----------------------------------------
+ ______________________________________
+/ April 1                              \
+|                                      |
+| This is the day upon which we are    |
+| reminded of what we are on the other |
+| three hundred and sixty-four.        |
+|                                      |
+| -- Mark Twain, "Pudd'nhead Wilson's  |
+\ Calendar"                            /
+ --------------------------------------
         \   ^__^
-         \  (oo)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :) ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: 48 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
@@ -122,4 +127,4 @@ My stuff here:
 </table>
 
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Wed Nov 18 06:36:02 UTC 2026
+Thu Nov 19 07:01:56 UTC 2026
