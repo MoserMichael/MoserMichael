@@ -2,17 +2,28 @@
 
 <pre>
 
- _______________________________________
-/ Q: How many IBM 370's does it take to \
-| execute a job? A: Four, three to hold |
-\ it down, and one to rip its head off. /
- ---------------------------------------
+ _________________________________________
+/ Mind! I don't mean to say that I know,  \
+| of my own knowledge, what there is      |
+| particularly dead about a door-nail. I  |
+| might have been inclined, myself, to    |
+| regard a coffin-nail as the deadest     |
+| piece of ironmongery in the trade. But  |
+| the wisdom of our ancestors is in the   |
+| simile; and my unhallowed hands shall   |
+| not disturb it, or the Country's done   |
+| for. You will therefore permit me to    |
+| repeat, emphatically, that Marley was   |
+| as dead as a door-nail.                 |
+|                                         |
+\ -- Charles Dickens, "A Christmas Carol" /
+ -----------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (!!)\_______
             (__)\       )\/\
-             -- ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: -46 '(from -100..100) state: 'bad' eye: !! tongue: :(
 
 </pre>
 
@@ -117,11 +128,9 @@ My stuff here:
 <tr><th>Total stars:</th><th colspan='2' align='left'> 604 </th></tr>
 </table>
 <br>
-old_date:  2026-11-17 07:10:34.381371 now: 2026-11-20 06:24:12.077945
-pyasmtool stars changed from: 316 to: 315
     </pre>
   </td>
 </table>
 
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Fri Nov 20 06:25:16 UTC 2026
+Sat Nov 21 06:15:21 UTC 2026
