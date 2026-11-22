@@ -2,28 +2,17 @@
 
 <pre>
 
- _________________________________________
-/ Mind! I don't mean to say that I know,  \
-| of my own knowledge, what there is      |
-| particularly dead about a door-nail. I  |
-| might have been inclined, myself, to    |
-| regard a coffin-nail as the deadest     |
-| piece of ironmongery in the trade. But  |
-| the wisdom of our ancestors is in the   |
-| simile; and my unhallowed hands shall   |
-| not disturb it, or the Country's done   |
-| for. You will therefore permit me to    |
-| repeat, emphatically, that Marley was   |
-| as dead as a door-nail.                 |
-|                                         |
-\ -- Charles Dickens, "A Christmas Carol" /
- -----------------------------------------
+ ________________________________________
+/ Just because the message may never be  \
+| received does not mean it is not worth |
+\ sending.                               /
+ ----------------------------------------
         \   ^__^
-         \  (!!)\_______
+         \  (..)\_______
             (__)\       )\/\
-             :( ||----w |
+             -- ||----w |
                 ||     ||
-nltk score: -46 '(from -100..100) state: 'bad' eye: !! tongue: :(
+nltk score: -17 '(from -100..100) state: 'neutral' eye: .. tongue: --
 
 </pre>
 
@@ -133,4 +122,4 @@ My stuff here:
 </table>
 
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sat Nov 21 06:15:21 UTC 2026
+Sun Nov 22 05:48:57 UTC 2026

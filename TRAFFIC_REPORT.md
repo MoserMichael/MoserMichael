@@ -47,7 +47,6 @@ Views:
 
 repo: s9k views - total: 32 unique:  8
 Views:
-	 2026-11-07 00:00:00+00:00 total: 2 unique: 2
 	 2026-11-08 00:00:00+00:00 total: 3 unique: 2
 	 2026-11-09 00:00:00+00:00 total: 3 unique: 2
 	 2026-11-10 00:00:00+00:00 total: 5 unique: 3
@@ -60,6 +59,7 @@ Views:
 	 2026-11-17 00:00:00+00:00 total: 1 unique: 1
 	 2026-11-18 00:00:00+00:00 total: 1 unique: 1
 	 2026-11-19 00:00:00+00:00 total: 1 unique: 1
+	 2026-11-21 00:00:00+00:00 total: 2 unique: 2
 	Referrers:
 		Count: 1 Unique: 1 Url: Google
 
@@ -77,9 +77,8 @@ Views:
 	Referrers:
 		Count: 1 Unique: 1 Url: github.com
 
-repo: jscriptparse views - total: 19 unique:  17
+repo: jscriptparse views - total: 18 unique:  16
 Views:
-	 2026-11-07 00:00:00+00:00 total: 2 unique: 2
 	 2026-11-08 00:00:00+00:00 total: 3 unique: 3
 	 2026-11-09 00:00:00+00:00 total: 1 unique: 1
 	 2026-11-10 00:00:00+00:00 total: 2 unique: 2
@@ -89,18 +88,11 @@ Views:
 	 2026-11-18 00:00:00+00:00 total: 1 unique: 1
 	 2026-11-19 00:00:00+00:00 total: 1 unique: 1
 	 2026-11-20 00:00:00+00:00 total: 1 unique: 1
+	 2026-11-21 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
 		Count: 1 Unique: 1 Url: github.com
 
-repo: roget-thesaurus-parser views - total: 15 unique:  3
-Views:
-	 2026-11-08 00:00:00+00:00 total: 13 unique: 1
-	 2026-11-11 00:00:00+00:00 total: 1 unique: 1
-	 2026-11-13 00:00:00+00:00 total: 1 unique: 1
-	Referrers:
-		Count: 7 Unique: 1 Url: github.com
-
-repo: duckduckbang views - total: 13 unique:  9
+repo: duckduckbang views - total: 15 unique:  11
 Views:
 	 2026-11-07 00:00:00+00:00 total: 1 unique: 1
 	 2026-11-08 00:00:00+00:00 total: 1 unique: 1
@@ -110,9 +102,18 @@ Views:
 	 2026-11-16 00:00:00+00:00 total: 2 unique: 1
 	 2026-11-17 00:00:00+00:00 total: 2 unique: 2
 	 2026-11-18 00:00:00+00:00 total: 3 unique: 2
+	 2026-11-20 00:00:00+00:00 total: 2 unique: 2
 	Referrers:
 		Count: 3 Unique: 1 Url: github.com
 		Count: 1 Unique: 1 Url: Google
+
+repo: roget-thesaurus-parser views - total: 15 unique:  3
+Views:
+	 2026-11-08 00:00:00+00:00 total: 13 unique: 1
+	 2026-11-11 00:00:00+00:00 total: 1 unique: 1
+	 2026-11-13 00:00:00+00:00 total: 1 unique: 1
+	Referrers:
+		Count: 7 Unique: 1 Url: github.com
 
 repo: python-obj-system views - total: 13 unique:  11
 Views:
@@ -146,18 +147,18 @@ Views:
 
 repo: cppcombinator views - total: 9 unique:  9
 Views:
-	 2026-11-06 00:00:00+00:00 total: 1 unique: 1
 	 2026-11-10 00:00:00+00:00 total: 1 unique: 1
 	 2026-11-13 00:00:00+00:00 total: 2 unique: 2
 	 2026-11-14 00:00:00+00:00 total: 1 unique: 1
 	 2026-11-15 00:00:00+00:00 total: 1 unique: 1
 	 2026-11-16 00:00:00+00:00 total: 1 unique: 1
 	 2026-11-18 00:00:00+00:00 total: 2 unique: 2
+	 2026-11-20 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
 		Count: 1 Unique: 1 Url: DuckDuckGo
 		Count: 1 Unique: 1 Url: github.com
 
-repo: dockerdashphp views - total: 7 unique:  7
+repo: dockerdashphp views - total: 8 unique:  8
 Views:
 	 2026-11-08 00:00:00+00:00 total: 1 unique: 1
 	 2026-11-10 00:00:00+00:00 total: 1 unique: 1
@@ -165,6 +166,7 @@ Views:
 	 2026-11-14 00:00:00+00:00 total: 1 unique: 1
 	 2026-11-17 00:00:00+00:00 total: 2 unique: 2
 	 2026-11-19 00:00:00+00:00 total: 1 unique: 1
+	 2026-11-20 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
 		Count: 1 Unique: 1 Url: search.brave.com
 
@@ -205,6 +207,12 @@ repo: github_pr_comments views - total: 4 unique:  4
 Views:
 	 2026-11-15 00:00:00+00:00 total: 4 unique: 4
 
+repo: jq-illustrated views - total: 4 unique:  4
+Views:
+	 2026-11-18 00:00:00+00:00 total: 1 unique: 1
+	 2026-11-19 00:00:00+00:00 total: 2 unique: 2
+	 2026-11-20 00:00:00+00:00 total: 1 unique: 1
+
 repo: ls-annotations views - total: 4 unique:  4
 Views:
 	 2026-11-12 00:00:00+00:00 total: 1 unique: 1
@@ -222,14 +230,14 @@ Views:
 	Referrers:
 		Count: 1 Unique: 1 Url: Baidu
 
+repo: githubapitools views - total: 3 unique:  3
+Views:
+	 2026-11-18 00:00:00+00:00 total: 1 unique: 1
+	 2026-11-20 00:00:00+00:00 total: 2 unique: 2
+
 repo: git_html_listing views - total: 3 unique:  3
 Views:
 	 2026-11-14 00:00:00+00:00 total: 3 unique: 3
-
-repo: jq-illustrated views - total: 3 unique:  3
-Views:
-	 2026-11-18 00:00:00+00:00 total: 1 unique: 1
-	 2026-11-19 00:00:00+00:00 total: 2 unique: 2
 
 repo: mytranslitru views - total: 3 unique:  1
 Views:
@@ -239,16 +247,20 @@ Views:
 	Referrers:
 		Count: 1 Unique: 1 Url: github.com
 
-repo: vimcrypt views - total: 3 unique:  3
+repo: datahelp views - total: 2 unique:  2
 Views:
-	 2026-11-06 00:00:00+00:00 total: 1 unique: 1
-	 2026-11-11 00:00:00+00:00 total: 1 unique: 1
-	 2026-11-18 00:00:00+00:00 total: 1 unique: 1
+	 2026-11-10 00:00:00+00:00 total: 1 unique: 1
+	 2026-11-20 00:00:00+00:00 total: 1 unique: 1
 
 repo: grpc-spring-boot-starter-utils views - total: 2 unique:  2
 Views:
 	 2026-11-11 00:00:00+00:00 total: 1 unique: 1
 	 2026-11-18 00:00:00+00:00 total: 1 unique: 1
+
+repo: jpa-enc-converter views - total: 2 unique:  2
+Views:
+	 2026-11-12 00:00:00+00:00 total: 1 unique: 1
+	 2026-11-20 00:00:00+00:00 total: 1 unique: 1
 
 repo: mphelper views - total: 2 unique:  2
 Views:
@@ -257,23 +269,17 @@ Views:
 	Referrers:
 		Count: 1 Unique: 1 Url: yandex.ru
 
+repo: vimcrypt views - total: 2 unique:  2
+Views:
+	 2026-11-11 00:00:00+00:00 total: 1 unique: 1
+	 2026-11-18 00:00:00+00:00 total: 1 unique: 1
+
 repo: vimcrypt2 views - total: 2 unique:  2
 Views:
 	 2026-11-15 00:00:00+00:00 total: 1 unique: 1
 	 2026-11-16 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
 		Count: 1 Unique: 1 Url: Google
-
-repo: zipit views - total: 2 unique:  2
-Views:
-	 2026-11-06 00:00:00+00:00 total: 1 unique: 1
-	 2026-11-09 00:00:00+00:00 total: 1 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: aocr.org
-
-repo: datahelp views - total: 1 unique:  1
-Views:
-	 2026-11-10 00:00:00+00:00 total: 1 unique: 1
 
 repo: devgoodies views - total: 1 unique:  1
 Views:
@@ -287,19 +293,11 @@ repo: gitblame views - total: 1 unique:  1
 Views:
 	 2026-11-20 00:00:00+00:00 total: 1 unique: 1
 
-repo: githubapitools views - total: 1 unique:  1
-Views:
-	 2026-11-18 00:00:00+00:00 total: 1 unique: 1
-
 repo: jobinterviewhomework views - total: 1 unique:  1
 Views:
 	 2026-10-25 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
 		Count: 1 Unique: 1 Url: github.com
-
-repo: jpa-enc-converter views - total: 1 unique:  1
-Views:
-	 2026-11-12 00:00:00+00:00 total: 1 unique: 1
 
 repo: k8explain views - total: 1 unique:  1
 Views:
@@ -316,6 +314,10 @@ Views:
 repo: visual-python-strace views - total: 1 unique:  1
 Views:
 	 2026-11-11 00:00:00+00:00 total: 1 unique: 1
+
+repo: zipit views - total: 1 unique:  1
+Views:
+	 2026-11-09 00:00:00+00:00 total: 1 unique: 1
 
 repo: docker-force-attach views - total: 0 unique:  0
 
@@ -341,4 +343,4 @@ repo: subb views - total: 0 unique:  0
 
 
 ***
-Total views: 363
+Total views: 368
