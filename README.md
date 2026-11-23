@@ -2,17 +2,17 @@
 
 <pre>
 
- ________________________________________
-/ Just because the message may never be  \
-| received does not mean it is not worth |
-\ sending.                               /
- ----------------------------------------
+ _________________________________________
+/ Q: What do little WASPs want to be when \
+| they grow up? A: The very best person   |
+\ they can possibly be.                   /
+ -----------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (OO)\_______
             (__)\       )\/\
-             -- ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: -17 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 67 '(from -100..100) state: 'very good' eye: OO tongue: :)
 
 </pre>
 
@@ -122,4 +122,4 @@ My stuff here:
 </table>
 
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Sun Nov 22 05:48:57 UTC 2026
+Mon Nov 23 06:35:28 UTC 2026
