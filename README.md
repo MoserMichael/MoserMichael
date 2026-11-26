@@ -2,15 +2,19 @@
 
 <pre>
 
- ___________________________
-< You will wish you hadn't. >
- ---------------------------
+ ________________________________________
+/ When you are about to die, a wombat is \
+| better than no company at all.         |
+|                                        |
+| -- Roger Zelazny, "Doorways in the     |
+\ Sand"                                  /
+ ----------------------------------------
         \   ^__^
-         \  (oo)\_______
+         \  (!!)\_______
             (__)\       )\/\
-             :) ||----w |
+             :( ||----w |
                 ||     ||
-nltk score: 40 '(from -100..100) state: 'good' eye: oo tongue: :)
+nltk score: -49 '(from -100..100) state: 'bad' eye: !! tongue: :(
 
 </pre>
 
@@ -120,4 +124,4 @@ My stuff here:
 </table>
 
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Wed Nov 25 07:41:58 UTC 2026
+Thu Nov 26 07:31:19 UTC 2026
