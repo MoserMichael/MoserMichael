@@ -2,16 +2,18 @@
 
 <pre>
 
- ____________________________________
-/ Q: What is orange and goes "click, \
-\ click?" A: A ball point carrot.    /
- ------------------------------------
+ ______________________________________
+/ Things past redress and now with me  \
+| past care.                           |
+|                                      |
+\ -- William Shakespeare, "Richard II" /
+ --------------------------------------
         \   ^__^
-         \  (..)\_______
+         \  (oo)\_______
             (__)\       )\/\
-             -- ||----w |
+             :) ||----w |
                 ||     ||
-nltk score: 0 '(from -100..100) state: 'neutral' eye: .. tongue: --
+nltk score: 49 '(from -100..100) state: 'good' eye: oo tongue: :)
 
 </pre>
 
@@ -121,4 +123,4 @@ My stuff here:
 </table>
 
 [About this page](https://github.com/MoserMichael/MoserMichael/blob/master/ABOUT.md) generated at: 
-Fri Nov 27 07:28:56 UTC 2026
+Sat Nov 28 06:58:31 UTC 2026

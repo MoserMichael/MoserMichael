@@ -9,7 +9,6 @@ Traffic report for user Michael Moser
 
 repo: tips_on_using_google_ai_mode views - total: 66 unique:  43
 Views:
-	 2026-11-13 00:00:00+00:00 total: 3 unique: 3
 	 2026-11-14 00:00:00+00:00 total: 4 unique: 2
 	 2026-11-15 00:00:00+00:00 total: 5 unique: 4
 	 2026-11-16 00:00:00+00:00 total: 3 unique: 2
@@ -23,6 +22,7 @@ Views:
 	 2026-11-24 00:00:00+00:00 total: 8 unique: 5
 	 2026-11-25 00:00:00+00:00 total: 5 unique: 3
 	 2026-11-26 00:00:00+00:00 total: 4 unique: 4
+	 2026-11-27 00:00:00+00:00 total: 3 unique: 3
 	Referrers:
 		Count: 45 Unique: 33 Url: Google
 		Count: 4 Unique: 2 Url: Bing
@@ -30,9 +30,8 @@ Views:
 		Count: 1 Unique: 1 Url: duck.ai
 		Count: 1 Unique: 1 Url: github.com
 
-repo: MoserMichael views - total: 30 unique:  15
+repo: MoserMichael views - total: 27 unique:  15
 Views:
-	 2026-11-13 00:00:00+00:00 total: 3 unique: 1
 	 2026-11-14 00:00:00+00:00 total: 2 unique: 2
 	 2026-11-16 00:00:00+00:00 total: 4 unique: 1
 	 2026-11-17 00:00:00+00:00 total: 2 unique: 2
@@ -45,11 +44,26 @@ Views:
 	 2026-11-25 00:00:00+00:00 total: 1 unique: 1
 	 2026-11-26 00:00:00+00:00 total: 3 unique: 2
 	Referrers:
-		Count: 10 Unique: 2 Url: github.com
+		Count: 8 Unique: 2 Url: github.com
 
-repo: s9k views - total: 28 unique:  10
+repo: pyasmtool views - total: 24 unique:  16
 Views:
-	 2026-11-12 00:00:00+00:00 total: 4 unique: 3
+	 2026-11-14 00:00:00+00:00 total: 3 unique: 3
+	 2026-11-15 00:00:00+00:00 total: 1 unique: 1
+	 2026-11-17 00:00:00+00:00 total: 7 unique: 1
+	 2026-11-18 00:00:00+00:00 total: 1 unique: 1
+	 2026-11-21 00:00:00+00:00 total: 1 unique: 1
+	 2026-11-22 00:00:00+00:00 total: 1 unique: 1
+	 2026-11-23 00:00:00+00:00 total: 4 unique: 2
+	 2026-11-25 00:00:00+00:00 total: 3 unique: 3
+	 2026-11-26 00:00:00+00:00 total: 1 unique: 1
+	 2026-11-27 00:00:00+00:00 total: 2 unique: 2
+	Referrers:
+		Count: 4 Unique: 3 Url: github.com
+		Count: 1 Unique: 1 Url: news.ycombinator.com
+
+repo: s9k views - total: 24 unique:  8
+Views:
 	 2026-11-13 00:00:00+00:00 total: 5 unique: 1
 	 2026-11-14 00:00:00+00:00 total: 2 unique: 1
 	 2026-11-15 00:00:00+00:00 total: 2 unique: 2
@@ -63,20 +77,6 @@ Views:
 	 2026-11-25 00:00:00+00:00 total: 4 unique: 4
 	Referrers:
 		Count: 2 Unique: 2 Url: Google
-
-repo: pyasmtool views - total: 22 unique:  14
-Views:
-	 2026-11-14 00:00:00+00:00 total: 3 unique: 3
-	 2026-11-15 00:00:00+00:00 total: 1 unique: 1
-	 2026-11-17 00:00:00+00:00 total: 7 unique: 1
-	 2026-11-18 00:00:00+00:00 total: 1 unique: 1
-	 2026-11-21 00:00:00+00:00 total: 1 unique: 1
-	 2026-11-22 00:00:00+00:00 total: 1 unique: 1
-	 2026-11-23 00:00:00+00:00 total: 4 unique: 2
-	 2026-11-25 00:00:00+00:00 total: 3 unique: 3
-	 2026-11-26 00:00:00+00:00 total: 1 unique: 1
-	Referrers:
-		Count: 4 Unique: 3 Url: github.com
 
 repo: python-obj-system views - total: 17 unique:  14
 Views:
@@ -93,6 +93,20 @@ Views:
 	Referrers:
 		Count: 1 Unique: 1 Url: github.com
 
+repo: duckduckbang views - total: 16 unique:  14
+Views:
+	 2026-11-14 00:00:00+00:00 total: 1 unique: 1
+	 2026-11-16 00:00:00+00:00 total: 2 unique: 1
+	 2026-11-17 00:00:00+00:00 total: 2 unique: 2
+	 2026-11-18 00:00:00+00:00 total: 3 unique: 2
+	 2026-11-20 00:00:00+00:00 total: 2 unique: 2
+	 2026-11-21 00:00:00+00:00 total: 2 unique: 2
+	 2026-11-22 00:00:00+00:00 total: 1 unique: 1
+	 2026-11-25 00:00:00+00:00 total: 1 unique: 1
+	 2026-11-27 00:00:00+00:00 total: 2 unique: 2
+	Referrers:
+		Count: 1 Unique: 1 Url: github.com
+
 repo: jscriptparse views - total: 15 unique:  13
 Views:
 	 2026-11-16 00:00:00+00:00 total: 3 unique: 2
@@ -105,22 +119,18 @@ Views:
 	 2026-11-24 00:00:00+00:00 total: 1 unique: 1
 	 2026-11-25 00:00:00+00:00 total: 2 unique: 2
 
-repo: duckduckbang views - total: 14 unique:  12
+repo: kind-helper views - total: 12 unique:  9
 Views:
-	 2026-11-14 00:00:00+00:00 total: 1 unique: 1
-	 2026-11-16 00:00:00+00:00 total: 2 unique: 1
-	 2026-11-17 00:00:00+00:00 total: 2 unique: 2
+	 2026-11-14 00:00:00+00:00 total: 4 unique: 2
+	 2026-11-17 00:00:00+00:00 total: 1 unique: 1
 	 2026-11-18 00:00:00+00:00 total: 3 unique: 2
-	 2026-11-20 00:00:00+00:00 total: 2 unique: 2
-	 2026-11-21 00:00:00+00:00 total: 2 unique: 2
+	 2026-11-21 00:00:00+00:00 total: 1 unique: 1
 	 2026-11-22 00:00:00+00:00 total: 1 unique: 1
-	 2026-11-25 00:00:00+00:00 total: 1 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: github.com
+	 2026-11-26 00:00:00+00:00 total: 1 unique: 1
+	 2026-11-27 00:00:00+00:00 total: 1 unique: 1
 
 repo: dockerdashphp views - total: 11 unique:  11
 Views:
-	 2026-11-13 00:00:00+00:00 total: 1 unique: 1
 	 2026-11-14 00:00:00+00:00 total: 1 unique: 1
 	 2026-11-17 00:00:00+00:00 total: 2 unique: 2
 	 2026-11-19 00:00:00+00:00 total: 1 unique: 1
@@ -129,17 +139,7 @@ Views:
 	 2026-11-22 00:00:00+00:00 total: 1 unique: 1
 	 2026-11-23 00:00:00+00:00 total: 1 unique: 1
 	 2026-11-25 00:00:00+00:00 total: 2 unique: 2
-	Referrers:
-		Count: 1 Unique: 1 Url: search.brave.com
-
-repo: kind-helper views - total: 11 unique:  8
-Views:
-	 2026-11-14 00:00:00+00:00 total: 4 unique: 2
-	 2026-11-17 00:00:00+00:00 total: 1 unique: 1
-	 2026-11-18 00:00:00+00:00 total: 3 unique: 2
-	 2026-11-21 00:00:00+00:00 total: 1 unique: 1
-	 2026-11-22 00:00:00+00:00 total: 1 unique: 1
-	 2026-11-26 00:00:00+00:00 total: 1 unique: 1
+	 2026-11-27 00:00:00+00:00 total: 1 unique: 1
 
 repo: cppcombinator views - total: 9 unique:  9
 Views:
@@ -156,7 +156,6 @@ Views:
 
 repo: pythonimportplayground views - total: 8 unique:  8
 Views:
-	 2026-11-13 00:00:00+00:00 total: 1 unique: 1
 	 2026-11-14 00:00:00+00:00 total: 1 unique: 1
 	 2026-11-15 00:00:00+00:00 total: 1 unique: 1
 	 2026-11-16 00:00:00+00:00 total: 1 unique: 1
@@ -164,11 +163,13 @@ Views:
 	 2026-11-22 00:00:00+00:00 total: 1 unique: 1
 	 2026-11-23 00:00:00+00:00 total: 1 unique: 1
 	 2026-11-25 00:00:00+00:00 total: 1 unique: 1
+	 2026-11-27 00:00:00+00:00 total: 1 unique: 1
 
-repo: github_pr_comments views - total: 6 unique:  5
+repo: github_pr_comments views - total: 7 unique:  6
 Views:
 	 2026-11-15 00:00:00+00:00 total: 4 unique: 4
 	 2026-11-23 00:00:00+00:00 total: 2 unique: 1
+	 2026-11-27 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
 		Count: 1 Unique: 1 Url: search.brave.com
 
@@ -180,6 +181,11 @@ Views:
 	 2026-11-26 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
 		Count: 1 Unique: 1 Url: Google
+
+repo: flagged-hn views - total: 5 unique:  5
+Views:
+	 2026-11-14 00:00:00+00:00 total: 4 unique: 4
+	 2026-11-27 00:00:00+00:00 total: 1 unique: 1
 
 repo: githubapitools views - total: 5 unique:  5
 Views:
@@ -200,10 +206,6 @@ Views:
 	 2026-11-16 00:00:00+00:00 total: 1 unique: 1
 	 2026-11-20 00:00:00+00:00 total: 1 unique: 1
 	 2026-11-22 00:00:00+00:00 total: 1 unique: 1
-
-repo: flagged-hn views - total: 4 unique:  4
-Views:
-	 2026-11-14 00:00:00+00:00 total: 4 unique: 4
 
 repo: jpa-enc-converter views - total: 4 unique:  4
 Views:
@@ -245,6 +247,14 @@ repo: teach-your-children-well views - total: 3 unique:  3
 Views:
 	 2026-11-22 00:00:00+00:00 total: 3 unique: 3
 
+repo: vimcrypt views - total: 3 unique:  3
+Views:
+	 2026-11-18 00:00:00+00:00 total: 1 unique: 1
+	 2026-11-22 00:00:00+00:00 total: 1 unique: 1
+	 2026-11-27 00:00:00+00:00 total: 1 unique: 1
+	Referrers:
+		Count: 1 Unique: 1 Url: Google
+
 repo: zipit views - total: 3 unique:  3
 Views:
 	 2026-11-24 00:00:00+00:00 total: 3 unique: 3
@@ -255,15 +265,17 @@ Views:
 	Referrers:
 		Count: 1 Unique: 1 Url: github.com
 
-repo: follow-kube-logs views - total: 2 unique:  2
-Views:
-	 2026-11-13 00:00:00+00:00 total: 1 unique: 1
-	 2026-11-25 00:00:00+00:00 total: 1 unique: 1
-
 repo: gitblame views - total: 2 unique:  2
 Views:
 	 2026-11-20 00:00:00+00:00 total: 1 unique: 1
 	 2026-11-25 00:00:00+00:00 total: 1 unique: 1
+
+repo: myenv views - total: 2 unique:  2
+Views:
+	 2026-11-23 00:00:00+00:00 total: 1 unique: 1
+	 2026-11-26 00:00:00+00:00 total: 1 unique: 1
+	Referrers:
+		Count: 1 Unique: 1 Url: Google
 
 repo: printb views - total: 2 unique:  2
 Views:
@@ -275,24 +287,12 @@ Views:
 	 2026-11-22 00:00:00+00:00 total: 1 unique: 1
 	 2026-11-23 00:00:00+00:00 total: 1 unique: 1
 
-repo: roget-thesaurus-parser views - total: 2 unique:  2
-Views:
-	 2026-11-13 00:00:00+00:00 total: 1 unique: 1
-	 2026-11-22 00:00:00+00:00 total: 1 unique: 1
-
 repo: vibe-sci-fi views - total: 2 unique:  1
 Views:
 	 2026-11-16 00:00:00+00:00 total: 1 unique: 1
 	 2026-11-21 00:00:00+00:00 total: 1 unique: 1
 	Referrers:
 		Count: 2 Unique: 1 Url: github.com
-
-repo: vimcrypt views - total: 2 unique:  2
-Views:
-	 2026-11-18 00:00:00+00:00 total: 1 unique: 1
-	 2026-11-22 00:00:00+00:00 total: 1 unique: 1
-	Referrers:
-		Count: 1 Unique: 1 Url: Google
 
 repo: vimcrypt2 views - total: 2 unique:  2
 Views:
@@ -308,6 +308,10 @@ Views:
 repo: docker-force-attach views - total: 1 unique:  1
 Views:
 	 2026-11-24 00:00:00+00:00 total: 1 unique: 1
+
+repo: follow-kube-logs views - total: 1 unique:  1
+Views:
+	 2026-11-25 00:00:00+00:00 total: 1 unique: 1
 
 repo: go_pprof_analyse views - total: 1 unique:  1
 Views:
@@ -327,13 +331,13 @@ Views:
 	Referrers:
 		Count: 1 Unique: 1 Url: yandex.ru
 
-repo: myenv views - total: 1 unique:  1
-Views:
-	 2026-11-23 00:00:00+00:00 total: 1 unique: 1
-
 repo: pghelp views - total: 1 unique:  1
 Views:
 	 2026-11-25 00:00:00+00:00 total: 1 unique: 1
+
+repo: roget-thesaurus-parser views - total: 1 unique:  1
+Views:
+	 2026-11-22 00:00:00+00:00 total: 1 unique: 1
 
 repo: subb views - total: 1 unique:  1
 Views:
